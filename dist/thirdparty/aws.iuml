@@ -1,0 +1,20 @@
+' 14c2adac9e571e031a4246536afd31a8eac1f7a3
+@startuml
+sprite $aws [256x158/4z] {
+xTq7ZgKm54JHkljVzEJyD2w---4FbAzIY-X3raITqswtenP8h-NXQt7uMXg-bgQlfUbhQVfQchuMpWUozK0u7yZM0-5y2ET3E1_2-K0u7yBv4Cudd0_XV0Zd
+GpWVqls4ymddGxgVS3xXV4Zten9039_HRXFyZFVvU3vkbq_tOtVuR3x2zX3_VE5y8DrFkfzmFgJxoUPlF-b-jZ-Q3zd-xIVRl_qayxT_-qdrR__sR__sa-tV
+VWZqr-BujJXzBGrVUnH_QaHhz6M5EeU6wUl_bltCFevu_F6oXXK7W4luFpew5l2jNzD-wKq7WFN-Efdc4VRhORJcXD_mrpm5MUNNSJ_0z2YNyRqVMV_eGcaO
+felh-Tr3nNUstr1d_Fun-KfB-7MitkzFFnr-v9lVA3p4prg_gDETStQi7NplbncgtkQdtw-ZVbt1pucdtzq0n_sSvsU5NtD-6NzBtVnvFs_nO_Zh_PNBWWFG
+x0U0GtxD-BN4JuFVVgt_ztjX_AQahKQ_l9-ZVetzEj_FMZ_MZquv0lr-blYb2_W7D6CeX-p8nLCwxm1m3RyVwetyTQA-ny3lntenFvt-_i7Msa__yHl0_2mT
+VLmznw-1Vt04RkcNytUCsDVwzZFJwF23Qfr-Elp-eFp-oVlzgCFymAFybEdIQqD_erycun_yuhdhFdx3dF9lFrVmQy9VVitJ-VtEh-lNhB-kzbX__RNWH_fn
+VjtEhoc_7kWVp4dmC-6dpS-R_3h7Zz_9XVqplv0_vTSz_3hgzyxp_PfRdpL-MVvIlpxaPyAlqSHvVh-_pZtkj-CiX-lUVdywLJhDB-RvVlOPVfxlPnrVclNx
+-VD-3F-zVcRyh_vYLhUUlh_nP1Ve-PXhqdl_XLlodqto-BPVeyBvqlP7ywLmlXJEbyBvKhfVOVfQE5yAvqjf_5euNmhJrzBujJHzBOrVIzFNql2rE7qj3ryB
+nDVkBT_jThlTRlSP
+}
+
+
+!procedure AWS(object_name, caption='', xscale='.5', xcolor='#f7991f')
+card "<$aws,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

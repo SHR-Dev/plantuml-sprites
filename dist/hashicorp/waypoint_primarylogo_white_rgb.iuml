@@ -1,0 +1,10 @@
+' c315a3acb93154ecc59d9dfef8c43887b22f306a
+@startuml
+sprite $waypoint_primarylogo_white_rgb [256x90/4z] xS4n0G000C8W-wUsn4vWAG00000000000000000000000000000E
+
+
+!procedure WAYPOINT_PRIMARYLOGO_WHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$waypoint_primarylogo_white_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

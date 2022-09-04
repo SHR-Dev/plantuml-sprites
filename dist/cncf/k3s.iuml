@@ -1,0 +1,10 @@
+' e7aabfbac8471ebb62d0c9eb649d8b79a31da840
+@startuml
+sprite $k3s [256x210/4z] xS4n0G000C8W-wSsnJvWCG0000000000000000000000000000000000000000000000000000000000000000000803
+
+
+!procedure K3S(object_name, caption='', xscale='.5', xcolor='#ffcc33')
+card "<$k3s,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,22 @@
+' 37d5d4afb99747ce85141d910edffb14b07811fe
+@startuml
+sprite $logicapps [256x256/4z] {
+xC610000082W_QaNgG800000000006RVtdQULs4W3Flb_kzvhNztz4KAIgSCZl4S8_1Zw9xMJGTEhXk0929_uV1kFo65r_i98HJmWpu3lDcFh5Vzr_buifg-
+dboj6fxcktx4UYtyjIsNohNmL_TSADV1Nz_qpyjjluq_XhIgpc2LV_pELFyxMm-0m9VzuryM-SdkfxgVMNBv5zJXyySR_UJpnmB_pIZDhrDa_jn_FqpownQL
+F_VFndtF7mdzmcuv_BuQzBMNS1RNi7DjOhi_jleDVAjVzFXBYFRVvX1_-zlV_lQtl_tjRt_xsz_-zbFTJr5_-_KPsyy1VkOZ6G10JV-SNzhFRE3ubSh-6R-O
+dqjEzpFXb_Tpkf-uXAFytF3h-wzJKzSVC6a1r_jVLVtp2Fm2_cptN-8RsUcF1Fumy0LEQJyP_27mrQJmnrx-Vdy8_1B-4FWb_162NaWUVspdGnQ_hlU__zNJ
+Ve7lzlV-jp_I-mNGxkqVl-BsayS__eMVgUg_w8K6g7u_dmj_NmFyVhZnhtqMOBiVhlnf0mZy-u_evoPt_Y5_DDPHkXy-zWyU9ASVXJzub8H-d7xM-8LLSFdr
+qbRuUHQP3wdyY7xUxUTnP3wyse-g1zBu-IYY7aZYnvYHspz-PQN-n_mf_9SZlPJ_EvlySxx1Fsk0ttyjRnK_en-d_xf28lzuYJ_QBmpTT_pXucy_UVoivaDk
+FpVw-RmVVcRO_Fq_aopvvO2yViVbGOcFC5WeJOpD7vBVVtDY---_2bzlG6JrnzTZyWVe_bYHZ_qAA94_X8U_rn-Bii4lyFqDyFivsyzsFvpkPz__tp3xaVqX
+--TyiFB1wv_pmSg7BNxkOkL3EZzMFlZzJ6BbWziFrWRWy_CbFqu-UF__WTNFA_qu-U3q0-sVnya7bx_zjD_N05Bvszz-SlffV_lRttxpyt_lVx_-ZxFzm-yV
+VtBq-xynJlZyHt_-J-PlV_ZuUhFVxe-4_Z3oG-1lzCVtaj0VHdv8VDs___VlZFxmyIFcVBy_37pnjEd-FFVVFkM7-Vvhh8h0L_ppAFByzn_z4K02n-Bt1-ty
+Ky3_K5FAZ-gd05_mjvy2VCaF1VWd-lcMd_PNuBTVwDiv_YZbR_zpnUd-AE6N32dzLa41lmOeTFxb6OxaHoJp-uilu0yfsVZ-qj_z-JV-RtyE100001W6-LlV
+uok3ofxx0000000000000m
+}
+
+
+!procedure LOGICAPPS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$logicapps,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

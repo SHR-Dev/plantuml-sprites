@@ -1,0 +1,18 @@
+' 8275fe284b7090af0069279923ce19ac645040b5
+@startuml
+sprite $filemark [256x256/4z] {
+xTqtbkD044H1LE7-TruBMs_q3BjN917Vfegaj9h7SKYI94cI94cgf6vCd_RhEwAQjl4xhaq333wkBGDS_3EhtmliuP-1pG3B_ZEo7VxXfmwmo2_-CxR5Dm0_
+VsVxUzNFVmRtj_py_Fpy_BrOihyt5UhlRONvXryRcW6Y_AFViK2g_rWkrJ_yzG5I_SUM8lszrzzv_jhdhqp_iQa_u-Vdv_Vvv_kFdv-Vdv-Vdv-Vdv-Vdv-V
+dv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-_hkxehvVTop_whgkx-8VVLpF0FVoZVxd07VoZlrIpGDt1F_ppQWPuUlzh_ki1
+0lmhTrKl-DyRu4dEVnlzyAUU1Px7_rtzwmNg-VpreNwQ0QgUmb_Vqa_l_XYeVF-57_rt5WZtptrzHp_D0dEVgVuQ_WyGBmQeQ7yT3vrXFE-1IlMVtGj7E7U_
+kFePwUyN_8S7w5X_VuE_SFMSyz_F1qez_trQVFofv_zFYuz_cU__F_Zv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-UFYv-Vdv-Vd
+v-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VlOFwgdx-o_SNFVySFW7dxtzbVo_xW0NgRltFvTMmPe3iEFq__eh-g8wiQ_-805QglOxsQakIZNwyY
+E_QMHfSaIP8aIPBq2m
+}
+
+
+!procedure FILEMARK(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$filemark,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

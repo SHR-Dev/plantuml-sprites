@@ -1,0 +1,16 @@
+' c92d388e09e7542cc4c8a62c2544122bfedcdff4
+@startuml
+sprite $word_pos [256x256/4z] {
+xTO7KYCn54LHlS_-rpoH992PqENG-kTKKZqQy7KUsm4000000000000000000000078r7Ujd-bld9_glIxz-_VhrwzUlNxz-_VhrwzUlNxz-_VN_DkXF7N7-
+_ZhcxFsb_vY-_SVflolz-lNhrwzVVtvRVBMhJzkE_P-66XUdNltfqZ_7fbT_LlthEoaRzu_5hVjuJUtONvVxCqrD-jEjFtDinflv1gT5_-ZMN_FqEtKgpdH1
+Y_xqwP_pydn-srxEsRm_JVldld6nlpRl7s_dLENjFidE_NFWyt7QUlRN-73AflrpuRZONvEdRVldLtqQzOz5_wZAtlsBrlfbth9p__fJVzuQzAS-V-jFy_wn
+UV_KckbdxxVitL_wtootFlsfP-dIFxUkRcVsxjTVN_TNd_xKgpJgpwA_ElQlRcZsxwyyMsuD-h-aNxz-_VhrwzUl_uZpzp-TlJ_D-qSEvP-_V-H0_GRzNpaS
+g5-_VltwzUlNhr-_VltwzUlN_x3qwzTVryslyU1otVwCra-06eylTRNwZ5F8bOpp0W0000000000000000000020xm
+}
+
+
+!procedure WORD_POS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$word_pos,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

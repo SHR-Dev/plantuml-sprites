@@ -1,0 +1,15 @@
+' 4b727429a3834f89a91f8970d25923811c798bcc
+@startuml
+sprite $filter3 [256x256/4z] {
+xTl9WSGW34N10VBFUOvSlVyML6NmUZMo_5S400000000000000000000hR1mVjuZ-Rse1rw0ML_r5NWYVvGqNu1x_QEi1_fxxVv-ltyKTgjVltxzepJz-dt_
+zUlNhz_vvzBvltH-C_y9Zl_g3m2BC_z_m2xn00000000G8lnUDXlvFU8z0kGtm_9lm3fxPXW_roF2kzt1Styr0kGxnz1qNxz-lMFAFtwzVlzqwzVl_EFyw_v
+X_cN-QVvj_iV00000000GFXcuRxjqwRvqxBvoQMEVFw9nOvL-wDBNVbDiV1INurLqINxsxd-ji7Rly47GBz-_VhrwzVV0q-rkFvp_U_yv_nVPG0qyyt_p7yN
+4wYl0G000000000000000000W7y
+}
+
+
+!procedure FILTER3(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$filter3,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

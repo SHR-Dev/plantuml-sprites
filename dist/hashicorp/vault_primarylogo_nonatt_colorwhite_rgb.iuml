@@ -1,0 +1,10 @@
+' 1fd1118afc4575b2bb53a4d6c4aca65fe8c935fd
+@startuml
+sprite $vault_primarylogo_nonatt_colorwhite_rgb [256x112/4z] xS6100000CEW-rCVOGBL4W000000000000000000000000000000000007
+
+
+!procedure VAULT_PRIMARYLOGO_NONATT_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$vault_primarylogo_nonatt_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

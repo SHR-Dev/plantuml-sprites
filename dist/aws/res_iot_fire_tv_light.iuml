@@ -1,0 +1,19 @@
+' e8a8a55c59b5c308eb7f16b6f1ff16714fa36dee
+@startuml
+sprite $res_iot_fire_tv_light [256x256/4z] {
+xTtdhXiX60RX7T__FQSdhsJM94Ic66P-d_PymcYRpbuVbfcPcPcPcPcPcPcPcPcPcPcPcPcPcPcPiNz_rp--nNP5LVC_TW_WG7wg-Hyd19peJr3XwzUld_rg
+yRDb_-m7hjrgyr_x1PpeJ_hrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNx_-5TElNxz-_VhrwzUlNxz-W7IQdwAZ_DnqZf_x3l2N-FYWWn-09VNnPm1lz_EpHVdb
+00xqHz39l_u4tkzFf7NtmmZUuF_42VJpPy9hJY08UlapN-0iVxa0O5r_j-C_dbg1FCAV88jWzWpurGX_UZxK0kRfSxGN15StVmOmSmBHvt0d27hwCu2P4u2I
+tz-Vk9q00_7t_37-J23nkp5qdbTU_0pnPmA9F_Mttns7ZRx-LGoWtmn2Jzdvn_eJzGdGuGFVmE_cJ_1g1EczgxvO-rFzEHuiugctNDiizMdU_O_yXKMyhauk
+wQds_TTeVtR2QhJrI3NzV7-v1Egrs-lwLE7tyjVtWNeLTuD-lZ_5qIMWIgpok_eJlnk8JrnT_FDNGUprLl1d11FqS_s9ttLOzqlx4wJ_XKV_KVx4KyroDdZ-
+YPjUgTDMpt_HrgRFlpNWT_IdlcwV_zIlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_Vfz_vb-TlItlFznFtwR7owsgjc_Az_tl_h-N_twotp_FIVm
+QtvWStpuPGogd3CZkrutQG3pzObXpV2lTJuI_dLSm8d-5F-9VFtwZ-Bhrw_V_K-_VltwETn_pFalPVV_nPAopVJjrxzsu0Vuh4yKxV71AAHjRU0Fvhm1wDT_
+Bj_zBmEWkKqE36bfnoF0j_7DpCpCpCpCpCpCpCpCpCpCpCpCpCpiAm
+}
+
+
+!procedure RES_IOT_FIRE_TV_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$res_iot_fire_tv_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

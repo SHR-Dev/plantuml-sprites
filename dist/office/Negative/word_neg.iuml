@@ -1,0 +1,10 @@
+' 53301901dfbb8db9fa088d7862a43c04789caff8
+@startuml
+sprite $word_neg [256x256/4z] xS6100000CEW-rD_8DK20000000000000000000000000000000000000000000000000000000000000000000000000000000000001m
+
+
+!procedure WORD_NEG(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$word_neg,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,17 @@
+' e645266d1d701135ddf3b6d717c4d209104a7016
+@startuml
+sprite $nist [256x67/4z] {
+vTjLSYGn08DXmVtFlCphyaHLbkrq_lU1JyFG-3FANvC8vD5_HtnF_ZkC8kKJ_Ot_dRRw0tl9J_-RjldbSysk0hVuQH_tUvms-EMZpVYswduVxiLrKDdl2_po
+95Nzli1FJsFHhnlyVX5hVlfye5_5bjyN1B-E7R_UYzyTls-8VaiDltn3yfig-Fsk-YX-0l8WhVPpSD6BKd36WzjvCi12lmQNV8aV7gMkNvVu9mDK_RZ93u_Y
+IhylzGS3FD8_7w1t_-TbVdeKd__yFn-Wz_glM_pp0Mf-cr5TVpx0_lU_KjSFUTHLd__OyCy7q1e_lIOM_C40vx__KC6V3v3xwLKL_V0ehV13NXLxVdWKL_ZX
+PHNyyG2vdrvMmPyEaFiXhqf5FwS3vFxA02puvmEiy8DULS4V393uEmEmu0y6oFoDnq3J3tdK0l-w1RZ47msWDNw02oPGmHyC4FZ7CMaqMC4V313urxJR3uzI
+xcyDmB8V7iLZVXNz-G3x_Ipwym7E-zNtqwFuhDi_7-1Xpt_v0DdJqPhOy-S313U7IdnZYn_of8c_NT-VWNR_pLMx_53aX_U4fZyVG0_s8_u-fXzt-X5z8-qT
+OQS_Esn0xeVDVYG_IhgUjliP_2J9Fd-tVuxYvaCySS0FplWx1n2E-C49V-C0mdv__Yz9kXHnpWy5VvDM-SRl-r-hX4bKzxRl--Si4OCA4qmkBVH_1W
+}
+
+
+!procedure NIST(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$nist,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

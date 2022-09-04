@@ -1,0 +1,19 @@
+' 2a2931d0bdd765e6b00fbed29401504ae738a2e7
+@startuml
+sprite $coupon2 [256x256/4z] {
+xTr9cgmg481H2VQ_vpTwNzoEWM5QPEZvnxVXKDagKCVZaoH9aYH9aYH9aYIDFNrwG5tmsUT7LDN7pxSQRcqujHb8-uRM_YXsTW9-qy-VBIVWN_pp_rZEm2d_
+1dgE-T_-we3oGNMEFpUrzizY9V_SwH__7DEyTmBM_zV-9y357yb9V-pqpvN_sfoUyVFFP_dd2Vzugd_qyCVA7nlyZT__wlvudfy_-FcBR__z_PEVdv-Vt_lV
+4_ty_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Ev_ylFpy_FpU__dj_wV_tYelxx_hRy_pld7y_nZ3Fj_2nFGqr_dfp-Uue-2FoUWiJ_vrGCm-liZ-QNpJzhw
+Kn_N3e1fwuyuoyz-F_wdeJzId_mB9o3ryYS-zQKPo2dev4_yGbzv4FJn9xwipt86klYJ_y63y7hv4zzW0eh--_bPF__dpuBiuKz-WmT07__HotySRHy0TN_o
+-HjFmDg_ZP_--6v_tEeVN-rF_ZWwFm2k-uyx_V6L_kJVwHyD_Fp7JNNmZnVxutx_2FvuWv_Vuz_hd_S_dtzy_lNzn_VVv3Vmk_xb-gVht_pkVxd_-Rhxt_dt
+hN-m_iNw9-lVNhV-SR7wywthNySLVQI-w_hd_EVwht-lJi5nl6__muphsp_cA_U_fFv1-v_iVxF_qVvN-v_jVtV-WVCld7_2x_mZVkUVyVFpy_FpU__lwkVd
+v-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdT_-Jdv-Vdz_x7p-_zU_x_VpnBt-ynJzN_dchFtkelxx_hRy_-Fli_rput_FxZ_t-u_MBSftVvVY7jJ-A_s31F-B_
+Tl37vSTaqgi7O8pOr6AezH6DsW4mcoPXhFsZQ5_prusDVNv4HwbD-cKtsVidIP8aIP8aIP8aIVeF
+}
+
+
+!procedure COUPON2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$coupon2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

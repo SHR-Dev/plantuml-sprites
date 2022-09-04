@@ -1,0 +1,16 @@
+' d9acfdafa8adcb8b322d1c60b3b7003243dcb248
+@startuml
+sprite $arrowrights [256x256/4z] {
+xTtLbLn150J1xNx-sonMYU5xCiA3hAKxTFQj1G000000000000000000EENshxBvKws_7oGNMFr7mG5MdrnW-Sz76w3M_tonRu5Q_co0L7zrWFF1ydyS8FRb
+dmsGwv_CJy1PVtA0zKS7M7zqWFL71rX_T83r_ss0Rly62FJN1bY_0Qu13D3z9MY0Vozm6jy2lWKS0kCKR3qbzgdV04zsWFFt0Ig_0WnmumCOm2di4Xm3E8MT
+maxXzUTFOOUG0Lo2rm2U57K9UdsyUmbwKjGbw13o3WbFYIK6k7yTuBpy8MI09pR091yBE8NrJ_qGz4Z0Gy5ql_xRxVVxt_tpxtuV5VFunqj1rUS_ciz_tK1-
+yiall_daUzfBlgilcd_aruu--VxkovVlx95_vRlwvBlwv3jxvBlwv3jwNNqlojaZtzNNoFVk1Xzlak_JVV8zvF6cNXzgY-QlFvg__cZ--gFvwu_chp-NF-il
+vgy_chyVW6Q-__-w_ch-1cZch_-3udz_tW2pVF__lZN0QTPlWNah2jVFVxG30000000000000000002y1m
+}
+
+
+!procedure ARROWRIGHTS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$arrowrights,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

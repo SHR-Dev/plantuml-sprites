@@ -1,0 +1,17 @@
+' e4330b7b91bd046fe56ea8d270339b4134826ee9
+@startuml
+sprite $reservedipaddressesclassic [256x256/4z] {
+xTj76jGm48HHg-z_PpA83Avl19Rw_MlNuaqEzdLsaYH9aYH9aYH9qZYsG7vWVUspUspLTkNKWskBdtNLpxhgPqtviwRy6NzB_YpmyuyDIYbdu7FC6VgSSuW-
+1zqv-BeU-8K-4it-xk2jVhnxYNyF_UocQLO_RHVzx9Pfp3Q_zsTB_FpNDl5_QO6_rUE_sZp_gu-_ZlQFLVwndT_dtzVwnrxyuVlVg_rZ0_vI_xm5ddSsGq0A
+ZdvkEOYVVtJn1xVNJkMS7lx1_wiw-AERRAzooo7-d7AwFvmTpvzjmL_fs46_6BA1FP3qJf8aITBrlgRqMLF-h2-Vdv__Qihdz_Zdvx_mcyNFpy_Fpy_FtoX-
+Vdv-Vdv-Vdx-87v-Vdx-Ub-yp6RFyDVtBHYck_N--cdfC9pLV_FNBth4Rhs_Vja3TklzzNf7XRDQuS_vkQFItGFyYntrB7_L0WT_fRi7-9SwgeMVlmxtrnd-
+MkMeS5Rx-_dv-UiGVvtdT__pU_tZz_dVzx_HuVSFl_-5ZWQ_VwUCVFZl_Q4Z7gQxpVx_6ply_-V_tz3nf5tkV-Xv3B4-y4UIrRjO7_XlKnRiWbNaxnK__un_
+DEpYv-Vdvnyjw-tdv-VdvnzjQ-pdv-Vdvn-Du-VdRna_Fp__Q1q_Vzlu-SV1IP8aIP8aIQv_-r9N-wolVjR0VbwI94cI94cI94cIfBS
+}
+
+
+!procedure RESERVEDIPADDRESSESCLASSIC(object_name, caption='', xscale='.5', xcolor='#32cdf0')
+card "<$reservedipaddressesclassic,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

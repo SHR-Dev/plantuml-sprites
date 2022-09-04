@@ -1,0 +1,18 @@
+' 4b7a1c43ed632c954947a3f73e238b0fb03b02ea
+@startuml
+sprite $stickynote [256x256/4z] {
+xTq7SgKm04H1f7__Es_bSJPRK1Wn_Iw0UoJdj3KbIP8aIP8aIP8aIHhBLMjFv_BdGfsuGEoBTSu0R_MlHNgxm4dyLrfeX5FyqNSD4FzhpSxnp_YN7A3j-FdJ
+uLS0_hcodtyUzx_ubusVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-V
+dv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdz__Fpd0Nzi_3nJ-alvvlB6kVwPnf6r9_r5uzElwpy2lvW__1CBI_k3B_E5t-xTc_oZtys-jVlvPxUVd7yL-Vlvl-Fpy
+u_SUwn_xUvP_Ft_EJF0OV_XpPrdWCVxezo_mbFV_yR_sb04Uv0z_vm8FzF_VDn0UvH_5_bp_dlj_-FgFNd-ElzAVq-_qv_0Vvfy7xdx9-x_mA_tHD_h3h_I7
+N-aFlz8VVgK__4f_-9N-y2lzuLVwmw_qXr_f3x_I7twbF_nAV_YL_l0h_U6t-O_pr__wN_YL_l0h_U5N-iElz8TVwl_4Rth_5twbF_mU__Q5Vxl4Fs_c3_-n
+_lcDVrx3J-CcFm2P5oNyHl_CJtQL-5D-_dLSuiz3x-8VyMyFzizl_UFIqy_eV_t-BmE4VwL_tkpt7xOd3p2_ys_NyZ__riMV__6BY_bvvhooduYNuJ_Vkilu
+yT-aSNNRxRgrNf8aIP8aIP8aIPAaVm
+}
+
+
+!procedure STICKYNOTE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$stickynote,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

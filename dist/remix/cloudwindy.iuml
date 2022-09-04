@@ -1,0 +1,21 @@
+' 892e5fe3bc7b25b281f792b74e507cbc5dbfbfd9
+@startuml
+sprite $cloudwindy [256x256/4z] {
+xPtRTkiW4CKEm___y-dRNglkdM21aTwRH7l0u0br_ds3Y8Y8Y8Y8Y8Y8Y8Y8Y8X8-u23hB_cNFNmOFdwd4Tcy3FryAm4FdFlx_WaWuVeNym_uPh0i-nZ-lC8
+7cFVVmgG060F9C3Qemdmya04e7oB_03xhGPVoez7i9DzVnNx913x_bgIm1RwVG89O6Nzs6C1yFed1j2YFps0jgHzzES7q1OjVlMvP25SqhxwR0f802Z-HaFW
+Lliai99_x6_Y6W2l3mR0Z_v-DwjiXQ8F1S1N7_870k3q-G1uVJu0NfyFWDVd0-3r-G0k-cG0b7xdIG3wO_fy08H_NuFuS-Nd1m3jpo-2e3u_0Du3tFF38-1p
+07qWW84GHZU-F3ywKegKduyW8G3bHxb6iBa-Vu06rXy_GBFpvEU_Dep-RYI01ez-VWYqHfUVJm2uxSMfqGiXMdu-WGRu0qi1CFoPjO0Q_Zm9WFJd0u27Fzyq
+Wltv0CxrJm3azES3W5T_Fe36-lFx07ZwyqC0BZ-_2h3-V01avuiFGF-63N-U-7FbvmS0wgy_7m3G-Tvd3z0Uxb-yFpy0plLF0AG_7m1q-UVHFm50onyV0EZF
+ety202x_FAY__Zpwb_uDk_xpbFxwO_j_7lsByjVV3G2F_lhhV_O6GF-WVz0V283srpySwQz_UBn_VUVVz3-q_vC9SB2__at_Ei3_p01-U0gG0rt-4W08VWw-
+WIG1zFyWG53_yCW0AluerFuZ-kioqRzsyQzvvJ_Edoy_Fm6YVx0_gi_xb_vxwCSVq7-oFwZFhtzG-Nb_lloyl_weFkzVc_dp-cqsa3yl7sxohzNqmnV-tCR_
+hlvtUsEwVosd7sxmhtMV09W0flf7ds_0NWEOx9-7__7blpBPFzN7sW-yV-otyN-f_hd-5Vq3_Ilwg_c7MVvLqT_H7tly__x-aO_-GVF_Od-CV_GZVvZ_5_D-
+i_qlO8_U_uo_V-ttwrVPd0--Vmty_1iJGBQdG-zVOU2gp_T_nj-_jG5xvW1iUsFy_MVy0YhJ_WsZhpOEeny0Sn4H4H4H4H4HuLf5nzg7XVLhDii6qD2ZiZon
+dysI_ktMexABbXzzQW_lZporZOS_AiAZl_wTzDTVV_sz_kcll_jVxt-y_xN_OV_B_gVzRx__414H4H4H4H4HaVy
+}
+
+
+!procedure CLOUDWINDY(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudwindy,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

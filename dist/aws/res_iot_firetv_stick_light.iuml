@@ -1,0 +1,18 @@
+' f08ed3bc1fb72996af2058bdee10fb7f4b581523
+@startuml
+sprite $res_iot_firetv_stick_light [256x256/4z] {
+xC610000082W_QaNgG8000000000000000000000063sxYJ9SHY8eQY-xt_etbA8zi2YWmWQmBw61y-ICcqD9oSHhrdaFqxEMWEYFpCB1GZ_q014-JK0KNnD
+d5y3PFarGBgV9JydPW0i-Zas2tS0aFPEYnQmuB_EpDrFb5yD_y-l-mV4iuJudpT0WFzf0CZoQwByzTUlWVhZNl_I_6ZI_KJvuQu8yuCYW2p_9JdANt_zzTUF
+9CiFe0dm2tz40O7-WPNg1obWbny0Vm60nIzFE_PpMou_9hZI02n-ClqNGzm56Ex_MW7RqJ3OCFYD3Tp-eCkllnWs-xdvBvD_B81DVFLZy4i1mAOA0Bt_Ep__
+06ZsVEuRR0Q__bjoV7tRHtvuUFpF9mI-Nm5enxV_3wDV2_Z-im63_fdVVVo7fmt0ebtvyZi1V7vjO0oib01Y5xtT__nvS0ne9jZFdrUKR_VhdK33R9wECJtd
+-_rQW6QUhle9li4l3SpNC7k1tXEzqNyfPJqJpw5cltPWiBlzMe41x_Ph1GQysQyDy5Synv__PSY4NF1d-JNCvnVF_nlaDlzy3Rt-8y1VV_trrrz__VNNNt_z
+dN_nBO00El_M-S_E_zPFhh_p__MJxIVQ3q3u_gE0_MUpUlLpAf-Hlx3_y4Izyhl_CSu_08Bsdwg--s_f_kTaV_UV1nS0H7xznVf0ph_sxe000002013_Jvi1
+waXvmzl_HO4JOm4000000000000000000000000K
+}
+
+
+!procedure RES_IOT_FIRETV_STICK_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$res_iot_firetv_stick_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

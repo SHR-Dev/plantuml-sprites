@@ -1,0 +1,16 @@
+' 70e8bfa0da7bd20b8a6bb6f0479603dc0a53cc97
+@startuml
+sprite $folder3 [256x256/4z] {
+xTg7eQGm38P19Fgl-R8k9xrDHfwlW_cz4JZ69qcI94cI94cI94cA-xSnlhgKFk_PTHPesViRN86VrNcVVbXWVN-3tga6M9tVqFSNk82_oU-_0fRtduzg_NT0
+7V-k0zJnFtY0sExbNsKji9k_ofKNAFvp5fZlxmymtryBxEgl0O8_LlJdrlvufd_Axz--Vbr_v1DQ-HTGRCcludaTQxOnlfekboH9aYH9Yiit5DzlOtxLvUUO
+udDz_h09klU_PjHwwBRuCORVVz2YZd_F0Sf_pcfRVyMVU_ehVlxOri_Fdnr_ylFp3ugVdv-Vt_SVFpy_Fpy_Fpy_Fpy_Fpy_Fp__e-Bdv-Vdv-Vdv-Vdv-Vd
+v-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdFyV5py__j_ZvVV_nyyT4V_3py_z7
+K_r7mv_3-1q_VyppHzEVe_ZbttA0uZVzcMFqVNzaTNLwyUFe3H0vfVZKqIcg0VRYzuenbRxV4Fly94cI94cI94cI94dl0G
+}
+
+
+!procedure FOLDER3(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$folder3,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

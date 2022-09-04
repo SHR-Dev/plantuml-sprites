@@ -1,0 +1,18 @@
+' b06767e97e0684ca68ff3b1defc8ffa5f8e857e7
+@startuml
+sprite $activitylog [256x256/4z] {
+xTn50Xmv44L1_Rp_dMSCAuECrPsICzwweQAOr--LgrgFbxkQwkVdv-VFR3z_XlCpd9-yrByEwxN-Ldp_D3fAl-z5_ZJo-qT0-lZzIq2ImVvqyljdrjplpvFw
+GNx-TFZv-rU0_FpysJRTd-d-JFSdW_pxkdclzEUEflipqx_tPPe__0sh_vEQuEVdv-Vdv-Vdv-Vdv-VdpoD-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-
+Vdv-Vdx-XkyUurzFTfr_FTrT_lM2BlAlbzJiR-Rphrv_Dvz_NU3dN_pD8u0__Fmx_xLy_dMSdv-Vdv-Vt_uFFtyllzyVVlvcVbfV_yVVoU_tXx-Jt-_FT7zw
+-Vt-zFBx_MdW7-NFi_f-VzSzR4dEyFV7py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy-VMNx-gdVv-Vbhjh-gZkDN3VRNfzxbh-AlkVxwt5byVlvwcv-Vl-eO_blzTOwV
+dv-_UlpyDTrVP_6hNkJdv-Vdv-UlStlUpy_Fpy-Vu_ty_3NUpy_Fpvz7_Vpy_FpynS_Fpy_Fpy_FVrJVz_Fpy_FpysU4Vptfv-Vdv-Ulc_py_1dgprhy_1dh
+puRVu6yQ0L_fQuX_KytsLzM6Fy9VG_pyjUFpy_-SVx-_TlpP_dJw-qT01lah-zO4VxNwx-Vl_RdRl_wy1dyF__uPOAjlzVVhHuo0dVunVuRfzo-0FE_zlrl-
+yoCWjxIUAbUsPllNW_5FvVFpy__BV7v-_ly1
+}
+
+
+!procedure ACTIVITYLOG(object_name, caption='', xscale='.5', xcolor='#2d99e0')
+card "<$activitylog,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

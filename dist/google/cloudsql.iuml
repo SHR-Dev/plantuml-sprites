@@ -1,0 +1,20 @@
+' 07accc164a742b8ac1cd45977eda17b9e83593b6
+@startuml
+sprite $cloudsql [256x256/4z] {
+xC610000082W_QaNgG800000WCcjZokmOI26Wc_GVy-EkZZRMFEm8XgWvZ-b_pwuMn_SgoS9RjMJpnDtwadkAy0F_WGNyYMN5U0x_rK5-9q_uIezoJK5-1j_
+S8sU_6JY4Zt91GNuZV_r1IZy2TxFbxox0Br_Vm5c_eJD-ha_sAhl_ViBqFltVmpf_ViBCF3lVmeC_FiBqFlt5s3ct_qxGE_VNu3Ul_yXOExV-p6az-ylOB1q
+mnlqP7i1xHu0WmAxzSz8EQpMFpCfi5w_z24mv1yei5J_JAIRsAwV5rYet_aKJFNR2npJFsFz7T3h-rj0uQ_NwGyMeF7tA_W72z3w-nNwGmKO-UiTq1U_0_r9
+yqtrymApi-QRwETFmVoq-Nhzz7UWEE_8AlsyG77YgTNw_Y4eYXzSToLz0Gh_qHKNKXUWy1_VwSiGZxxpdz_fY_1x_STsxgC0eYWAOUZ5l-dnmFIGE3YhNta_
+yJhygxSRHqv_iknFblt9iZzPzYVB_cJPdqpxC-rFblt9iZz59FsoFsLyFT-Vz0tfvQjNhrvzrAjNlyVtNd_NxtF-hlz0ZVElqAFzlTxFEmd1t-i9_bvFyFTw
+WB_MNm3-dfyG_BsUuE_r17-l9_XxFS7Vwn7-MW_nbtgClr64xI_q07-X9_WBFSfVw57-Ge_o5tgKlz3p_5VmGVxb_KEjz_C0t--dmLr_chRrxX-szUuVDlNg
+rKUzUlL3VFNgf_dUwy_wtJyi-ptZPDVl-KPuVwyFmD_hf_SFHzy_JEm_UZt1t-i9_bvFyFTwWh_N4_oz7k2l-TFxXwFl7rRs7wKUuw_q87-XH_aBFSfVw57-
+Gi_q5tgG_me-mb_eKVv2Z_BtUhyFyFr-6zpr-r_0i3_JVdy9ArlMEm5GhruzdgzUlNhrxZ-M_Jxexlezv6JNxm57k_vp_x7hFsI5Vj1_s0hzcF_G5VeX_-4R
+vr-fv_jleqBFzzzEXPxjlwqAFTT_Uutphz0Z_JTQeSVvRxXtwCtCpCpCpCpCpCpC7W
+}
+
+
+!procedure CLOUDSQL(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudsql,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

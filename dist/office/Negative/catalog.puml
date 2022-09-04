@@ -1,0 +1,16 @@
+@startuml
+!include ./index.iuml
+package "Negative" as Negative_package {
+    OUTLOOK_NEG(outlook_neg, "\noutlook_neg")
+    SHAREPOINT_NEG(sharepoint_neg, "\nsharepoint_neg")
+    WORD_NEG(word_neg, "\nword_neg")
+    POWERPOINT_NEG(powerpoint_neg, "\npowerpoint_neg")
+    MICROSOFT_TEAMS_NEG(microsoft_teams_neg, "\nmicrosoft_teams_ne\ng")
+    YAMMER_NEG(yammer_neg, "\nyammer_neg")
+    SKYPE_NEG(skype_neg, "\nskype_neg")
+    ONEDRIVE_NEG(onedrive_neg, "\nonedrive_neg")
+    EXCEL_NEG(excel_neg, "\nexcel_neg")
+    ONENOTE_NEG(onenote_neg, "\nonenote_neg")
+}
+
+@enduml

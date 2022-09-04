@@ -1,0 +1,18 @@
+' a1fc30bba5e90123957df3075f09d923c8617bae
+@startuml
+sprite $sharepoint_pos [256x256/4z] {
+xC610000082W_QaNgG800000000000000000001WzkmpYOqG2ABmlDRzp-oSk-nbLOiBfdb_bVWObEC2_GZ2x9976juZJEyHflS8q6VkW8OB6xv7sF2zSBuK
+pfV2-L8uNmhdIrblV1xPuvV2-LBMwVV87hyKDdulct_ygerJjXyz4DdZbxB7Bt7yoSTVElxauo-nwQnp_6XgMTFtklAF__YF__XVntyLaERtIFDxjFI_D1xX
+VebmlzZApxUUyqjR-7rIFEKNE_WP_ABysdm31Wxfutwnkh_c-iNQ_fhjrv9-dmv80XxtQsM_JrpYOJ_B-mtyg5-4-vNkPtL_ZVdrRilxQwwV3Tx_PlgrnUUV
+A__cVmuEB8mmlw-CENwjwlVH4ERt7PZXPs6_nD0rk_fzVLb-No4T_nszCwD8lvJkLxgVAF_n5-7-Aep_Tp_GplyfG1BNFmRmjMP-J__sW-x6JdvT-g6n7uri
+G5k_DEG7tQZ1xp_cPy_Vlpm33VffuX-FDpUWclhHK8JxgwqV3KHZFxgkilsqzgEhAjjVsNww-ndWn_gfTPhbtuHV_7S_jLPp_0pmD-hb3VZRyEkX-LFLpi-u
+dmhsGrL3FsD-mmVveNRlDfzg5GFwF3yvVW2pn_2hkDFn7t-tild7NzdyuwymlXV6zxBvnrzfV2zCxuNnlJI-bwRtqlHUDFvZUt100000G03e_shuKHq00000
+0000000000000000K
+}
+
+
+!procedure SHAREPOINT_POS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$sharepoint_pos,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

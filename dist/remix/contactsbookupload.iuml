@@ -1,0 +1,21 @@
+' e062167498c91b8a116a090c2efe71b748072d37
+@startuml
+sprite $contactsbookupload [256x256/4z] {
+xTtfRjji34HXaxh_Q_xMjeDO6TG4NhCcUCxlRCzabotfiJiY8Y8Y8Y8Y8g8Or6AzEixF2Rrb0UcdT7Q0Y9pNkG7YF_yrfyC3Y3-damD4YBzi0Fbt3Y3_pW7a
+tpc0_3i7a7_d0FBF7M2lNmEizLzx_He0V-prNzlz-FDz_bI_soZVNPlVYpo-foQ_DnNqRGESzWiLJwKVAZhAp3R_jwRqItKDqE1tlrOYmY_LynXLXr-eruwK
+jl3r_Xly3XNsHHzD_kZqLrwq9_puyUF7Zny_Vlx-muyVFtxyUg5Rc_onrk-Voxh7B_q-lpz2kCAl5rZf5sMP7tyizkFFJ_NZv-iVFtv-_-F7Zny_VlpuyOTQ
+w8-lRVF7Sulyuj-kOx747y9hWMN-_D8Ml_WtVspnYt_zbmPOu1VVdC8-_lXFdUy7cE_tV3V0V7-Thm7c7_-ly_q0y_sUxmUO__LVv_i1vl_-ytm_m7o_vvS7
+gFlpq_oUxmUe-xsbt-_vzG7g_dlz_ZfV0mn__f_drmUO__nFyGi3J7_-h-VN1wY__m_oYryVOFxp_-jy3J3Ix_dr0KRwFRy-m4Y_vzS7cEqN_-004_pYIrzD
+0mpq-qz-_KjWfD_pwmCCz8Vu1mQ8aNwZhmumqQ_F_g41nlazlpu0Vlny_q_pH_xNaNkSnCZV_v7VvBaltkLdnld_KLx0wczlUSRnlxZrmkEVBtpaWux_bYxW
+ciR-tEZp_vs_y0IOYUV_-m7g5t0UVlw_yqV4ZkU_-TTVuN-ynn-B_VXphHy_N__uyUSCF_vOuSUF7pz-_FZnuyUF7pz-_FXpzV6V2FmN_at7__7pzS_lF_p-
+NULXVtwuFmjtZvvx_hy7t3AlFlFy__e04KVzyUd-Y6TzRBh_KznRTl-lclxG-V_S_my_VlpuyUF7Zny_VlpuyUF7Zny_VlpuyUF7Znz_vKLxUfyVFtxy-F7Z
+nu-Vl_yoed3ziYP_DlYjAinBTWoWzz_cpyhr6tlA1hzHUVwLcTd6R_DVhr-_DTkwEloUTRd-9F-OtxiyNdNW6_pZoeojVlpu4x_uc_pYB_RdPh_u-_pYh_MB
+lzFl-NN_JhxyE_dox-JBd-luAgODa2d-YI9oN27-0N_4CBtufmQ8GN3n3nNZUXnkA9s8Y8Y8Y8Y8Y8Z-1W
+}
+
+
+!procedure CONTACTSBOOKUPLOAD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$contactsbookupload,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

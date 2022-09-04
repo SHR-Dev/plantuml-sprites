@@ -1,0 +1,16 @@
+' 931a9d51349bb400671e3013654c12b9d7e623af
+@startuml
+sprite $rhythm [256x256/4z] {
+xD1N0S0m3CN0nERFkJ_TYy2xOo2D7m000000000mRrBh3s7vTH4rOAk_7yZgxvEZFp3_613KtpTH_VNMNqdzVREmQySu2CGm00IB_F_FqBi3k9MSIM-jfWAm
+p-7dv-Vdv-Vdz_sFdv-Vdv-Vdv-Vdv-Vdvy_k3y8_C7zGUtlxmzwVtz_iDy_whs_lZ-unZ_xL_drptZy_Fpy_Fpy_Bv_wUlhw-lhw-lhw-lhw-kF3V9T_ZTu
+l0N-x_RdY_pVxy_t-yVq4l_t-_Fz_Zc_oF_z_7x_6O-Vdv-Vdv-Vt_S_Vdv-Vdv-Vdv-Vdv-Vdx-xFwWzxVt1xs_lJ_e_S7zmKB_cExzzVt1FVuvt_lDtx5_
+uEVdv-Vdv-T_jNU7E002C1044_x_Q3JOKztC-l5LrmEUvtcUvtcUvtcUvtcUvtcUvtcUvtcUvtcUvtcUvtcUvtcUvtcUvtcUvtcUvtcUvtdU_iG1p_Cyp_Cy
+FznFzcVh_ldnaj_tf_l-MyIF-_C1l_mV2FZb_qJ0PvCaIP8aIP8aIP8alG
+}
+
+
+!procedure RHYTHM(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$rhythm,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

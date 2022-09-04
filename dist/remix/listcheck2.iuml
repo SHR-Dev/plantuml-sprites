@@ -1,0 +1,18 @@
+' 5eed68c0caaabdae320ab484bbf888f623b667de
+@startuml
+sprite $listcheck2 [256x256/4z] {
+xTrfjfim381Ho-n_pPtdLcrVT11HkFTt3-5p9p1vQBqc00000000000081vIEsXTMtok9pxNLP_hoS_LysC_B3k11mvQ-FnYV_44clBppw_d7m_AJg1oqFhd
+vv8pBPx0dnVrwB3thlVNJY2YiAXbJzj_wDUlN__9dgHVltv___NhT_th_gVj3y3UyJJz_Gkmzudz-nTv_zpzdxn__q7Md-mg3jd-spl9Zvya2v3qh-YopkZ_
+Kl_R2kJzlxiwlzx_IqtUFqBUd-Od2t2F_lMBM_N7d_hZJls5Npg8VltwzUlNhr-_VjU_xd-ExFxtk4r_VVzdnQEkxCyNe7F_RzLTl_yRXKtTkBh_IFB_ex--
+_TtTdqZYoyy_-XUW__dNtlkgXvhpd__Exz_b_XZUV-Xl-0kWNxz-_VhrwtVzu_ft-C__rV_up__vpxrtwmP8ISGQiF_HyFFVu_Q_wbkLaUHtxd_MHSbf1nsn
+0gSSTG40000000000C20xxyLJF_-OzrhVF-ryldpl_zS-_p9tt-lC__A_2ll_s_eD_z1ltxpV_Jhr-_VF_twNV-w_vbn_zl__iCc4NFVVraNpp3_Qi3-P_lx
+Rys_Mj70-w-z_zpxxyq_qAzVltxz-lNhr-_wr_sF-SVcNq-SVxwAvi-_VuNvLwLjtQlwynLeVFxHtL_mj_xIGwsH_VLyyw_ClpB_olmF_VhrwzUlN__jhd_C
+lrhtdN-rxpB_gl_-lsMhnlohLJzecoWwvQYhqoadEY2_VBOD1xqZ000000000000u3q
+}
+
+
+!procedure LISTCHECK2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$listcheck2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

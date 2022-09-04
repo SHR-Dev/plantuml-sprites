@@ -1,0 +1,19 @@
+' 8aa542c78c9c430bb699ca032de37a2279b7ebce
+@startuml
+sprite $deletebin [256x256/4z] {
+xTtRTjqW34LHI_x_R-xjbIeZEpfWRO-rdWd7azuDf9SK4H4H4H4H4H4HnQOSwDipqUU7SrW1LQutUW44V7C9PlFlROrUW8WGz8qL6ElNzNfZ_L7uZHT0zzy7
+6kh7dwVyETL_upyGVlpuXnLd_M7YnuyVV_web_YpaRy_czdvLtxykFoJlJyQcVaBVclEzFP7H6jIV__LoCMF_phhlopy-F5VhORxyUFdrpz-_FpzDy_z-oV7
+-QFoPyjVJneE_BjrN2c-ddMxI7zL8xp_EJtfVdtzzZUApaww-oIZyEx__AJI0ZJq6z__zrT0yzylgl1hVFy54FptovBy-KP_AlxxTU77Zny_VlpuyUFdxx_y
+--U_lVNVluttFr_FVJxzgTelm2RfzOTINu2kRsAp_gGud_vGlHVWnMSTrRSUghi3KdrKF5hb5_3zuxtpTjqYmc1_T-UXusdx-tKcvmEy_5Sd_FZnuyUF7pz-
+_lw77pz-_FZnuyUF7pz-_FZngnk9qb1_Vwm9G-tzoxV4BrZLI5j_VPEizgyZ8zpztxsA5SLGKt-zGr-egf7XxS_rgsh_EZ8D_VhprVFx-_4NNoMFzFVZnuy_
+AtzEykFdpp_y-F7ZnuyVFtxy-F7ZnuyVFtxy-F7ZnuyVFtxy-F7ZnuyVFtxy-F7Znu-Vyt-SVyMF7p_dd_dpNnZgxi_YfxymrFp-vseAOQZx_UV6_Ty2ukMF
+rHJ2KF_x_slAK5j_pL96Ulfhc3Rql9_l_u8VFtxy-F7ZnuyVFtxy-F7ZnuyVFtxy-F7ZnnyFyW_x3Vx_vxt-OW6UgU2VzkU3_CVzTpxSVTY_Da1_p5yq07_6
+Rn5-_FW_dPF_ytpy-F6d1N-F7t-u-6EJ7tyQy0l_mGNmvzV-7CxVwe-SlGBBfPaD2p0uZQyN_vgDR_2bUomZvIfVByPtxS-3JaH4H4H4H4H4HBy1
+}
+
+
+!procedure DELETEBIN(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$deletebin,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

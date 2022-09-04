@@ -1,0 +1,15 @@
+' cd868c536c6d494a3bf1b478b88f4fa9be20275b
+@startuml
+sprite $cloudexternalipaddresses [256x256/4z] {
+xTot5KCn34KnFUy_j2jt_Zdo47S2eLJYk3L9aYH9aYH9KawkEJyfnVzSK25-SZu_AUZdv-Vdv-Vdv-Vdv-Vdv-Vdpv_w-3FH2VxSqm7_jEW4V-xgW7_QavJn
+vmh_EEfF0N_c_E7dv-Vdv-Vdv-VdduoVdv-Vdv-Vt_bdw_FlfFZznwN-olTVn_q5xZyx-AUxrZ_u-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-IlC
+FynqTUTVblAFE_d7_VNZv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdvo-mpZR-JDJ4dydu-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv
+Ju-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdvy_Z_ZJtP-twA_qrusVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdvz_kjv-_j6N_wkqNf8aIP8aIPBq1G
+}
+
+
+!procedure CLOUDEXTERNALIPADDRESSES(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudexternalipaddresses,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

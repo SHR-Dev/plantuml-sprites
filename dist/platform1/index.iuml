@@ -1,0 +1,12 @@
+@startuml
+!include ./odin.iuml
+!include ./platformone.iuml
+!include ./ironbank.iuml
+!include ./cnap.iuml
+!include ./registryone.iuml
+!include ./bigbang.iuml
+!include ./stargate.iuml
+!include ./repoone.iuml
+!include ./vsoc.iuml
+!include ./partybus.iuml
+@enduml

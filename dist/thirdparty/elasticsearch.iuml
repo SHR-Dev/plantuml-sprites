@@ -1,0 +1,16 @@
+' b785902d116fac9dcd5b636fdf3ec887243a4ab8
+@startuml
+sprite $elasticsearch [228x256/4z] {
+xDl70OGm34L1ljH_prk3bmkIPpfuP1oUnG000000000000000000000000000EhhalUD_NtrBZCzG-LLu_hAwbvVMJr9FV_e0qDFPNgQyyZgSUgySNzazVx8
+7YdFWVHCkQ2nZcx7_P7LK-M2nZfet7yYkzUVoFHWkQ2nBcZi6nfpy5YTgYvex1iQiw9HO_ttcQDHeqQD6ZLgB8rV5ut-hRx2FtACMHbxd27c0ZOqnjoSETOH
+ofg73Osn1cb1OraJkA2nhD6TtrXvpksvJkrzc5zeBzAp8T3UmFS000000CX4-nlFEvFzcHdjYiWSD8wl59dvHCvg52aoOuWKcJ54YimO8aNcgqIAzDpn9U1N
+qX2M0LSZv-P0pDYjY3I_l27oLxwT20000m4CyxUUnBvB2IhG14u1VuS8F1-1iILmxmGMfS285RZD_AKky0q6xaX_0Gryhe6Rrr-M0sEsVv_xZtr04lXSmaSX
+FdtnWO_Fc7oivPiqNjxvlf1dbBmMvL4iZtzrv8nZRfojoqJ_L6u1
+}
+
+
+!procedure ELASTICSEARCH(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$elasticsearch,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

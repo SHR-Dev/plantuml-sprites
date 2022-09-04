@@ -1,0 +1,15 @@
+' f3b94579b04a3e47c06672936f2a640f34c828c9
+@startuml
+sprite $power [256x256/4z] {
+xTl5eTXG5CL0tVwB3cSJXizdfWEP_Q1dTW-crqM_VlsdVpXV_sg-VldwdNrdN_v_aozV_aw_VFdwVVZLSB_yxVwM--Klz-jFltpv-kNFzCkNBt-wl-dyvCjV
+xK-_VFbx_VhbR_UttTzsVzFzjTpVT7vDzxVRhr_-QBzyLx_-uNfdl-NyQhU_blDhhRytNj_rozDyRVNt8s-tlZ-ehriu0FMhmklDvzTYVr_xLrrrtMhyNIya
+7W00000000000000RZl-FXZFlzdyJ_JBN-tNtwwtbk_J1m00000000000000u5fckz17a-73_L-pxujkA_zxo_doRxLUllpIBz-BRwLVldxv-kNhbozVltpv
+0_torSltqoDV_cQ_VFtolVbzzixroz_kRxk_xVvs--KtQJo_yVnUHhwD3G0000000Ey1
+}
+
+
+!procedure POWER(object_name, caption='', xscale='.5', xcolor='#ff9933')
+card "<$power,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

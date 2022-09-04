@@ -1,0 +1,12 @@
+@startuml
+!include ./outlook_neg.iuml
+!include ./sharepoint_neg.iuml
+!include ./word_neg.iuml
+!include ./powerpoint_neg.iuml
+!include ./microsoft_teams_neg.iuml
+!include ./yammer_neg.iuml
+!include ./skype_neg.iuml
+!include ./onedrive_neg.iuml
+!include ./excel_neg.iuml
+!include ./onenote_neg.iuml
+@enduml

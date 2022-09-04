@@ -1,0 +1,18 @@
+' f3fea8645426679bca2d3cd6216caebe480195ea
+@startuml
+sprite $calculator [256x256/4z] {
+xTnNiXmn241HGUz_pSxyEAeyF9MeEVSRXoF7rorchIL9aYH9aYGf9jLCdrc_FaVKUmGbdrRJ0HH-O2q7KFndLbadqCD_1bO7qE1_HjRXB_x8-3FYHNuK_mr_
+0_3pvsn_lkhdVmR7py__t_7py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy-UHRlNdiQxp5pyEb5-wr1z7EknllsrtuaRYUN_nJnp0hVvrf2lzUTQVz_dZd3_kzAz3
+yVFp-_lFlt_y_Fpy_Fpy_Fpy_Fpy_Fpy_9v_yNl-oy_Fxzy_VlS_tF_v87_6eJBJ_RyR_PadzDVvgppKlVVVyq3k_z_Zv-Vdv-Vdv-Vdv-Vdv-Vdj_-_CRen
+ENZ_ls5qxlv_VgbZTEx-VsPkJ6wCJjp_hv_hnkZV9sFg_dz4PcxmI_NxqRdx_n7nHzJcKKN4uFt_Y6tK7qSdt__RG6sCZhd_TiQ_flZv5p-_l_-w_SdFF-3_
+Vs_aVzxw_x-bQlZwPwI_LF4hFpUEgavgkh_X-Sz8VwdoLrDkd5NnP_kV_5txeyyW_wxgXT59_j_3zYPhTBI_Ftv-Vdv-Vdv-Vdv-Vdv-Viy_FF_o_DFpR-y_
+lF_o_jFxR_SVt7_XvtV_qVrNVlVV-Us_s7-o_sR_qVwh_MVxxpx_mETV-FmJVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdx-7Cn_rSyVi_t1pt_1Nm3p_lYN
+FoRxeyMVG_bj_Xp9Bt_70MHEmnV_TNz4ZYoYmRzYw0b4yHiEe1eaBtvBCRBLspIw94cI94cIfCy
+}
+
+
+!procedure CALCULATOR(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$calculator,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

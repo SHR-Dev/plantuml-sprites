@@ -1,0 +1,18 @@
+' 5917fc7b4a10afb00cf93db7f73b7cb8f75f0ef1
+@startuml
+sprite $machinesazurearc [256x256/4z] {
+xTS7pkf848NHloxxt_ECqaiDaackbkjy2-1omF7d-MhtVZuKFpy_Fpy_Fpy_Ft_j7py_F__vV7v-Vdv-Vdx-91depyTQFpEx-tD2VVvUVFyFqAHVsy-VSzlD
+dz7-dDy-Vlvqj8y__1tjuW__Lhz00x-lQ_iFZbpLVtYdmNy2_ucnA_hhRcFypxrhJV9Nfx-VpryNzVFpy_Ex_lFd2VueVpB3doVqoOZttoIJ_5c6Xlcph0pm
+Bx0asTZV5pz_zVhvg_keJutq_qQFzV_r3ThynT_9x_VNT7_ryllzrSllzrSry9lzQrzZFiJt-zS-13zS6lpjhVvSmi_Fpy-Vnstlp_VRr9_psioVgfpRJlvq
+j8q_JMtY3tzJM_ZJsD_xBVuq-zFhJtTjVdx-X9-V_-keeVvbhDTV9_kNlLd-kbUdluE_DjrVC_prkEd-uh_RzVty_Fove9__zdzFFF_q-_Dv_-s0FzVqtmxw
+CyMV9_Gp_4ac-RFiNTcVBFuiQvVsP_5d6RkI_mbICiU_cfAv_hL-Fpy_V_Zv-NVgJ7_u-VadN03v-Vdv6_YTVdv-Vdv-Vdv-Vdv-Vdx-yFFpy_FpxzEt_Fpy
+_Fpy_FpycURdvwy1Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vlxmy_Fpy_Fpy_Fpy_FpyxV6py__ZVWR-Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FoVRcy_
+Ft-TuY_-ZUBdv-Vdvp_8v-Vdv_yF
+}
+
+
+!procedure MACHINESAZUREARC(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$machinesazurearc,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

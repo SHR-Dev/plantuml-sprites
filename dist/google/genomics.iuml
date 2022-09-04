@@ -1,0 +1,16 @@
+' e3e4b3afb55d5705d2be3364bd6442350259bb4b
+@startuml
+sprite $genomics [256x256/4z] {
+xTn7efWm44H1zTp_piwsLcoSX7vNtU2Hmy3wy00000000000ybDh_LPQlxNcRwj8zBzIUNvoDdzEIyxsToo0NB00slgtdClFl49xVxhxqzsVL1__4kS_rp__
+rWNNlutzXsy0FVyfKfg_bUPljVLRRpq00000O4BQXFHcGhg6DwJvDsxFdv85a0Tl6F2uUq8uvVsJqlujxVsvDZ_pDvJt9zNRVz9z_4_t-J_h_KhpjyxBlwtx
+yj_zlmbf4zAj-LksLUfdF00000000000000003wtyB6HhyqslzkwXCzjCt_ezfz5_PlybEHFdfJdvuxyvlxCDFTd_e9Skm1IthzIllslv42_ux_pVyC2AFbN
+yEI1doMx__Vyn_E_3gtrMtKz0000093lJ4Z7XBG9wI8cfCyjW2HpLXuS6F2ewq_ck3mfpqz5_kHHHVxasO7yflxfxb_j_IjlxdV-S_tpxoNT_IkljLRh0l00
+GF_gqfDlGjg4D00000000030Pm
+}
+
+
+!procedure GENOMICS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$genomics,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

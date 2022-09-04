@@ -1,0 +1,10 @@
+' 6ff1d8fdf812b2e8e83d8a5086bd390002190574
+@startuml
+sprite $yammer_neg [256x256/4z] xS6100000CEW-rD_8DK20000000000000000000000000000000000000000000000000000000000000000000000000000000000001m
+
+
+!procedure YAMMER_NEG(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$yammer_neg,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

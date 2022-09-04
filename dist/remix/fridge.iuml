@@ -1,0 +1,17 @@
+' 2d731f84b0e006616a831883bb2561711e790ea0
+@startuml
+sprite $fridge [256x256/4z] {
+xTrNSYCn34310UR-PtPKTWvG4OL-txksMpcGnFP5aYH9YeMRPt_R7VYvP76ebfzBLta1NEZt1Rku14hv-y9LNG07_q6_-2LGv3_mMrm05VnE_YZoxmqgylDd
+5tzM-NV-1l7p5_1R-QFIpy_Fpy_Fpy_Fpy_Fpy-VvyRvyqsZ_FbUG_m7VboNJqtn7_JNZVE__JyvnXyHR__JAFzssnn_ZlV7UFysrS_Fp-_vRpa_Fpy_Fpy_
+Fpy_Fpy_Fpy_Fx_Fltp-oS_Fx_7Fyv_r3zQ_MFza_PlrZzQ_Mlzi_Rlz3_py_FpysSUV5Nx-lKdy_Fp_bkS_VkVVEVyoiabHTG3mHFxRqz_7dW0V3Vgrtlm7
+IP8aIP8aHOjcwsldFpQeuWBm-R_vX-RVcV_L8Ul_hF_Xv-Vt-EVvhzxFpy_Fpy-Vrmtpvzl6-0_wk6ZU_Aim_-gcCVx3Rvqz_-htJvhEl-9t_Xq_Fx_p7_az
+__7py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_l-az_w1tv-Viz__DO_M_zk_uFzB_O_sVzc_wFzh_py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FpcN_3pct_3
+7rtymM_-rx_Nnryv_sxQrVzs_k7Y-hp70CX5wLNyGx7-2Cmuy6kAGylQ3_p90t2twZhZ9KcIz0W
+}
+
+
+!procedure FRIDGE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$fridge,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

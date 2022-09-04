@@ -1,0 +1,15 @@
+' 3237fc92df4c12e32b644611b172fae1c08417d8
+@startuml
+sprite $managementportal [256x256/4z] {
+xTk5OSKm44H1I_tt7DmmS_xjl0x63ATZNf8aIP8aIP8aIP8aITAQLhC-5UjJBp_nj_9JBp_nluk_qwbpdqhUvTy3-u1_Zop-z_0xDm1_-5EhzlFpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fpxrx_AlNpy_Ex_hd_yVCl_diPW5clDj4Vr_fW0mR0rh3UpqzhNFVu1c1DG7TFm5i1yVqr-rClF_NwKwy_zVeJFtynd_yKukTlvVFpJ-3p
+y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpyoz-Vdx-_nu_Fpz_0P-Vdv-V
+dv-Vdv-Vdv-Vdv-VluLl__Fpy_CV_Fpynf_ulxTUVkhbfsP_wkQd7lpV9qcI94cI94cI94cIf7C
+}
+
+
+!procedure MANAGEMENTPORTAL(object_name, caption='', xscale='.5', xcolor='#33cfed')
+card "<$managementportal,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

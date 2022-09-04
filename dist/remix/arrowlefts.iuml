@@ -1,0 +1,16 @@
+' d56826db7bf3b338bd2e4cfffd851905b8fe6348
+@startuml
+sprite $arrowlefts [256x256/4z] {
+xCz10OD000EmzSw_vz4NU6ZY8Byl0000000000000000000009BjVKttQxfVk_zpPl_TLnwp_Kgoswyag_zxt_zU_zQVVRkmOG28eHYgx3zqAUAonJwFy8xX
+1_XD_1q0v_9t09p8FzK_B_np7X_uRNom02hum6_Z0x-93_mcFl2R-C2luuFzJy87VXCV-4ryu3VnWT_41tuJ7_XDVE0tyOdVpr-_dm_yShxVFz_uVl_oiT_F
+Nx-Rp_r-_lhTVExtyzVlvdE_dxz-Dv_x_Vprk_dSx-UltytdVZz__Mu-z_lvw_Vp_Vv1_FNR-Nu_q8ly0_Wo__AXNypt-_C3lia_an_my-VFdx_rl_t_t0dG
+-RVxN_T_JGD0lwS1i5-w1d2_lm7w_-Z_g__F_h_BFvH_AVzK_gtyO_dNyi_btwj_gFwb-gVgtwf_z3T0zS_Llr_RkuCY060OXc4t_gJNVo1OOj02YEqVsB-m
+VsB_nlwH_IlxP_Rlx1_QlxH_Ql_M_d7W0SNzyxc_-81a0EITxFtw5_i0_Pjy_qZ_Ilyi67yK04oSht-fVwf_gt-iVwr_3W0000000000000000000F01
+}
+
+
+!procedure ARROWLEFTS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$arrowlefts,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

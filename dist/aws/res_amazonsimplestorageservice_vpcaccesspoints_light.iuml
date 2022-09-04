@@ -1,0 +1,8 @@
+' 2e1d2d227038801dc7d129c764b8b27d8508fc6e
+@startuml
+
+!procedure RES_AMAZONSIMPLESTORAGESERVICE_VPCACCESSPOINTS_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$res_amazonsimplestorageservice_vpcaccesspoints_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

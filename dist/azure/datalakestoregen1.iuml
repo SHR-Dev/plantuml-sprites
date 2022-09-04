@@ -1,0 +1,18 @@
+' b226c5b27caf9e244d4e7512c868edfa43a14e89
+@startuml
+sprite $datalakestoregen1 [256x256/4z] {
+xTq5TZCn54DXI_lVyy_modPxx7aPtNkW39yAuMJSEo8Y8Y8Y8Y8Y8Y8Y8YALFllXjOUoRojLNylKrnv4RrbVpdgb_dhNj9vVIV_hhd_PX7YYhWEye6nBVuha
+rmNQ-dt6hxR-l04Eyki0gNxhNm_arroB0-X1_5feSG7rzsknnG7KtA_bV621pdvvAfNw-hNDRwjq9xyycvwsLVWfl_RwhRCTyxTT8DslRdxhT2j-tz2ltNut
+zsl1xplwTV7n_vgkQTvltujVc_BFVwjUJRtouPJiLx-ozL8uNzbw_E5yXVCb_Cby_0hdAvmlHUfhaVfQgBss0Kv4H4H4H4H4usUv-Z-b-qSs7_z8vkF77ycl
+uSUFFvEF7tys7tys7tyuVuJpHpX_HF9hYVfQehwMpSS_mlaZcuz_fFj79h-MxX-P_5gclvRfhqNoQv7y6lv0VYsSFyBv8r9Vo-RZp-RZXuyVFtxuSNxy7FTF
+zYlOZvypVfBzdE-Rx5UsdulzeWVWad-k_CBrtn8Nu0hGNF-Tcp-4XB-4dvk_uOSVwOSFNs5bwnMjvpxFGlduuUF77yN7xv_XBnL-e1-_NkVxflpN1tY1jntW
+V__TyDyjuv-XESVVVm3NvwVwcE_9cNhu_NS7v_czgSclcUV7xoisx_BDuFVU_fwyk9XlN_Ye-tO3lo_mrwxcMw_b7BzZ_FFVWxFyFeslNSYldSNN3lYRXXy_
+_d2-7SwtyKVpxN2-dUvtDX-_W_tuyVF_d-C_7FzzlL1zBGPFnAqG_XLBhmNGRneH4H4H4H4H4H4H4H4HVGS
+}
+
+
+!procedure DATALAKESTOREGEN1(object_name, caption='', xscale='.5', xcolor='#1f99cf')
+card "<$datalakestoregen1,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

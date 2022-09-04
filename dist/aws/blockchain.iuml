@@ -1,0 +1,18 @@
+' d91f2e566cc3b168076a98de47690e81f29f24cb
+@startuml
+sprite $blockchain [256x256/4z] {
+xTpdZYGj30NGjdd_P_xYPahU6IEtMEcStyMbxiIk0AzP0000000000000000000000000000000G3GDfWrbr-MnudYdwQMDPjSX_hK_wCj4MTf8sb5MBo5mz
+cH53OUTPC_NtUOR2phEcw-_pn7dOG5PfdwK_Jvo73MJL8jUcVSvv6ZQGLVesJNRi_TTvs43MH_h7vtqPklNFJjYteGDPXSZgXwKMU__Jh9KnaFNxO_L_ZVUl
+zVllVFzF-kklVpnhz2-pwlxzh7x_-gex8kh-frahJxFE-t-PfBpYh_ltirR6KTPv__h28pDZhnlVHfvchJpBEkyVKTvnoIm-xcQUPgtJhFF-cRaAMLoYt9JL
+xxzgMHnwGTPm__hGIxBw_RzT3zVNrSKftP5rtZyUDCzvFkkyVp6sEdPpKTPy_yZdK_uvAmUovlk_7ZpzJzx5TWjhFklDt__oScJ_V3IVzUx-fLR_mXtzzTS_
+FvZxzgp1_lhhhx-_V_hhd_tFhFDPhd_cl__zQzRvhFVtpxMPpXhgx_wN-v_kVtl-uVdNg__CyhQi_lFlBAVPnzwJDV_-mzFOMxEQrzNTTrPkoUht_wRndj5r
+MVt-kthi5Ldz_lhh_ne_vzf8bk-__lFhNxPhr4xOIDRq-gVz_S_3iCo1h5BaEfHnRzRy-iUL6HTdpQz_pTWkqRecikRNFyVhcpWC6yYo_lsFsVyWOY3B_XVs
+Fva0000000000000000000000000000007y3
+}
+
+
+!procedure BLOCKCHAIN(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$blockchain,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,18 @@
+' 7acf7390690a7da424de05d45b3fa8ce6c1a56bb
+@startuml
+sprite $res_amazonelasticblockstore_volume_light [256x256/4z] {
+xDg50SCm44FHklllN6R6F8EqGFJbWz3iNKLH54LH54LHcLmrmIDLX3-VNDK4iACd2TI2JmFm_3O0t_iq08zl0-35ZmFm-Bu0F7wPLbK4OF1tylT1voRajOkl
+VbnxlFdnvUdchoD_su2-_pm-zK2BpyYPWFZa57ph-G1yxdO9UNmVWCVtPWI-7qL-y_lZyCVlEm0C7120RZSVWCyQ78h5hxyfwyI_D5PlpDvP_VZKcvyolZNz
+euOVpVxulJz_s-z7WCVt0VZDxqT0aVp-cnZyuEnTNlxcKAhLfSq__UHJCVw5pN_-vBAxejR6n6qd_-MlNyjsx8HOWX08ec0N_Zt_mqCJiRNaSv0pt4bs_AUq
+f_tyIHwV__Fo0fX5Vv92VcQdb3PxlQUN94afR57VsUFyRFBVlV_5-nz_PVnPzVEde8l-T7JBdoGL1_Lx_lduhlgdeF3dYZyT_hdddw_ty_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_EdWd_BVv8g_hw_f7F9Vqhuw_xA-Fbd8VwqyZCRzVfdoP-d_PF_-lHh_abdizbNu2L9
+agHV
+}
+
+
+!procedure RES_AMAZONELASTICBLOCKSTORE_VOLUME_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$res_amazonelasticblockstore_volume_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

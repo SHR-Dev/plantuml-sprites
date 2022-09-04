@@ -1,0 +1,15 @@
+' e2126a7ace9e90141778d5547db19e19e26e5b9e
+@startuml
+sprite $bankcard2 [256x256/4z] {
+xTtNWOGm44J16od_cCzxt_pHrCkWrYz8cflw94cI94cI94cI94dJKHy-xwX-dRrvAUUlcj87u8D-dxWFZq3aVw4NzF80fFnTK-v_uLSz095_LnNwLvz_9Nx-
+NLRWdrR_yFC77t_yb_m2uEVVTV7py_Fp-_xZv-Vdz_dFpy_Fpy_Fp-_td_i_xd_FhBecyayXVzBbZnTU05cOzSzrIP8aIP8aIP8aIP8aIPAiVxF-qVfNwv-j
+VxV_OPn_PlzxNVpy_Fpy_FpyVl_ny_Fpy_Fpy_Fpy_Fpy_DtnS_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FpzyJFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F_-k
+Yv-Vdv_Vzny_l_EF-VdvlwdKx_pxVyO_VVu9_QkA_-9F7e0wVkH_g4QV-sUzT6hwIvSUW7HW1DQyL61_olopl19xVv8aIP8aIP8aIPAaEm
+}
+
+
+!procedure BANKCARD2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$bankcard2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

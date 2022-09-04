@@ -1,0 +1,17 @@
+' f17e7e51ac8ac869428772c5463a1f0061849cf7
+@startuml
+sprite $terminal [256x256/4z] {
+xTr9KiGm50HHIxx_cPcXTbxn8mJryWHazbIMWRx-CW0000000000000000000000002mlgYr3wtseT5_Vz0O8FP9KEKV_HGerK-0Dl_xavy0NVftA0lm_UY7
+l0Aw7lvG523wbG5M_BjU0l6FVbc0FFoT0UBV6I3-dG7YtnT0WFYt1X0WXny2xEO0gp10U0vGS2Re6I208II09IY009PWGG1BK01BK013I013I00178gQmfQW
+8II08II008QG00v5JM5Js1Js31304XJ041B0fy1-tW6r0LAWAa3e2B1S3RarP0e_1V0tKsN-WJz__loxt_yl_gNxn_ujk00ilG2E_kxLt_Jf_-EtFkVVxd-u
+_qMVlj5Bd_wYR_POVVJD7lhqpHxwz8rUezViEH_wzCqU-ZxtwTEdR_GwwZHxw9izzEdxtATlzT7VzAs-Ddtw_fRNtxBx_bFVVzkbx_klVVzvY7-VVfu0TVeX
+2w1IFq-0s4S_b6p07Vqc_n3zfW2r-Za2YNtyYmAik4U_X1L-rtvDC_5p3igVds3WIJNEmHygyoH0ctu277jPEKy2d7kiCX-Wx-4Fn_hV_FdpvpyCV_vU__pv
+sx-kVywwgJHFhdyR0-G0nFdFSG5MuV5VQ3t-3Ktwym00000000000000NW4
+}
+
+
+!procedure TERMINAL(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$terminal,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

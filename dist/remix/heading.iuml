@@ -1,0 +1,16 @@
+' 0e017f05fcb78d565fc543178208ed020da9e7c3
+@startuml
+sprite $heading [256x256/4z] {
+xTg7SGKX44H11lAFMTvpvMJGrjz-2VIDlE16eoH9aYH9aYH9aYH9aYH9KZxKpizMApyNDVAJp2ybQU1l_FO07VmdVdrgpjd6pwE_llJefui_h_pPoLzRvNm-
+dy_dy_byV__n-Nm-dy_dy_byFf_Fv_FvV3wVp-Vp-Nm-dy_dy_byFf_Fv_FvV3wVpyyvFpNtZqFLsM-__VRx-STVP_rLSd-Ey5NtpoHdvbVTVwAg-zTywD3w
+kGhkN_DOg-J-TMn-cVrx9xQNs5yi--st_-VPRx_zzjjll_tsss-__VOx_t3-vVpJ-RVx3_TVxZ_TV_Ez_-Bz9_ljjz_Flt_s-Nm-dy_dy_byFf_Fv_FvV3wV
+p-Vp-Nm-dy_dy_byFf_Fv_FvV3wVp-Vp-Nm-dy_dy_bhwtPzFf_Fv_FvV7__vSfFAtz-uHlusmDiV2D_gv4_yj2cPxJnHouQ3VptThs0tpP9aYH9aYH9aYH9
+qZq
+}
+
+
+!procedure HEADING(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$heading,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

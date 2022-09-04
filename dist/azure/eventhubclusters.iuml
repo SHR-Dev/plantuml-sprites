@@ -1,0 +1,18 @@
+' 07a04185933c565c83f76fcdfa314c53638a853d
+@startuml
+sprite $eventhubclusters [256x256/4z] {
+xTrNUgj040NXBkz_ppVmASy3JjCQEFK_tc0eHGGzSfsR94cI94cI94cI935LOFeehNuKdW_PzK1wFzdvzeVdW_tssxzqVZsWgfBk__fL1-jlsSP2ElRiCFqr
+oI4E01iVPQkX-M6MnlwoFpH_V9qDDUIdEK2z94doQ6tZB4XuFjXllyz_prS56V8bIP8aYKtiHLEuYBnepeF03-7qzPFNpxF5yo6yF-uiB4_iZxe1xCT-7_zp
+TowzluxJdtWThdVjJEX5meRyrNSES4YibzWu_-VyNtW-s6-__Rx-9VdDUacI97dchEVIKP6um8fdQGli6DGEMAQ__mRW8hsV4rqwvbN3cUwbNg2-rGzd_TR9
+D-qBotphPFzZ4JQxstpxvNbUpTfq_siEnVv66EqqxEF1ybCTxFljfzvA-SLltm0Sgx_czhFpwXZSNwj8xw-z_D_khvNdcOU66OVtuBVdd9NzNyrtVCxn2UT7
+9JbKxqldnlxeVFj3sV-QRx_l_nu0Ik0hWuT6dbOaEzz-x5y0G6u_5vdzF4XSbioJk7vsTWSuSp-ZyI_fxGUQ-_VrFU7OhDPFPd__3S35QlamPwCB78m4z_CL
+uVS_3ND5zlVcrypyxoqSwSg_cDVFnU9pTHFl_Ol5pt_EpeUr-aSCYhjvntWSObWXeB_vh08N5TfVMVrZQbm-MPC132eA5nyVuVs4zW_iZvATRx-BHy-Qxv2N
+yy-I95pXwXY__Pdm0FV2_iI5XDprR2Ro8pvFulfvaNMEYq7gRuvVlv-6UevnbPkVtZgmNls8PfNTNykXKTnQNWxo0GEA-Zf9aYH9aYH9aYH9agI_
+}
+
+
+!procedure EVENTHUBCLUSTERS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$eventhubclusters,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

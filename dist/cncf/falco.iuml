@@ -1,0 +1,19 @@
+' 0fac51c479eae79de6896dcaa1a7b4ebac3f7f83
+@startuml
+sprite $falco [256x256/4z] {
+xD1B0S800CKmwbyqVzXf1lPI1ytj94cgvVbli_lR06q3r3P0um2D0pGEq3O0W000000000000000000000000000000000000000000000000000003WAfkp
+03KDqD4YG6q3D0xGE43Z08q3D0q00400000000000000000000000000000000000000001uj6jVIRN3O106FVjVzCqv0d_PhP9cdbKo_P7XF1aWoS41ycM7
+1iZtdHZWhgucmFpnPmL8ZWwGF-wO0CdH0VBttSbS9K3oR82VBlS1yf_Tm5yfGF9mW8004tvo6zy7I9uE411Wo4zkyVi00_qE0GRqkTy76CXt232Gp_q-092l
+503eGG30zm4mtmV0V1y0ytq0pFS1BDy7m7mV0F1f0Cpt0J3V1y1y7m3pVG3Czm4mtmSOymTTG83x_hMuGO314pO8CBt_sY30uFOD0WpllZO8CBdvsY00uli0
+yrkl3G80FWbmHz8D0W0-2W3uD03c-m2OxmDWlW-0-Ju0vli05-Rx09Zl0m0-383vFW3c-m2OxmDWlW-0-Ju0vli0cEy3MBuFWFa-0E3BORuVvljXlX_c-s6-
+7-RxFSLVjqleIoZzdkGdX_DpE3yvd9_3-JcSdvFvvQTykFBBBx_yyiill_pooo-__FBBBx_yyiill_pooo-__FBBBx_yyiill_pooo-__FAlyetVyxtVywzp
+-DZl-V3Zt_Evt_Dz0CyV7D-0Rm9uFWtW-JI0vzC0day3U3uDuFaqWEVJ09vF0tW-3U3vD83dqm2UJmDuFWtW-JY0v_i0dky3UBuFuFdp9sS3_Yn0Jk7_V359
+uVzt7Lo0yNq0p_S1LdZbmah-DnoQRnt_uD1ag_W7XsPRmpyuDDqAtm06X-PJ_kj5ptdWRHdnvmyU7veFy1VR6_5TrtNTUm
+}
+
+
+!procedure FALCO(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$falco,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,10 @@
+' 7ac6bcce5acf29854937719ca97a874b8920c23f
+@startuml
+sprite $consul_primarylogo_nonatt_white_rgb [256x100/4z] xS4n0G000C8W-wUsmsvW6G00000000000000000000000000000007
+
+
+!procedure CONSUL_PRIMARYLOGO_NONATT_WHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$consul_primarylogo_nonatt_white_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

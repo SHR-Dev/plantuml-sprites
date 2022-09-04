@@ -1,0 +1,13 @@
+' 5a5184da6934760b74e4e52e7ff74470e17023bc
+@startuml
+sprite $nomad_enterprise_logo_colorwhite_rgb [256x61/4z] {
+xSyv0GG148J0QV-YxsLLG8Lad5MI94cI94cscUz_nFSGxqDy3-yznFUmxZzfld-k1-F_wVxxxvzRyJ-psl-3zR___ZcUzt-xJVq_vt___K_s3rxdsySWl8Vu
+7k9xUFSXlWVtOe9zaIH9aYHl
+}
+
+
+!procedure NOMAD_ENTERPRISE_LOGO_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$nomad_enterprise_logo_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

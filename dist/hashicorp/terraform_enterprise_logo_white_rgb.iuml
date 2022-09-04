@@ -1,0 +1,10 @@
+' 50db65976a120c1a63f220bcb35f63662f9af018
+@startuml
+sprite $terraform_enterprise_logo_white_rgb [256x55/4z] xS410G0010Cm_LEB0TzM2m4000000000000000100m
+
+
+!procedure TERRAFORM_ENTERPRISE_LOGO_WHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$terraform_enterprise_logo_white_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

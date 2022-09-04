@@ -1,0 +1,18 @@
+' ad02cacf16220696a59a5cc00c250a169c2cd441
+@startuml
+sprite $codeview [256x256/4z] {
+xC610000082W_QaNgG8000000000000000000000061sp6qfeX28WTMU__zcxyORDIyujBh3-rRIWOMS-ICBk5qZ05W9-4u0Bm7V29W1-4Q0k-S5Fd-SdCRt
+0-2p4q5L240saks_hkYQ-742dCM_eWi6_SB8OVpe0WBzmaYxRbIZQno1q7ys0d3gp1N2_QlomGbyDu3Q1_ttxKBuCF_IHtQYENGv0CL8L5VBu8zu7K0_li_V
+7q147NxVIgqfy9yC898Alky6YkqNt__QZupl1o2B-G7GLdgpTfJwpoGTfTV7ZxFuQgl2DRuy_-b_atFslTvJc-iD0603too22K0Ky0C0X0FMi8ppMT-mDdvs
+gAaAq_x0zBUJc1GQbZ09_ZcVYFWRLWkdGkcr0jZ_emgbLwZ2mgtgLs6_zMbLs6rLVXF4BRr-4nHAhz04Dm98ZaxfzSTqzLDQbGb_xJT117oX2JRy_ayrmRRp
+uw-D0DmnltyBrkzU8xvVXVtMvpT117ul06FxVVxX7_vh-8T_-EV-6_xfFzD_v_jdldzd_Z7phvb_plpxeRqxi0800W4e-Eo_D4EWghing9__Zm7_N_u__N-R
+Vp3_Olx9_9lvH_Elvf_Dlzj_iF_ISlzf7VRVx3_QVxN_RFzT_q3_Glz4_qR_IFzA_qp_JlzG_rB_LFzM_rZ_MlzS_zxz0_Slt3zn_yRz8_UltW0000000000
+0000000000000603
+}
+
+
+!procedure CODEVIEW(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$codeview,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

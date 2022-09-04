@@ -1,0 +1,16 @@
+' eeeef143c8efba53fa533c7224f919cf9a72b3cb
+@startuml
+sprite $orderplay [256x256/4z] {
+x9RN0K9H2CK4zf_PhlcprvUJ3P9ROFNJX11222644488LMhxFM9zTO02hNwtDi3UVWy5VFeKKFhFMA_0GNyF1MJ7FoS8uFJd2WYlFmLa_WC4iFa3By3eJm2h
+FrD0wa-0Klb3Kq3dJu3s1G0AkFo108Rz5u00alqN2E3r9u3j-GClGFNyuJLZi7wMlkfFWQN9em-ltmL_sXx_bry1zFk7cHjW5roQ_jp8um5uOlyD0HuPCCe0
+7Byt0CUl2u2_8831dm1MV-QWq9y2HdyWWCsV04P_u09O_Vjs__Ytsh_Ytu81w0dG3_Xlshkl0eIY60g21F-YmSBvtJlZOEcl9CGiXm3t5wiV3u6AFejUVGm0
+0000000000000C2bhF51Q_wxur-b-lrl8im_LkT_bwV_yVqFN_iVOlJhrwzVltxz-lNx_Ulun_6lyn_EVpd_wVnt_Ff73G00000000000000mCMCzVPVlJl-
+PlunDm0xzLzq_jVyj_b_-n_qwzUlNxz-_Vhr-_th-CV-A-T_qW_0sV-q2EQlKl4X000000000000m0y
+}
+
+
+!procedure ORDERPLAY(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$orderplay,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

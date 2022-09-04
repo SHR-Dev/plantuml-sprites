@@ -1,0 +1,20 @@
+' ad9d6b05a85ca8e8b43fe9c84c557f787da2941c
+@startuml
+sprite $cloudarmor [256x256/4z] {
+xTf7TiGm30HHzFqFxRHo0ETPuR4eTjTw9E9ZvEowkvHIIYcbb59AAQMKKaf9NpdhVJUW7pdgVJUWFYTydvE-pqdVPwNlSyBtEUdxdFHzLle-9toVaxxFIT_d
+fE_R5N_WfPlgeGtm-WlNRAA7Di3ZTUdYBVJG1dZzXBiiheSsmEC5t6unFRa1L4_UbzU3z-Rn8W_WzU0Xl9uyYTU3f_5uaKVoUl1ONa-UpUitFL-i7Xo2r_E3
+i7X-5bRFJyFg-NbOFJyHY-U7OlNyMAoU7upLywEnU7uwG8_E5t_yySSVV_pnnnz__F777t_yyST__68hVt-XeLy_C_FhRqv-TVdurUVYroWFl-8VvU3NMRya
+RUxNVowoylTdUFdrfmVxTTIlBX-_-jpzCl5hc8LVs_dhBh_CttyPlFyoyn_QbJRx-I_-il3Nq6FYh_YxoiPVDS8OVFqRN8Rw-R__kVZxuZ--WFBsbuM_pFmR
+_FvloWBAnryTtyRV7-7Xxm_n_Vy_vVyVurzklcVvA_xuZJu1Q9e__lZZZrzc_dgIlypyckwFNtD4bdxz2F1JX_IR1YO3_MfQqQzvVCd6Bs-_Hl4FPg5-BVY9
+QI8_VW5ZGRzaxfit5RNf-5y6F_xnrnFyDT4ltgzv_lWBy5EFFx5jyksFdr-0NeNo-GUWK3__0A1y_W6eLVpC0m3CGZy0_BV-oD8ly5N80gW367vfyWAuEVZV
+0ueS0rhy-bEiwLzXzIOphEXdbu_pHH_lVJw_Vtm1B9_tmuVp2p3_-Ykng-SN01_CBu0zblSBzlCBWFdy0bW-xmTED5W0nKS7uldnyoFnV7uedi-FnVFxr0KV
+moy0FeHV07m4lm3u07u1Wk_EBy26N-g3Ryql0Bunlm3ujlm21D-JNu1WFhy0cCylGF0s-GN0V7u10XO9f1TDsE8MZm2fvny1WNn-0Ph0HnUW2nVkiG3fmaMR
+R03MymkG3hvulmL81rxun7HJzTHeFX-ivwFvVBIU3zRpqNm-Miz7w_bmFH-DvwFrVBYU3yVpyNW-tCu7u3rAAQMKKaeffPHIIYcbTm
+}
+
+
+!procedure CLOUDARMOR(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudarmor,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,20 @@
+' 5fd71b17b937ced7b9c9bd711d805ecaff076ed0
+@startuml
+sprite $azuretokenservice [256x256/4z] {
+xTs7OHmn50DHuFVVinES5IxmLhhbO5m0zu5MJZggrbfhhTcc-ssmFi7vDfnlS_69h4zaV2Bh4n3_ChG-aV49ZKzmlatM9pZVSBvDvYSutuRpRR0-aVM9Z4za
+VMBh4rcVqFe4vzjaVOBpRJZVXlDjEDycwnESRvFn2QnFP7m2unDPdz3wHEOdCZ-H-GdEj-5yc-utd6_3-JQSRpZVXlFj-cdy-cVy9vv_lcSxyVY9wf___6Rv
+vtT0V_t3zazAFF-W_JDa_mpNFmdgdo7xvyq8xm3FeFt3zW_PN_-m_SFs3ze_G_RFWFsJaFv9IFyag7-6x9z1-uVj7xP_oFxwX-olVzZ-OVi7xPyX-sV8_Xco
+VuRidq7xX-qVjd_8_lgd_lhhhx_--kkll_xwww-__lhhhx_--kk_8h2__lfDzDTVV_trrs-oltwp_KRxRQpVBuBudP1-9wZV5zhSRsyrmEFvziP-NzUkVjzI
+dfpeVzaU0tWbBVNS_kiUyEm3N63jFi1bqzOl0rU8VDO1_12-plo6u1B_IVoIFw3vPv4hERPFDy1wycqF1VXx48Vx9Vm0wW1ml-X-mVqTe0E8xXVQdz3-z2dl
+zI_epxs094lOlnAtTA0iwUGBA57_IkpAOJewyFMdftxzBsk31UBmWX_zbz8D7y3k09-qG0UGu2y3iXX-wQrJJHb0TB-Us6zz_0A2-LzoUVv_mP9bx029vnVN
+Nt_zzQltVrtAW-6kNv9iIMddwrV-NMeV_vsdRi9VE7K7_zAfv_SlVl9zCxvrQnluryw5tx_sUUsNMFxrixVyr0_Z-jFDpsMf7_fkv9VWV8djhr_ra_czVx7v
+zQFv7Q3-3j013ats3ITffmN2iMyvIjfdWhlEahJ91dSU9McB3NGw_ylUUg8Z_TP9yeLszqla-qzt-m434FXI_JTBx8tyGlilSsvy_zywNtvWEcDWVOBp9R0-
+WVM9h4zaVeBp9J8_mVbYy-kNgFpwww-__YFuzNy5
+}
+
+
+!procedure AZURETOKENSERVICE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$azuretokenservice,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

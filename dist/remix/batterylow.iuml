@@ -1,0 +1,16 @@
+' 90eddb0738ea058e57c26ce0c45caaca7ddd5351
+@startuml
+sprite $batterylow [256x256/4z] {
+xTr5OiKm3411Ixx_cSjrogY2uddxmdm8HnbzaoH9aYH9aYH9aYH9aYH9aYH9ag9J6zEFwlNPeJWgqsUxugOQV_QiuWLO-jchzGAK-6V3xbw0xVYhCl-Ssxu0
+w-rlMOMVVpRsPyIsNt_-oSzViFZdttG5o7_m-Vdv-Vcj__Zv-Vdv-Vdp0vtMdn_jVFx5Z_VAwyxeN_gFl0BdzCS7Q-kl-0Ct_kpfBpd14X5T_JM__xJ-yQ_z
+_ECkVlvuqbx-UA4z_8l__1BHRVo7_cW___EDzstyp_-14d_qzS_CNVml_tr-_cZXv-Vdj_pZv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vd
+v-Vdvmz-VdxBFtxtlxd_qVslxdzs_xlv1-PVc7_2R_wH-LVcdvb_P_wX-PVcdvf_Q_xn_uYVdv-Vdz_pZ_Zv-VdvhV_u-Jt_cf-VFx_h7n7ykUFgR_c3Fxlo
+j_OlVi4Ba1tvLVx8wnhgCvQ_u0LeLHb_n4qzyH6Ze3Xg8b-Dcg9dexJ6zFv9aYH9aYH9aYH9aYH9aYH9aYH9bm
+}
+
+
+!procedure BATTERYLOW(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$batterylow,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

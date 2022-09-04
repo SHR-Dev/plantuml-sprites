@@ -1,0 +1,17 @@
+' c06b18f647f90d61d1eaec69b39bac24b841f0dc
+@startuml
+sprite $barcode [256x256/4z] {
+xTQ7Rjn034NHvUR__pbeBizBv272k9-BBWwbEQc-_Q0aIP8aIP8aIP8aIP8aITAygfti--VdPIkwXC_QoR9_VDwtiWlyh9vi--VcvUdU__7lRueNnCbbFWyl
+cDFpVpnTYvETtr-G9tE-xzyEpVEhXH_tByNd_qJngULapEVfSQoVcp-Dt_XpgTo__VO_lc1cLl_BlFpw7Ptdq_tM_VxzjpyliFkVFX1Fb--VciT7Prygzs_-
+_HTmEndp3_5FyUzze9z_sG_VXVak_Hr-Vdx__Xtmy_EV_FdlwUJNzz_Vnp-_oC_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F
+py_Fpt__eVxj1JFhoI_hppxCpy-_x8Vlmfn_atO_Fxz___W_uEVVCxu-V_UV_sR__kxVxtzVFdzo7a-NM-_th_NlxoVpVa-FO_tS_6cSbugbox_zJzz_Q7R_
+RFDz_tPWdb_Td-vDyoUhhkV9dC_32-RqV7zwdP_DKZtPzi_DwzEotvk7sicoVtXUjgxpzvUratt__Bni9Vu79KcI94cI94cI94cI94cI_W8
+}
+
+
+!procedure BARCODE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$barcode,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

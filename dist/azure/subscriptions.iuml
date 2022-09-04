@@ -1,0 +1,16 @@
+' 74f966d5c1b5cc3950216945c26c92acad1e6727
+@startuml
+sprite $subscriptions [256x256/4z] {
+xTsrbGH144J1Il-TFcthc1VwPNnrf1ZcdjkNvqrN_FpyspJ6Vuc_ikKN-oTJNBTUaYH9KjhzIVqrOM8DwCqSY9q0lndGpUTFkpzfFPltTEpu6U3vQ5BzVWI_
+5uH-NRmXmd-ftEyTGIT1hIMPOd_S3JC3t11E9d53CEcU0Vm9VsFE1Ulzawa-2DJxTpLmCT2RYm7dWTuEuE-T1JO29yCRV-4kBjbEvhqcvDqcfyw0RBFb5vte
+pxzscZ-ved-Ey3Ul0Edsvyh-wVRpJvEVd_-mIo1-Vluhw8_myy-L_LNNVqVU1EU_XdwhkVrrwgi0L-0V5Fzqw_cdd3-b_AsLl_s0abSP5wAnAy8bIP8aIP8a
+IP8aIP8aIP8aIP8aIP8aIP9YuAPq-_dJpUTFiv-VF_njyVDdu--9dv-Vdv-Vdv-VF_nryVDl_5Nny_FpRzr-_dJo-Vdv-VaphqgLdpylyQdrx_Gc_qjlqkpF
+rkvFaV_z9gt-hS3Fpy_FZr_XdtB-bFEdd3_b_8aPqApdx-RpJpb_IlbRktzQ-LihVslLRwNuhPllLJ3lWWv_Cvz_-E_6v-Vdv-Vdv-T_0W
+}
+
+
+!procedure SUBSCRIPTIONS(object_name, caption='', xscale='.5', xcolor='#ff9933')
+card "<$subscriptions,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,18 @@
+' 1c29d457c537a395ff0b5c38d6035ba01c6de69f
+@startuml
+sprite $cdnprofiles [256x256/4z] {
+xC610000082W_QaNgG800000000000000000c1qw9W80W84GTl5lkXQwypW8dm00LNbgWrzbEq1R3sqzjFM8yn7d4-UByz7M8yv7Muyu7t4-SJvnFd4-SRuu
+dpYVkb-SByudpYVE9yudpYVE9yuNvpD_ca-SByvd_ZHVd2_EfwsdhIUDHzaEOJgGnYEDHvolhKUSByuNvzFM8yxNraCQ3zfwYFFHreEwdpWVTJznFkf-SRvZ
+vpvi6mXW68hgQ_-TqplJGyIde_u2nYEAkse7IE7l07rRhByVutKX_dvHu03ziH-xlsyx5ly__NrmlmvWzZysnO_LtyVpj_ZT0npQtvfvW8yUxI1u3Sdbxodn
+jZ1_DrgKlt4j8FmiFqFzxV6JxMUkl__kH_X1VY3M3sWzVW1Hle1MWS27-usjl-Ur_YZ--hLi__expw-b-RL4lrPtvGvGtopGh-NvjNH_fVcrRF_wAy2__e01
+W5G_3GJxFT__piNd-jVFYyBvLDmR0Fxe9zeFUVupVm7s7NoodvFv-P6VhqhtCutlzaEwdyd-ClWvxqjVJZQ0u3r-vl6zVeRvo-rd63zo0E4x_GpYvmsWVB-V
+8VxC0PJlzpE2RrgW9YrW-Ro_DBGZwob3qoQup3N0m-0D_9cV4BFtGFSUxDv3tdleTO4IyLeYNik4QnHGKDvuNBYe2Lst1mS2000008ByhLSOe9e000000000
+0000002
+}
+
+
+!procedure CDNPROFILES(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cdnprofiles,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,15 @@
+' 3e5b8d78737e9db6d2ab0e1346b231ea27dea24f
+@startuml
+sprite $pausemini [256x256/4z] {
+xTrBReCn28316j__p7qJ1NKP797-CmT0V9RtlFrN00000000000000000000h4z7fhv0UdLgwFpwT6JewFn8kUk1eMFpe-ZgZs9mVtpRdye3TEJlCdLc_stF
+sx8T_NNgqFxSTD-9Jm_tvz3P3v3zktYyVxrq_yvLMuUExOzdzSVK_gs_TTNyLDNuVlrrrVwX-gTPp-rV-aVGhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlN
+hr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNx_w9VlUFzBl_
+fhzvrRZK_SE_7-1wzp-ZTzDwL7R-0TZpzszpwDZ-dssZ_VvnxFkfbxr_dKFdtpzVtvg7pZy0NnqzgZ__1KOCdGy00000000000000000000-
+}
+
+
+!procedure PAUSEMINI(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$pausemini,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

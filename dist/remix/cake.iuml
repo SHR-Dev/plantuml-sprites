@@ -1,0 +1,18 @@
+' f9e43273955503331c6720cacd5b5ed98340cc23
+@startuml
+sprite $cake [256x256/4z] {
+xTo5eHj138P1QxV_ciFH8okuWVC_NmUZOxpzNrNLBRWg_ihcyrSulrBvNQg-2-MlZmNwg_M10wZM3mC8qk-zlmmWRytV7miRm7Dzb-E_e-y11F7tlkElK7xx
+y_XTWBy-jdByCp_HF-W7VnI__J5xlhZzV_FJ_CqVzFm9vx_VuVC7hFwRFtJtL-6RVsLl_fMy-blzo-g_Waz-A_hSl_tyitvLhdzzyGVU-MXzvfsVvWVu9txh
+0_oH_FRF_8XdVg7yzgzGVlj3-UrFvVS0GldjNyDnBsq0AulV0-YQ7-MlL7qFeFBqNNND3ojDxqilIP8aIPAgAXBzibHz5yPVBqiQGEj31_2Pd_Z9-_m1HD0A
+CBq2aUJVR-Bdv-Vdv-VdT_x7py_Fpy_Fpy_Fpy_Fpy_l-TTb6_mFpEVdvxV_S_np_xzcVwNmr_L-V5R7clt7Eau_gv__W7Ioy_frg7stTQYp8pWeR_xGEjcX
+0Pp6x-zqUWAdtjNTrwedS8Q_BrVlJq_uzoKxuM_-5UDVLIVErKDN07x-rVx47G1_yoyPFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F_ybukVd
+v-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdhqVmrv6V_sRy0hXUrFoB3-1bFwwlzGZ-zORrCxzwtnVl3MWSmAH_n0dy47y_JDyRGFjt
+GAD_fVZNvDyHtV7pLvQ_xlbtIFVzAyU_-FdvxVyS_vp_yBl-SVtxsH_HV0CeajzLn0I-SmCueTjOX3ucIP8aIP8awJq
+}
+
+
+!procedure CAKE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cake,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

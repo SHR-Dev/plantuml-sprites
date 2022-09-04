@@ -1,0 +1,22 @@
+' a660b9d9290dab95e8732a5a4660997536604463
+@startuml
+sprite $asterisk [256x256/4z] {
+xDQt0O1000En3_lFJCxGKLgtWLov_4YI94cI94cI94cIfFeeMpyNnc-teWROzAy5ilpzqkeFuxy72FBtHr7-zkLlIVx-Yf-VVuwVdv-Vt__Zv-Vdv-Vdv-Vd
+v-Vdv-Vdv-Vdv-Vdv-SVsRaJvBfX60QW0-d-P-w-eMqKOIm1VqBw0j53lD3-58rzYnw_lYvhswR1ho_AnmTWyCjhkiYdbitlHyBFUaidBVqXYY3c9pm5SBDh
+z-TwEG2_d_c_5tNHpmkdlFt-dtfJ9_4FFXqKWDaFq8eu04FNCWVWz3C_vkS0OFM3-3R_d8i0OFE3-8PESbgra83eL_NZZULu_NDG0bVzNF5CdnyBFoU06tx6
+azvm0o2_ce3kr_LvFoTmmxyyyVD-Jk2yVw5F-lLgGFSpVywSVypj1Cxwj_LpNFBB0U2S7oh_qWDG301d_CZnzViF1u3dVX1VkF_U2q1v402F_11YFyJNwu_r
+MW3TpteXSiy7u9q4A0BLdzVhxn_haq3rwsU-0Q_TZtbbef_-XlJ4jIOmjnDW_zpmAtoddhy_RQzFsl-rhP_YFpyV01R-A5zFG2_ArduSABRD0Mmd002h5ycV
+vuXmQWsPxo-9EG00Qp-mgnzflLwXa6qLW5vTlNu2uuzZTJPlVU7IoxryISpyTKAxrLvIhx-XlelRFeyaVBWarW_zuqh-y0JmohFY307G0wzI07b-_XeO1hwj
+8DJr8ZzV3btGQ_nyGJWEuNLzFW4X0a-bxw-9XGI4IhzG0cwz_qEvlzZDFmxz3_ny0FNu743cNIT_FF07-VbtelQF3-Hl_sn_cUk__SnlVxtwXyk_Bl_h1G0G
+lyZxhzuewFx-uTTN-Vx5-dhVF_lxD-ih_VxHlt_rxv-alvf0GJu7KE3Sjrm3tV_K_M_-_iUHwd_CzxzIJed-rtp_CrBzpzt_tliVUlzBVWEOOVzJxt_h_O-z
+_xNtF_V-zvv_u9z_CUxClnX2GLXW_edrJkYVV_FiMU1fvD3h4TtF2SIw9dJ-6RyUGCy_w_btFV-mvr_s_DEUVtlKZthpZ_Fph_K4Qiq_7nv_px__tDvT720C
+XK4OVD9_pRZptz1aPphuk13Vlzq_65L_wlx5X_S_Zlv__yJ-ZVqZ-rVsprBsxrg_id_u0_hrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_VE9Vltwrqk_Vltw
+zJl-wrL_Z-gldzfD-W6A_A3-UrdzhUyK3-tcw8KMvPtr000000000B05
+}
+
+
+!procedure ASTERISK(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$asterisk,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,17 @@
+' 19e164c5cb3a9810900e9473f0ba655d13936374
+@startuml
+sprite $microsoft [256x256/4z] {
+xTo7ZGD1241H3zj_pHSvnSiWPEJt2q3pdBrXRW-I94cI94cI94cI9EaiRZc_NWi_bjRm0AH-yIFGmRzMbWz0sN-jhS4Vk_rHzr-BA_lv-Vdv-Vdv-Vdv-Vdv
+uxzTMUlGON-KQjPdW_vuxVolZxNs3ntp5nRwsXV-yj0Oz9zACJYqxky-h7XcX_RxepYrVwavDARyft-fKVQVIV_jVlpP5dzEBGpTw-VdvpzV-5kNok_xZz_l
+Ftv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdxN__2x_i_rh_py_3x_VF_TuVrla_wSsd__uuBx_wfB_Vx-rmNtVxh_jxRMx-v_h_5Nx7-G_9cX
+_VwidryUEkRFMktzK-t_mi_Fpy_Fpy_Fpy_Fpy_Fx_Y7ur-EVph-xVo7yr_EV-u__-tw1zU_kFw9dv_Vvv_lFtxtl_3py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Ex_eVVzN_yhd_bv-Vt_UVtNmpS_xPv_zFv-n_jVngZ_cXSQLOSEkY_uhN2GkDg7xff_zVhYtRiVv1rw-j3xV_2py_Fpy_Fpy_Fpr-8dpyM
+y-l-izj_wlwNjkhJNtm0jfRyMkUbjVhabpghkzLRpN-G94cI94cI94cI94dF
+}
+
+
+!procedure MICROSOFT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$microsoft,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

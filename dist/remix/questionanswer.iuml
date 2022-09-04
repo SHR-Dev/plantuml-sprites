@@ -1,0 +1,20 @@
+' 6426a0c348523bab9ebfc550569ca8a3b1dfce22
+@startuml
+sprite $questionanswer [256x256/4z] {
+xDpLOGCm3431Mjf_veQPEOhkRN36B_llHvCaIP8aIP8aIP8aZHerjgzw5J--ljUCm8wznXYyYfzVtCu8F9-V9OfPp_Qlz2LQ3S1J_Lcef_jZvQyq06sddp-V
+kG7uexq_o_cZiPy_w_hv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vd7feR-iLyV_ug__rT08_zAlpi4dVmHQync1Bhu
+zn_onwnM_jYZzFCV_IgWhp_vex6VFoFuHrC_Fpz_TF87F_zE_Fpy_FpkFtv-Vdv-Vdv-Vdv-VlvByVFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp
+Jzgxg_I8OI08mfwv_vt3InKM-olrS-ZlY9RifdoXdwRv_fmLc8RwSuL43F0lhOzZc9_wM2771FzI-l7-c_wOd_5-h3iwF_WMF_aoFo-bflJZpE7mSzUt-XFx
+dimFlSsFeU_nS-4p-g7N-CcN-NdcCVd95_gvyClyv1lzMSoFWUdWftuvFjFUdvNy71CqK7pzny1tLUWFw0ULWFz_dRz4p-ll3yXz0qsl_rd7Zo5y3jM6VXnv
+2lmZu1ojxVpW5mp_UQy4Hxa_yUFA_PDU2g_tax-sdmN4PUijy5--By4_bJ-A_Dorunn-0XFy8Z_vww__F0iK-YzJ9y1Vri-0N-A_v9otaeF-Tpz3_JaE04o9
+_v9IF6iygvyfzwVTdpe_2p3x8z_ZyRE0oCvPqC-TD7jdLVyHlS9Y1_ldLy0MrlCpdHjOp3z-aTNvkS_g_2n0vsS1EZyBI9sV1VZyF6lh_2p0vsS3EZzN0PsV
+Gq3dvn0ey0iAW5zI0Fss0kWN5m2_QX-aNxGFqYyQ0a8_JyFqwmgWtzO0_Qe6p7uMaF1R2hZvm-7dkn3WznMGpk7F3wA4qO_tj2eB22kVxsbr1dnXmD_PsTdP
+sTbv1W
+}
+
+
+!procedure QUESTIONANSWER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$questionanswer,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

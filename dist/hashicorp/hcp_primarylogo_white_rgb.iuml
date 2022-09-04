@@ -1,0 +1,10 @@
+' 90b82269e91868492ce3418dbe36cfc2c69847eb
+@startuml
+sprite $hcp_primarylogo_white_rgb [256x40/4z] xS410G0020AW_g_kHYamxm0000000000000B
+
+
+!procedure HCP_PRIMARYLOGO_WHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$hcp_primarylogo_white_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

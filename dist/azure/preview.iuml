@@ -1,0 +1,16 @@
+' aaf715438055b7a3cbabe1f15fb41fe50ad3a158
+@startuml
+sprite $preview [256x256/4z] {
+xTT9Ge1G34J1zlwNTkNgEoj98FLEqCLCFakI94cIf9THBQIVRTEVBUEVyQ_Yd_6luf_ny_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FpZ-Bpy_Fpy_Fpy_Fpy_Fpy_l_v-VVUW3u-Vdvdtu0-Fdv-Vdv-Vdv-Vdv
+-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VcpsP-tjldFYTlyvy9j_kpsvsoJF--snfyFMkBFnstmvxEUxyyNFToVBnlkBzWrsb-n
+QhA_PjHSVz6ciVwoHTlzcUal7FGSVtRxyyks-vCd-9FL_lofSVxo9SFy3Jj6-LjM3F8tRHZZRvimnD-tu4x-ND5z_BccxVxSn9_BkeK_k_svjF7-NDniVwvl
+hZz5pVIdi87-r3RDd-eQ_Atyiq7-j3J6dzt-T3N3dxucFF_JMRi_pJNxqr-jFxtw_cjo0F-iq9zf-FEgtDd1NzV7V4cI94cINW4
+}
+
+
+!procedure PREVIEW(object_name, caption='', xscale='.5', xcolor='#66d333')
+card "<$preview,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

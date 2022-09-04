@@ -1,0 +1,18 @@
+' 62e99f997f218a83ca24acc5e403d1fdab77e93d
+@startuml
+sprite $ticket [256x256/4z] {
+xTq7WkGW34L10_S_y-QapTP4_QbtWwBT6UGhFacI94cI94cI94dIogY9ZwghtzFhhK2np-_k0XJz6LnPWLl-Gf_TrmMuopynjVodbhy0rN-YkkdVUVvznyz_
+mhhXNwd-nS__i9S__lmt07x-4nS_Fpy_l_S_Vdv-Vdv-Vdv-Vdv-Vdv-Vdx-eFZv-Vdv-Vdv_V_9py_Fpy_l_P_V_dz-vv-SVtF-q_dVkW3v_Fm3yBlXNrdp
+3xe3C0BqN_dD-IS1-lsm0J23yOL_gph-Pp1-hy9lJq2QgLz5trY1cIy41L_r_OjW5d_zKTz-9PZ7VyH1UBFy1H-s07r-ltd-wthy1GZdzo-0VFyrotzT0HT0
+dyy_O046yCVzABQVrB-AF-2dhiu5aF7mz_qxuE7l-jS0F__rH4tmhpVitq_lNvj_1_ZvNVzU_xp_1Nx-uVVzn_VV07xVx_Sllt_w_PlV_r_-_tnCVy1UT_iV
+x7-n_yd-j-ZzZutTdydxNrTJFtWJ_FvIMO60_U_j9UZm2tvY--77FyxicWjGzDdddvn_S_xH-LVddvr_D__0_0lpJ_ZDF-8_SV7py_Fpytl_v-Vdv-Vdv-Vd
+v-Vdv-Vdv-SFYf-Vdv-Vdv-Vt_-V_Fpy_FpU__ZvxN_dv-Tt_idvDtxtFtR_O_S_tYdwXd_jhqsdTmTWh9tIwWs0ILY4_Woe5TNLAiIUdoH9aYH9aYH9aYJf
+FG
+}
+
+
+!procedure TICKET(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$ticket,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

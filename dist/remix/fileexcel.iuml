@@ -1,0 +1,21 @@
+' f3fb400aa1375b269f02490acb3a165ff9736e5e
+@startuml
+sprite $fileexcel [256x256/4z] {
+xC610000082W_QaNgIe00000OFRfu0WWA0g2O0tvv-pqd3Wt_CsWfsh3utG_hj_ON86Hyva25tWs4M3ukzvP0F17RoS2L93l0r2-3n3r-m0LuFi0tky3UByF
+uExl0tY_3r3tV1yWwFS1lDy7m7uV0Fjz0Ept0R3V1y1-7m3xVG3izm6mtmV0VXyWwFS1lDy7m7uV0Fjz0Ept0R3V1y1-7m3xVG3izm6mtmS8-tq0wFS1lDy7
+m7uV0Fjz0Ept0R3V1y1-7m3xVG3izm6mtmS8-tq0wFS1lDy7m7uV0Ffz0E_t0PJVp_jzWEK_sBcFz8Y148Z27t3_CpjEJazefMhAMu_2pqIXfcAkl-pFqVxI
+zUlxxRVV_hp-xTf8mCyAyE16WlwdqVrDcBSRfPZ_Ll4Ke01RmKOA_dl7ROZ49mjiT70_Do0lcFP68dvkFfqmhOqk1L3pzoRAOHjnFnU0Dacjzt_02w3rz8VQ
+vr-_0C0_ifyBm7v-zqlv-IEmonVmGm7O3tmbFvjQV3t_HSMPKfdmo5BoS__rKe3C4nvUATB-e52r4p-0B-Nd5q00_-8lTNzGg604FFrgVYu0X5ikvOS245_G
+toy0_EmNzVELK7pydtR_cml0iQCbxTzV0E2B-BaR17nrFnU0-Vh-skSlOJyNWFcoVlkv0CnVq1yR-Glv-oy0u8lwkG3Cr_VpsOIsdmiGE_dw_bC1a2_kvm8m
+Vqb_RVMNj9zV0C1Vr6z_RVEN_VRRR__8pt_xq_x9l__jpmNzllu5lb3_m_qlzp_T__Rz3z__ylrF-xt-mUjVlFw9-UFMltdzezU_vkZrprx_3dmkmCBpBxdq
+_8lddpp_bXbJvnyz_ve2yy-UVrV9FqWfF_ERyIT3ya-W8Jmr_yRvHp4b_mhypZyRa7y7dQ1P-OUNhPn_EId_5BQQbN-RS_EFyxkT-x1X88I2ACYd_vwTRHIT
+Bh7Il0xc3b1U-zSVukVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdxy7yfNx-olONF__I1o3x-Y_qLxA_Ll7tKFvg_XxA
+N-uVKrLn-ENyiJuGMTKA_bQtGlNLbbUZ9FdWBwyYQ-kMHfSaIP8aIP9q1W
+}
+
+
+!procedure FILEEXCEL(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$fileexcel,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

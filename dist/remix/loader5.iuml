@@ -1,0 +1,17 @@
+' d3d9a37dbf867abd00794a4ff1647ac42a0994db
+@startuml
+sprite $loader5 [256x256/4z] {
+xC6X0G0030AWxV-dpNOZS1C000000000y2tidOLrvG0GnBpZ_ck-2-U3mWzNCnr8Ry5i7Jx7X9_N-2HSqgC61Vxv77Qmdl-y32dOp9_alCsTWjNy9mKC2FZ9
+mBp4nCyAJFpS1Wlv0Lyn29YV0vD0miyA1FslCC3y7-V2W8EV3KZuEI1W0RzLm4n-BM0syFz9mEow_lDz0NiC35m0Kot28GF9zmtiklwTztWE1MPOWc8JieVl
+6G01QnpyGC2nB6108O0D26O0vBibyCo_l0GIKmMmWKWk2Lm6Te6a0bY1I03tWU102FDD0OBdP2h0nyy2Ae3vAy2n1fX_Aa3G0nN0_1LG0UlvZuz7G0Ku-450
+1G2_Li2X4i05ODs2mAyI48a0Ety5p4pvW_mM0Ma1C7zNWBO1MW0fVqPp5j02YBW0M40Bm7KQ7E8t2MW1CB-t0CgV5a3v1N7nbvy5d2ZWS1T0-HNf003-i_nT
+05x-yfyQ_iFDN_xobpzg_b6T0701yF6_z1GmDlx9PG1V9a3sEuM17AhSu_zl3mu4000000JvMwymG3K10000000000000000000000000000000000000000
+4
+}
+
+
+!procedure LOADER5(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$loader5,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

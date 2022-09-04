@@ -1,0 +1,19 @@
+' b881f559cb8793c8a9d29aa3d4617c68d4a5b3a6
+@startuml
+sprite $luggagedeposit [256x256/4z] {
+xTrNakem48RHQMd_QxuvN_x2b8oXxVEzzvHFJoAuqCUz94cI94cI94cI94cgNRgEFTTMFnRhkO2_xClrsy2V-hdGdnlenO_qn_kvWMx-kLl1tvxVVm7PFw_i
+7plx9__evPyxryRFNy_o5t-7-CSp_EEoVdx-sT_l-pysTLR_s5pqzrd0RNvjQ7pfX8__Wpviu9p-BOIp-WC_BA2lVnqGndi__X_9lts-at_kxPzj_5MrzWyi
+prSJ_jBrL_2_TW6rkVpeR_yla3l4dX-_hLn_dX_rK2zxAt_UxBZvFJUGwBcPMly2nzyqy9T-jkYl5UpWRqBFDmsiysV3uW8Uzy-MxU4F_1xnZwez7ijVz0U0
+dt_qzezLF_zitEv-Vdv-VlwHcgayj3v_eF--Oq6_C7-WVtojRXUk9Gmjp8UX0_nt8Czx_VlEsWxqRmFaeVtd3_LNLPxPDhGultteyBTod_V-v-5l6kTR4Txj
+_V-gEjB_VlS_lCwVf_BGmlmR-_dv-IjSVvvQd-Vt_u_Vux_tylFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp-_nZVfz_pk_y0tv-Vl__FFwhCvn_LalyvkVVXQbS_TqOi_FvX_E_eJlsSAXan_ClywK6VZXKjEtv
+ftagyiEXiWtFlyr3QG4t-3FKuVpZF5HLaJzFNrf0u9zo0Sa_Bz4DFtzTor_yuSV_Why0_FpyTHr_-VllyGy_V_W3S7f-UVuV5d21ykjVLHVGvnT0BzD7wABw
+_acI94cI94cI94cIFWC
+}
+
+
+!procedure LUGGAGEDEPOSIT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$luggagedeposit,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

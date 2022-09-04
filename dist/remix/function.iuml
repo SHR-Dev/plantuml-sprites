@@ -1,0 +1,16 @@
+' 2b620ffab6707af8b60fbf780c39ab8310416c79
+@startuml
+sprite $function [256x256/4z] {
+xTtNOG9X38H1hwx_daq1yFGl8itNW6wSW0lotuyaIP8aIP8aIP8aIKgxnL4LVh-zIHN-LCkjlKdd_6cNP75KWtyLUtHKIVgJ9icn_-esC_VzKnzLyFSFwdhi
+xq-QS_zrRNnNyfHHR-gVU_xv07_lg9OdyVFp-_ldzO-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-V
+dz_ptvx_v-Vdj__2wtzXr9B_e_U_7VjxHxM__-ygBK2ibsHlqiBwpzNzd_iBGFjjZZekzHOdTKglvL6I94cI94dEVpZ_vVodyz-kVxZ-vVgdwz_kVt3_Y_kV
+-Fdv_Vtp-iVFNuYVdv-Vdv-Vdv-Vdv-Vdv-Vdv-V_oH-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-ptzx_f-Vdz_VFwz_yxdxl-RSdy_U
+_vQ2V-Opz__Dc_x_goHRezvn0MXkBKuwxRFtlxxZ_j_DKJ-I94cI94cI94cI9EaV
+}
+
+
+!procedure FUNCTION(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$function,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

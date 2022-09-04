@@ -1,0 +1,21 @@
+' e7e4b77967001fb50151a473919d0c769c227679
+@startuml
+sprite $arch_awscloudformation [256x256/4z] {
+xD095O1G082mf_r36qBz5wF1kBVi-Yn-_l03Vlxk0dv-_l82Vlxo0dx-z09-_l03Vlxk0dv-_l82Vlxo0dx-z09-_l03Vlxk0dv-_l82Vlxo0dx-z0B-Xttx
+odMSXy40giFzx_clKmpGaziaMjVqzvp4FbI5e6ppFbty0CQFrBpCBdumKi3j_S0u3U36_cGlxWKN-sLzpWR-IdqERE0lubDGWGtyZ6Ea50s2Q_p8-bTB8cxa
+HzQ_NXVXBdwyOu43ghj0EV_z7GKtyITIGG6syVCH3nGCWKB_WJzjkEplpnf4GG4syoV-HGN80Ue6_ufUix__S-qeJvgE-Iv-4lyJ1JZevuxRrNua_YSA4B5e
+SuoYvl_Ymi6IOoBisFov02C7jlT_QGwduAIinX-nfW2nTv1USw9_OFyACFNK2Aa0Tmqo7sa8t3Na5GyqyOUprGvqwW1PIV4CO46-i88K5m1ZTjvT0AxtZnLX
+njJOrk-x-yVZdr60Nluy0r3cDoTp_GDK-CtOGKI4kVu1rllPf9vvLC9wVspeB-a3asTQy_p7e9TVBa0llrm0VVm1-P2iY__yxXWw-VEjucR-t0NevCzp8Khy
+_fnYVox0Uh-NgVJd0fJunujK-tC16le3NVsv01tzSV3hw0_A_0p86Lpk7xXk_O-upg_0_uLK-KTFVs1t_-EFTVxuHdvz_K2ioBR-d5R-n__u7x-Fv_oRL_lL
+vVnvL_j7LQJdlV9fuN_yG_d-twRjd_cFttA_AhxJvocx5Nlk3rKvVvxwyqzYzwJcR-7Fex-RFq_-BVrfScpXp_o6VWT-GpzfPzJ8ZxGpsjaFcFXJ5VVVsE_t
+vEkFRUx_XwC-_UGM-__Lvsar5y3bsXhl2ONdAH1x-KUXF-bR-I6w-e7ewK_qLlCVY2B_VkjV0N-t___b5Fd_Rk-k4HY60I08-gJ__pbTc3cvcTAyvaxD_Vhr
+wzUlNxz-_VfppEdv_zP_OZYRa_FpR_tBKTdCx-hNhrz_Qlf7ZZezt_-FVltwzUlNhr-_VlrVHhz-_VhrwzUlNxz-_VhrwzUlVxRtpzf-rt_9qpRtvFw2ySy-
+tFzy-jFUFtw4_dJtZxp4w7DBEm000000000000000Am
+}
+
+
+!procedure ARCH_AWSCLOUDFORMATION(object_name, caption='', xscale='.5', xcolor='#d62866')
+card "<$arch_awscloudformation,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

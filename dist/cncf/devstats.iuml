@@ -1,0 +1,17 @@
+' 75fee719058e9264b1f3477659ae70291255deeb
+@startuml
+sprite $devstats [256x256/4z] {
+xTtLOIHH54F1LkUVyxB-bin-epePb7ND0zUF94cI9ELxzz7bUy_KtmzJPlKjg_oMP_1tFm3t0xOwVml_vlatVlxLJtz-_ZpFpvz3UnL_hdFBA_YletknFsVx
+yp8__yL_T1_bv-Vdv-Vdv-Vdv-Vdv-Vdvy-VEjNFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fdmt_dtMVty_Fpy_Fpy_Fpy_Fpy_Fpy_Fdp_qO7v-Vdv-Vdv-Vdv-Vdv-
+Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdwl__3ylFulFpy_Fpy_Fpy_Fpy_Fpy_l_U_VhcVl-Li_lFzBTyxa9xKyGp_eyNFV_7p_rVy_8jV_bjM
+_Mtr_5jMvs-hyxVCybjcZxyb3uBFzVnoSlyfboH9aZBvsx-_V_Zxf___tG_Qwlmjg_EtrVbR-3VFlwtEtyA_UVvjTVuM_itpRzlpysVr_Dls_FnPFV-sFJz_
+Li-_hSxVmhzv_crr_XR-pVDlg_Ety6-UVrkTluM_jNkgrVbRfkVdlrVFlsLwVlvxzVnRLkTl_9ldtx8wV-FVFF-MrVdRzlpywVcljZq_Vth-gstx-VdvlvV1
+hhaaIPAahm
+}
+
+
+!procedure DEVSTATS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$devstats,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

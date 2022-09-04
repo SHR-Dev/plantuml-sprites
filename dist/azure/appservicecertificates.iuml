@@ -1,0 +1,19 @@
+' 80ce6239e65d5c5a60d6acdc1b387ddfd4f84ade
+@startuml
+sprite $appservicecertificates [256x256/4z] {
+xDX10G101031k_wb5P30pZQO5xnQaYH9aYJftsy5IvAaz6uJN-_Y-srymOzVEF4JBtpZylFNdppy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy
+_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FpJpdsWXGh4K1IUmFxN_Ahzu8UXt-GUEn3b7-pjFhxzDvr6It-Sa8u_JkeSFoUVwe-J_9phvkTKFNya
+Pwgz_KTwuc4BiFjbN_WV8-_xl2kbYVNg_WVC-77oVb8YcRv_VztyhBi_klbPRx_zqTjlV_Jrss-__T7PRx_zOR_zzbzu5W_pnotd8EEFiph3RpycyRnO8Jz6
+ntiD_9Z5XiSim3ZRFx3XGUy1nX3mOt2SqAt-9AoiFmhwkQ6LVt7Bzmdufp_5IfmivLzV0Kukyv6edr5AlQpV_YasLT5ll_r-_sS_6KioFJxzwtnE-lFVb_pr
+Jv-l_-qVXENv-jVV_WHVr4-A_S4jPVt417dHm9_CVlljjxypttxxTVcRlntyUKxLl_aRub_6bFZqJta-_CBy_09WIf6_tSyfBJxzqqv_QF7fdt9y-kNqsnTW
+QKAGpmNOpWyTFZ44vTzbQj49UYcnLkf-kbvAB9EwdxYNqYianMSJuavzFmu1aSp57KZhVzu6cp8fVVyFz_-ron_qwtMWVsXsZ7_eTe1_IBVNF-JRvH-z_QD2
+M_tsZnhPdrm0-y5NNm3xxK_nVVtjBzEQttxxvtbkvAU-jNzkvNy1mp_3NueFxnTzMV-W_wNF_3RNV-xiz_MtV_h4RUhdXxykVfRmb__ortxxxRS_xBU_33--
+PKPJVxpNqHyVQ-UFBtNrOtTvFu7ONz8Vt_kQ-Sd3_eh-2F3R-1aF2l1hz6D_lF0x-5SEKkVdSPNu33XMYi_MRU1t2_f-QTYTSyuvvvnpplq6
+}
+
+
+!procedure APPSERVICECERTIFICATES(object_name, caption='', xscale='.5', xcolor='#fdf7f7')
+card "<$appservicecertificates,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

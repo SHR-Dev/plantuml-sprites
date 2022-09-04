@@ -1,0 +1,21 @@
+' 1d29be242fb1b44850a880a3ed1668f9c3738d0f
+@startuml
+sprite $handsanitizer [256x256/4z] {
+xTrh3jCm401Xhtl_C_DcLGMdYZ39hF7CVmhVqaREkrt9pCpCpCpCpCpCufbsSe-hZEztLse20_RzrV4FxDG0UFtheNuCe1Z_zMGr_8W-_L62d_hT_47nSm0x
+VlTvFw_d_UXNd_Up-lI3-aWzwAVvj1_cu_wz-OmVu_D-diz__Qlmqr-Ity-R_EDPWFw9VtasyGaqVnv_Fe2hUj3_MH-NEXl0zKzenVxx4t-jyGTDw67_ctxY
+Wox_i47_P_xS9oL_BN_os-NE_Qsuly_mi-4dzONyO_xS5w0sFnV_Ptp0pon_-v2_XpzFzWtuW9y-sPjym0zE80Pym4zVxf1ym0yMXnhWfvlbd_cZhTA03wp_
+o4PwVltFn-__yV7x_tpN3lzSFm2qkdx--DzY_7zx_7Uf0LpG_zK4Ljt4pPV-LVdy0FX3fLCjvUzt-FjAVk2iltxz-lNhryyFO4U-wp_NV_x-upv_BBNtI-m1
+y_Xx_LL7C3w-ET_vyT6I-EJVEO2iZFwXEy5xLcW2QK_zZVNZ26hma_v8bIP0tGfBFmk4lnaK7G3FvmV0tmYDRWI2uezll63qoOVgq0HeVSRS53NIyry1UhEF
+RmOskWzul7FC7k7W1m3mTnk0VfJF7o2Folu0-5iD8AhxW-V3UuFmoeSV0CldVm41yldz0C2_oIyW-UK70FFv0L0h7xwx_FfHFhyV52lv0xkiX-ycl_uE-laD
+W7xzhoKgxjUlNty_1FZ1vKyV12o007_o1mz5sCMV-iC4zlAtjtRnZ_avW8tyxT1M_XZvOoT_-wFYVltwzUlNFz-P_xMBVxp--U_zhlzS_xdzw-V-leP_dXyJ
+vvUNy_T3v_vZw_l7-hZyqD3b_Kb-hmsBGpc0XVqZVRIJOZI1rVqdzeipMDcV6_kvIuxMzaS4-fVo_ZRHqdxz-lMtgM2_VltwtVxfrw_V_H_tVpt-uV4lZtzw
+_Dlp7vx_ylodvx-z_i7hNxp-oUlVtFxfrwzVltxNVwx_lF_H-r-z_zdxttt-mRXfFU_dqwzVltxz-lNhrwzVltxz-gVIhz_dl-hNhr-_px_Nhz_tl_Z-dzuN
+uFSx-Bx_BQW1y2z0zFsF_01uVeirtdyR3Hy0p-S7mFFv0V1yVW3hyyS3wANmoNze0CLA_bC3Y6Buv3zHl8N3i_PWKQxsVBNfPcPcPcPcPcPczXK
+}
+
+
+!procedure HANDSANITIZER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$handsanitizer,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,14 @@
+' 0d1d428b81222c579df742109ee8f93d015c19d6
+@startuml
+sprite $filestore [256x256/4z] {
+xT210S4000D1iV_GLW0yxTq4-LmU0W0000000000000000000000000000000000002mr_pxgAqye1-rbvNvVR_-jVbz_yhylb__slo-VsL-twz_PNxVt-lx
+hs_mp_qhy_j-_Mlp-_wL-Ns__hNvVV_A_BvV_zhyldzbVj-lVsr-txyol-_NlpQ_xr-Pt_VhNvlVz--5_A2_f5-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlN
+hr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUl_MG0000000000001m0m
+}
+
+
+!procedure FILESTORE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$filestore,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

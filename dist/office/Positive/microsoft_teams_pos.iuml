@@ -1,0 +1,16 @@
+' 61d529a828c2f279e1e561bbce281633aef23e7d
+@startuml
+sprite $microsoft_teams_pos [256x256/4z] {
+xTr5bkn034L1lTp_dZ-ZZzpSLPLMnDHuZKFLB00000000000000000000000GFwO67ymF3yPLTyQdfyCpq-6voV3ynFze_EJuVb9DR9-oCZ-h7zaNFywk7X-
+Sim_6jM_6eFwLsjCVrOhK_hNYH7z-hDEP4R_EdNHVltwQxF-zNONwCzwZ_txr_jq-Jlz_vR-zyd1otPVG_gpMhbE_pha7wnMNRN_PR-NNAb_7V8FqkLVixzQ
+QV8lsLzdqjHVhR-UalnTjoxKtyVtslNsxw_DlQv8ltxz-l-NS-i93zgVEfLNzsSz8G_JtqjJtSbRBy20_ljS0FtwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_
+VltwzUllVNY_VltwzMTql_wQtAy_m_jhGFy3tVxU_Vhh8UHUZt_gCUG-_QbTV4f_QXjPJxjuVkNZRtzg9n_TdzfBtfZVNu6aTlEE_AfAclYjv1tvloH9RUjz
+-VlBIVkK_igRbFwh69JV6vJVcvslloRbzmRLzmRbzmRbz-RbctzX_etvJ-Q_zIQM0m0000000000000000000030Lm
+}
+
+
+!procedure MICROSOFT_TEAMS_POS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$microsoft_teams_pos,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

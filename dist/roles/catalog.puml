@@ -1,0 +1,24 @@
+@startuml
+!include ./index.iuml
+package "roles" as roles_package {
+    CODER_M(coder_m, "\ncoder_m")
+    GROUP_TABLE(group_table, "\ngroup_table")
+    POLICE_F(police_f, "\npolice_f")
+    PILOT_M(pilot_m, "\npilot_m")
+    FORMAL_F(formal_f, "\nformal_f")
+    PILOT_F(pilot_f, "\npilot_f")
+    PERSON(person, "\nperson")
+    POLICE_M(police_m, "\npolice_m")
+    HEADSET(headset, "\nheadset")
+    FORMAL_M(formal_m, "\nformal_m")
+    SOLDIER_F(soldier_f, "\nsoldier_f")
+    CODER_F(coder_f, "\ncoder_f")
+    WELDER_F(welder_f, "\nwelder_f")
+    GROUP(group, "\ngroup")
+    JUDGE_F(judge_f, "\njudge_f")
+    JUDGE_M(judge_m, "\njudge_m")
+    WELDER_M(welder_m, "\nwelder_m")
+    SOLDIER_M(soldier_m, "\nsoldier_m")
+}
+
+@enduml

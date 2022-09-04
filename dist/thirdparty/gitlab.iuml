@@ -1,0 +1,19 @@
+' e694276fb74818256346983ff3ec4b8d236c3c21
+@startuml
+sprite $gitlab [256x244/4z] {
+xC410G00004W_fysH9KF000000000000000007Jaqm49m50Cn50I_wAd8d1_DL3ou4fvctM-QdcRRJvX8wfk-mqRSNu0b7wVyHFwNVORDkBy02ZzFkGdzBlh
+Dsnatq_fr_a7e6pK-G4ODhBlf_Jh_0DGDkhy00mREUxN-GUWRDJv0HWsSjolymz0sQZp0p3qywBVyZPhVCf6dH-0ePyt_PP-rkOVDkhy00pzlEgtzBCr_x3H
+VRzX8ph_08QDE3y031kzxKVd7y2m4US7W66Zj_te_0CODkBy031izBOVdNy0mqQS7m26ZTxse_CFODY8ymEWzFi3Fw7VWVc7ZJW_04g_l_0J-XsOVzR8lf_I
+h_CFGDceymFusBLZ6mO268Q1p_sNJkygq4T028WRdDmQlk372UuVEtwqcy9FqO-0Ju4lyizFqO-0Ju4lyizFqO-0Ju4lyizFqO-0Ju4lyizFqO-0Ju4lyizF
+qO-0Ju4lyizFqO-0Jui___pyFnzQ_FddH-1d_X9__iVWf-XN323ctuh-dEyV8DHR1d3pRnr_plSFaEXL0-Zvju8_rVi7SF1lWT_DlnNyWTu_GC3tBI3W9nNy
+WLxz3MdZtrxwVVfRoN_vzWK2Vu7VAVTBzRUc_r4K3k3btoA_MdyB_JdVFq2WzmuGy7K5_fZl7o3GcmS8-CRU-nztdtResz2XA8fXcBp_q3zMntwvl08s8AyE
+ECbVxq1BVlAyFsjusfzbl3OKvIVt-xEMk_rPpi60LUkdw_rPrCN-f6p0Hdt3W9BywQG_wHimwfi6zEHFs_qPUWQC_Au38x_BxCzGDM3ajnqO-NN--zFhzIFD
+DlC10000000000000000u1i
+}
+
+
+!procedure GITLAB(object_name, caption='', xscale='.5', xcolor='#e13329')
+card "<$gitlab,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

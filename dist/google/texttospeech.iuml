@@ -1,0 +1,18 @@
+' 6b53d5641a1ca113fc4d77848f8981998673e4bd
+@startuml
+sprite $texttospeech [256x256/4z] {
+xC610000082W_QaNgG8000000000001cxxwH9KTYC0mYSVz3hxEQv7Ijw0a6y7ykhIo0JxJyEVcjdVX6Twyy0wt_4XRfwKlQ6dxVnWfzFyQkuL-pczzj0N_n
+0UXFiNhytUpYNvlhxvFOFVwsOFmR5w1FisRzeQyjMNzKsN83U6BQuN-ypLavVvutOyMFl-kb-EEFF_xutrxyySSVV_pnnny_u5L-_q_rAJH0iymF_QUqHNvz
+OJMs-Ecxj0r--Ydc--ddcEwdVnIp_VIFOxQ_FyLWl_xSOByZlx7-FcgidpE_gVu-RBcVaNxwiA7-Fcxaupzz3VGbE_pS4vk1Vfx6RAV_Wjpgh_woF_xuuuy_
+_lZZZp_--EEFF_xuuuy__lZZZp_--7shxVxuRVVRxhVTRxlVTh_jVjlzlkvtwLL-t_Qt_ajly_kslr_kjzrlkzzsl-r-x_JN0lzBElN77t_yySSVV_pnnnz_
+_F777t_yySSVV_pnnnz__F6pqj_-ds_6yTt-Btyv_ZoPVeyU_vU_R-AERwIVFijsVutqrob_gfypVmtrboF-OBy-g0Rwpm-0mVvom1_jTy0Vx2yE-8FznG5_
+iB-AP_u6Vt6lLplyLNZuCf4T_YhetuAg7Vxh2Q3Ut7Vyxo_--EEFF_xuuuy__lZZZpz-yST__rAUNk6_C3rUME3_3Ug6hoPsvqVtKlzpDJBwA6fcf_uQ6gl7
+NsNr-AjOFVwg4tzDRZc_MBNzrrZDhz8UzQqMnC7mrws0LclIhlfLqT3TQ6fXVgkE-wKzE10000004EHlFSZL0m000000000000G
+}
+
+
+!procedure TEXTTOSPEECH(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$texttospeech,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

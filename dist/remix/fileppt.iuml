@@ -1,0 +1,19 @@
+' 6e1c100258eed03708adb18f2c6a1513f87be4f8
+@startuml
+sprite $fileppt [256x256/4z] {
+xC610000082W_QaNgIe00000OFBfg8I108g18A_dttE_GYLCbuk3MSZXSReVrt_ON879-Ko17zvF11Z_qLk10_pfxKI0kuDy7u3oVO1JVXzWViRt0UPl1l3-
+Ve3TlnZ0-_i1xiR_nm3d_3v0m1yFC7ynWFVt0ynV3E3z_G3p5mDuVp_0_CK0tjyFC7yXm3c_3m3yWG3OtmymVp60z_S3p5yCuFtz0FCN0tX_Fy3yhG0Ny3S2
+p5yBuFq-WFVt0ynV3E3z_G3p9mDmVp_0_D40sDyFC7ysm4b_Fy3yrG3UxmCuVp_0_Dq0pDyFqFS_x_OlmBUT-yfY8WQYAEZNi_yraq5a1ak6qrBTVuUQ77Mw
+F-VwB_uwsd_z1py_Fpz_BQsPlrvG3__WPs7rlZR-eLyx1HhvixnM_XSyY94s_gfwpPD8rSMVL_ZJoVzO7Zy_Fpy_Fp-_uxzcVdv-_loXdVsvsQR-t6up_-3V
+7ULpA_y0t2p9hlxhZ-tg7_mR4s1J_tMhBVtvEt-w-sU-gMeJFpy_Fpy_F__juvzT_8x_7Fyx_tF-FmItIkBwNtU_wxzFJm7tl_Zv-VdvHuVv-Vdv-Vdv-VaT
+_zQf_Z7xs_lpVDNVdqb-R_z7nlDT_Vqrms_kJpA5x--VS6pYlyxrvoG__y--wNZ_TP3_iEqVFpy_Fp-_uxzAJZt-6ml0-jdVUlp3EifVF_2d_Pt7FwrfVl_n
+RwyJ_AD_X3V-DJy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_VpNcp_hvqziVVluJDm1ZzP_qfxC_I_pLbB_CNqtvy_un
+R5yt_E3F-fDgMJByanCWJVLvp9TH9_dWpvUMFTRMZIv9aYH9aYJfBG
+}
+
+
+!procedure FILEPPT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$fileppt,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

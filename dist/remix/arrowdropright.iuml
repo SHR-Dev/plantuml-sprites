@@ -1,0 +1,15 @@
+' a8920d18b69d60dad75144092a2c63885bf9f7df
+@startuml
+sprite $arrowdropright [256x256/4z] {
+xTm9WG8n00J1IzQ_vliP4NILWnv-oFBn1W0000000000000000000000000003ZdnFE_XVFJ0vpfzj-x_cR-j-W0h_pg0Ck_vrlqvd-U-otR__ne3l1tytS7
+sCs_0Qhz6-347lxwemFiwMysGBH_0tJxDq2pVmDK-pT0jNy3n5x_PWDK-pT0jNy3d63_1YZtRu1g_mQezc-0Qly6gFPlW6h_1gZsRu0Jwv-x1MBzim62_HkW
+tBy1WltwDu3-K-kVOBz-_VhrU_tJx_rljN_vqNwV_-FV_oo__Vsdxx_VZTy__Fxbzq-_Vpl_uFnBCT_vD-SVdNzr_jdvTzS_fF9T_-JwDzS_plfx-Uk_tUkV
+NV_-6k0kFzV_idp__nBiFzd-aylt_r_wP_bLaNm0000000000000000000000000003u0W
+}
+
+
+!procedure ARROWDROPRIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$arrowdropright,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

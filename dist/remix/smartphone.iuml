@@ -1,0 +1,16 @@
+' 22cb36f0e763498198988676af1f93c8583c25c3
+@startuml
+sprite $smartphone [256x256/4z] {
+xTa7JWKn3431sBd_cMb1_2RKyHfvtWaoMrFMRqcI94cI94cAonjCltMfFYyhRbsXpoRLNu6ZxrEn_qU_6tIx0CN-tQNl2p2IVpeNeDI_9_kpcN_pPwr_DwlG
+7rtzmS_FN_Jv7_i3uEVVxUBdv-Vdz__hwkVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vd
+v-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdpuUc-VEbKVv3ZbEU1ldly7VNO9G_
+dfhaF_pRQ6yNO99_tJNGloRxutci_37Gpy_Fpyzl_ZVCptyRRXn-MlzEtV_87ENVUVeV-r_sF-r_E__Wv-Vdv-Vdt-tYv-V_o_Zv_V_u-QEZF_Zv-Glgwbzh
+x0yWQ_tHpn_5_cnt-_bhBq2sqHVpr-t8kea-u_XBBq2V3h_O7z47V_oLnQshvKTVNZHgNLLZkYH9aYH9agHt
+}
+
+
+!procedure SMARTPHONE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$smartphone,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

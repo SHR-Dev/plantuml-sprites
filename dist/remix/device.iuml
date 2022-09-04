@@ -1,0 +1,17 @@
+' 3ad578dca5d49676e0b44de83ac5e811528e3ac5
+@startuml
+sprite $device [256x256/4z] {
+xTs73QH0343HiUc_viiMIgUuNddaznk0HywSSoH9aYH9aYJ5q1RJtxwaps75MpC_9zSv1Ge_kpv_yP-nTKw0uZ-ZoynizJ_JQvi0L_3vdoP_H1H_kZzN-vzC
+_cZmvt8__tD5_BdMpy__hFJpy_Fpy-SAFpy_Fx_jFpy_Fpy_Fp-_uz_OxC_L_k9VuS-6Rl7tFW0utPzLT7Ic-ulUfv_lRnlT-VxIdsgb_voj_k8lzIT_yPVw
+OxcV_-ppy_FpyoS_F___ue-cBl17UvFzyTPmLRWQwozvO_6dcVx2zpRNN_o9tmVeznU___i0e_rJxu_s-ulFtzjGVzG0-lsvslzayiT0VoxtypzVYJ_N-ldv
+d-lz_Fpy_FpsV_py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy
+_Fpy_Fpy_FpypwL-_bpivu-bVdx-sW2izWT_hZt-E_6f7_HcneN-Tm9aDWp-4d_a1uex_IV-ri2V_l-ZAZxJkT1VDV2lybUVnC_tzyVF_oN-QZy_Vmprvs8_
+VtpDpt_s-hFyApS0jVYlNG1oj3-t-xDPN_ov4o2pLPyns1-HZStcroMbPlnW_uct3ddf9nVTdGlgekzDaYH9aYH9-Wa
+}
+
+
+!procedure DEVICE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$device,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

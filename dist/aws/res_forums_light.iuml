@@ -1,0 +1,20 @@
+' 95938c1beee6d9f7db7c533231280e7dc2aa9749
+@startuml
+sprite $res_forums_light [256x256/4z] {
+xPrdbjnC3CGQfVkV-OlEzlH83g8U2VntWDBhPTXQan4H4H4H1h2tJtC0Njfd0g_zanpTUNq12lGhUEKFoJ61v8L_fNxz0q3qdy49_xJZ-4oozqzJpllJa2Hd
+_M6r0vASyazO3O79_lgln_ZhhpztySptd_iezAylj04yqZzt0JpM_vvY5sNVlxt-JTM-f_eV1VxU_r7lV-hV_-fM2x0UwG-v0IhzFVzv_jy3SCDVVSdV-e_-
+ZFMt_ltv0U2FKQ1_oJ-q8-VxFyVa_j__jBJV-Dl_T_w3PBf_HkW7vnytHPdMyf_rfmu00rLbgNhUdRudZV-BY8Y8Y0ZDSV-PlVtO_US53Dz_dW7izASMGAt_
+Jz2t_sV_r_x_-_rdkf5aC-3LV_w5A_x0MglJSH-uuh_QSS6_x_nZtllh7_rNHtxEdpAUu0-G2W3g_O6K0HJx0qbXcQBUFoajKr3u_Q_tJxs_zpzb-lN-r5s0
+LFlNjmI0LUuFbVhrvryAMNN-tT1V_-7r3-jVL-hV_Uon_t7UFmca1vzLZXV-zZ_jVpl_mF3zRvBf_XcXlny07Bp_JKO0vZ-P__MA4UuY8Y8Y8Y9qn_Ldyvyt
+-SSn_xWtvX-R_xltrr__pEv_k_yz8F-vBF-XRFvhLFw9-JVwct-il_dF3yx_I_xekEzNLu2X-PVcFp_L_wujocN-h_dF-izy_yr_VkhvvnRxGd_Fl_LNm9__
+zJV_zxA_-SSDFe0B-CdyOngIhR_vp_R_xFzEG7_p7yn_dXc0ijt_1Ln_7c3F6Zi1_du0Pz3uluY8Y8Y8q1htd-6D_OZrvy458ARdFmDR_P7npzR_F-lhx_vp
+o-xlxFx_QV-lV_qzDVo9ttzViF_i_dCzr-U_Xi__mUh7vVrtvv_rrvygdk5F8G_mXrG1bFj3wW2A_UlpR-lzZohA_VNt-QVAF_N-VlyNKAXVxxyOUVxp_D-H
+kVxw-_ox_-t-y-7-i_lFxZ-x_wk_-G_cVypDlnuz_nbm_lU7C8F96m1h928Y8Y8Y8l8t
+}
+
+
+!procedure RES_FORUMS_LIGHT(object_name, caption='', xscale='.5', xcolor='#243066')
+card "<$res_forums_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

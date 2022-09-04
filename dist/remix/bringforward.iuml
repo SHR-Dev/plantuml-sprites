@@ -1,0 +1,17 @@
+' 079d7c1392683b3e8e99da6202df25113c10e84e
+@startuml
+sprite $bringforward [256x256/4z] {
+xTt9bQHG34N1bl3VvrwfXdLIFFvHN0UIo8bP_5kL94cI94cI94cI9AaURhDzUfc-7wkcj_3x-Lxo1lpINu_qworuWN_eZpPlm3luLw3lDo3kloAzmJ_yIFnT
+5URNy1T-0VZvE-llj9__2lOwFpy_Fpz_tzfX_lw3Jl4Flsvite0p_AE_-nquo5-tTvI_xbwigZh6txDKj-zfdUAll_3NIVx0I_7py_Fpy_Fps_uxry_Fpy_F
+py_Fpy_Fpy_Fpy_Fpy_FpyzVg_tDNxNE__cbTkVxFx_MycZ_59eVaFTFWVa1ENz-Vi3v_kytOQ__-vzphV_Qxh_uUx5_bdIjdv-_5_lvBtv-Vdv-Vdv-Vdv-
+Vdx-0-v_3FZv-Vdv-Vdv-Mt_1UQVPVpv-NT1Vtx-uL7-lfqVz-VddqRz-VctP_Yd03xa3vJty_Fpy_FtOZz_BVNpyyyVm6f_yVTsVw_rpnlGY_tLqoR_zD6p
+tz_WZpx__cZ_b3kcdVTFcPCQUV_dVvqB_HE_vqSUukVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-yWF-tdhwo_-Fbt_W7C
+pp_ihwI_Nk7l4Fyr_exmW_xy_81EyVFp0tggkFzxVi3ZLGq_N4qFsuUVhqBzUr41-w8aIP8aIP8aIP8aIVy1
+}
+
+
+!procedure BRINGFORWARD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$bringforward,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

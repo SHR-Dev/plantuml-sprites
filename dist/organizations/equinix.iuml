@@ -1,0 +1,16 @@
+' 59d7050e9994007308d8541fb21e181bc76717c4
+@startuml
+sprite $equinix [256x142/4z] {
+xTe5akGm40NHdxh_eNSrf84QQ8gmLVcQsq5ffloH94cI94cI94cI94cI94cCCMWS_uAkyGjDwnVIn-ZORp-3N_iPx1g_8jytyxd_FtQC_zgVPr_w9_QAlxH_
+OfVuI_iNzeY_l7zXY_ZB-nToIkFM_iN-4w7eXmlxeUWdXyUdh0cINDY_lardELjGPAta2_fNSV4hXqNLdnlwK_NJfzz---stttxxxRVVVlljjzz---stdwbj
+_qiwjEnVtLtxavUVTEndzWEZQtzc__EBhlrJ6lV3_0bjb_-Cuot_FBv_uZcSm_KFU40_umLvSTJj_yHz--lReY01Sh3-vVR-0bbMVRF-fLr_3eo7zvE3uu7z
+v1HuI3yv4UxSJywcBhbXr_24gARa3v7LN4FE3AebkUeVvHsFP1EZyDEWlTZFHVraG_ondsoBN_l9vlYXdtG0PJ_fWo_zf1bM_zNnaYH9aYH9aYH9aYH9aYJz
+0m
+}
+
+
+!procedure EQUINIX(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$equinix,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

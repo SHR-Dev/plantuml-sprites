@@ -1,0 +1,17 @@
+' e472f367c57d40faff0fe97926e486f5b094560c
+@startuml
+sprite $stackdriver [256x256/4z] {
+xC4n0G000C8W-wSsnJvW9G00000000000000pWuTq000W40G6lrBcyFTHm3cJ_Dfy-SNvpD_ci_yQJvj_lpYVEPFyva_pQVDdr-Sp_nfFlEd-RJvyulpcJ_D
+P_uqdpP_Vd4-ywVvp9_cq-RFByvd_ZIV-TDyslpvnVdCd-OpVvfFcp-_E9_vqtpcJ_Dfy-SNvpD_ci_yQJvj_lpYVEPFyva_pQVDdr-Sp_nfFlEd-RJvytl0
+BmVCV-pSXmr3CH33q0VlFtHcI3qZF6yWWQPIVvp_zPzwVktuczz0_B51Sd_-yyNpomAyTixvUG43yQS0E3y3mCi5d7-u0LmAm1d8tmE0IG3c5GYw2WI8RY3I
+001P1G9KDv0q0BY_W87y4GK2H3SGQG20h081gXj86W0c2vWt0EWg422wWKW306GL253TGD800000L3uB1Lq50aGt46a0WAm20QeRI1e0083Q-q3GLI10T0EH
+1W38AX2Wke6a0G00gBqF15q5-isv5G2a0G2o2gGD06a00AeRYF8D08Xk8D8005a50W3KtWUI1W3A1j0k022wWKW306GLI1i0qW000DJU1w9y0m2Y6uWq041M
+WG00jVU1f060iW6q2p1vvdyJWpG0G5Q10DKD90q0b0rW2zWRi00i0Fluua817kt1iG00003087_htNEe3W0000000000W
+}
+
+
+!procedure STACKDRIVER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$stackdriver,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

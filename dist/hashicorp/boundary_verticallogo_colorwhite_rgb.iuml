@@ -1,0 +1,17 @@
+' 0e825736e6ec3d61898ca0bcf848e32c386dc90e
+@startuml
+sprite $boundary_verticallogo_colorwhite_rgb [243x256/4z] {
+xC610000082W_QaNgG80000009Xz-qPl00X2ABnlxdzeTyuHAp50f_B_M6sKDeIhn80SPOQvGc0_kUI1EF8aaeaZJoAPEF9077aIoSIH9v5C77aIoSIH1-B8
+aqWcZZo9PEB8aqZ6XioV8fWDoBBPXSp5lXzi9GibEvBralt922MxarTiHV0kMIVxbwoJzRbh9LaOrfPalMH_CaB9xkGrbxhubwoJzP9taa4GUvE5OMr9rals
+9oEKR4x-JhoJ38BOd3m1PA5aDx8-TwMHyINh9QyaVoVUIGP1x4qMXhKbMI_PdunGiZdvEx4lMI_PdwoNx4_Mvov_iZ2iBSXQoTPaiMG_Sblsdx0xOtTTxkvB
+D8CrMLoeUbvEk1N1b-mxW_M6i_VONyJsjK97k_zeGezUyyumSMOwj5kpKrfpPx3Mt9exW-rCQ-uCrXdCAQsvDNS6Qyq6wGos_-z3y8r22QmdjsK2oIUDJ1mP
+JXpvf971uz7r_MVNalLWMxAU_vISHYQE32UEVDB8uBOqlKGkEOqCQQVaeNSX6ycz64WZ4qXsEpB-Fu7ayzGU70W000002FAttc22QW000000000000000000
+000000000000000G
+}
+
+
+!procedure BOUNDARY_VERTICALLOGO_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#f26666')
+card "<$boundary_verticallogo_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

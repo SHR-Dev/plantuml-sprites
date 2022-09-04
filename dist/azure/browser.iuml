@@ -1,0 +1,16 @@
+' 277d4fc6d1972d31c3127fb98ea13413ab330a9d
+@startuml
+sprite $browser [256x256/4z] {
+xTq7RW8n48PHB_S_TDIYIM6GwTZ_-zHIQ6-M3jQEhPCaIP8aIP8aIP9qx5aklahLLwdwAfHVpV9FVtvTfePnUG0DTADAcCFl1z3p8mRGynC7KFn4_r6T4WSm
+xpy-ldb0mryKVpsY-DK6_7b5urzTF-_urbSxyESXnS_oLur_UNulkVjOuuERbTpEN-UzI_xMShj_V7nFzFEF1PgqyFFpy_Fpy_FpU_xBl_m0YXBv1eZtlvxh
+hmaSdrDTfEVv5uk_XGGCu6O7_-wVVzv-p03-Bf-0pnj6S-IL9p0FwFrzIzfxVpE0pUhvpG0Y-EqNlvFu5wy22q-aeJJ-kHQHpvMpzAFNL-d-4Sglildy8u_F
+R_qZFx_rp_py_2EOpyz_HCJFpy_Fpy_Fpy_Fpy_F_u7ny_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FpynyXyVFp
+y_Fpy_Fpy_FpysyJFpy_Fpy_Fpy_Fpy_Fp-__R_ny_Fpy_Fpy_Fp3zlVza_ay_FpyoVphV_Wj__dK7wLxX-f-YgMNqNXrq-I94cI94cI94cIf2y
+}
+
+
+!procedure BROWSER(object_name, caption='', xscale='.5', xcolor='#33cef0')
+card "<$browser,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

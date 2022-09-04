@@ -1,0 +1,22 @@
+' 481b1086ee8180de05f59aba2c965aba50c346bf
+@startuml
+sprite $azuresqlvm [256x256/4z] {
+xDLN0S0m3CN0YZ_eZgzoo3ink0px6asI94cI9AclJKh7jgh_6-VNEB_uf_d5Fyql_cK-V_pyktp--Fdv-Vd7-Fpy_Fpy_FO_Fpy_Fpy_V_pymmV0py__i6zl
+QQng8Go0G-O_vtFPZ_kpAIlQ9Gfv5ijFM-_UrKqzlxzMhvLoVd-bPYCFzViIiuNwVfXTv6eg-d6jNvUKzzjD94lUuCTX7kftlltZv6gA-OrDlyWj_hs7FO3E
+K_nc_VSNbBvLxVRxV5q7CPJgVb6UBHHTlTUFb1-_F5Uumk-MVwvQyEEn_hGGjVrcENhxqTgl-TgFX_irNnlh-s5K5FJxwp3qh_BZahtbW_rm-7a_2lZzbOY5
+dkCdawSHlZyUvGySnEJNzvCCSm3UTZAA-Oq125HDl-Oph07Wl1zt-qanW0lzSOy_R7-qy9F63o3fvxFz8VoPOp-IvVn_KwdySThFh_xm_VmJmyy3FjV7YSr-
+PZPSAJz9uK-k3flzv05ZpK-Ht01yFyxxFnXSlnw0S6QFCoxtCyWJVbh-22HY-oFj_vWB_VuCGWVr_KmGH9xdzmUmtp_--BsVeUFprQBFyIjwLtz4RF97HNzi
+zCSvFw_tHnZ-CFoQS9S_FBynW8h-uoKIVDyVg_vOyfz_C4m0N-NNIoJuxW0g-7CZyXyFAETVET3HYSf-qPZhb-ryhYhX1t3Qhxjn3YniFrVy_h5kcgy70Fi7
+uFjJVDyVItxW1hzM6C-EQ3vrMNd_uNPZnQy78FY_zkjszBqppn_t-tKtgXFFhoiZDlir8zB-2Ckliz-l3_nqvS_ytEVN-LQQzREIdtuVgnTBF3zh-BEbL_y0
+kEfNnVu0LakXkp7ull_y0AnQsOwhz_t-1EnQ-NSqyRxVOYpMwb-0zvc-dniYAS9_FZVuTRhwzI5HTFAJ8TB1JtRtSxi_QldPtK_1R-0VFmM_XP-2ty9F2dqB
+FsaqSjuVXhziVF_uny-Nvs__-CSVBVtHsp_-6F_unUQ_oGOWehSVdVtZdzz_K_zi_-VuTyx_n03wy05qy-EJFvhmEmuW-TX-1tx30Io_UH3NnUZsmf39Lu_s
+P0FPVVEkGQ3Id0yqvmFD-K1pFj2ChqU0CzdGjI7PcWtuukc0rsdE1vhpqPmFZByr7nZ_-1lpWLVwnp_-yOz__ECV__Z7F_xnZt_yun__-CS__l6FV_pHsZy3
+Y9x-yOz__ECV__Z7FyT_SXe7Ixuf2wR0l-t1iG00003087_hCUol1W000000000W
+}
+
+
+!procedure AZURESQLVM(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$azuresqlvm,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

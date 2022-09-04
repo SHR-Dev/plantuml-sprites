@@ -1,0 +1,22 @@
+' d0e37426624181e6aa184da8a18a447cbf35e16b
+@startuml
+sprite $download [256x256/4z] {
+xTm7aYix24PX3llVyyll9ihLvhOPMl2VoiuVdYHPDLQVKaeffPHIIc40O2oqXxRfOylvi4qVMyw7vNnOpWUMyrdE1tRhWULyiDOgNWZfsZ2VUoKO6NdC3B1G
+9OJHRVUpdCzoFYpdW_oh-R3HBx_xfJ_STXJ_6uehlylFsPdTyUCVNOYHgUoP4_wITMZFulU-ls47fEOf7SZxxPELyk-RY9s__tlBRv-kadzVLVzYBC7lzzi4
+VrHr-Yt1x_RR1B_yblJBBx_yybjDyiklx_zDVldbbrz--UNdei5--UNdij5-tcYmdxUQwkVzvlYvsRb-FjXvVZxSMNuAEiXFISVuAKf--UMNN_w5l__arzz_
+n_WDOkx-za7zsFdh7u-qcB-urO3rxpVQ9TzFNF_6Bcsn0dwVtopXVtsJa_U_YBhispze_--A3mNyNhznBzljj-FzrillzvlydVn-lrtyjlTQVh_VNkg_DTjl
+LtptXFv0lqN-bTz6-Ithjs5-ivJVvldjVV_eyo_NVflgjxVyji5FWZ_p_5-2t-kl7m0h_Vdjdlddt-VxBS5VvxS5ValmH_ejmH_fjmH_fDyimH_fjwYVxu-5
+frdXpzVlbrz--UMNNtxvvPTVVla1Q8Or-lclHZtGveTlzUc15h_y_5WZ7_hzqC1_b9y6VgkVNslZmoFyDF0VvQU1t-kFDU1x_R5I_3FziN9wlx-XRh_yyiil
+l_posm7yGh_yTW2_r6y7y4lzPa_GL_dJ-_0OW65OGTyUFxp2Al-0ydxvvPTVVldPx9TVVYRnytxvcSNF-nd8XyHDOPO-xuSXUd_Rx-vCox-XBlt-J_FuxXc_
+p-Bd_Uwpz7c_p-Bd_JwBd_Vx17xq9mOmaj_v3U2nqdbd_E5EvUxwCKHBpyTPdekox0G_FNwZhWFu3GDeu7SEe9z_m01A-QqJwFL_zVyi9_PR_C-yhfR8-sVj
+mDxrs-bb-UwZ-6Pt_3RBx-yroszPlWV-Ch_FzFjAl_oMzliyl_oUzjjIl_m-pI-_Pv9VVldPwtS0rl7bbrz--UNtMNwNV-it0Clzyilldc-8dpj-v9_0nrSE
+8FBpVWRmyQa3oFFpVWP-xZl_80H4VZw-DUB8Kpv-x1HyWZ_lD63Ghve0WRzg07bzVWBB-7420_Wp1n3uk_nybP_jVXxFXqe-p-T3fPy3_520VwoV5tt67dky
+Fyu1Tu3Nfc_NEyv51_1hs-vdDrz-TlFbNyw7lNxvvPSVlV-t-nC
+}
+
+
+!procedure DOWNLOAD(object_name, caption='', xscale='.5', xcolor='#f7fafd')
+card "<$download,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

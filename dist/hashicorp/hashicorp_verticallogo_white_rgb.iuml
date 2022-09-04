@@ -1,0 +1,10 @@
+' 3b35953dc7cc09ad374b676be6454fc602bf7f2e
+@startuml
+sprite $hashicorp_verticallogo_white_rgb [256x256/4z] xS6100000CEW-rD_8DK20000000000000000000000000000000000000000000000000000000000000000000000000000000000001m
+
+
+!procedure HASHICORP_VERTICALLOGO_WHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$hashicorp_verticallogo_white_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

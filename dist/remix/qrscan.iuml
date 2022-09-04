@@ -1,0 +1,16 @@
+' 5b2b77b9b552aeffdfe94ef83600a831ed544c66
+@startuml
+sprite $qrscan [256x256/4z] {
+xTt7iSCm38P12-o_vXUD6T-5oo_iry4g9rAlJKcI94cI94cI94cIhhWMsxjPVWKrk0JQ7jVC0lZKdv0-by0G_yHLFutuMxzl0RJ_P3RZh_Q7Be2rgv__tDu1
+-2lPpr_t_OS_jYr-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdxV_nl_yzDPEG2o5q1mGmE0GviP01xTwtwFv4kI94cI9Ebw
+L8lntO8vFuVc0XtGHpyBR_xJ5i3qMy_yDw7pBptpNuNswb-v0RJ_F2v-Vdv-Vdv-VdxNl-v_tFzw_h7c-PVddvv_U_yXIP8aIP8auv-DVpV_WValp7zY_flo
+_-FW-Fdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VapukVdv-Vdv-Vdz_zVVkC_-Fa73W3xTd_-7W2Oov_nL_BmnvqBe9e_EFuvXJx___SAR7e2
+W31xymUwJFgPPr-L94cI94cI94cI9EaR
+}
+
+
+!procedure QRSCAN(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$qrscan,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

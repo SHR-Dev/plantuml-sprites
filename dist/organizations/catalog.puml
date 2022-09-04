@@ -1,0 +1,12 @@
+@startuml
+!include ./index.iuml
+package "organizations" as organizations_package {
+    FEMA(fema, "\nfema")
+    NIST(nist, "\nnist")
+    SHR(shr, "\nshr")
+    FEDRAMP(fedramp, "\nfedramp")
+    RANCHER_FEDERAL(rancher_federal, "\nrancher_federal")
+    EQUINIX(equinix, "\nequinix")
+}
+
+@enduml

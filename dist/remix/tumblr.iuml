@@ -1,0 +1,20 @@
+' 6cc99db87727be4b00bd28a98b71a5f8e5e0a8f6
+@startuml
+sprite $tumblr [256x256/4z] {
+xTn7LYGn50LH_i_zhxbzjAsZqoY1alGYHaplIukhbpVFpCpCpCpCpCpCwc79U4hXzr_5B03-OGoGoMU1y_dNuxgxJ_V3Vnm37Es_KlqS_a77-_LViVxw7tyV
+xDVVYUU_VlZwMt_Y-n_yLB_-WX_frmy_r5_wuUVvzSFFzb-HVltma_twhqW__5I_VlYf_j8FFz0FFzLVsNxuYNxu4_v8Flu0VeA_Nid77t3q4_o5FjCFFzGF
+FzJFQq-e7_wKlyxWn_fhWa_uC_cS0DlhuK_uTnwWqCEVEm56BKo_gyVVNUEEr5EpmB0bzOt-NZrikG70exzVxxJ0_A6VNmR_2RVy-Tl3ti_x-q-8D3wjvOSV
+u1_nW_tmmsu0yF47dW3FuUFVyeUSzzE_sEL_1VjR_qKXrxz-_VhrwzUlNt_hz_rVVzwFV_JhhqW_wN_21T2B-VNt4_Yh-Ai_Te5Uqiy4MN__mG2FkyCSLmlv
+1mia_FbJ_Ugj5XZRQVbFyv_rx_VdZuC5vlYBuyTByEMy_n_a1d8Y1fZalnpG3N_0Pzu4VFxhXB_rwrzNf5-_VltU__NhrwzVltxz-lNhrwzVltxz-lNhrwzV
+ltxz-lNhrwzVltxz-lNhrwzVltxz-YdLhr-_VltwEzsllmBzfB_rLw2Vz3D0e5y_0wJxAzRF0Cd-hg-b-QcR1IBz3F2ZdVst1cWce0J_U86Ya_tKmmrE-W2a
+yGA4d8xsq-XJ08_sZpVOnj_N6xNZ0FZVOuC0_tY5e0k0ADPFiNxQvGRW2V1E0-pYhsG_9q2kdm4Y_GoWlrFz3D2fVWReI3y39Fjv24Rw6I3Rpm1fVWhtCq2e
+Npy3TAwV0IBz3F2M2-3VRe0EyrCD5mZuGzdwjK22Vxn0c9-60ypx0--3-5DEWV7zF-v1qFXt7c1-WjxPptEWQK8FVy_gHprVuTzr0Ph3mzz_0Ng57FxsrNml
+9_NcT3CpCpCpCpCpC_iC
+}
+
+
+!procedure TUMBLR(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$tumblr,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

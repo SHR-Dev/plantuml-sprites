@@ -1,0 +1,16 @@
+' cf5060ebcd76c99f23bbf62134d7edf97b5c61bc
+@startuml
+sprite $stickynote2 [256x256/4z] {
+xTJNiLj950J1Xu7_DkzI5CK_eMvqbWVP4sU-bf8aIP8aIP8aIP8atIxNihqUopyNwe4BPBzUZndWR_tz8lszm8FuzslL20_nfryS8F_zcZt6V_9VTO31v-Ul
+3e1_xVoB__ox_yv_sVZv-OkVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-V
+dv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdvy__hp_jkm__F7t_F67_MVRV-9F-kC_n3_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_B
+pp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bpp_Bptzc-Vad
+-VaxW4r-_bb-_br-7y0iF_yilmCui_pyvyFuYmESr_FptqwzMn__zGFSpYTqY__g0Ue3yF5Vli2dzFMsFXelIP8aIP8aIP8aITB_
+}
+
+
+!procedure STICKYNOTE2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$stickynote2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

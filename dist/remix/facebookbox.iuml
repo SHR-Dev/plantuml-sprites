@@ -1,0 +1,20 @@
+' fde45b055e11fd507407df1b9163f1d9ca5eb827
+@startuml
+sprite $facebookbox [256x256/4z] {
+xTm7afWm34PX9D__pEb_6eD2nbgF9Rzt09XFRA4OhfCY8Y8Y8Y8Y8Y8Y8Y8Y8Y8hry5sbSltGYLEGFPovGpWT_seqHyJIEAFKca82NxnwwK19FX7oJByujST
+mFpX7_YBDlqBWDyh-_7xl7_WBrkw7pz-_FZn-rOjzlk6hVABRnkb0QpnIx_R11RwpVARUoYnr6zcspsVMkPtzytukb9TvRST_RRIVsrN6pz-_FZnuyTlwZo_
+tTh9RslqxoTWdVpss0b-MOCLNOtyCVu-WSv-Kz6glhR-ktqe3Q2jN_oRNGK3wE6F5rfg0ctzmLri9R-LyEUlC_MljVIBF-Bw-iK_r6zd-yK_qI_-kNxxhyFV
+n1_pwv__vF_qLph_pUUx-Dtyh_Xjhtzr-6DwmA_k3_ckf3_17-ljQkZ_bxxn_LyT_YT-y_l_zk2NFT1tyJ_nGtn_VoZlxm_W_VskFHpWzs071_hnQtrjPt-y
+VVnsi1y_VlnN2p_77pz-_FZny_yFFtxy-F7Znu-Vypyx_FwlcJ_vhR_VJFx2p_-oFreZ_xsI_bWVBNrgzVwh-A-_MtQh_lgdTtpb3oCeuS__ademW2B-2Nwm
+-h-MF-5x_bNzDkqVnVr-l7_C-l7Zlmxs6_xhMByBSwpVwlhnpmx0PJdq_5zxFVJwpylxDO04Vbt_dyNYFpFk_pMx__lYKqyLtl_Blm4UwElvunay-GDyGN_y
+Bs7b-qyy_-NvF-i_yEF7Zny_VlpuEV_3Zny_VlpuyUF7Zny_VlpuyUF7Zny_VlpuyIVmqxV_SNxy-F7ZnuyVFtxE_tp7zS--ngy3jDFwTqrocTyjAVUHj7rV
+wlSalVl8sRulz0zFcC2BzvzcDvNlLvxLKFFR7slyAaKVb3F737_TyEF7Fn5-_5wOF-l7RxNzXX__ANy0yczKuTS0Yl9p_5wIBt_60BoSNlnvlxagGbSc_-m0
+p0jcuYSCu6lbx7bFgOfsvLNQtZyY8Y8Y8Y8Y8Y8Y8Y8Y8leC
+}
+
+
+!procedure FACEBOOKBOX(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$facebookbox,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

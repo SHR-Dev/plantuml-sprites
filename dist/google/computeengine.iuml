@@ -1,0 +1,16 @@
+' 8b713d73ccf4958c537684e77e6481e9e191982b
+@startuml
+sprite $computeengine [256x256/4z] {
+xTn54jn054J1gN__EvlP6evmortvjiBSDbtk9KcI94cI94dAKPV3thip_xi_X_7py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FVZv-Vdv-Vdv_V_ByaIP8aIP8aAVSw
+vq_FhPBT_RFGpy_Fpy_Fpy_Fpy_Fpy_Fpyzl_CkWvVFbKbtIpPzqyoVT_4atVzBDdtJp9ztyIJT_qisVTFCdtVn9Dt_IpPzqyoVT_4atVzBDdtJp9utyzVxS
+xf_nPy6WzQAXv4orFtDOIkP_CjN-JBK_K-tFLFiprVvCjJzJxSzK-zFjJv9YVxvKwy-tIltvKQK_lrJeps_L-VD7PVxyLPK_1vre_EkoW9yizgyVNJxqxrUk
+Lk7FZGhykTds_jnfSt_kjhK_3xInFm-rhJyFjga_3xUbFq-qeJzFjPq_JxQPFq-tbJylj94_BxMDFo-sYJyljuK_RpIfvYSfu2_mE_zWFx_pN_dv-Vdv-Vdv
+-Vdv-Vdv-VdvZNyzdIH9aYH9aYJfyP7Yl7dhIVqF3phdlLjFwf-3tlVFGIL-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-yz_yaYH9aYH9agIF
+}
+
+
+!procedure COMPUTEENGINE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$computeengine,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

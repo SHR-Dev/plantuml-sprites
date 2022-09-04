@@ -1,0 +1,16 @@
+' 222bee138d3e75890ffa3d164e7185011e809ae0
+@startuml
+sprite $text [256x256/4z] {
+xTc53SGm343HEDb_vaDHIN0GkVNx6xn2i1LAaYH9aYH9aYH9aYH9aYH5eahZtvNcFvlBxycAYBdymW_WnH-fUZs0cQz_9ElfZxAl_-dlC_qZNVpy_7-9dv-V
+dv_V-jV-9-d-T-u6k5Vbl_rVTCmuqG5Oz2_wYpvESlvxz01UZ2ywpGN0iJ-DVlxW-UGdOinVFjJWFplsjpB-lk5NyiUUFwhusu7_odn-VdxZd_cFdv-Vdv-V
+dv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-V
+dv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdtziukVdlsxy_Fpy_DP_iUUFKlw-uh_zbHv0LVxRlwgKlyMZZJvQdMAdLgfVwYL9aYH9aYH9aYH9
+kWC
+}
+
+
+!procedure TEXT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$text,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

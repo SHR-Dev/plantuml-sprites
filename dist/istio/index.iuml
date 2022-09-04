@@ -1,0 +1,12 @@
+@startuml
+!include ./service.iuml
+!include ./encrypted.iuml
+!include ./istio.iuml
+!include ./container.iuml
+!include ./discovery.iuml
+!include ./cloud.iuml
+!include ./kubernetes.iuml
+!include ./envoy.iuml
+!include ./certificate.iuml
+!include ./certificate_authority.iuml
+@enduml

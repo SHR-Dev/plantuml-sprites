@@ -1,0 +1,8 @@
+@startuml
+{%- for dir in children %}
+!include ./{{dir}}/index.iuml
+{%- endfor %}
+{%- for file in files %}
+!include ./{{file}}
+{%- endfor %}
+@enduml

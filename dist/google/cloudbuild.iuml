@@ -1,0 +1,16 @@
+' 23d1d85c7758dd5bde758453e4ed272ad64d469f
+@startuml
+sprite $cloudbuild [256x256/4z] {
+xTp7UMCn48H1DFBFUItMIXgv4z5L6VnVuysDN1S200000000000000000000000000209CtrFnNd7xtrHt7zKLn_5ESVBVND_QdEpqJ-tJBhhazPlVovFoce
+7-PFSdVzt9-zTzARd_rDTYhgdrPc_vJatlfv_YEvidwUV_yboRtvy_n7Sd7_d7-KzU-2_Y6_gtyDypVsfw1_dh-wFmNzStvt_oxe7_8B-kVZLzsVWlvv_kh-
+5FJF-Ttzkw1_o2_eduzVTNyA-kVvg_kp2_g7_8B--VLNzwUWVvw_kZy5_ND-T_ykw1_o2_hdurVTduB-UVxg_XJqp_dT_RkWVyWlw9-FNtL_2lhd-Qlximlw
+X_ps_btG__dva_MOvlorZrbsrgCQ-vERwu_FvcSzkaySloJh0iFyDp_z-RTiwTZ-UFVyoRfQ2iOV97l-y9lpiswNwlgLb7xuHwOFltV-P7L8MkkF9CFJRv2T
+eRxi3IIhKNBgipebkVRf-_zJ000000000000000000000000003u2W
+}
+
+
+!procedure CLOUDBUILD(object_name, caption='', xscale='.5', xcolor='#f7f7fe')
+card "<$cloudbuild,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

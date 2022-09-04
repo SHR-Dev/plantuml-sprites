@@ -1,0 +1,19 @@
+' 28f660e311e19cb3a2f78dea20c034475d4d5041
+@startuml
+sprite $batterysaver [256x256/4z] {
+xTs9aUCW441H6lAFUMzsJXK-SOFUp-3rL1c1RARSdoH9aYH9agIufXFJtzfFNozghn4Cv8CfRC6ljxN503g_NTV_2Up1RpVqDe3b_UscTl1t_atnrntyxURu
+-VaNBaxlh_VvQyJg_dP7_Fmhyn_XZyqtF-jlWUAWphzp08UbPVVg8_mrXgN4HxsRtm-2ObpIKyrsTvSU5sSyrMmFATz9wHk_lRft4vZgdu3FUbBwjgwlCO3z
+_Uq5_fQgoVwQpr_d-bko9leZfvy_-FbpV_ollm3my_EtTF7py_DF_Vpdj_xpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FNJvtBNx_f9FxE7_nIRcT_rt-U
+mBdyvLrR-yVyFe0J-SkdJkMFx_nn9d_vqbv-Vdv-Vdv-VdxFV_py_Fps_-t8txRry_Fp-_op_jd_r6D_tT8_VllpzWPe6tyzgFCF1d3OMlxHPPMttAcvaByp
+ZohVDhfBTXd_1VgR9h2MlpomVFwf_3w0XVpbmItbZsVuOoL_UNWP_Vpy_Fpy_Fpy_9v_xN_Qi_Q_Uvp_39ZBd__SVW0MO_xwvxz_D8VwrSz_U_NHv_zrkVS_
+um5SplV-Bw_V-r_l__bz_uUVdz_tt_YjV_py_FpsV_py_Fpy_Fpydl_y_lde_ZltFvxd_iy1t_slM_lRWB-plpV6k_-Qdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-V
+dvz_Glpy_2rT_FpypuoVt_h7pnyP_S7Fpp-XhFvIJhi0rBd-oEUFoVwQxi_FFtS0DOr-Cl_jN_LaqTVe_ea3oD9yVea_vS5t_xpYhTVAktvwaQZogXBJ9KcI
+94cI9Fq4
+}
+
+
+!procedure BATTERYSAVER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$batterysaver,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

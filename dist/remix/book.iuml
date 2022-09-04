@@ -1,0 +1,18 @@
+' c348b74e130aec4a80307d9023ab3abac17e9985
+@startuml
+sprite $book [256x256/4z] {
+xTfLTkL044H1TMl_QnwU73IxvDAfkF-6o8U28oL9aYH9aYH9gtE3wIlLutVBAYS8l7qL0mH_YzvzWD_rP-_sjmhymRSl0mpZf_ZVbt_UflW7ylC4cChF4s0e
+F_wX_FWB-BFU05Ruj_GFvAVty8S_qn_-J7_uG_tXZ_QVC_tXJ_RpdvFzUwm_3_zKFp__7ktdVuhFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F
+py_Fpy-_E_H1_jseSl_3-lNHPO0B_Q6tA0DSvO--IHVxT_H7XzPQb_h3FvgK9q2rF_pec_ZNXVxm-tIXF_pP_cEcF_pP_cEoVutt7tFzcv-_7R_0py_lzV-_
+tyg_Hllt6FzwoB-c-ZF0TFyQuj_ppd-bX_mPO8Q__m2ho9y17hhwqyQ_I_qF3x3wFFnL_ds32u3xGN_f07ltuHVvrmF-BD3y_eUA9q3gmo_pPu27Qu2lykSL
+qBb2VmQOxjyJ_HbWi3y3JFNdG_2U_ha3xFWB1XZdNxlv0gKdwZF0dkLFAmlSpZ_qAP2N_yIdG1x-iGFi-2i6sEtv5VvZPO6lTSQ7NxD0wqfFpwyVDTU7NxH0
+QYaFlwZLl-E26jCbIP8aIP8aVGO
+}
+
+
+!procedure BOOK(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$book,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

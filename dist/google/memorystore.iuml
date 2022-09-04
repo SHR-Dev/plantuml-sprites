@@ -1,0 +1,17 @@
+' 4dfe88e1e652255fd029a70c73ba215f9b176a5f
+@startuml
+sprite $memorystore [256x256/4z] {
+xTl7jICn4CLG5V8FUdRZVPCwdmIGW7HNCltgjREgggggggggggggceVb_xlovy-VFt_-_Fdpvy-VFt_-_Fdpvy__4L_nUHVxysFtO_TZzsFtO_TZzsFtO_TZ
+zuFTZzsFtO_TZzsFtO_TZzsFtO_TZzsFtO_TZzsFmx_w7R-P_tgJlkUV-VFdpvy_V_xy-VFdpvy_V_xy-VFdl_7_t-uVRlQt_xVxs__R_Ut_xVxs_tP_-t-x
+7xiVkn-x7xkVzlzsV_j_kx_zlztV_j_kR_zlyV_vV_6UVntTKrp-U_dZvkTty_FB-UFcvvVpnytFx-Rdb_F7pS_lvkU_z1kNPl-_dpzpjPyB_VCFWTtFRNxF
+_lyvVm2m-xd8_s3_B_PpYr-n_t_E_z6FtSy5_ddYn-xdTBzg__zZyzYFtS_1_bdXn-xdLB_g_k77PfaVkn_EyyzIFtO_X_bL-_yVc-N-4_R_NvBl_xVYyj_B
+7pS_lvkVNyuVDp-_cvzVpXytFx-Rdr_E7pS__xa7nxEcfHVYynUzmo_O_y-YEDC_gmAxdmFzizAFtSzf_bdivop_BFTZztEGVtRuiVivnJ-R_9pXdsr-Jl3F
+HZzsFtO_TZzsFtO_TZzsFtO_TZzsFtO_TZzsFn_p6UdDnmtvy-VFdpz__lpvy-VFdpz__lpvyxys-lDNLLLLLLLLLLLLrIS
+}
+
+
+!procedure MEMORYSTORE(object_name, caption='', xscale='.5', xcolor='#f7f7fe')
+card "<$memorystore,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

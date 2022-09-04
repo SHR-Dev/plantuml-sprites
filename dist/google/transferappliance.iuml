@@ -1,0 +1,16 @@
+' 0d0b30e5b3b22350d3d96e1b71525e6854014f30
+@startuml
+sprite $transferappliance [256x256/4z] {
+xTnLOlGy4011j-v_vnz3-fZbx5GzXdl1EChrc00000000000000000000000w1u6vpyvbBzkOdh_EjclNx_-LlyPsb_RnwRrTpqRsT_sqN7zjNzuNF-rMSFw
+wzeqlR_trQzVl_T_N_RWs_--xf7t_tsBBnp_zRwF__esNph_EPg__aX-VQ6_ddxIcjR_f5MhjGRsd_Tdykk6_VhrT-3zVwC7e4FzLpTn7UX_97FpdypDVp8u
+_qbVTW40OFxL_AlvL_D_-lMRVstLQcB_VlzpQF_smN7zvb_Dlvf_DVzg_b6__k7R_-p_7V_Dwg_hIQFNFzQaVkV_n-dNhxzhyWDG3Ry1U040c7-t_i7w5-kV
+h7-p_j7wrz-q_lbgtKJfr__7t__wDzNS_bPLgpFzHux_-iHVK4Vw3np_x_r73mhgoFbVd_pzTQ3_oFb_dxx_TAJ_X3xzwsjO_xfsQrX_rwwv_Vgz_cjQ__3z
+t_xxczU_sjxze_gVj7riOF-JWVrFdkhdzP-N_WFqDxl_Mjs4Vm1q7m0000000000000000000000_0q
+}
+
+
+!procedure TRANSFERAPPLIANCE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$transferappliance,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

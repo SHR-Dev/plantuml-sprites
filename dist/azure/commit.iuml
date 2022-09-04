@@ -1,0 +1,19 @@
+' 05650fdfae55165359523b50d3a5a55182521f46
+@startuml
+sprite $commit [256x256/4z] {
+xDs5OSGm5C1G_-o_SrbbvhFq9eZ2xFNZaYH9aYG3SpkqzT3cGviFRJwq-T3cmzu_ylpHviFUFzfyQElXpOUs7jvyQFEXpOSyVxJviFUFDX_o_D7cmzu_sdfu
+y-6jXpOVtdfeyw7DXpn_jFcmzq_zvlpwftvlVltrZpc__lh7sLy-MlrR__-_wodzrcpYU_vnSiJfqDP3cz_xVv3crmzZVkz_rry_rFdrr__8SKNRVzpGzA_7
+zL3arry_o8TvywSVgiKFGN_zzTTFFb0_wjzK_VNNJpwmTt_zzS_x-gV--klNxFvGV_trrr__dked_mNRzzTVV_t7Y_Rjhx_-UM__rD_wNt_zdV_Kt_MlPGNe
+-RVe1L1XFlru52_eR_oZfSs7DX_QV6ZpuSs7kHu_qPuaIP8aIP8aIP8aIPBPtBjwaoH9aYJ9Uf4u7jvwQFEXpKVzolpwCLiwR-ykS1q8OXWCT_xxt_bXXEKu
+bRKxjgWuzLVc3Fk5CwoETAbjjVrO_fdXuCBPwFL_PZZuOVoV6WuTlvLVQQqLV_nwYqFu6ySo-EC7TlO3iAyV87vszNC6Fm0I7nh-dc7UNmA1B_c1ONztnhh0
+FuMVLw3NqVseVX3zUhf-Plnq_O3VZ-Q7-DdNJziVFsO_bPFuby5FnUj7ymlF_-7TAy0wWdyzv-j-xFudPy3hV3hl_uBh3k2gVVVpFvwT0RUs-_rNvPj1MWBN
+6I2q7_J3l7zrXvoeVF3wMPKU7vcFWTyPJ_AalW0my1K0u_qFxaUkRz0FN__4zau-YFoArDt1dx_-ISrjUc3mwgVq5krALFxnixSUs9aV_tgQrnTYLVws26NC
+zki8Y-WLT5HFVXLr0LZQwLypaYH9aYH9aaibV-EG_x3OMn__PJjz_Dy
+}
+
+
+!procedure COMMIT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$commit,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

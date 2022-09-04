@@ -1,0 +1,13 @@
+' 988a527d0d43b07afbea0ba9b6d68178f3991566
+@startuml
+sprite $subtract [256x256/4z] {
+xTc55O10340nPF-PaGw0qtUIRF1RdE4F000000000000000000000000000000000000030MfVduSzdvKq5o1n3rXSaSGEIN9h4_ykUYn00orpyN9Ww04jRV
+_W4Gwo-EVltwRzElNxz-_Vez_th_yVxh-uVlNxv_-lxj_mS0000000000000000000000000000000000000h
+}
+
+
+!procedure SUBTRACT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$subtract,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

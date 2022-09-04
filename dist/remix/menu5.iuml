@@ -1,0 +1,15 @@
+' 0916c5e0a53f0a75c283c4b5f2a7bcfeda65f0f7
+@startuml
+sprite $menu5 [256x256/4z] {
+xTs7TSGW50110_tNx4W5JeiUCntiAVzJUBaJ000000000000C18tnsyNrsy7vCzC_mFi_ChkZ_DNfFy1Tdxu0_JzAwH_wE_erxzI-lK7RF_wzUjt_JFQ_j7t
+lwlgmtxpdtu0UCG4UAJC_m4000000000000001YFLTVtVYT_Fj9l_01jVV-0tC_gUsCy-FrM_VknVfxV_m3Ty_qz_VhrP-_twUdNhz_-Jxz-_Qv_NF-QVvX_
+cN-QVr_o_mS0000000000000000-_nuw8hzymAlFZnznEo5_9VOFaFUlp07zi-sVVVyAfVtwzUjVAVtwRV_wzUlNx_edkVvFyuVvJpx-kta063F_Fq0KVoS0
+00000000003W3G
+}
+
+
+!procedure MENU5(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$menu5,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

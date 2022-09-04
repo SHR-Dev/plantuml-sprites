@@ -1,0 +1,10 @@
+' 9cd7ddedf34cc991ef88c5ac76b48034ef1366ba
+@startuml
+sprite $hashicorp_logomark_white_rgb [256x256/4z] xS6100000CEW-rD_8DK20000000000000000000000000000000000000000000000000000000000000000000000000000000000001m
+
+
+!procedure HASHICORP_LOGOMARK_WHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$hashicorp_logomark_white_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

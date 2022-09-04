@@ -1,0 +1,16 @@
+' e45bb4b45f2f57ee1f184a56f3872745a5035638
+@startuml
+sprite $divide [256x256/4z] {
+xTs5TSKm40H0I-w_vi273NFYfvUTwM3lP8RRNWS0000000000000002CazxaZzMcZxBuyv6g0YJzOqK5IFhz8XMeQN_2Fof1om98_5SAq1e_2w0qVmfG4xzq
+0OpaBoo0_8dVMO3ncVpZdxV_lVop8l_-XkIlR7_oZ-Byipb_o_PVsNxxV-S_MG1bxNV-7n_bBxdxLnS_vE-y_ncl7W9cKVuKu9LZNqy1JgxP4x-j057z07YS
+bBy0i5LP9Zq000000030M4fl-3Ww_bp8iGL8-iKgS63-kPm3yv_Yxqiv5U38zk-BoG8uhFsr2o3jNuhyyiill_pooo-__Cv_NV-u_dN_m_qlzp_T__Ryuqy0
+00000000-FjdRmL6y_zl_VzuF1k0sb40_pyt_zJy0_DFtyy_DlDlAjjl_kaq_pJvpRyp_z3yI_DFpRyr_zZ-t_7V_5Vd_ntvNV_ttlyn_tIu_zkv0CeUWCoJ
+H-7J_WBZhUT_espyQUq3O9zmLyUFTvC30000000000000000jm
+}
+
+
+!procedure DIVIDE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$divide,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

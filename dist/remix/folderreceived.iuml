@@ -1,0 +1,22 @@
+' 5a0be05dfd82ed129cefaf9472c7626710ad2e62
+@startuml
+sprite $folderreceived [256x256/4z] {
+xC610000082W_QaNgG800000003Wzku3NMuGYg6mx_N-rvnE-daDCy8ZQG7v_Ein1ZVozAdhOuFdt4hVL-O-3P1zFhSeu0_zUKt-Q61_Fz1d0mNinsVzV0Ct
+y0_-iX6mlVzSbVr_0V3dDoW0_6Rdm37yLnTG9Zz_Bi3KV_PemCJF3PYS_hW04p_FWmP-Bi37pmMOJFyy3vhu-HHGTHD_VoolZ82bkT3VCtbb6boR2V_iaRvQ
+mCBKhrpYhmz7qi2VDKpEVxF35FoFgU82_ynC1GL0rDTQx9--etxA6fZrD_W5zvGd5feQ_oZWplvP_b7I4Q3rwmleRgr_5A1gGE3d0aJ-clJNPO_LJVmy13H-
+mVm71PZvzGLqjyBF1TZw3qU__bf0v-TrW86V2rWJWL_qVY5dV_zH8qjg4FhrxnT30K8_Pra3glbF7ny_5s3jFwhYRsj_MVkF-_lZZp_-dFyo_yKVV_pnnnz_
+_F777t_yySSVV_pnnnz__F777t_yySSVV_pnnnz__F777t_yUV_vZ3_--EEFF_xuupTR_-Nz_xBoDno-m2yfu9-KbR_-uHluUNk56dm3FtrNVrZuHm1lu8Sy
+ip_--EEFlxx6rbyZdlxw5GC_B_fz_N2bv-0V_560WH-sb7JsZoDryFCjBpz_ZLkU1dxY_-al7tyDle4V-IP-rlVfwFz3R-17lgr_w0tyoBVmyxHluMU-WH_v
+jlu2li7w7_W6VbZq6VY9x-W7lO4VpljUVk0R-85lu0U-dRzWpUkm_cC-7Ah0BvZuS00ycx-03mE0SqS_yxa0phtyhESq1mgOy8ilzxW0Rc21NyJdl5B0Kh-U
+pxcTVv8F4e5Vp1-vep_-yr9_wVpw_ottO_vw7dz_n1__4N_ynkU_mtJ-o_ed_jFd-eVzPNhzEsfRbktkVy2uMPXjxd-nVsq3Mzt_X7zrNQfAVl-R_IE20ZJF
+FyvruKEMFV_I-_cOzSy_zGD0__nxVS0lUFz1xTU__rAx-Ba0N_yemCJFqw21N_B-wx6RdmjOv--T_Do0YPyBMEClZL_m_GlwMx3-5Np_f2bWug2XW0N-xWV_
+-Klm_ICtEoBW2xv_fHdsOQagmVVFb1fvdBuKtxzpwj6HxN_0sKRFATh_mYRrDQv-tl_68hp_aKTu_olV0jhNtr_vJdxU_z2n02i-xtzgu-VzRoq3VAC0tpT9
+aYH9aYH9aYH9aYJ9Pm
+}
+
+
+!procedure FOLDERRECEIVED(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$folderreceived,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

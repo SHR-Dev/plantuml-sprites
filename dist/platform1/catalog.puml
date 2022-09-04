@@ -1,0 +1,16 @@
+@startuml
+!include ./index.iuml
+package "platform1" as platform1_package {
+    ODIN(odin, "\nodin")
+    PLATFORMONE(platformone, "\nplatformone")
+    IRONBANK(ironbank, "\nironbank")
+    CNAP(cnap, "\ncnap")
+    REGISTRYONE(registryone, "\nregistryone")
+    BIGBANG(bigbang, "\nbigbang")
+    STARGATE(stargate, "\nstargate")
+    REPOONE(repoone, "\nrepoone")
+    VSOC(vsoc, "\nvsoc")
+    PARTYBUS(partybus, "\npartybus")
+}
+
+@enduml

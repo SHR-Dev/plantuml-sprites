@@ -1,0 +1,17 @@
+' 95011fc6c5c2f2d62cc361a73d1f1538813546db
+@startuml
+sprite $layoutleft [256x256/4z] {
+xTr7ajqm34110Rh_cHtvdJbZA71Ag7vhfLRcYblx94cI94cI94cI94dHetxuUaVr-VJYLPsVRQgUWD_q-uFxxGoK_8FUeTS9gFBtDjNzWz_-1CpzUwkA_kpd
+pugVVszMmHzT_S7FV-xrnz__0y3FlxVh0Zz_pdfppskxptzil-kxmpyWyU_oQtD-B2o_TfF_dTrE-B6uA_mvuzVtkhh9uP_tHqHrp91ZhPL5n5t-4oTjORVu
+yrr_p4_QUd-kzc-j_KFo3FyMSRMVdvy_dk4FVjy_Vlz__Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy
+_Fpy_Fpy_Fpy_Fntni_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpyzl_cD-yv_pRy_mRoVy_Fpyld_-_oQK-ahn4Vxz
+5d_KBl_OQopct-NFc3VM-QlCM5-UzKyeRrbovi_yOFxe0l_SaeC_MMkj_Xx_iCpR_rskRzzF-kkO_OsMww_mDwhkvyzsV7x-mWzaFt_my_F_HrtzMy6VpVWL
+Ft_qyqVHdwtumry-0VtvStzc6ttT7_dgsVHHbFnRV2sx5D_QAiMh1lR1BnQjsWxLnDu_IP8aIP8aIP8aIT9d
+}
+
+
+!procedure LAYOUTLEFT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$layoutleft,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

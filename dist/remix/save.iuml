@@ -1,0 +1,18 @@
+' e28851722c9ed0e2fad1df98b31ce6724ab40262
+@startuml
+sprite $save [256x256/4z] {
+xTj7TYCn44H10dt_EyygnsECL6mqNiLVoqMAdiIhKv8aIP8aIP8aIPAayQWQszFz_FcKxXqWzaTrtmBVwwydTEy0uL_fCHFSCq3u3oi3tE4Fl-K0uJSTO8mH
+ViC1ukywGFnT1yZLl-i0yVST81V_bWF4Vy80ewC_0spmTnWW_gu3nDzrWFYx3X1_rm7Yxpf0_5q7YB_P06j_iqU2yVST8FwULu7ukmuGVzS1ukywGFnT1uY_
+wm3nTnqW_gu3nDziWBM_sIF1-FiE47_Fgq3yNGU8l-i0yPyxG6T_1kZdJvtz6O1_DFGd_jdJdvhw-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv
+-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VddbXxYdnlRxv-Rs-WFVsmh0sprZutjzOV_sbG6sESFVzy0-_slZUtry_Fpy_Fpy_Fpy_Fpy_EFuixoZpTqY3_yMLe6
+EC8VVVK2P_clmexoXry_m47-gxYZ_FCT_dcI_ogFdv-Vdv-Vdz_ZFtv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdx-lyRFpy_Fpy_Fpy_Fpy_lyo_yyrp__AoVVvpj7_py
+1JS09_Zhh_xy8mCSzlWltrBXNslc0yw_hV-u-2i6cAi_Qk_vn_NKiu3_or7cnS1Rph-kBvwBGzCVR6I1bC8lFlzSzgj6-0K3_6w3xBld_7jQ_cNX5pJMBR-Z
+le8_hdo2rxBtwrE1_VWaIP8aIP8aIP8aILy
+}
+
+
+!procedure SAVE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$save,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

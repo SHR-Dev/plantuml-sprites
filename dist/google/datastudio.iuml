@@ -1,0 +1,17 @@
+' 1a22f74e9f9de643069ffb78b03ae27291a05dd0
+@startuml
+sprite $datastudio [256x256/4z] {
+xTs7OLqX54H17_hlsH7dd2NjJ0ShddxYiZpxRG000000003GNp4Q_RpIAwUsmfzFLQsclpgjfh-g9v--yosrklXNxSQ_TkDVu_5Fi_6lfbxvFrUhot_LQloh
+rQV_gjNblrfT_gjMb_-IV_Jnlsfr-Q_r_CVwR-TlzULFVldbbz_hl_m-_yc_-GAOxx_J_m1-_rd-0xIUt_x7y0DGu_kVzh-7_m1j3u3Kz01GJG-0rURuvrNB
+yw-TjkUVT-RVjqy0z5duKtjdVwvJhHw1-hte00000EYh-VDE-cgElfhqrOp6rrUZhyQumjLsV7qrfQ_6lEPkV7qr-chcy-jhSLxBURtD_FfAvDVNa_mRBt_o
+oo-__5x_vVVvHr-B_FfgzDNew_Rxj_qF-r_sF-r_ctym_sB-oVoR-KVtDPf_Dl_k_8FpByu_FKm00000w3_MVxtPVwx_tdxIVxZ_mlqdvWdSV-J-A_UVcISq
+J-h-oxdy-dJ6y-lJMS-lJsSxlpuP-VK9o3_ryYU__FBBx_LVVfz_hR_lltx_aL-VZj-_zUdeqzbv0Ch-z-OEg0kLNAWrFW0sEW2eJqUVpes_-GXqbljqsklJ
+UHUyKqjdWFJf000000000F02
+}
+
+
+!procedure DATASTUDIO(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$datastudio,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

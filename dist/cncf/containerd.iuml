@@ -1,0 +1,15 @@
+' bd811505517f29f71d21263fc69a8934c467d5c3
+@startuml
+sprite $containerd [256x256/4z] {
+xTs53S0m3031mFuxTuDIqD7z0jN9meRIOvAKupJ4N-DK-Fdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv
+-Vdv-Vdv-Vdv-Li4ZuNtDmBu-Vdv-Vdv-Vdv-Vdv-VdRu-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-SlVSi1_4C_kBEVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-V
+dv-_QVqtlZyVv3T_Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VkSVpD_zV_py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy
+_67UFsjlld_B-Fdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv9KaN
+}
+
+
+!procedure CONTAINERD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$containerd,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

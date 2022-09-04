@@ -1,0 +1,17 @@
+' 244d4a75115f74dec38a0b268100381e076e7cad
+@startuml
+sprite $cncflandscape [256x256/4z] {
+xTqt0k8m0011bly_-fhB2P1bWZHREqtZREkoPP8aIUewjoPtdLk_-wzx-Qyx-ldv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VcxV4ojxEVdv-Vdv-Vd
+v-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Tl2VyuffjzaF-sXf-Vdv-Vd_-HEVZv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-QlQrj-tzlJtentz
+_Tn-_dvjCtz_j9M_lxIHlx-sZRz_j8c_VxQ3l_-rlh__jxg_MwtjxtOB-xkhPVtTsQB-xcv9Vm-qeB-7MitVewtbx_5MyZVIElx6MiJVS8Emz_9te25-zKR-
+3ZMahzx6ty76-DLR-3lU8B_UmD-C1ldrSdzp6jDNlTRVh4RvzKf_ynhbrylyJMrGN_KQVvCRvjSh_4rlc5_FztT2e_ggv_exft5-FTFVMOtpwtd-pckSNpt9
+tvbDkg7OQVvExW2_EjtVwHtXryd-dj01VNMgl-TqwKYZ_cNQtT_nuz_wNJRtDp3-VH_JRSjoVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-
+Vdv-Vdv-VlxnpY2DjxwVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdx_9NIRNv2vR9qdw0W
+}
+
+
+!procedure CNCFLANDSCAPE(object_name, caption='', xscale='.5', xcolor='#e0ecf7')
+card "<$cncflandscape,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

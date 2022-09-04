@@ -1,0 +1,16 @@
+' 487263e77f92ea2c49133a101007abe647ddbb20
+@startuml
+sprite $dataproc [256x256/4z] {
+xTm5ajqm60P1Z-z_wAH8ON0jIdztGM1nliTu7Ga000000000000000000000023zS-dNd_wfzElNd_wPzElNhp_zC-dNhrz_-gVIhrz_-lz4ltxzrU1hmDLz
+dxt0l-g_gkODKDrBDUbgK2j-EVf4SFUZUncnm2h-XwEF0lzMrxdgGVsu1QhhVDNlsxkcw3UkpmS000000F1Ibxjczz-Z5-Wj7hwlpVhl6lhimUvN7g1biuVs
+krv3RRj0htPfEdI0xjRVjrhWLGPevU-sm3eAr2laRxb0BxqUqE_N6p90_V5hg-hm0LR-nWlKwd_L_3N1GJS5dj-6scQ0Ujs3VwdQOe1NoDzqWLRAMtrH7NS4
+MFadU1xJyFupyfSUrZIyV-MV8ltFBp1EKfCFVlqry-Y_w9_zw64ph_miiu_--flTt-p-gi7zZUwlf_qTcD_GzmdjUVyr87y0-GxymVNNx7hvgPzgThtykkPI
+FvVyQxANr0C000000000000000000F05
+}
+
+
+!procedure DATAPROC(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$dataproc,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

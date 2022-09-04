@@ -1,0 +1,15 @@
+' bd2c43ccda9c1cec1306386dc43d7965112c89f2
+@startuml
+sprite $stop [256x256/4z] {
+xTs7aGGX34N14UGVytdTPl1HBVqoQ6nvFU-R94cI94cI94cI94cI94cI94cILCSRICztLB-ETMm56ZwZ_0gqVafX_xz-3oY-0EtVK_fRW0lvNIz0qBzlzgzX
+_is_iluzhA2_flgBdvy_zFnV-m7my-znyVFpy_Fx__Zv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdvu_7py_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_ERVyJFpy_Fx__ZvpV_cf-VlvlfR_wL7y3A-ckUlyB-DMxx-RCBiCRecn_qr_fk
+YdvL-uCBCANcX_rLS_3jprMlpifR7wy6zPpg8de-IP8aIP8aIP8aIP8aIP8aIP8awHC
+}
+
+
+!procedure STOP(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$stop,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

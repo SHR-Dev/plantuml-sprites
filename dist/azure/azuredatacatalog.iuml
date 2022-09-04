@@ -1,0 +1,18 @@
+' 40be2bc2388354e36a4f5afb2dab83cc20522e4b
+@startuml
+sprite $azuredatacatalog [256x256/4z] {
+xTrL0jmy40JXAT__pZ-4amvdPSdfgiUbqRVCdf-FhSq1TVlrZ_ukVjQbp-husOshCZCpCpCevmFwzHVpGV_wzEi7YlsyhTLFjvyFjVjfzzFkXpe_sJ7-kIEs
+rkwdtK-xdrw_VltwqH_fz_QlNx_-zUc_B_twzUlNhr-_VltwzUlNhr-_VltwzUlNhrz_1P_Hhr-_VltwzUlNZtxz-lNhR_h-itxz-lNhht_zer__zFgdnpzR
+qr_Edsw-sthemcTTygpBdfNpfvm_tNpzvVoHNqJFkk1P5puhvyyEFWCC36yRVhIS1_eNJ1oUuryuiCwVFTVFQog__A7yyWVzNlyV-VW_xVwfyBDowkDV_spI
+PwnipTo_u_sFBVgCzRroyhFV_rll1pZGpsIh-72WdrlylEj0F-lzVEn0Fo-P-s0_hndx0yd1VdZDq9znBFVlBzPVuC-Ezb__L-k_tjVflpwjptzzMPy_-sBF
+wCSdyuFzZl5VMshtNx_gvzd-x0Y__ak__YqL-VNhrwzVltxz-lNhHxz-_VhrwzUlNxz-_VflvEk_JlRhrwzVltwA_FhrwzUlNxz-_VhrJxj_slrJzlvVLkVF
+wdx_a1Nu5mPPWp-hzUSvKEBFsltJxX_qwwVLht_qwzU_fIg_VltwzUlNhr-_Vj2lNt_L6P3yGhz-_OI_wmmuXgyVe8kVVdhz4_u2VlZHlu7VUGPmf1ysypk-
+2KNozySdtOA7EIg-Q8qy-0V5jtg1EPeZuwRctEhmMPyzAwHdVVQiq9wrqRC-VLP7p_hqMI4-AyHd2-nc_m8
+}
+
+
+!procedure AZUREDATACATALOG(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$azuredatacatalog,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,20 @@
+' 4ec94ac3822c89abd5704a9d468f7617d2f0f640
+@startuml
+sprite $splunk [256x144/4z] {
+xC610000082W_QaNgIe000000000001WTkr3Lt8OXCAmp-7zttdLh1KAlyOQk6qIrBOGsny9gHCxrfU4z_2wfpyU_-D__8__yNCy_iTlsJVsMvPyMxyaUTtQ
+xplxbxMa6_jboRU-_adhZlv-o7iEQ-tGZjrVJZcLlzok6B3CKp4---rvVPu-pvjp1FxqLyDx31-FptvTwwJ6-vKSlh1qoPdrgrm2-rMLHEhmsL_cXERyvVZW
+vpcaDogGAWyEEQhGbD_b-0O_JY6zKu7KzvB_ptDPa9HNEkBdOB_B6RJZlTr_ER562XNjCkctTlbtkF03F_kbtilbobysZCRyhjeH_4u9fLzgtBjKVZXXDlrb
+9fTNSCHsAX17-r_m7nhofpJs0xzHWRHOz9lE6Pxn2vPK-Gj-fm9Eiu5V-3yp_dNkXpLX2SxzOLJoHkhxp_C4_5O58axs0pR0z_eD_4O5zFgnHh_4R-3tAk2W
+2n7FDklNOHviWD4emAa_Vg___9ROBvwxrY_n6ml0WNv-1jHlzSkne-bd4D_M_tp_AmtTFlwv1twjNsdixlcFU-1xhtywprCCtW5m3-ZKhs_sBm_U0N81J8xY
+2VmR_NcHmte-hGVaWT_WZxu_zsb3NuV1BppymLyjK0F-FBpx-Xm2ltdtd_izuUVzmlg-FtIs8ul_Jrkr_L20Xbw1C-SB8kz-zeSAVjEVnveuvuilQzL4hs-K
+CpMR-luyMklzznv9PLaZXU4mJluAQwU_j_ruQa8zX-flKAgVktpwe1WOVJ-t6EevVBI-EcsXlywNf_nv1dM-VvhucUKY2VmqxDJz7tU0MC-Xiy-wWYJmhwBb
+P_shw7zMdbT0n3BeKoByfiIgN2R_KPxsk0CXss5RnDfP4ROQeqw6zBT_rlMl_VaW01Y60G2KpB_dzNhe0mVinT_Vtz_Vtz_Vtz_Vtzy_uqdvJR4B00000000
+002W
+}
+
+
+!procedure SPLUNK(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$splunk,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

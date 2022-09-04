@@ -1,0 +1,21 @@
+' ee98e57dc4c9c7ea957ed9c02493fa3ec1113ceb
+@startuml
+sprite $foldertransfer [256x256/4z] {
+xTq9cjfA40HXghZ_cTzgkxmlHFU7KXrn0lyvW6Q493zkdvcPcPcPcPcPcPcPcPcPrVhYyRmeVQyiPu6nhovYW2_qppLziS3r_KDVMiG0LJNw3Gi4-8U_wHLm
+UVzpLzT_1yoFFs20GF_L1vYN_zu1AlpjpmV8zFFc5w5iFryW_EEF3n3kvyV1O3yV8D_F1mW__FFZOBYVVmHKXVZxjNxn2jZQGd-3VhfexGxuwR_qDmROLarB
+_FLoU04-0pZ-OVxldb7gJItmaoFL3F26PW3insVKdszRWFeR-EavPTuCmFniW6G_vJ_ghQ-0DVxS0RfxXPyFyAu5tktd0t1_GNyj-reztCzV0e7-XluP8DUV
+Eq1th_Jp0LBzl7luq_uMk9Q_-j_2_No0zGNuvnUXJMttyshgzUttysfzi-Ur_TEs1JOT_mBAz_C1alsyAlrzjB-I_RmB-lNhr-_ddyS__VhrwzUlNxz-_VLF
+1_lh_qxrryVEz5Vf1pV29Vk73mR8z_V_dUkV0LBz_Dyw0-Jv-QawCa2-7zmCc-_lh_nrd9_V3v_lvmFa-_a0-NumGAwV3P3lPmFa-za0-NusGBwV3P3lPmFa
+-za0-NusGBwV3P3l1mE4-slyO81aV__0FmD4-lcDa3D0fXy_56S62FI3XoA10TxWf_VtWUV4NjS_UiQV0IhGl_P9mI7-uQz-UbMO_xcgH7-lyyy0KVwd_cMr
+_jQlNx-VV_eFFFxhF_Ztt_o_VpW_m0zU080VVlu7yAz-_gyFFFytWTE_GUT_-Gdm-FF__3K0-EdV_zMXt__v_Q_V_tlzXzV_UFsNr_zv_IVXU_str_zx_uVt
+_tZ_b_V_UV-dz__c-m-y_ntoVVw3p__m-Iy-_yVdF_dyBv__vlF_kD_dF_hyJ_twzUlNhr-_Vlrr-F__e_yH4lRhrw_Vuv_-ASl_tEAl2FukVrT8pVq_k0qt
+ZZzn_xybw1VxfmvezElyKwIU-_FJZuv_-RL-_UYkn7H_wTUl_pUwgn-SG4aBdRxIN_Vprn_w-rRyyOC1Zk2Fl_ik-XVyrHzBfxzoUNtD0j4D_jM7ztHuBrzU
+NhVgyLA7sFCpCpCpCpCpCpCpCpCpCxE_0G
+}
+
+
+!procedure FOLDERTRANSFER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$foldertransfer,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

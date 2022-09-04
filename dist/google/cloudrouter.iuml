@@ -1,0 +1,20 @@
+' c47e40bbbd457b7b4a26ac58c62da102e3fdddc3
+@startuml
+sprite $cloudrouter [256x256/4z] {
+xD110G0W48H0b_wXBN4_c0RmxYL9aYH9aYH9ihdpOUvyc3iVviw7kVDXxdoOEn_cpeUvys7kV9Wx7-REXxdpOOvyyu1FlfqGYsx0G12i7lwWW-2_svPIMWJJ
+05OVpcr-kSsFq_pYDByupIzEyulJ_E8qlpZDBqxpYzFyuZI_ECqlJlEBq_pYDByupIzEyulJ_E8qlpZDBqxpYzFyuZI_ECqlJlEBq_pYDByupIzEyulJ_E8q
+lpZDBqxpYzFyOY__mtqB-U7-btp-Yi-qz4S1VDd_iwWN_VRvlUgtpUzTVtRvzR8_c_nwtPyzVWtuiyMl4Nzs-3NapmQ_nloPzslGdsc_HlsPzMlOdqc_nlsP
+ysk3tvHV6_mnuzSEVqpujSKVx_krnnzl-xN97-_wjSiVR_grpH_l-RNF7s_vjT4Vx_Yrqnzl-BNL7y_xjTSVJ_krsH_F-hNR7q_wjTqVp_crrlzvYA_l4_wy
+lv-K_DQlj_mslhRqGDGZ_fZap_jZaZ_lZqd-l3yc-VF-cEJF-sEIF--FIVwyFoRvy_wOvC_xOv8_xuz9_hm_9ldp_fZap_jZaZ_lZqd-l3yc-VF-cEJF-sEI
+F--FIVwyFxx7_u-z-oW060g18EhVDHeuKVP5GNhoWPrfR8xV_U_zv_ld_yV_h_MFzQ_wX_gN-gVwj_w7_fV-f_wt-GVpB-QVpB-PVpJ_QlxP_BlyW_oB_9Fy
+c_oZ_Alyi_mx_W7-1Vu9_Wt-4VuL_Xd-7VuX_YN-AVuj_Z7-DVuv_Zt_0Vy5_md_3VyH_nN_6VyT_o7_9Vyf_ot_CVyr_pd__RhuUd537mG00W400gL_QIlW
+-0KDZWsYoVVHvFjeydqq-JwQV1zDleyctqUJxwF9zz7a-sZoVJJvFffy7qs-ZoRVHvFleydtqUJxQF9zDFa-FByPbbyDn-_6Htv_05Sx13yTWfyEmK-7uAT3
+yDCX-EaG_7G8VZe4Fns2dmx1JuVWfqFmqo7uwH3yT4pat-t1WG00002087_hGQv600000008
+}
+
+
+!procedure CLOUDROUTER(object_name, caption='', xscale='.5', xcolor='#3366f4')
+card "<$cloudrouter,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

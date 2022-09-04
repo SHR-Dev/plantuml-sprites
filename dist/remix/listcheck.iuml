@@ -1,0 +1,17 @@
+' 4d742270c956b206ad3c5546c967d7468b5b9c23
+@startuml
+sprite $listcheck [256x256/4z] {
+xTq5bjqm38RHAjd_cej_UGA3ydcwzq0PFWyxZl9f0W0000000020UjBW-fYR7tFpOqR_zgJq3ytF0ep8dxi0l_BtVOi_VtJMNztUhdz_qbb_hU7L_Sa_MO1L
+y-EL-TVzTVZ7-jLNh-_V3wL_pVmimFkz-kSLuEHFDNlz0bITXwJ_v9McUm5Q-hVs_cZht_Nhrw-_cNxztlxrw_Vvhwz_FkRhtygVMg6_6lfNMO1iWDZ_wTZ_
+gpNgQ_Z-xrll_-VxrzjhZv2V_XCZBW2Ep7VzD-hF5VZt--NyX_C_pdzDMO8dVh0w00000000002e0uFhm_odIUS_AqQS_tJ-r_blyw-Idni-ujRjLRM0jlbN
+jOgE-LV9txfb0Jhk_pF_QX7cNxd_s_t_vZ_ers_-Ztxz-ht_qw_Vvx--_l7rh_qF-r_sF-r_k_xX-fVhdwv_E__W_Ci_rizt_Wq00000000003p_pFFldFzo
+_i_pJvt_TVxRywyz_zppx-kwlmxoLxdzRVJyf-gP_vG_rYmByDxzA-Q7-LVk_pV_GRz-yt_qw_Vshr-_Vf__-lh7_2lxF--r_pTt_bNK2bhcNyL3rAV_k--v
+aH-b_qXry_mNrt_VSm7CVpB_oVcl2PQj1m000000003W2m
+}
+
+
+!procedure LISTCHECK(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$listcheck,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

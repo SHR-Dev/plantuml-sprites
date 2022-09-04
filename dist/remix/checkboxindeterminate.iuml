@@ -1,0 +1,17 @@
+' 63ccb150dc0175fede0b4c47171f22047784712f
+@startuml
+sprite $checkboxindeterminate [256x256/4z] {
+xTq7hYGn24310T__p9lP_9NSGg2fTuFg7EtNEoL9aYH9aYH9aYH9YdMziRrwbf-BUd09b7rTpoo0t_LdHtyiWOVuPrlvjNj_yHTM2-01_rdP4_xYxrq0zwl_
+y2_jUWVWpyr-_hpt7_wrFUxdv-VdvyzHDVjpO5t-uiUWycjj_j9FMmAD_XXNgpyYnhsVQlDdvZ1-tQbs-MEYFphzht7ny_Fpy_Fpyxl-u-Vdv_yWVdv-Vdv-
+Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdx-Q6YkFveQw2zzqx2UG_tPqaH_yRiMm4H_Pfw6CdEg_xGqqX-z_fZbvs_Zbwh1py_Fpy_Fp-_w
+Xz_zZ_jVppyy__Byq_Dlxp_6nC_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fps_-Otv-Vdv-Vdv-rtyvqPyz_je09gx-Dd_6
+kBBLd-FuZVwJNvkcpzFcFpcmq-Elnk4R_DlYv-U_Y9y_5_Dl_Vonsn_y_6zp07Z-GHL_PEPU_ZF-NCel__q2o7Nwuj_x8wibz2hAVrDyBHSMnRyiVhJDNlpx
+OcclvzfdVwiaIP8aIP8aIP8aIPy1
+}
+
+
+!procedure CHECKBOXINDETERMINATE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$checkboxindeterminate,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

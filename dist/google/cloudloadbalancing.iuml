@@ -1,0 +1,15 @@
+' 7a8bb548eb4fb2bc03622a4bc12737dff6ffd918
+@startuml
+sprite $cloudloadbalancing [256x256/4z] {
+xTl70KGX2431Z_qNlRVDsQppxWfJ04UL94cI94cI94cH6Jy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F_zOwakJ
+yrCNIdz_UeYVltpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_35D_Ddny_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy-VzbF_Lidv-Vdv-Vdv-Vdv-
+Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VlxeV0dMvQlu53y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp__
+05yTMoL9aYH9aYH99m
+}
+
+
+!procedure CLOUDLOADBALANCING(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudloadbalancing,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

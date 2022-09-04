@@ -1,0 +1,17 @@
+' 11fc7d67c37d3bc18598d292ced52b3737b2bedf
+@startuml
+sprite $arrowleft [256x256/4z] {
+xTm5aXjH44H1zP_xdzaWAdkP1PLvWrSEZreGktiH000000000000001pq9o_rveVxVtJcR_sPgyrFmkqvcU1klnjs_vRe2z_BmiqvM__o01T__fn7A0pFmFK
+vSU-Vphpqz-Pd_xE_FGNvgU_FdzwyzFVcYz_AlBbovSVvVdoLtc-_2dCbx_Ay-MFV6VFJP3lx94ltzKdtzNdwdFroNVroNVso9VlwdFroNVqklhak_haovVl
+qRUgyrFVb1-D-VBbU_Bxk2FzKvYV0VRwylFoVnaNp8zrS7yBp5loiq1MM3ya2rmeFzPbfF-I-N4_0oJ_Ykq7wCkFR-jF_jNtppVsRyNzA_qr_m7qwzUlNx_-
+wUvt_qrVVvI-_udEzxy-_uZIpx-Y-FDFdtzdW9SNk73znGT8VUqNe5Fm1NZhzzyPeBr_TVtmqG-0311l-VtZ50wG1Ge7y128bW4CO82jTO0nm1jU1GmmpNV0
+wXl00D4pWATWuHy0CO1Js2diKs6Nu3Y43E0ID813o006S0c63qMTmavXbw01dCAUWWPm2hi4_Jx0AMm0lnCqGFfR1t06xCe7s3KEaFxQ0TBVEK3wEmT8V-i0
+Ay-_lW7o-jypGDKdeP41LkgJtpR0EfharmmGa_o-0LBVDq3gsqoalaXfVgI-rFlo0G0000000000003u3G
+}
+
+
+!procedure ARROWLEFT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$arrowleft,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

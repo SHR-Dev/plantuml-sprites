@@ -1,0 +1,20 @@
+' 55be05b658595ad8f5dc57a7c55a6190e94fdb6f
+@startuml
+sprite $galleryupload [256x256/4z] {
+xTm7TXin40HHJUF-PtOUfTtcCsZXZJ6ekW3sjm8pNoOZ8Y8YelXSrL7r-gpWg4g-FhJggkvFYdA_ihK3X3cgdg_nlhogWgEA_EDZajRuTJcgt9_yorNL7bNl
+Zoy_QIU_LlYrYt-iyezD_Al-_aUzd_z_-F7Znu-V-t_nFzp_Yqg_d3yMB6sEAjERYremmEEJOY7GbtnpLNEjF6eLFYHftAN91TOVzQnUcMdSfoTQT5HAvlcp
+r_Jy0gjFcXtWlNxit8S5fln9Rr0Eq9tlc_SRVhi1l7-qQjAlVdxD-GV-Latuewi_yFzD-2Nyvzu0uCS_seKVFtxy-BdzmuyVFtxy-F7ZnuyVFtxy-F7Znu__
+2yEF7pz-_FZnuyUF7pz-AJlGhu-TvjVd6lizFtvse3_ncIGTv4-z7Q2_Fy8CqC_l-NdUpxhwFTzybK9tloIbtWpGoE_vPe1UViyt0wYLt_Fz04tydc_yPe06
+ViEt0xJnUxuVe9lVy_q0dVoUx_rgvVTyFq0Fl-VxSe1EVi_t0xJoUxuVO6E_vyyCe4f_0T_y5wpn5_3D03N-GduEqC1l-0K35FWDls20Eh_vyi690LJZB_ZX
+km5A_0LyUqTW7x__siNQNu5vVyaFtm-W0dy1tmnGu2_wvVS3xESFuvyClndW37zixOzQVlt__uX_reSsyDjRW6iFkTTa-1lS_tCJMBt1IzlU_x_c1aZkjQqV
+_rxpVeFVqEzp0tHy_uU_4djgV__m_d6CFow7dkJNdL-d-8VpZvty-F7Zv_yVjt_uyUF7Zny_VlpuyUF7Zny_Vfx_nuyVFtxy-F7Zv_wVUFq_p8__3B_YaWxo
+7_hzP_wzmJByflwXcux-_bE-_tTL-F7ZnuyVFtxy-F7ZnuyVFtxy-F7ZnuyVFtxy-F7Z7-t2Zn__e_3Zv_OFF_xew8-3_VZnN_Ws_9AQyMVy-AEVFoRzQiNt
+VZ_06Nplbzhev_sXR7DwwWtV3n3gKeJn--9FFUoUxujMlJnL4tl_Y8Y8Y8Y8Y8Y8Y8Y8Y8ZeEm
+}
+
+
+!procedure GALLERYUPLOAD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$galleryupload,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

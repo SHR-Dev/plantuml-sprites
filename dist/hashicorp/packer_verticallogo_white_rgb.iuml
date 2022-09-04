@@ -1,0 +1,10 @@
+' dcc315a7c933e31aab799b51e482e833f318ec30
+@startuml
+sprite $packer_verticallogo_white_rgb [182x256/4z] xS410G0010Cm_LEB0TzMIm400000000000000000000000000000000000000000000000000000000003G
+
+
+!procedure PACKER_VERTICALLOGO_WHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$packer_verticallogo_white_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

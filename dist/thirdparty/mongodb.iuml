@@ -1,0 +1,19 @@
+' dd9d41090aa996268a68c99536f73cc844944be4
+@startuml
+sprite $mongodb [256x256/4z] {
+xC410G00100W_rTx0LJH1000000000000000000000000018TkY3Xe40W49emB_ePdNTCi37mGFcJ_Ebp6_x0PGo7xC3QFlv-BNBn-O0_lt4_HBbOt40Px-a
+-6U_nFss-6S_AVxPBt6_BVxPJzmlDVxyhG4y-kUN5d_-OtK_AVxPRztF_1q-dglxIVldj-wdmvz__XVxPgApAmX3mOxl_yvtNufJeq42-JyrcuNso1otkE3b
+sVmlFo__4_1V_fV_vN_vlRpyN_YVRL827yWVN3U8uFFk_vmqW88FvdSBJVW8VfxD7u_dvz7y03agq-bu0IHH_lTIfr9AmDy-oW8k2fdVp33u_GVyRYNvGvrC
+Dj7bhaYk0njkfvE_tu28QeXajdfu_8x_PBOWgQGfeA4jXIRpeyBSqQoR9bVi3WdFjs3l4d-ZIkWwFsFv8r9p0zsaioFR24EGUNQgnq9T_8pYz-Z87QOnPxkE
+bImakoST_yGjVd4UbrDRX8Iw-9q-XZ_4twwcSElZjn1t-5d2ppL-peLw-Pr_XP-Om-yKxl27-Hslv_TEHyTy1p_Z-ECEFnVvTNDhz2r4r_Elyy_v6SdF2NzG
+RPTJVY_3-AERdxPSHtID8_fQQ11_dF7JoUy303jJxrtAhP4ZElZx9W34FVusAyxvjSbQQ1O_dVmUjyvo1NwwEH6g7sym8jqJW8vgzFn32T0y6U9cbzVU8w53
+Vag-pWbmTLrZJyv5lbdBvRd4Xv-5ZacOCG4o5-GWz-pVzMmGHc4Vs00BVVe4s6rhnl6m2T3ewZdRWAMxtm-wCTk0bVZiU5Voi-BSNy0l0zRXOtvYiW71AdoV
+y2cQPa30Cdm_CCt_8IY2PVZDiSU26p3mlPtxA0001680rlet3IgOYGB6ZL_tHa3kZjzeTjiTmDHiroa0SDd-StyK000000000000000000000000003
+}
+
+
+!procedure MONGODB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$mongodb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

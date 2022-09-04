@@ -1,0 +1,16 @@
+' 0b972824941df3ac2f103c09905cd49a417b7dbe
+@startuml
+sprite $res_awsstoragegateway_noncachedvolume_light [256x256/4z] {
+xTY5WG9H44J1xPz_pkVkDmmoRBq0Q0fPspucIP8aPLwD-A4ryjUyadJnryZQ_8j_bny0Fp__2vy_4pgUFqDgzh_X3xbJQVM_VRa9xTs_yVFpy_Fp_pr-Vdv-
+Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-
+Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-_dGqrv-cXlgJhCFBVUFy
+d_drzktdNqdc-SFFp_zA-6_p_M_nbSRxt_8hbuxNuo_iplU_uLUw7lzMYZz3_Fn-__py_Fpy_Fpyszxz_2dwwyE-VyU_DFjBZo6J1dzjkTrVVOYzElpruNx_
+Aho95lzQXU4-VwaMVwLsVyxcpqxy_FpzoxaK_vcM6_WDFyDCzsz9SWZ_NCDT_Yq7TRRXR7sbscKDIv8aIRS
+}
+
+
+!procedure RES_AWSSTORAGEGATEWAY_NONCACHEDVOLUME_LIGHT(object_name, caption='', xscale='.5', xcolor='#336624')
+card "<$res_awsstoragegateway_noncachedvolume_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

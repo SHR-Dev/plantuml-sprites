@@ -1,0 +1,14 @@
+' 774fc1e6f008aaabc98db3e653233eba9248cc3e
+@startuml
+sprite $terraform_primarylogo_colorwhite_rgb [256x90/4z] {
+xTRLOSHW0CDWwzz_vu9BXmFqh2_CqLEI7P8aIP8aIP8aikqSjli_hFSVblkBvVvYkR-M-ulX_fhlv_3ql8t-GnxWhFH_u47zJ7znKp_LNrpah_KNb_MLr_Ie
+lqXO-3ZoeBzO-JbWkRyOxm_B_SLoVx7SNy_xxISJk2pUgq_2W_wCu93ajf-ieBNXif_iuAUOBiRgcrr9Q7yorrya7IVxYmpYN5ZlntxxxRVVVlj7iDnVw_rX
+kRzOxY-M-skzF_oJVacI94cI94dIEm
+}
+
+
+!procedure TERRAFORM_PRIMARYLOGO_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$terraform_primarylogo_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

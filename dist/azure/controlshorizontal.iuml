@@ -1,0 +1,18 @@
+' 3ae849d4f59e93bc74abb7656c9086c4d07a8e17
+@startuml
+sprite $controlshorizontal [256x256/4z] {
+xTs7WUCm34HHOlhl-J8kKUiah41w_Yj0mdUsubW9000000000000020UrJ_fMbp3K_MKkzId-k6Qy_lPvYVlVFfZeNxwzHUtVXs9pzVRhyULhhEdl_y1K5gX
+Nq_bgwO-zVOhlTYly-ANvjT_a_x-PDoVtFj37Gxx1_qzJFlfL_Birrhz3TLs_Kfk_Pgv_Fwj6JXjrgyIyPyjFlvLvyuQLlt_NzT_tkNzIGKAPsdO_jdGl_hs
+tuR-XVT_pBrNOF_dV-XtpK-ngF8PTpl-wRndbhPrVp-NVW000000000000000000ugSHuPa-6xV4PjfB-d75lGESSU24VjFyPDQl7-hxjPjp_ThV2_sQEFLB
+plsITR_UppFzCkpd-QUVVlhfv_kV_l3ifv__Fqdz-hT_w9UOAVRB3xP_9lgvumpztldqMocv7wRdxlynsI--eF_zkFSFi-gPN_fieNG0000000000000000W
+QemHum3tF_My_osNuwfbdi_Lk5R9fr__CJWRI_T5g7wjQkZNQQLJNDol0lUAdflYidvLALxoxlrLYvlwonNtAstHdxIS2_kJUtzoxm_t_hHS_uW6plt9k9_-
+pjU_RRxtvtz_lv9V_-i3fttxIxT_LEUF1UjJdDVThpEYGl_Ls5hwPmRF_-hxFpgxqrZvvw_V_h_ZSAv6nlvl3d-edt0SiTbLlzlT2CUL3Feh6MIN0G000000
+0000082l
+}
+
+
+!procedure CONTROLSHORIZONTAL(object_name, caption='', xscale='.5', xcolor='#669927')
+card "<$controlshorizontal,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

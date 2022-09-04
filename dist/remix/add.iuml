@@ -1,0 +1,16 @@
+' d288a44fc150ad5bb1bfe191b87b65bb616082d3
+@startuml
+sprite $add [256x256/4z] {
+xTpNWGCX3411Y-s_vWlwSG0kE6tGJ0TFu0m-zG00000000000000082uKYw-Los_NQWrWAo_KMa0cN-hK7_cBrTo09MMVxcH6w3KyfVT0Bdy7VtwzUlNhr-_
+Vk__zElNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhz_v_uqPznyvNxz-_Px_lFuv_npp_YYIF-pVsG3YRlF---qdFbhczzgNUC2xyzlz
+bg5sl_SE8EiVpk-r1oVmnlw7svy-WxVsPyYMv03MUm5VNsw0jov_sGsGoxyv-lNhdzAlNxz-_Vgz__Nvn-TVtt_u_iltdxx_zlk7tx_y_kdtR-SVd7zn_ac_
+VlsU_xp-wTUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNx_pp_hrwzUlNxz-_Uu_kV_KQYx__Fy3ebH_3E_lLn7V-llxTSJ0gPPVum40
+000000000000081F
+}
+
+
+!procedure ADD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$add,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

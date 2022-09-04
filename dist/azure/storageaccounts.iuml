@@ -1,0 +1,15 @@
+' f9e2f2b2aad65e5a6e67d8eb88150bb09f082876
+@startuml
+sprite $storageaccounts [256x256/4z] {
+xTf7SiCm00H1WV__i_EMBuvYA07RVLKSPXAuBGa00000000068igZe_Q_AZDZzhygCqF_PNv-aE__ihyqAzVl_ww_D2lNxz-_VhrwzUlN__gzElNhr-_vr_w
+zUlNhrz_bENhrs_-btxpFyt_rM_-VpJNnyW7ncrgupDbUG00000000000000030UNd5yzDP7RttqraTjVjJcHsr-rEP7RNxeByqF_QNveL-_VltwzUjt_QDV
+ltxtlolswzUlNxz-vt_z-jt_wg_D3_sb-Q6_D3_qb-Q7_jByq5-Q7qVsRn_6nVRyeyFojmTtq0AOi3uEMG0pviTf_TialkdVdr-p06RDZrtz-iTI_Q5V_-wJ
+VyCbWFwLpl_x-sFM_BWxFsRDZxtzOzRy_VqnIVt-_fMU_yIE_7bP0F93ltxz-lNhrr-K7zQ_VltwzRl__LPlllx8-nUG-0K1000000000F0C
+}
+
+
+!procedure STORAGEACCOUNTS(object_name, caption='', xscale='.5', xcolor='#e4e2e2')
+card "<$storageaccounts,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

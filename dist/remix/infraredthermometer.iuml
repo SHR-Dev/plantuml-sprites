@@ -1,0 +1,21 @@
+' b8234cb83af1c5c0855443b19ae642cbb705675d
+@startuml
+sprite $infraredthermometer [256x256/4z] {
+xTrNsfiX34HXZzZ_cjFxUKog4CxCkKrz0UlZxuzVBAMKKaeffPHIIYcbfBjomxFJ-hgeemi0_2qhuCHdn_mV-UkgFlXrZhzkgwgi_Gj-0pxyyG_mZVpoyyTF
+le-V_FYNiR_i_EGR-UCdtzk_ZFpnas_gZnzyBx_Y1z_97tyv-nK_-5x-SlRBsw_umJVooyvFlfsVV2D__EIR-i5ty7Fs6_ih_cNb9z_K7p_uJlxu9O7lv8-_
+lFpny_ZR-ECdtyiVF_ckVjdvoOz_-VZ9j_EJR-IFdtnJF_YM_kNZ9p_-vUrVplvozYj-yBtyvUnN_E1x-SlPBpj__EGR-UCdtzMl-ClEp-ttyPDlvoVVr0--
+WvylVcD_sVd9D_Q_83_--EEFlzpcF_cl-lol7zhzrkVfdrt_Qyw-Nu6cx__E1QWwYzUdi0FyxPq_045SW7w-q9D_lbVF7-mmeDy-XgeQy6Chy5M_UmvpmdUd
+ZxKlm6PcFV7tyta4Jl5v03RtkvD7eDN_33Jdvmhq-JNWdrq0RlzzVau1Cp-lWpr-tUZd0jpYB_Zd5g1__CtucQMV2t3Ulwxrzzz-BFoYF_xzcpzZ_gFlhPI1
+VyV7lpZgRpp-ltNZgF_Cl-MFZZ_wLxUV_0d__Cj_pv_nLxkVV4V_dZ_fNxr-yXduh-ulQC2_OliR_Vez_gY_z_ulQO0_xV-XQkVFZt-YX8yteab-ctyLsl1V
+ty-8ty_ACVyQ2Fpuf_XboezVy4_nNVqrxQzHVrblVttaU_hhetwIF-WlyCUslwRuWjx5ZxttUlb3xx7zv5lv-T0pz9Snl-ghtiDV2FfnVokTUF2dwkG_OG_e
+H_n00t-D_w1-dan-7RpR6lZ7hpVpnn_yg_sk_FWRZx_nzg-NsVxuZOz__ER7Ftx5lpB-_tKP_uh_uJt-ulSUVmzdlrx27tyv--Kx_kAFN-Qt_m_y-6tcF_cA
+FtwV-p_vdNuvRJ_zySlf-7C1ufVPyUUdFvXjFnT0FdukWBD_LTqy1C5tEW7qkpq55J_uFGiGltpz2_wxBd-kVl2j_F63x-IFNnBuySTlSF-3FtxBw--Ho-_b
+r_z-VUbUVtUtl_j7_NhmxqaVQuGB_AlIYHvNzvBqb59AAQMKKaeffPJIMm
+}
+
+
+!procedure INFRAREDTHERMOMETER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$infraredthermometer,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+!include ./coder_m.iuml
+!include ./group_table.iuml
+!include ./police_f.iuml
+!include ./pilot_m.iuml
+!include ./formal_f.iuml
+!include ./pilot_f.iuml
+!include ./person.iuml
+!include ./police_m.iuml
+!include ./headset.iuml
+!include ./formal_m.iuml
+!include ./soldier_f.iuml
+!include ./coder_f.iuml
+!include ./welder_f.iuml
+!include ./group.iuml
+!include ./judge_f.iuml
+!include ./judge_m.iuml
+!include ./welder_m.iuml
+!include ./soldier_m.iuml
+@enduml

@@ -1,0 +1,15 @@
+' 4baa78c9a463276169796129d0f256c2a10292e1
+@startuml
+sprite $stopmini [256x256/4z] {
+xTt54KCn44J1hrN-CPlnQD9ikRepU8BpRFy400000000000000000020iLoZzfHU-RLGenEujY_Num0Uw-SQJoVG97-kLaVv_cj-mFq0ulqpeaF_DJzt0Fdh
+d_f3uXz0VoNxzLU-V-gFqQzV__lqwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-
+_VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_Vhrs__HR_zBltxxZ_hjdzg_ZHn0vVUFy_lNbTY_jdzk_pviX6nzj6xl3m00000000000000
+0000W3q
+}
+
+
+!procedure STOPMINI(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$stopmini,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

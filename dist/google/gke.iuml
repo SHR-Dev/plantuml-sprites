@@ -1,0 +1,17 @@
+' e7cf6bec80a82ff17b8d37a121e4210cd21876f1
+@startuml
+sprite $gke [256x256/4z] {
+xTj9ejiW48P1Vkv_wApnRDA9rLBLzWts9nfMQFmK00000000000000000000000000000000002arR-kbsJy4vbT-ZFg9PcpItyoYYLpTkfFYaT_TkjFxUZt
+wq_gHhzdVr8p-dtxKp7wdVkJWj5ltPyKZ7xh_XICVkl-P6_qU_Ul2kfRzoSR6_zK_TbO_FRzgutwzlshZT4_LNys5hzz_sgZldt_QcFqJzMVZSLltx_Qg6_V
+lxeR_OlrvsxnzUlNhr-_VltwzUlNhr-_VltwzRVAh-zFkkRlzw_Igxw-VwPf_Nx_AadJ_Ft-LTAWVgE_ymWa9VrDZu6aeh_j3EH_z6VccCV0ex3o_ioC9CVR
+1C-oYlhNjSuys1DuLLNNdppzpUJ0Ltrh-jT5JkKJgAzV5VIl_xLy4zJNh_wsF_dWPdIIurxotk-_3plCCV2wVhNRVrz_d6FWNVrghp_vwgBeB_l7Ez_t9_dW
+dnwYVtpWo_vybfFyed_jgJWojZTpaj-UWECBd_Pll2gHT7ZF-wF-V3l9MUgFxMt_Jaio-dZTdsISt8l-p8mBUDQVZ8kuxz-ex-okFpFZKcxxn-Ki_UFy0000
+00000000000000000000W3y
+}
+
+
+!procedure GKE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$gke,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

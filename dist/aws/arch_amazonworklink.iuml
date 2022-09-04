@@ -1,0 +1,17 @@
+' b3e08e34cf2b63fbcfb10f8fdd51978ceac482b0
+@startuml
+sprite $arch_amazonworklink [256x256/4z] {
+xTU7WTqm40DH0lttxEnrkF3JKYA5cGhmbELPQO_muuyz1lZnuqy-1FZnHny2_FZdb-t7xrn_bUd7Zx-AzUF7NsNwyUElqlt6lqJui_dukVwZZm3-nKhslotO
+lzZvrqNhqu_sLlAFSrh5Fyxp-to_DCvA-Bs47pz-7TYIVX-HP5kAzTkHVlm5pVFZnuyVlwFzTgWVFtw-__7Zv_yFFtxy-F7ZnuyVlxFz-ErSFtxy-6q7-l4h
+rVzceBBy5NxylqlruyTVxUF7hwwsyS_VAKjUtozfTFLcvnR-qTTxErVtZtR__JNxlPlVlgnV3UthbpRpwyNU-CTThUFtIxtnZtiJVkVwyOyh-l7VhlpEzEkQ
+_hkBykF7_oz7CNxyrGT-P_ZnEzrl5oVIZz-v_YhPZn-_7UR7Zny_VlpuyUF7Zny_VlpuyUEtu_tuRMVwgrG_VlnLi1y_VcNwyUElNlBZLxhVE_ih_0ttVwR_
+TbVrtvcKxH_B-l7ZhnxsAzjlIKy-_rvhajzt-olTrviP7VNxo-Fc9ldTvSUFlvhgLoD_Ix_Q-3lwhSRSu4y8Ftxy-F7Znxz2-b6iN_enHR7-mxRWnuyVFtxy
+-F4BFtxy-F7ZnuyVFtxy-F7ZnuyVFtxy-F7Znuz_zXWTr8h-CMhN_1RpLu5-_ChsEzwlQBwji_9L2iBV7n4H4H4H4H4H4H4H4H4H4H4HqLS
+}
+
+
+!procedure ARCH_AMAZONWORKLINK(object_name, caption='', xscale='.5', xcolor='#299966')
+card "<$arch_amazonworklink,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

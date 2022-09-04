@@ -1,0 +1,22 @@
+' 6d259b5eba973bdb5759cf7b82f84c5adb3aebf5
+@startuml
+sprite $diskssnapshots [256x256/4z] {
+xTq7mfnC38FXaUz_vtIdEmjaaCrAxr_I1nv_lJbhPJZNwc_VlTjlFulVxrzlvrzCl_tsB_kVEm02dn_JloRsFxUFH_EpA_VFfV9xPUB3-Ptph_Via7_9fQo7
+i1-PfX_so_7jjzz---stttxxxRVVVlljjzz--o7EXohVVlljjn_YVFi9uP-r-ZlKPGq3Q7JNFTQFZL46C1EVtJ-1INh-e-TeVBQsD_KXNxV61bB2-4mOdodR
+Cs5y9epFTFMPE1_GrMVYV42S3uZp0N4-8Cu7flFZU4C7i1zUDt0297qsRG04FM40R3vv04Fvpny0WM__t040zlzGiVXn_38aVw98_ZX-5MGCViGKVsZxuqSC
+V_n8q6y_xC_i9_0ZPlZNK7_q-MEO7nG_sFu0wcAmFmX-6d_XvG1-_PdOMHvPyFd-3400mIxleyS_CeZxW-KF-szcH20knF5VTvrIn8KO_YWhtYcL_qVa28wS
+aSMt_tuqrO-Yo7UOVllteBykwcxtNxlrRth4wtRuqU47wWxeDxrRwMx_XZVIYVx-H_yipZNMVpy_UoD_NEbPJ__OxeztySVL9lgnuLvFTFhGjjV_Dk0t7Dls
+zizE-_MZaNx-Eq3ssEjU7yx-_9_Yyd5dYAAkJu0hxerPyng7Q6t49m2tuQdwR8oVhizc363ILq3r-nUvTd-XRvg04ZyRurzD3V4lGV-u3G3gVlJnvGO0JFG3
+6lpQ3wwUx-z_K-016t08-Ad-Z8G7LdyesesVx-T_-VCQKEVkWoSkGDi0pxGNmDdl_N_QV7W1egm-ym98OJr_0jx_wFs7tdytDLrz9iu7x9Vc0_PBym5Ll_ts
+ssy_xDVZss-__VRRRpyK-VRRRx_zzjilpWVijzz--xTclohVVlljNzfy-vSst_xwgrt1xSGM7EO6D2A-lcpdpXUQlhvexyA3Tl-wksP_-oQSxYU0Ctp-07gV
+-pNllGAbKW_qBNy3kK3d_ZkCRF7IrMUo_4nNdmdecNybEY84lW8-NiJ4yqV0Mlx2RmC_Une-spI0Hdp_um3O-hqdubYbdSvVkyzysijwu4aJMDkxvUW7sBEx
+pk_4z_kpiVACTQ4dxF9OjEXYldz-M82q7y9--w7ijn_sss-__VRRRx_zzjilaFtsss-__Te3WFqUmD8TG2Ou06Y-6nZ8z9uFr3xKIRoamwj--usFq1Qwmd-w
+kVRp0hpD0Au9y2u30DEFUNnTl_tsW-p7y_tsss__Hm
+}
+
+
+!procedure DISKSSNAPSHOTS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$diskssnapshots,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

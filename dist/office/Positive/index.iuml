@@ -1,0 +1,12 @@
+@startuml
+!include ./sharepoint_pos.iuml
+!include ./microsoft_teams_pos.iuml
+!include ./excel_pos.iuml
+!include ./onedrive_pos.iuml
+!include ./onenote_pos.iuml
+!include ./word_pos.iuml
+!include ./yammer_pos.iuml
+!include ./skype_pos.iuml
+!include ./powerpoint_pos.iuml
+!include ./outlook_pos.iuml
+@enduml

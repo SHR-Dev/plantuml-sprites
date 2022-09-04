@@ -1,0 +1,10 @@
+' abab9140e331618e31dca32c17e0769310c44485
+@startuml
+sprite $backstage [202x256/4z] xS4n0G000C8W-wUsnIvWCG0000000000000000000000000000000000000000000000000000000000000000200m
+
+
+!procedure BACKSTAGE(object_name, caption='', xscale='.5', xcolor='#99e9f2')
+card "<$backstage,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

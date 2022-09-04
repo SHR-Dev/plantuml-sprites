@@ -1,0 +1,14 @@
+' 2eec7eec137d156f54791d3331e6769c9bcfa636
+@startuml
+sprite $cloudlogging [256x256/4z] {
+xTkt0O1034KnpFv3Kr6HCtpqDb1rqSr2aYH9aYH9aYH9aYH9zPxuzyRFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy__VhuaIPBqzrrb
+En9_TFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpv_p_u-Vdv-Vdv-VdxQg5aF_zo_Fpy_Fpy_Fpy_Fpy_Fpy_Fpkl_ZTVmVu-Vdv-Vdv-Vdv8-Bdv-Vdv-Vdv-Vdv-Vd
+v-Vdv-Vdv-Vdv-Vdv-Vdv-SF-VxW_mS_Fpy_Fpy_Fx_vh-M-uZV_oS_Fpy_Fpy_Fpy_Fpy_FpyzV0VTVjyV_WlZv-Vdv-Vdv-OEI94cI94cI94cI94aT
+}
+
+
+!procedure CLOUDLOGGING(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudlogging,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,17 @@
+' 96bdb4cc64aaab0c6248955a165cc99a3da2e618
+@startuml
+sprite $python [256x256/4z] {
+xDhNbUKm30JHBkIVyxfVh9-HZgZgYe2N99vLhgkrrbfhhV6Z-NdmexUwvny2U8ry_Zl0Pj_1eVZvjE1Cl7G7c2j2fj_Xqk-GyNUu-3jS_1qo_WuNVyS1VDy6
+p8t9ZdztX9_y20GJmE-MADW0Vhy-tZu1UtaNRm2FzcVrxWl0EXpH1TYwMzuWd-ld5Zzd-UFn9udh5N3kzzVFC_trK_yEZt_iVdx3D_Wdgp7vzz9m-OV5D_dt
+xryc__xzq-2_l_hhhx_--kkll_xwww-__lhlZ__j1l-ZK_hhhx_--kld53_0F2lkiyyJGuNVeTBlk4KlzZCZzZDZzZDgFwFspwZzu_QFsu_RpwZzZDi_RZzk
+F-FsZzkFt3zkFsf__UFs8_VFGTLlllxrT_nx_Nlzw--xdz3Vwn-t7xUV_l9dzlU7RxEV_kqdzjDd7hn-OlRJvzsqVaYyVd9r24x-NZ-VK6wB0yxi43yvCDV9
+xoxG-_maOZ-9sK_K_iJi9uSdvuSB-1O_SVlZziVjn-qdRdzUallu4pU_VjpyrFyVnUqdByfz_FNZllxrkwz_Kh_v-YUe_VN7xQyVjR_-sFse_VN7xaVjhpzs
+Ft9_x7xa_jZzoFsn-v7xWzmVvFxO_SZzGUuFSd-G-nFa_Y3t9yZz2N9_0jZyEtvQlhO7nm800000W_ojvx2xcW00000000000000000000008
+}
+
+
+!procedure PYTHON(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$python,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

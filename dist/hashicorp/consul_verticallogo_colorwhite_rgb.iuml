@@ -1,0 +1,13 @@
+' 192f5416294e01722b16445fbc3eecca34d252e8
+@startuml
+sprite $consul_verticallogo_colorwhite_rgb [184x256/4z] {
+xC413G000C8W-wUsnmUi3G00003ExfmJ0G008H0R_9j6m5f8sdjW0G0000000000W2O0001W2G000000l0K00DwE71C00C0W0EhVUZMcmab40G0000000000
+00000000000001m
+}
+
+
+!procedure CONSUL_VERTICALLOGO_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#df3399')
+card "<$consul_verticallogo_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

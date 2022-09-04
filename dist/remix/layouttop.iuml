@@ -1,0 +1,17 @@
+' b26483a2164ebe36b3de07369bcd907fe3392716
+@startuml
+sprite $layouttop [256x256/4z] {
+xTq73jn0241HW-z_vdJI6vkn5D3xDtXRt1YDh_L9aYH9aYH9aYH9ac97-_3zNjNdzABgytDDtG_W6_qzk6y-WPQ_w0kg3w3BlzVKznT_rGVGyj-hQlfpdpyx
+VlvxMGr_RFK7F_-1mn__wXC0F_-zhWD-_XpGS_uSqWF-qiT_Nxxl8N-Cw8G_6_mH7q3-kpyYXaojdl9V8th4dxFyUTRFFuDVWDD-Vdx-6CBdT_xZv-Vdv-Tt
+_dVzoy_Fx_Zd_EVvj_d7o_El6Vp3VlE_cdyFqUSZwvzoJ0-j_vh3F--l9jgj_-Fdv-Vdv-Vdv-Vdv-Vdv_Vym_Clppyz_pR_CFyo_pJ_jlx1-XVhd_Zv-Ht_
+dF_u-Vdv-O_7py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FR_yVVljVyVFpE__ns__M_iVs
+__xL3l8J-TK9V-O4_H7_WlS_7FHNK_Lz_xRulV-7_w_YZut-uEVd_uks-diFK5QL7Jz_xFD7qv-h-EK_y06ivvS_Sus-xu-iHjEhQFclU5zkAJvqTOfgWRtu
+lM9LrqijiUzFaYH9aYH9aYH9alGM
+}
+
+
+!procedure LAYOUTTOP(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$layouttop,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

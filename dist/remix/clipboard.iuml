@@ -1,0 +1,17 @@
+' f21b0e9d908c1ca7027147738ffba881cc53298a
+@startuml
+sprite $clipboard [256x256/4z] {
+xTg7YUv03811Izj_pIyObYFvZp8wmNmDMEESZlUJ94cI94cI5AMDmzStZP-5pLe1Mr-z1WRvixn1_fE_IZjNm1X-R7vTWtQ0YBp3dvFygpn-Vdv-Vdv-VlT_
+_FpyVU_r-loFnwelhleD_hZeNlsksn-FAjG_U2dPwNymsjdDhx9_Wx_ofVcZ1LpC59t-k5ZMpmgeuJyOgjfVjQYQ5H2FCVt-XyDbWNzRvlbNet-Lzv4_8me-
+PSpmr-y0_Fmvsv_V-ldNNFzgyVFpPpb_aZ_kyCSeVnRp1_dt2gZd3_BNDi1_xm-GiVa3_7Vz_pl2lwlNJ_BNr-ldv-Vdv-Vdv-Vdv-Vdvuz6Vhy_8wAJt-ZV
+Aw2hpM_sPoE_tR-okTNct_NgM_sxDdo3VqRy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_0Nny_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpvs3-jtx-cEqFVlwU4y3ymt--Fxxs
+3ru1MURFaVpjhrW1cTFmc_-zFo975b7WF-9ig3wExukV1iatlwGOsL7RDBeaIP8aIPAalm
+}
+
+
+!procedure CLIPBOARD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$clipboard,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

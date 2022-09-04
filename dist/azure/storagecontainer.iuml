@@ -1,0 +1,16 @@
+' 44cdee7ea7c72693956cb1d89675d945b4dca31f
+@startuml
+sprite $storagecontainer [256x256/4z] {
+xTn5Wjn044JHgBd_eRqqvr0PKl7-lbjwOivpaoH9aYH9aYH9agJps2hmSmNykL5VqS3lQE1tz9h_vP7D_Wpwnqs1cLym0VW7Vjq4u3zj_ZFC_hu5uFJv3_yt
+_4B_uH_u9HE0d_-q-a-Ndv-V_sNolnJ4py_FR__77txdV_oTrx_uXmdGn4yQ_Sam0HhummIeu-TysrFrax-i_5WvFoddU_unpNn-_dJp-LF1v-Vdv-VdvtVy
+my_Fpy_Fpy__RyUgq9yFzWn_FjLsVpxTQdykjDYVAwtrvr9B_Udsvrx_d__LVqoUwt_3V-Qn_hVyQMxtl_ZpgoxW5_WdrzlmY_svq5P_ajJwanJxyz_qB_n9
+jJ_T_ZJx-TFfv-VdvyzAFpy_Fpy_Fpy_Fpy_Fpy__-dm7tv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdx-drh6v-Vdv-Vdv-Vdv-Vdv-Vdv-VdT_tF_EVdv-Vd
+vvzRop-rN_-RHxtWuuzN_MSN_xx_BE1Vy4yjq5_mZot0N_7FxP3F_eBu-VdvVrahdv-Vdp_DV7x-DFFv-LFEJyhvIJa_QU3FDUdt9qcI94cI94cI94cIlW
+}
+
+
+!procedure STORAGECONTAINER(object_name, caption='', xscale='.5', xcolor='#31cde9')
+card "<$storagecontainer,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

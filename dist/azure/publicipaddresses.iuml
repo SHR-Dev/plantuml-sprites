@@ -1,0 +1,18 @@
+' b965c7da7b25c244ebd7198b6ca3bd6da7bb6c82
+@startuml
+sprite $publicipaddresses [256x256/4z] {
+xTjLakH044J1BDt_piiuQTOGGrAbl_-eRbzUGKrCaYH9aYH9aYH9ajOb6i3C6eVlJTFtXkbxq_YzOVpUR3x_6iRltVCVtrjxT7JCkiq__hQ7lbDk-Oyz_SSD
+VvlyQGj-fzpYR-Zlbkd-bVhRxBEhlxs_lqxUw_t7BN-TlkPlc4vP4_shJUxxwm8zx5zF--iIvNv-_cDd_x6_dxyYFpy_lp__rbR-8_ptJz_myw-TVllptvtq
+pKx-sl82o4hyUrx_x9R0l-Frx-wVSVyhyA-h5_ZN3loEUURtpSNv7TCfrVoZukV_st1-rMG-FtzDvlFprs2-zn_u-Miodv-_vl7v-Vdv-Vdv-Vdv-Vdv-Vdv
+-Vdv-Vdv-Vdv-Vdv-Vdv-VdveqFgPSdgq_tXCPNjibNkpmyATsV-shswqGbcx-slcvrWzhx-kbEuorRruVwwMxZBLlMXVlvglQUahkVF9U67dSlFdrFQPhQ_
+JkYl1yjssMTjwgyh--lL_fhjhulxAzeb_2luQvw_ejdp-bFw-VcBtwz__kWlm9Fw_VjddU_V_-kC_cZN5gEkV_JH6VrhylLVr__T_yhlI5xd_gVxt_b1cUHK
+Npi_APnLDflz_CydF_yL71DBWb7kpuyBlqEoEiVpZz4XqMS7ayYVdvcjaacOvr-7yNly_Fpy_Fpy_Fpy_FpycyVFpy_Fpy_Fpy_Fpy_Fpx_6LCNFpy_Fpy_F
+pyzVi_r-_cVo-Vdv-VbhDf-_PlFvQnY_DutVcwRl3T1lbIH9aYH9aYH9aYH9Nm4
+}
+
+
+!procedure PUBLICIPADDRESSES(object_name, caption='', xscale='.5', xcolor='#33cfee')
+card "<$publicipaddresses,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

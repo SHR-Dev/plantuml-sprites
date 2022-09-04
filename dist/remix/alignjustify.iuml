@@ -1,0 +1,15 @@
+' 6fa14255fa862ebd924142e6e35403bbfd8d2701
+@startuml
+sprite $alignjustify [256x256/4z] {
+xTs50G8n44N1IFyrezi0ph-TwU3XHCSn0G000000000003DIv_ZIkBwy8N_5Ulq1gFpW1-0D-JlKwmz0vGS_0A_txs0lzElNhr__ZgPV_nEy__Nhr-__pypk
+dw_tNwJMLx_ndvu3WFEY-G2myNy000000000yv_clwr_iFyfVFsJzM_MFrh_gb-_VljVzElt_jUlNxz-_tzQd7zY_CVvHyw_Clxl_3i00000002WzVId_KyN
+Az8x7W3tNwrexh-o_i_wJ_twzTl_eb-_Vfz_-lNhz__7_zy6un_6lun_6lys_m400000000u_z3fdy7iVtB_bVLVrlzP_wbVltxzzh_er-_zhr-_Vlz_t7_i
+_clZF-w_j__9-7yi000000000Cu
+}
+
+
+!procedure ALIGNJUSTIFY(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$alignjustify,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

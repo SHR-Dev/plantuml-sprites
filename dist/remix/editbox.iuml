@@ -1,0 +1,22 @@
+' 2787bcf037f5e8bfbd6338906536d4206bf91da2
+@startuml
+sprite $editbox [256x256/4z] {
+xDI75OCm00FHoDv_vYGqFLwbLzsVW1EsFyy200000000092KNT-8pRVmVANcbqRe07s-1uZCzm2f-TK39DxzsjXl05rlzcSwtmFeqUss97-_0TGhbvgpW7pr
+pGDeKtwvc2jcvkytmBY-NiSBp7dvRFiL-75p7paEmq0GHLLz_pjFeZUEjVWO4L-zDWaznGA3xphTMXyKvKZ9Ls0tlr_6-oCjBKkLNlVM1qMvKC0F-AVwy-52
+WUkVnCOlpx_Fto_YufVBR_LtH32_F_v-ljW_ZJ-0N_sEHt_AMzFgN_hAVz-uw0N-4diAN-2d_DBu4FW9VmhVw-_yVEBR_KFuK_ZKFwTKvyyd_d_vzmvvzTHN
+MbF_wlw4si7l_htwdlggdlltZlQ7nHxk1xspudpkdvcj_0D-zha_6_qyz7B_Rdvww9NwEV-wVXvw_VuUUbFu3ZzAVOVT3rEVtm-6EdEe_Jpr2Vm2Vl57aFgS
+VZJKwVNpqEltyzJdz_FKv_VprEVtSxxVpqEltz_vHU_ryzJdzmE-siz7UfDe_JpqPfNRdoI8dqZzdT-N1Axo-NdepQsfm4zJNz__wVHtVWfVxLzwnATJGTpF
+-NHDu4R_VlxwfS0FKbzhQ_FpaTwiGnRxi_o0B_3J-VtIrkdl_EbyWP-5tiuN-57eJU4R_Noeyuulz7F-QYhmazHNFlnEF-SVoSZzFVMa7QhIp-Vt_VuaONor
+lwU-wFqyzQdzVAXJxUTyjP-dFh-Vxj_t-tdgy_ivt-_dGvr-FqzzVd_dNzgF5hNw_KdIGw_Nt_KfgS_fv_oYj_WvN-xlgHSy-dB_WB-hjFkJ1F3r_i8l_L_R
+N_XNyeDtdzwF-Nx_iBqyVZ_Z-_qmzVc__uplzm_J-_FlWFU-t9zPTTE3JgN-pAq0N-tF7T_cPvNxCn30zuv_tTVXyjDgVB-_Lz5h_Bo-sxiF8mXX6022MEw_
+vizV0K8Z3NiTB3dQsNv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VlwZNTVv-Vdv-Vdv-VbT_qL7VnJuKpU0_DLVve_L
+hYZrHpj-eN_7ksxws6N-7GtRTVvtNV7v_hdny_EVY9y_1lFF-ldNRF_Yvx_B0I3_GHN_u0KGUGFr3kL7phYIxmRgqyOfZN-3wEzMtZnD0rll4WSf7MVFcwLm
+Q4TUy-otIf8aIP8aIP8aIPBq1
+}
+
+
+!procedure EDITBOX(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$editbox,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

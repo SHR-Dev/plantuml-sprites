@@ -1,0 +1,17 @@
+' 1da5fa8a6e9c18539c4d0998f627fd8443d0f46c
+@startuml
+sprite $archivedrawer [256x256/4z] {
+xTs7aGGX34L1nEGVytaI6EdCd-kNWAhNBrJ1MakI94cI94bI9JLCpsnUloEQVGYEFAsX1-3W0njv00x_okey0ZN3lm8x3y20_ufimd_ukGz0ar_yLspDDm0_
+_yxsxwwV_mhkH_py_Fpy_Fpy_Fpy_Fpy_Fpy-tPFyEzMsVx3hrljzyBzHt__4KZtLwje_zc2xUq-9liFl_40fFhDDzzyyrShVdv-dp_ccs--_p_-_rh_iFvb
+_TFwj_qF-r_y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Cx_U_Bvh_q3O5Cx_AQ_elcrUbLugrsyljyJy98aIP8aITO_h7zP_xJ-RV_3_fVz
+J_lV_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FpyyoU0FyI_6-NxTo_tdyRxgr68t_qlxlynttpppJVV_PVy_EQRRxxvxZ_jZS_tLzqT7kot_jDV0DpkFxN-F-2t
+_yNFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp-_yF_xAzXS_VwFyyr_NV_OFdNySoX_pxqZ-ySySW9s6F_nczTwEhDuREW0_L5-pznyaoSlzdxEbqIL9aYH9
+aYIz0W
+}
+
+
+!procedure ARCHIVEDRAWER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$archivedrawer,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

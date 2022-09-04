@@ -1,0 +1,14 @@
+@startuml
+!include ./index.iuml
+{%- for group in groups %}
+!include ./{{group}}/catalog.puml
+{%- endfor %}
+
+{%-if files | length > 0 %}
+package "{{root}}" as {{root}}_package {
+{%- for file in files %}
+    {{file|upper}}({{file|lower}}, "\n{{file | wordwrap(18) | replace('\n','\\n') }}")
+{%- endfor %}
+}
+{% endif %}
+@enduml

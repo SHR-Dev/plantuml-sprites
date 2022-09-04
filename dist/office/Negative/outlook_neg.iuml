@@ -1,0 +1,10 @@
+' 37af9a30da990bacdb8bf2bc8ebafbf8bf81378f
+@startuml
+sprite $outlook_neg [256x256/4z] xS6100000CEW-rD_8DK20000000000000000000000000000000000000000000000000000000000000000000000000000000000001m
+
+
+!procedure OUTLOOK_NEG(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$outlook_neg,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

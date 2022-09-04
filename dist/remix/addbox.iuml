@@ -1,0 +1,17 @@
+' e59817f45f648e26ba8f4226c352f21e0de08ae8
+@startuml
+sprite $addbox [256x256/4z] {
+xTq7Rg10341HREv_vgtUlacGi2Ouy_u5qAFtENPAaYH9aYH9aYH9aXJZsjbUzV9pK55ryNDWFJFWT_qvep_cG1F_d5P-hS5V_87L3EZmdoFhy1T_y0oul_XF
+_g7TtW3uSxAVF-_xJ_wnhVBpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy-TlRUVFVzhAd_zf4t_nuwyoSug_drypO8o__xMKYDZ4Nuk_uKsRkVxudpzsyh_V
+fFZv-Vdv-VdvdV_ny_Fpy_Fpy_Fpy_Fpy_Dx_jNUI_xpm_hv-Vdj_np_tF_Fb_qvmD_2ZoL_MbllpokzxB_KSd-_FbxyrUAbdkalt9Nk_6Ssl_PGVrphvezs
+5_jx-SSRjSs0zVwlkWL5n5Fznv8UwS-r_doMdty9luhWv-Vdv-VdT_x3x_h7zQ_x7-v_kV_f_hVd7vv_UVxf-RVt7xp_ulqdVdv--p_7Ftv-Vdv-Vdv-Vdv-
+Vdv-VlV_-Vdv-Vdv-VcT_td-PVmJuzyO_yZuLyO_C_xTkFZv-V-9dv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdpy7y-_w-MEsF_ZvTza1zF-Jaxzcm5H-Zpz7yilV
+CWDodBw7_-TV6QVGgsZm7_6r75WK_svH3RCNlwCOsj7NFFjMIP8aIP8aIP8aIP8-0m
+}
+
+
+!procedure ADDBOX(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$addbox,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

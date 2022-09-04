@@ -1,0 +1,18 @@
+' 33105184af2ac4b29451aa17206579398ba2bc2b
+@startuml
+sprite $dashboard [256x256/4z] {
+xTetbWGX40JHpFjVUgsLhQk1fOhuVlA8SKQrKWC00000000000000000081jkIZPtlIE0G00003Gb_0kCVqIdCbPAHIY3QUaK8ZsEADGY2hqnqDqmEc4GbIc
+FnIYOpNowG_cgqO-_LgXNsltQzr--kdN2Vh3kooqQZ_zzDElO_JJxrJzz4jjynFrwuVr-hNHeDzf-hNdRR_JzEl0ctuxJN_u6e5ThdufCBITgbzj-rsgNq-N
+NhlVrVhrQEbi_VIB_dE1_FBzzDElVltEsU-I_V8krUXNi5zBzqiBzGVoQ_UhJh_kw91ldPguNmUSiL-t1F9pzEkcG7w2VjrtjN2-VhLZf-jNGqxNhvRSlx_n
+2wDS_VgbGNskVlsHCZ_UhwtUVtRDrAyzZdhGCKU_clO_ouZcz--NGnvt_7k_ZZJFhzyVoIZKhrBzedz0ljsfdtwFxLUfVlhzJBnYvNxwwJVzProYtsVMxgVV
+vVjDVt3j2ls-bBxVElPYxWBzBmvmddxhm8ipdAdVZNz5jPsel_t_YFdwtQr-VB-Z0kC4_GdHVuH--kcddtxwNRVVdVlffvz--kcddtxwwQUVVlhLtxpz6gDt
+lsCqpeJz6khLVToXN_GFDLc_rkxNUFJJJ_-9bVlffzztfba__kZ5dToydtvFsEzOlpFq-vORsrRzzdpvlh5jbczFbsyFxVTq-VRrk66_FLk-_RJVymfTxxel
+a9_AatwNT15OFT--20paftFULxWU00000000083uyoIo2jXsvWS00000000000000000-
+}
+
+
+!procedure DASHBOARD(object_name, caption='', xscale='.5', xcolor='#66cccc')
+card "<$dashboard,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

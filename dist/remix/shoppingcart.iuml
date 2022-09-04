@@ -1,0 +1,19 @@
+' 84c15c52edae103d07204aa9f88a8f8bd1d7879e
+@startuml
+sprite $shoppingcart [256x256/4z] {
+xDbPObqX38DX9FQ_vxxL6Ouwni4NwN_jn6UWIRZBiPHIIYcbb59AAQMKyAkCyTNbVAgk7y4dlPx2hNx-GTSE022vVzdF2Lp9H_5rDG2hxQzkzky_ANxQ-ki0
+sFhZZv_6_lZtbVxuuwUr7xR-EW3MVl1zTdxmOzBlylvfv5_u54a7VoK6OE0Nqx3sBu2ajH_M_lNd_lZZZn_3-bO_PjRYLtnEIaoWnr_wWJFu7Zz7LWDezfFS
+mwe1z7x_LxzruWIw_RNzamVGxzyZ8qbVV_oR9EA7iv-D_lZZZp_--6djXvNVuWSWlChxnmm_UBBkdt_cltzAFnhz5Owc9i1-VpLj0EM_-_FVkdnFVjpjhmcu
+-cknfE0x-EEFNpn--lcBx-ENs-_XfxCVshyC_7gjDdx6Bux_rNwzrFZZXusVyOkb6lZ5IitzySF6JsS_ufVV_ThujxEVpdueFvpzTF43yPFRsQ-t_tu_7lpn
+qy1V_FYVZh-jlxR_Shy-_l73n_-Px-Idc__FZx-7_pFVoS_urV6_sXz_NNzZF_Ns6_ZbziU_BFmKAtJrr_OR-17_um8P_tBsmyPFnlyX6ldrzJVmY_N53ni_
+VVtnw-z-iMpyszGVlxx-7duy-EEdaLzV_-lzyUlhx-odipz-slW1G6w_Xv_6VZpwQU0l_a4_plEX-Fr-0gVrlzx-VZzm50yMlzil1d0oQdwVloB9qtXo7_Dl
+7c_hRLdz_ZqCN_UopJy_MllZBxwbd_4N_ujwDN_yoyzV_FXxFc6SN_mT_0KWVjeT_-gr_5slx9xRNtwEvvU_PG2pPy3YDxsqpmy0Ej-Rn-E1rHHUezMNcLut
+Z_sZlJae0W000H3MlpKzkEshoiGV00000000eA-lhmy0003ew-jR1m000008
+}
+
+
+!procedure SHOPPINGCART(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$shoppingcart,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,20 @@
+' 999f120a9a3b48fa4b03c4d8e0dc3c48cc296076
+@startuml
+sprite $timeseriesinsightseventsources [256x256/4z] {
+xTrLOYGn40JHJDt_pejQCjTiTrbIHfX-J6-QMKyY8h9joUTOQdcczMgG-CZ2-NOutmxdEvnlf_iTphV3-NOut-5yEvnlf_kTpSVlSBwDFvflf_kTxhVJ_NQq
+VrRnQvSkzMlVBl1hxmh-u_XFMMECgb_xzpT_Z9fV1_d7p-By-jS_2dwTviUFVoJvyUDNi1y_VkF7Zny__id7Zny_VlpuyUF7p_elVlpucV_XnuyVF_D__FYh
+jPoRkwpVNQtfTr-grEHtP-lvtTjgVdUtbd-3svdSwVS-VgVwFVcd-5t-voR-UlykzpEAzEDNkbyd-bKftQ_J_7gWfpziRUlNLMtbbpI_vFdrf32_elrIi1-_
+ilrAzkFNudxyme-_WP_cnuzVw_ln2ty3Fz2lJVnguCVvfNtyqfxwwy__azIWR_47X1y_VlpuyUF7Zny_VlpuyUF7Zny_VlpuyUF7Zny_VlpuyUE_wJ_Oqk-h
+sydlxFE_d7t-esyitM-d-xswt_Xpht_5x_lBzkDtjX-_i_tulOb__CWFDMRx-iT5-ONw_GtyoWkGxhSNzuyBynib-8VVRp7_wFRx07__2z3lxty1-ltun-Mb
+-qV1N_DjuX-N-VrYyl_xVPD_TetVhxQwVtWsF6Prls_qwuc_e-eWQl3Z_vGNeCRFzezltUbt9x_k7tSz_-KJ_Gyy_-b6ltsvSLRWt-0lxm3s7Jqyzs_ozwT5
+_4htQor-lr_hyZNvz_grp-F_4fv_sJ_y9JUsvlE_E_KTmt-PS_Yjmd_Lw-ylr8yVFtxy-F7ZnuyVFtxy-F7ZnuyVFtxy-F7ZnuyVFtxydas-2twVviVlaj_d
+yEr7_3w7RqzzoUz3-BEwtpu5N_S_RIzr4UIuf6I_dXJELpOVlyBv2kTB-AFv4lvK_IpTht2-5CwNqlqAvqlXV8NpfN2-bEvNC7zsu06W-e_fZ2O_k1Vr-F7J
+Lm
+}
+
+
+!procedure TIMESERIESINSIGHTSEVENTSOURCES(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$timeseriesinsightseventsources,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

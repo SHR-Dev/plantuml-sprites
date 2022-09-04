@@ -1,0 +1,21 @@
+' 2c2ccdd61760361f281426d253883621ac7e6a7f
+@startuml
+sprite $contactsbook [256x256/4z] {
+xTtdTgHQ34HXgdZ_TxvhagDOhdlwE0Zj_PzfFZa3cZvcHqH4H4H4H4H4fA35u_UtNv-sMx_UThu_IhzQE7vlUcehFtxjzUFtJs6Rts5NVdzz-mOWoVRvSRQb
+XUEtLtqshfUVVlq9i96V5mqWzySlAWN7DnZ0sla7_cO3wE_NKFzPV1CSuAy6CCHVJs2o__pZrrZ_QNkq_xIDNoD-_wkRxiVlmNxyvmW_VlpuyUF7Zny_Vlpu
+yUF7Zny_VlpuyUFN-oRvDTfVFuiwnr_eX_bTdCmOlufpcUMtps5-_1hin--nVlny_kF7xtP-_FZnuyVlfyRvNJJ7xuk6-FqhlSc_6k5_qXSJ6E0lTtVh0VJt
+vwlRnG2Q-dD-FO3-_fnV3w2_F-VN0-Zlp_dr0FhxS_xw0AmU_ffV3-2k_e0V3A2xF_iVcVfV_y_v-G3w-u_OdzNAhyX__2-_x-ZNNVt79_lTtx_-ZqhutpV9
+hz7-Gv8c-myLZV0_DTbVry-l-_ers8_VgT-tzIiufNx-_5obW2_xtEllV_sllp-__hlTt__w_xf_mFsVe07t_ouQSFytQC3z_ui6FFyHDE3vdulQFF_bNutO
+__Vl2hsdxF-xRDB-_ngU_N_s_zd_P_-V_HVyx7_YTsE_NpN9xyi6VFxxARt8JztR_uvU3E76_ejtyTLJ7h7_S7tzKxxv_aEXBoRGtv_pym7qzsTl9T_Gd_F3
+zoFlwy_vTSK0-llzgu8VV0QqzTStVV81kBs__iwV3w2zF__erpy6s_jhVZw0_lwQdtyNREyl-F40-ljhVkxt3Vm5Fnn0Et_EppT1-_kFnGA_VhnVZ_ZLsryV
+bOVVTh_h__K9uj__3M2yt_W7VFzhk__lnt_-k-V-V_tdZuAAI-5zz_zjMylPTlFd__ohPRpT_lbFFzGjdl_rOhVQ_-Vz__3ZnuyVFtxy-F7ZnuyVFtxy-F7Z
+nuyVFtxy-F7ZnuyVFtxy-F7ZnuyVFtxy-F5xj1y_Vcttuw_xWNuFyzVyaNxyjgrH_fe_q-zV5VmX_Z_wKVwQFyfVyoVz_fVpSx_Z3t_jTr_-eHHWMreuVdjE
+-7cImoGj7B-xb9_xGu6k_DANwzVvDK0B4y-EtmyFzNbAMpr-VyVU7dt9Rw8J4H4H4H4H4H7HVm
+}
+
+
+!procedure CONTACTSBOOK(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$contactsbook,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

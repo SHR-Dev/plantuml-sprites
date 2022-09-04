@@ -1,0 +1,22 @@
+' a08a16db35c3fb7fa212b81183a82ace4c15c5ac
+@startuml
+sprite $gitmerge [256x256/4z] {
+xC410G00004W_fysH9LZ0000000007Jit6NQ6q4C166tzlvd3ax0L8P9P3qjzT-GtrhuQ9qRwsnVwwIFipL9S6Q_d7-12_onTb6W0_-usby5ZFdd-FD103S-
+5B3r8zy_W2G17mBOy44F0ToFFWVmv_i74F0XWFpuzW7uutx707pm_GCG_t40yyFl7q3Cvm06VkBpBFpmMQzJ0FOVdVq1_iS1nkz--dC0IUCVl-Vbxty36Fyp
+_F6FV_pZ7__unp-V_un_lluP__W3_VFzBt-_fFd-__XT0_Zpv-UV460U0B3Yip-y-Hn02Sy_pVDlPiy_plElrW7c0N3cUmUODu0mtpu0ywq3jFL30E2R1UZX
+vqi0_IVdaHyFlt-00B_H7lbFzdwntttZxtdzymrW_CVog_aDKEhWvm3-VlulK5huEO2_7w-19lT_3k3lvm3-VWxWx-S0_duEe0P-3Y1tFtuYi6Rivm2XlHNt
+ys9D-olhvyNE845HFoVOxr3UpzjlKCcVCoXWvEUT5UZWvmAcVXu4SFHpWGv-lWWQ-Bb0JR__HS3--BcS0ZKV04WgeEyhve_82N10W3G_l2hd0EpNMag0aAIQ
+VkNS16hvrm7vAq0aN09b_7-EnmgmPXQ0_MVFoRw_fmCKyf-z6At5zWe6OF-QplTV4gmhe8x__BVjBzOWG4N_-Vv90mnGqh-_imBabu4V6s206lu0_zOuG400
+0py4W2l0nhz60G82vFhNYyWEKCZ_aNSUHde0IU1F3-3cvm019u2j_t40Spz_72pYJmi09u3Zn__7Rp_syVF03m5otl-MveSJmDr_gk3NVR-o_HmW_ySVwTT_
+_Xr0v5UoF_-pu4Ul8DEV7q0VFG9VsRjl0uU160Y0ZsF_FN-ucRmqDCi61c14WriyyYLeXkMVf03HVsw0ZdyPayKQtoHXfW0TlpHc0NuA8ErxFmMOsn-Vvzzf
+d-SVQf_dNsgVvvzgd-VVZlPv_h7sUVwr2I2Fh_FFvnJ-OldtyJVWa_q7tlVxBxplzv-4TxxVVpFrmx_Xg_rVr3z-_yDyl__Fxz_p_TTVn_PN-p-wlrtGhr-_
+VltwzPVpst_zld_Lx_S7u1_--r-_F_RxUttz_ulw_V_P_z-YWF3O1-C_uVtyZPr_ydxdtz3yONJfT_wryy-TV-_v1t_-vVX-2Z2yz--6iON7_jSBM22TNlj9
+eyiLE7fuvN-xW04xQe1_9yqIx2Yo_lr0px__zkQW0008201O_zQy06zmMu5bF__L-ZxwHmO0000000100W
+}
+
+
+!procedure GITMERGE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$gitmerge,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

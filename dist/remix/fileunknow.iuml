@@ -1,0 +1,22 @@
+' 5432f2769093aee92efb9b1f97ba257961162cdd
+@startuml
+sprite $fileunknow [256x256/4z] {
+xTm7SXin40LH3Np_ExlIA805fwPgtE3_DtWjfiMk_SRdNvPbMPPbMPPbMPPbMPRLyFHqld7z6jjSWPQFRwR0XX_TH83c_vXU5wW1Vkjd1m8GF-3x0o2-Fq0X
+lpz0LG6-Dm3t-mDmlpy0UFlh0t2_Fq3LcJyVeDn-7i3lvm7yVXx0x-S1_7uUmE_d0Vn-7i3lvm7yVXx0x-S1kDyGeCH-7i3lvm7yVXx0x-S1_7uUmE_d0Vn-
+7i3lvm6utns0-rq1Ikxd0Rn-7a3WrmHelpi0zzi3SBy_0FVx0t2_Fm3t-mDmlp_0l7zzsK20KVzws4m0xkVwta204VywRY00y3DyVTcX00mmxp_ZzwtUDmMO
+zs_uxqxmd_aVxST_OlJy0FF-JV_si2t1qmBC-vj_jlUs03O_Fvlh1ayBK5K3VlPjl0M0Bu1v_zhu883Kt_o100D-mDy32Fo03m88_82_1H3x_qtV0Rn-VX7I
+0TJ-vfC0DZ_dzsxrym3pViwlJtizVsqx1r3xpx1zu0NWyrVlTyS2Vd-T-AlN3S0RmELl_Lu0l04C_ZE_0rpfhoF_Jqv8-Yf8wTzLv-EzOu2gqllh4sRZ7mBi
+_YNqDshRoRFExnQrVpte3npq0lX-FmzmvfzV07v_9sZysUBmysST_kwmgBi9_FH17u4V5_ZxtqjkV-yWqFlvuey_Vl_dF-V7VtZvno_y_SlvVZz_KA3kzllF
+V_ZyvtzSt_mNz8lF__cs6s0lvbVS_nlGk-x_SlsPVws_yTLyt_CVd5yR7xpyNVul-18__yNvlkV_-9fVwkS_-PKkuClzVyY_qu_uVlzQY_BzVi3t-wkAyVr-
+mFVx0VzwVm6-tr-0h_Ut7l3LVlJ_F_Zzw6_lz-CtljyFz38_u_lznOuw_TS_yC_ll_ulSDQZzw_Q1lZoyr_mYrVW1u_52_na0E_qy_dzySSVV_pnnxy-JUld
+-9xDp_NWFxrr-niFBe3kUlx3T_tB-U3uvyRphvVoLnKu_hpp_3l--EEFF_xuuuy__lp-pVNFlVV_mP_Vxy_z_zgM-_yv_nRuS_z3ilZZZp_--EEFF_xuuuy_
+_lZZZp_--EEFF_xuuuy__lZZZp_--EEFF_xuuuy__lYNc4_zyPVRN_77Jpy0t6z_w2-plvxYNrB-q_nBocy_3x2M3TzyxgzQobMr7mSeexxvF41F9D_uRENR
+ZkUpqRCiox8iox8iox8iox8i-ma
+}
+
+
+!procedure FILEUNKNOW(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$fileunknow,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

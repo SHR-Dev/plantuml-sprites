@@ -1,0 +1,22 @@
+' 1c8c0f9ef4004bdb3f2e1fdfd67a7a947b061d9e
+@startuml
+sprite $etcd [256x256/4z] {
+xTr7WiGs44DH_FjVsdidMf1L0qu1Qv6erpctmjCqJTCq3OeEm411h7x43w7wCJ_4we6PbZ3zk1-ozFD-IDJ3O1M1V9ZiojBF-o5D3mpNfV5vjCL0twmUdkxm
+kf0eFZnVFz0ufWTh-RlA93vuYzzr1l71NVkcCqSF_j8NhJbyS5Q-Nnl3nzS3s8jJ-63htotNf_44M75hlui7m8xNcyA7Tte0hpU43-9rhDu1VdQMys4v7vRp
+OJaVblDXEH-Mys4v7tRpwsSrlnU0tl_ryKyV__VvNv__z_MVjrdEbvRpfULyQJbVMiwNTlFhr_y-xG0_zGJuOCTx_5zkcdy2VBJhI3wQSmt_ivslu7-vUJx_
+u_t3-TzN9FD7MdBvGpsX_BcgH7zUMVv4s0dZfpRc3uER77vsRVuSc8dW9tJVFyAj_jzIhusd_pn_VePy_j0K-Nmfq9__-3kUFpzBFZzecljVW8hhonqed--F
+bC_F6-gtl06LMfG-LoXVolHhBeb-JIRFhzca-JMTBB_ca-JNJoJ7_z_sy9fJ_Sw8NgynNuRVcyGe6F0xV6iKesB0x_2jMOoIJBytZD6IwVUcCMeo_TuqhF3Z
+5VeZQjplpSCIFrwVFw6R-htjlO5OuyThgx_--kkll_T_4tpX5dWJ1VYDWlgdd__a--KDTBL__lKFSltovhdJpm-z_Xdp-Q-1rxy7_7x5mFiVyUV__FjVGLy_
+77Z_S_hzNvua_FrluCvFliqFYP48lpyfl4y0tycb_lhh9yfFWBz-S-Zwxpi1IFBNNpztyUklNxhr162pltuY_Lpbh_-33MT2g9_w9qAidrlzMkZ_OC_-_q3z
+z_0lF07g9zpFfNuj-_kfWPthp-KpSD8c-tMbdolyvFi7JjrWVltJ--Vpy_rSv2VQFr0nm8_sa-mVAGdc9_dd-Kpr4Ad7Rt8ccQSV5LxVwByXlEzoPpajYl__
+loFbaDEAyBkVrr_0EYqWEwTfTSpfU99pv3ppItVv3T1VSpgOt1n5J_owpc-H_fhJiQJ68_qrXqFluqjF-3eTIcOCb9bC_bJgrtA-blEbxNujvsivNzhkrsv-
+_LhEbvRpjPmlRVThEL_B-T9slvRpfULyAK2_yIHGLjRYvqy39MV0dfu1Utu6xFaPeETdG9wUtNffELzQvg-__lhhhx_--kkd_kUfl_xwwz_9hv_wwr_CX_hh
+Nyo7-fVnw-yLe2-1wDTcYfsVdsGtJTCqpHy
+}
+
+
+!procedure ETCD(object_name, caption='', xscale='.5', xcolor='#6599da')
+card "<$etcd,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

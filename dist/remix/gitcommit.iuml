@@ -1,0 +1,18 @@
+' 75841f9e8730a08e3cbb36468ae7ff4b433e0d67
+@startuml
+sprite $gitcommit [256x256/4z] {
+xTnNSgG044J10Uv_vlMsPIf06x3KP7xBlHwCi8z2000000000000000000000000002m3CzPFZrP-_hDqynWT4_j4nZjhoeUm5_rsmj_JQ0qVxHFOG0T-Tit
+SGAjo_uMD2u2oypF0_Ycgdxafm7KJ23Kjoy2t-f3Vl6E87tuUG8L-Ti11GFubX_gum0UznNoep20XdpzUG2r-LdO1FRtVnj0TtxkN_hsVUiG1j2Llxug_1VK
+yu_VozE-UG2tNFdNT7mxHn3MW8Qb_vMZ-pycKB86n9gPi-G1LEK_NYWOm4W9-Ji6CFgxykTIizve6vW-nvm_lp5yvnMMNS9Y_5x54fQStQwfpmlnaG6SEe7v
+9-qHyW_lENRB0yW-N3_x3nur7f_0H_iFjAVyF83jBVidSD4nVEw__bTcuM_PO_mj9_tEzUFzszdz__YNwZ_k_3z5_-F_wj_ktB_frn_ej_sp__F_Z_uBZaKk
+-9sEVoyv_x5TTFx3-QyRdVzSJZZ_UVNvx-M2yz_tkVwnNdpzuxXS4HRAbdi0ya9yyFBVuouENG2EMuxM-nzoVkWlklzb2_cjzp_bJx_-_hUmm3ph_OyZls00
+NVU_klyvRmAobdpFFymre3lVyq-U_ylzJ_u0w7f2Vjtpp-44fkVV2rx_qFp-Wt1mc-j3Vkq4Hds3FGC8Ytxx049zxOuWV_ZzEu8rv3U__ovSjMomX1SWZXF3
+td_PPnb-LxV5U_-jzny30000000000000000000000000C1d
+}
+
+
+!procedure GITCOMMIT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$gitcommit,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

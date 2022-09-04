@@ -1,0 +1,8 @@
+' 32e2830dc6323f217c0e1c50656a731eeed7203a
+@startuml
+
+!procedure RES_AWSBACKUP_RECOVERYPOINTOBJECTIVE_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$res_awsbackup_recoverypointobjective_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

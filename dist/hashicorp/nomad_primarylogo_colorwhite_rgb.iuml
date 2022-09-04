@@ -1,0 +1,13 @@
+' 89e07eb579bd7493c7b6777c7858cea87fc22dc0
+@startuml
+sprite $nomad_primarylogo_colorwhite_rgb [256x107/4z] {
+xS-5SKCn00L1gV-Ymx7zIl3Sxi07uPqW000000000BYtdV-jM_ylM_-lcB-AzQjOluBrgvY_YlMhMB-2zQkPV-vJiFxiZ5R_EUd-a-u_fzMlNxz-_QVOlu75
+_iqhzczTlV_q-lNhrwz_Cc-lVrwJ_TzciDK_CltwzUlNVzlzDzr_Rwf_Wolvwuv4_IhMhsB-AjQlOFqgrgzY_YhMhwqFclgaoKzwXte000000FW4
+}
+
+
+!procedure NOMAD_PRIMARYLOGO_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$nomad_primarylogo_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

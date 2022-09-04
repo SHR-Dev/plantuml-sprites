@@ -1,0 +1,14 @@
+' 7ec1a51908429d5e76a06286b22c88149abb520d
+@startuml
+sprite $cloudstorage [256x256/4z] {
+xTn15SCm50F1gln15q1DuB-THP0v9h7rkPuaIP8aIP8aIP8aIP8aIPAqPzUVF-J__XVry_Fpyw_hv-TVrS_Fpx-kdvz_LJy_F_-wVdx-LVty_Fph-ldvL_Np
+y_Elw-VdNzNFpy-_hf-VVrK_Fp__kdv-_bNz_Fpyw_hv-LVry_Fph-ldvr_Lpy_F_uYVdvy_cYH9aYH9aYJ9zs_xt_py_Fpst_dvxP_py_CVoFuxFx_zStv-
+Vlll_FpZv-Ut_yxFR_-Sdv_V_Zi_l_rpVdv---_y_FRF-VdvxR_pyzi_v-Vdj__Eps__dFzA_FpZvxT_pi_FR_-Rdv-V_tII94cI94cI94cI94cI94dI3m
+}
+
+
+!procedure CLOUDSTORAGE(object_name, caption='', xscale='.5', xcolor='#f4f4fe')
+card "<$cloudstorage,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

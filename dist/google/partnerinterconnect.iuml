@@ -1,0 +1,14 @@
+' ba9bd5fc2f565e5d58d2f4b657b94c73f286d9aa
+@startuml
+sprite $partnerinterconnect [256x256/4z] {
+xTsr0GD134N1--g_Q8TAJCUmypgOS57JOvCaIP8aIP8aIP8aIP8aIP8aIP8aIJcuGVdTeFoEdv-Vdv-Vdv-Vdv-Vd__oNP73py_Fpy_Fpy_Fpy_Fpy_Fpy_F
+dxcjyMTkr-5to_sPt-xycjroVyqkuUVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-UVVSfHr_PNFZQ7_qH_-Fdv-Vdv-Vdv-Vdv-VdvxN_O_tg0dv-Vdv-Vdv-Vdv-V
+dv-Vdv-Vdv-Vdz__5_u_yVyDFpy_Fpy_Fpy_Fpy_Fpy_Fpy_l_bt_Fpy_Fpy_Fpy_Fpy_FpJeFpEzFkjaYH9aYH9aYH9aYH9aYH9aYH9aYH9Bm
+}
+
+
+!procedure PARTNERINTERCONNECT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$partnerinterconnect,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

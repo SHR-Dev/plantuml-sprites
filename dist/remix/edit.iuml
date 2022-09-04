@@ -1,0 +1,21 @@
+' ec5ea78bd5c0b50dfffe76a5ada4c7436d12dd67
+@startuml
+sprite $edit [256x256/4z] {
+xPo7aICn4CIskVd7_Dw8xxealYC8P81PXnjUwVe7Y8Y8Y8Y8Y8Y8YEI14-LdpjGV7oW3WEgF1yuQm6HV1a3Mlp_nQG27wTyFd3I0IN_opr7wPmuWIIRzUG0v
+LFy-eWCowS-K4a9bprq6mF_k_t82-Ez-6y1H-lqxoDVdbs3HBmE0wNV_mBEd3-0O_PB2TFsIml3gAoN8rk-t0CI-w9SI16TFlmNW-lqpm7tnyqkmwDEVW7xp
+Zq-K9m2fFoRA06WF__WEM0acwVhvJ1q0K3-FZBOL9gqw9_jh6W0ZXMUXVbFNcoK9Id-o1moWw9UFMYkblVmpktIPtWfR-HVzr_n7idFrzMUPufyaB-XV_PdX
+wEU5XoRXLD_rl7yIJFLT2_u8_VBu5tz0zRto-6U7xrxNVzcV4BtN1RxyNJzBpK2glfc55mT0Fo_eCwglwm-GVZaVBVguw9trIp9jhPzVwlVp7yAgixmsuVeh
+NusjgqzzTFKM_VNepyRwzsBq3aJsbA-cqRjTzwntUxh-1lPDVwNwjj4_Eth7GlKPlKOlilgCtguFonv-z1gzHg_HQ_GEezVeVLxVwCtXqUkgyyPMtxrOVIDM
+7rG_--l7w6shJgFNwhFwGFgkEZtVTzNfgjFejVeyttVLwQhJwFLyt-ZrVD_eDNgDNgFNLQVHQ_GQlPxlUxxl-VxmVD_pVS_tDwo-77k-ltx_nke3w7k-_tBr
+n7zl-9K--V87e7ybv_reLVVl2g7eXxxgxFxiLMVtPrTVV_pB_SlJd_tPrTVzpzJl_jpexVvBqSlmfwuwk_y7XwNeXVg7eT_zaw3rk_z2z5Bz5weFu8_Ix_uB
+rOVrxuiohd_NP_bdvRyw2VsJfUW5z7yUv7lsmFn79WPDl-z_nkGEYDxkFslDt2Lw0Vupatlzxe7yExtw-FvTd-zVz0d-NP_lNwgFxb---sJ_hi_tBuVZf_gd
+w9FzoyM7-dTzld-lFhv_qKVuTtsG_pWlU-QzxYdV_NAcLzqdVT00dY3X-C-x_Ku-SR78SrmuuEuY8Y8Y8Y8Y8f9jeTjtVe_-s98-W4wnts02g_vZQvBVyVCt
+cx9-5btqDnZ0kl-zCKl--kkl_xqr-kkll-y__VNNtxz__FlN_OVxB_UVxhyz_y0Z8Y8Y8Y8Y8YBo5W
+}
+
+
+!procedure EDIT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$edit,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,17 @@
+' e230d972e817cb2cb0bfb1340543934af70582bd
+@startuml
+sprite $chat2 [256x256/4z] {
+xTs5bUGm04H1ISu_vtlo7dDxSThrCwZMC8xw94cI94cI94cI94cpepvytbNzUlIkBV1ahoaTu0VzyS3zi43aVw9Nz6M0b7_KbFjFVji0aV-eAlIlFlzA_Fn7
+MO5_jledFtzmyyT_opi0VlwZBdv-_Z_5p-_-Zv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-V
+dv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vt_-_y_Fpy_Ex_-Fddut-oS_F_n-r-aVWNsNyp3_x
+_3FqhxhZvyy6M3NwaB_zS-rQz6kBHZZ0itjHmVLo_fXdw-LwMNMEt_we-QttME15vRb-Dr-kjSlvyyKQLtl91JB-Yz7VlNo0h_nHKFw8AhZ1BXWWVB3Uxr-5
+_Zr0v1-D_XKSV-i0EP-_Vu1-_lYVHq5Vdwirzkyd0cjtyki7oFdzru1Jl_tj0mHN_ie1WgSzdGC4_CxRmE2UltA0bDy_GC1lzA_0tpX0m6_qhy1VEC0w_UDM
+_XKSV_S0Q_DlwD-T-BRZpzzUdxVoZxchu-Vlgtx1ty__I-Dc1VpMNXSlIP8aIP8awHC
+}
+
+
+!procedure CHAT2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$chat2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

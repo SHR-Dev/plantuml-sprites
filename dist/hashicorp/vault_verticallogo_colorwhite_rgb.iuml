@@ -1,0 +1,10 @@
+' 3ff9db32f4e234e4c70abdfa19feb51730aa2658
+@startuml
+sprite $vault_verticallogo_colorwhite_rgb [179x256/4z] xS410G0010Cm_LEB0TzMgm4000000000000000000000000000000000000000000000000000000000q
+
+
+!procedure VAULT_VERTICALLOGO_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$vault_verticallogo_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,15 @@
+' 0513a09526809441ce4905a47405878ba1d60d96
+@startuml
+sprite $arrowdowns [256x256/4z] {
+xTl5OSC000H1I-w_vd2o5SHqCt_3dkYbotq1000000000000000000000000000000000CTDxBRdOUFFy_XFPr__SFNdxJpK0jNVq0CDy5T_lP46sCjlWKVh
+l-Os0wpsw-_y7ntWeHu0lu-_qSFV0EVYqR_z9T31NnpWB7znWV871wW-ImEKFpb0-PC3b3yvGFcJ0vG_EK3vamEKFpb0-PC3b3yvGFcJ0vG_EK3vamEKFpb0
+-PC3b3yvGFcJ0vG_EK3vamEKFpb0-PC3b3yvGFcJ0vG_EK3vamEKFpb0-PC3b3yvGFcJ0vG_EK3vamEKFpb0-PC3b3yvGFcJ0vG_EK3vcmEKFp30Q7u3ZEOt
+m5f-Ub-c-W_bBmpmxI--_9K1ifRVKp1T_1EE5kXTlYN7jx_uygS6o6NDQdvUk1u0000000000000000000000000081t
+}
+
+
+!procedure ARROWDOWNS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$arrowdowns,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,17 @@
+' a6bc5b9da6b822cd0480a76d8e3d6ad6eb883e1b
+@startuml
+sprite $deletebin4 [256x256/4z] {
+xTnbbkGm3831blh-PrxKuZ38Juxh-pzGuTXvlhqoIP8aIP8aIR6WW_NLO7ssDtOBbBw_ya_a7xm1Vl3l2yhCgVxxaaRwOwq_-6TL_4DE07v-Vdv-VdxFF_pU
+_nPj00CWSyU_OX4_3Xx-BVx8JjDBacGg_qB_MromvgdyM5hVHmF5px7rlpKL_t8RODfGJZLjq2WY1lFx1mqZyeh-V8l_Vhdu-Vdv-Vdv-Vaz_th_yVxxgl6F
+BSd_5X4V6l_Q65_y-DZuvyxyjmu0FphWkXN_qwS0CdDZ_l3F--P_85W7mBRtkWCEWDxlGtVolvxFpy_Fpy_Fp-_vZv-Vdv-Vdv-Vdv-Vdv-_ROxsE7y-w2X_
+Fj8X_k8tJA_t-xlujG7EyKT4mwzlzpVEpzS1S8O_7lF7IVwU-GL-Vdv-Vdv-Viz__Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy
+_Fpyld_dv-Vdv-Vdv_VyP_qBwvzO_yRwHzQ_ilwPzU_Mny_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy__U3lvFv_Fpy-VM_1x_FonYp-Q_Fov
+0R_yXsw0uhVvSpY_rH_vlTdwZFBtR83X5R-d-D5iVF5xYZ-Db1U_iHZVhRyzw98aIP8aIPA-0W
+}
+
+
+!procedure DELETEBIN4(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$deletebin4,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

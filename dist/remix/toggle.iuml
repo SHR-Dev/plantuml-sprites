@@ -1,0 +1,21 @@
+' 55ca41c1a24d0d26b8e14d9cd82b765343f04f62
+@startuml
+sprite $toggle [256x256/4z] {
+xC610000082W_QaNgG80000000000000083Pkwz3ns4OYA8Ugl-UzsVptGWz8mY33iwGacp65QN4MifcjREVDrUV3A1Ehje8GA-fgWH4_9LOZ405VD1pwwS4
+ilcm5qQ00B8Q_oelT845UWIGbO34hbzVIIz2KTyp0IMyywzczUvl0Jzugn88lFIAFmOVpWU-SGIIz0R-DQ8GG0b_VW3ahmg0_5K1aByn0DNmwxy2_EujJ02D
+Fow0UtxmHxu4bl4Pm1O-wyuhG9B0Nn00-7i287--7m6iu3E0PNm6i8uV_nq4_YDwG82_Cm1y-SON_0NypW7GV-toi_cV5u3zMjFzMV0lQ7vs0FkdyG_hnWEW
+2NxQMM_g0AA_Nl_h1ROnlwRmOMS6iG3Q_kyb7mjyVueWv5VhvYV_JokHOWCX_Pl_RwjOtXF067uy0FhP_AtuWSuQ7GUPn8y784dj_N_H8u1m1w1_md1rF03u
+qVpzHwiPGBXlqJ-czUC1jFEJhzW2dVl-yLDLSJ-Q_vbJbGN-wgbgTe30uzz-gKBW0O3_glV75oeL-EkQFzvtU_jVQ_ttb-hTz9zI_x5VUaNhl_pdYNxTz0zx
+_EF-wud-roFyhtl-Cybll_tsss-__VRRRx_zskpt_v-Y__yU__3ubyS_FVujptzisAhUVFvJXVEVzVF_AVFVNTT_5An_QBd-HGNhNxp-QVJwjsksd_iU2jO_
+xbd_sdhh6m88yCF-AG74-VtzLzN-Xqa1ACW_ylwdGVlVbB7_hV_-H-9rmlmH-r-n-_SB_Fx-L-z_7hR__P0Ut_y-wlo7dFCFs06kFXMaitp-YVq-_sZn-LVs
+-_m_-tt-vShpJoN9vz_w_ECr0N0iRMS0uAyy_zxt7-m9m1U0aE_xRtp_KJo0i-x-AnwljFG2E2ImWyykC9E_z_vBhRi0b7pVV-lxZtt_zORxpxbc8E7s_ptt
+tpE1n-jPM7tIJg-8FXv1Bxq2-a2rwmFi-5iIe3wfy2OirfzCFRy5fmgFnayEGEUxIgVZfL-HW7GAIu8-hVHzrT31pownCjImLvOAwzMfFhK_7m800300WFoj
+Hx5V1XMsVm0000000000000008
+}
+
+
+!procedure TOGGLE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$toggle,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,17 @@
+' f98e00fc069e12dc52c76c543f2591f2c16718b4
+@startuml
+sprite $brackets [256x256/4z] {
+xTZNWJCn28112_gl-G-dPmUyo-4mNmDek61Bb-zBaYH9aYH9aYH9ahIgZGsTr-zcfhRnezJwrypK9dzKMskD36tZPw5hPwdpir3N0ZQ_rYd--j3eykVne_Gl
+FLlywug_zoXF3rs3l_xp_kZnvtluyrNy_7dSdw_YvuyH_-Z_Fvz__Fpy_7FtdxVrdtN_Vt7_tFlFA_WBJt4Dpt_Z_ksyNkFpR_nls5_GDsrWsb_0DwnWs1yD
+iwh_72Vza_nzg7d_PJ1-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdx-tuwVdv-Vdv-V
+dv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VVmton_rxrY1_qhzdNUt4uLUBo65_nBfU8txh
+f_qPXGqqw2E7_HatEhw0xRnU3lWB6pZ3Nz2F-A-t5t2SdzSQy5SNSD2_-U_gppFyEUpdv-VdZuWiTzoVJ_YZnv_luSycF__Wt_-ydp-6_FF__tp-NTxh_dCv
+lGCtqO5RTuE_l828K_pLgNjepm8gNU7F3JtkN-M3hA6f7Qqd6fqwlu6PeT-N94cI94cI94cI9Eal
+}
+
+
+!procedure BRACKETS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$brackets,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

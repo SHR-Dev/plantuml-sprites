@@ -1,0 +1,16 @@
+' 21f0de5222d6a89bc2cbee3eb7cfd796486061d7
+@startuml
+sprite $arrowdropup [256x256/4z] {
+xTjLWXim68F1Eht_cSlzbxKCbcUUGv_2z6rt00000000000000000000000000000030MklWz2kdrezJyyU1_PV_ZXjWwiC0f-JF0CVbvm7wyx__5mRex9_w
+C41zVXoWF__80TRanm7wy-C0_VbnWFxyCmU8-Vq3pCkUCmR8-Nc0wXj_-m0vltw0d5y_GCu_Se0LylEpG7z-7g0_lt-0d9y7ACxl7s3oNzG_0_JU-Vi72FNz
+3uAJdmAVydb0vwSzD-G1YlD7761rvg-_dZ90N_uQJpbaQVue6o0_ya_-R5Ls2vYYc7_xu0KlXKD-wia3R7S3U4h-y-ylE-Ml9-JN3l24_1NkCiNzuQS-AxvJ
+dlxE_3p0t00sxiylPiFhWAx-5IlMBotzEJyFKD6Vy_C0lVslElBEhtvpGHxWij_p_n_nrf_Nk--paXr_t9y-pCxhpJ5t-mne1XWXFmmm9dyRww-GdzmzveuV
+0FtraYlmvX7_Ql-BLpxchbuQiMDyBddnyRRtmemlNmy00000000000000000000000000000003y1
+}
+
+
+!procedure ARROWDROPUP(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$arrowdropup,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

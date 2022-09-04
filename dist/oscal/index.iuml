@@ -1,0 +1,30 @@
+@startuml
+!include ./component_definition_xml.iuml
+!include ./assessment_results_yaml.iuml
+!include ./assessment_results_xml.iuml
+!include ./component_definition_json.iuml
+!include ./ssp.iuml
+!include ./poam.iuml
+!include ./ssp_yaml.iuml
+!include ./assessment_results.iuml
+!include ./profile.iuml
+!include ./profile_json.iuml
+!include ./poam_xml.iuml
+!include ./component_definition.iuml
+!include ./ssp_xml.iuml
+!include ./profile_xml.iuml
+!include ./assessment_plan_json.iuml
+!include ./ssp_json.iuml
+!include ./assessment_plan_yaml.iuml
+!include ./catalog_xml.iuml
+!include ./assessment_plan_xml.iuml
+!include ./catalog_yaml.iuml
+!include ./poam_json.iuml
+!include ./component_definition_yaml.iuml
+!include ./profile_yaml.iuml
+!include ./catalog_json.iuml
+!include ./catalog.iuml
+!include ./assessment_plan.iuml
+!include ./assessment_results_json.iuml
+!include ./poam_yaml.iuml
+@enduml

@@ -1,0 +1,16 @@
+' 56aa2ffb9b373414c63b9593083c0ab4ef34e7cd
+@startuml
+sprite $strikethrough2 [256x256/4z] {
+xTs5bGCn3411G_yr7-Z1OJZh9qSp7Vnbj5iX000000000000G4-aJFnfbVF3sloHJ2o0bVc55q3aprHY0QnS_JEPs02ghlxe7olxPphwzUi_X7xz-lNhr-_w
+r_rFqllVjJV0esn-z3zWdhJD0x37by3pw_icptzFBO38UC0sBm1EzsUfNt_mZFn46Uil7qhaXzFzhKp_E7NzMcK7ABhvXrFzJRz-_Ov_pd_wzUlNx_v7ltxz
+-lNhrw_VzP_x_nVe7oVU_jHP06Npe_-dMlsjVpZn_hw6_ezMIffw00000FgsIjU7v-IFBJrZ0UnM_-odwb6_iTuJ_-cQ_w_OhVDZ0JpUFpVsKBz-_VhdrlJh
+r-_ufr-_VlS_xdyz__3yo_DFpx-z_m000030_y_-VpV-WV4lZ7zY_1lZ7nd_olXd-lNhrwzVltxzhl_qwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_Tv_wDUl
+N_yt-lNhT_td--SQJdp_RlxJmWl0_AUjajhvuRvu000000000000W7S
+}
+
+
+!procedure STRIKETHROUGH2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$strikethrough2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

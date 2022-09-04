@@ -1,0 +1,8 @@
+' a8b0534e86efc88a07fd225115bbf2dafa7ca4f5
+@startuml
+
+!procedure RES_AWSSTORAGEGATEWAY_FILEGATEWAY_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$res_awsstoragegateway_filegateway_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

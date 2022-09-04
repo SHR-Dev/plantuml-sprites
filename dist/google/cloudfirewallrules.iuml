@@ -1,0 +1,14 @@
+' 9cc171089c15a44d39e236e4f922e2cf983c0641
+@startuml
+sprite $cloudfirewallrules [256x256/4z] {
+xTst0G9134N1bVelceWCpwtLJ0FeXRX_hH800000WEXhpijMxuzl-hEZfuTaJ_hrt-dNhr-_VltwzUlNhr-_VltwzUkVSaZqxVVvTrq000000434Jz-czF_g
+A9zTd3zStAk_fwSNftxz-lNhrwzVltxz-lNhrwzVltxzdz6l_xsrVZgVWmTWsdDJ-fkV_mC00000WFsVUltsl_JhrwzVltxz-lNhrwzVltxz-lNhr-_pJ_lt
+sm0000000Fitze_iNnNerwzVltxz-lNhrwzVltxz-lNhrwzVl-UV5W8000000DY_dp945VQ_Vg1Vltxz-lNhrwzVltxz-lNhrwzVltxxz_RlAm400000k04
+}
+
+
+!procedure CLOUDFIREWALLRULES(object_name, caption='', xscale='.5', xcolor='#3366f4')
+card "<$cloudfirewallrules,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

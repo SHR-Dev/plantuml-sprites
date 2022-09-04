@@ -1,0 +1,18 @@
+' f7df2c06163937af0b0cb97d3bf410d3e05d31bf
+@startuml
+sprite $mac [256x256/4z] {
+xTq9Sjmm34L10Rh_cRE7pfxyAKuvXFlTe26EHTBRDJv9aYH9aYH9aYH9Kire7ZxlKNqVtrT9pkynfGFuJdyVt7SJYFoBVdvV1v3oxp7b_iMVD838VuygzFSy
+VoT-_djOWR-c-ekVVyENF_xHBm1-_djS_Fpy_FpUV_py_Fpy_Fpy_Fpy_Fpy_Fpy_1FYv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-SV43y_Fpy_Fpy_
+Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpz_7z3p_7r8-_rBN_zz_R4d-Uk8jlXFvQy1xFTNrI7_jVfP_kk8dkBli_ozryz_17y1-Fdv-Vdv-Ur_
+-9r_d7_TVmJhPzZzrntwPzr_vlvXzz-v_zW9-F-t3_lvVV-Jdxyc-kjD-_dv__q4oT_3-8cVl-RvA_JtAFxo1mCOnm_ztMFqkR_wQuVJl-hh2ggFzSxkiDvO
+LUg_waklD86jziMFsdyhc_5hQzT3RPv0mDzgV_qUyLzZMWE8-BDA_TSuVtKdU_LfPVwBdv-Vdv-Vdv_V_jVvP-BZpnV0V7yFypzq_pK7l_Zf1U0K_UFtl-Vh
+5p-eXqnWuL_u-GHcyDFwPG8dwolGZre25JpyO0aCUVZv4fZomSy7SDvsQ8D-TU80WfMVR8VcxVPdVaSuu4S3c7ZMZUu41Zp--Gk0d_-DV_uhy0zy0VxclgF_
+kT_iW4xQ_solgixQ_-_fr0FG_gwZUdsz94cI94cIfFS
+}
+
+
+!procedure MAC(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$mac,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

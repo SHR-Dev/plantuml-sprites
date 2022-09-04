@@ -1,0 +1,15 @@
+' 16e6d90eb5cea8a33fdbed4e5467393e926dbaa4
+@startuml
+sprite $space [256x256/4z] {
+xTjLaWCn3431aNt_Cozh8PneIKxtlwlyXd7xKG000000000000000000000000000000n8xxcdySqBK-NJbyVD5e0TJddwE_QB80wlFFyVEJHltr-UVmXWkW
+FlySFtUqwQ_FFnVVxWBiqL-VVow-hthrpptwzUlNhr-_Vlsk__JhrwzVltxz-lNhrwzVl_xbtl_K-_LlJHJwzUlNx_odl_dp_n_fZnRvFzK_eebHxv-pwmB8
+_5tr_cSTwh-zFuqcPYhtxsfPN-_lJt_f_DVVqA-_S07Plp_qwzT_WLNx2mzGLZxywr__053w_w-_aVtL1R1-VlO_MwR--luOQJPsw__RyMoiueR_zoErRq_R
+bM8fsqtkfBqE00000000000000000000000000000817
+}
+
+
+!procedure SPACE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$space,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

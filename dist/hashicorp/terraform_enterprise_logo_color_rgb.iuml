@@ -1,0 +1,19 @@
+' 4edcd0c2750fcb482cea7c3d591d3da8079e4d8f
+@startuml
+sprite $terraform_enterprise_logo_color_rgb [256x55/4z] {
+xT89hgim44JHkbNxt_CNDhG8GT_m9Wd5LmEcwJUS1DrfDflDPhFPR3QR8O4-fI1xToDPiJ_BZotPierC964BqoPFpMXOaZIyWs92cZzjr2PwQhQv-Ft7SWXw
+yQD8Z_QR2_wM2A7fOnC7ezXFzey_0RG44WW98QZR63tS_or1qFFz-317dr3vPQCAVzSFy31_cUddYdswL9RGZQY-emdVyJSrswdAFbqfz_sf_jGlojy2_umV
+tIinlNVJR_ebHdwMah1qrQ_R_e7f5nlu1wJd-mLSz9CbzvE8bLYEI0yfQnBUPd8iWXBQj2udVaVzeUJqj1ujIK541BOHDUgBDLv25phwTUgdRFLNqje_IOup
+RqF8iLF_ckNzBx3RFkqWiexSHada83cn7TSfw4Ay-7NkJ-9cuEYN0Te49x5Hwcl-Zn-r4dR-UiFg_NUyhP7L7Ff8syYXtQ_LAwjX8BdywDnFlGMMTs-xjKRY
+RRakJjZMMCMfnVAlKMJj_UiYOOCJQ-T71t_1B_bjHFSZNVDRHHZulQtnzgZyxkdCNmZYvdhpMoe_gjqRVXi1g3hpjmx-tQ_uXb_LkJ-sdR7VIRp-BIzTzXjL
+T_sazPl-7YE_gBtUTR_Dq4zBHt-Z-pVzg3Vmjt3IXeU-xxVMtlsI-4M_RlYbN_5l2g5pluz-TpBVzZlSzIlv1N_lpU_qzdwofGj-ztZpMq8aIE2TFo1yz8Ea
+DasC16ZSDR-onj6l4xzS_B6_ElXLmzxUt-FLNzCwMkCO-87rQlTZ3L0Bimrh9kpN4STRzQWaeVr3t0-7lqmCzheZrQLFImMw5EL_HiJwsVXml_Gq_mSt_MZG
+R3QRpMQpsMms-mS
+}
+
+
+!procedure TERRAFORM_ENTERPRISE_LOGO_COLOR_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$terraform_enterprise_logo_color_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

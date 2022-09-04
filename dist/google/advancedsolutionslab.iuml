@@ -1,0 +1,15 @@
+' c133e94dbecaf1a9ff49d08d5afdfeb9279a198e
+@startuml
+sprite $advancedsolutionslab [256x256/4z] {
+xTtNqSCm38H1NVz5_z7PpnX3SxiLy7Csf26F2G00000096bkloZEl-YjloZFJzhxqvslFytv-lL7ltxz-dt-w_Vxp_-Vddu30FClyyz2dsy70000083yArtU
+wFMQ_QiRlM2tVt5vjJW_wRfWFx-udAq_HJUip2ykv-kFVltwzUlNhr-_ttz-_w-zONd_wkRpbwzkFdzWTPNplsFAWlhTgmC000003Epi_s7x7zjVlUgjloZF
+Jyhpa_R-TEVhJtE-VltHhxyeNxz-_Jx_FF-UV_tw3_sz3u1-yq_pxv87m0KWvnyv_yO1C0v0SVxtCW000FbJkhhSLHudEZ2l65oS_Q_iVsR_R_l_sVzIltxz
+-lNhrwzVlz-__l_u_sl-OVwr_twT_Si300000000WCJnDuMFWVDlxFvJ_G3O_kfTSxv-_T5V8lhrw_Vvxm18_Gv0rMy0OFvb_bbeA1u00000W6y
+}
+
+
+!procedure ADVANCEDSOLUTIONSLAB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$advancedsolutionslab,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

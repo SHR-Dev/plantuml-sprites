@@ -1,0 +1,14 @@
+' d426508302868a07001a703f7da8a4c38a637377
+@startuml
+sprite $trace [256x256/4z] {
+xTf70S0m4C2mNlc33eNiAJ7mtzzJ0000002YpLFv-lNhrwzVltxz-lKNqAzVltxz-lNhrwzVltxz-lNhrwzVltxz-lNhrwzVltxz-lK3000000000000037H
+Fqd9bRnlldxz-lNhrwzVltxz-lNhrwzVltxz-lNhrwzVltxz-lNhrwzVltxz-lNhrw_V_mW0000000000000n9OMz3_wFo_FrwzVltxz-lNhrwzVltxz-lNh
+rwzVltxz-lNhrwzVltxz-lNhrwzVltxz-lsFvLxlNmy00000804
+}
+
+
+!procedure TRACE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$trace,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

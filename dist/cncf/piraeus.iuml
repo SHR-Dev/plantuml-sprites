@@ -1,0 +1,17 @@
+' 7385c00aef20576d442b4ca0f55c7f8bc23c8459
+@startuml
+sprite $piraeus [256x243/4z] {
+xCr70GD154CnyqTj3kyi9Tlc5oy2mBUdfqy7ZXmwLb5JLGS006C6ZHesBaEEA6aIXGgM3PpzEQO260W1AFO-_aMt6mfk8d6G5m0000000000000000000000
+00000000WFdLpNkpwcX-LNVpNplrSYj838L0bEhyWvubgtb_8rguCZZNo9x19jx1ADx1ADx1ADu1etW7etW7etW7etW7etW7ZE8TZE8TZE8TZE8Tgte7etW7
+gtZ7AjwnYdSmYdSmYdUmYdS4z4ztdCNpzCVcspiTwYL-ZlcPvalmmlNpxLxjrq6_-lqSzOjw_hPVX_sYct_SB-Zbi-r70R_evGVynGlGjf-KNtJoOtv18N_R
+hwHVrF43_k85aFQBBlwsNtc_e8cVzwl6pxOVHVqEclXvlohyslQJzpjeukVzee2_x5V0Ntm01Vp5Nm05_W9-m5zv05Nu1GNyFJyjVb75p_i51VmjlvhyYllf
+yWl2_6a_QlChwbUVNv3ZR_kfz8iOF-0lNe1Q_IB2t_PJx1S4-CL-4U0l-nNobnw0Uhy8yAlz1FZ5VftpA-WlN82s_Rp5BzByl3-_06txzIQ_2Ao_sIy8y7Vy
+UfjVF7pSWUTlyei_JAN-p9caMdz_rt_zMkBVRhVRxVOF
+}
+
+
+!procedure PIRAEUS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$piraeus,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

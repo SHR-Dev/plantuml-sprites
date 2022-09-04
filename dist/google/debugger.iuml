@@ -1,0 +1,17 @@
+' b4f5de74df4ff4462172044a9b04d422399346fa
+@startuml
+sprite $debugger [256x256/4z] {
+xCy10K1004KnltzfBU3Urc3Ngm00000000000020nVkBznVlBzvVlBzuV_7-ult5-ult5-yltb-yltX_yVxY_SNxY_SNxw_Kz_Vtz_Vtz_Vtz_Vtz_Vtz_Vt
+z_Vt1m000000002usx6JGaa208IXKFv5Zu3vlTCB5UBWNVEvV7Vpdp4sVtuuNsp-_72-u7on-VF3-OBpnURF3-UBpPyVpXUShtFo7QZQVzpPEVboWi_s2-0t
+m4_aoso-_19_VfLdDby6y5_o6-0Fy8b-dI03-VVx3V2Z-JARFp-RBxFvCfi_Fvili_aoc_-tt_D3-3AP_xVVA3-RBmVu7BzExtV2Rn__vG9_Y2yVVrJW3_3h
+_05-iN_-0B_Q7-Bt-ytq1_W0lqxhJ_3x_SRw0_ng_mjyY5zdzvli3_2h_G5-jVzgyuljLwF_4SghVF_LyLM_F-d_q_fLltD-tUxuDRzpVXNwdVEhq6-stq6_
+-lmE-jNdDzllf5zrVYVzglCxwLUTtso_etwr-Htrgytlg5zjVhFzplfLvdVMhpA_sNw7_O7L-NUk-B-YnURF3-SBpXURFp-SBpP_VZXVSBxO_FdXVC7vWlCr
+lz1zY3__MckjjTPQQwsrrbfhhVKF
+}
+
+
+!procedure DEBUGGER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$debugger,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

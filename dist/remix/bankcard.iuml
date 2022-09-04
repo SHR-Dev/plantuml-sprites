@@ -1,0 +1,16 @@
+' 8071c609dfe5b7a3177b723e859f9d7d594375fe
+@startuml
+sprite $bankcard [256x256/4z] {
+xTr9aeD034L19Ev_vrvvODKINl4Ztmb8pwWgN4TyaYH9aYH9aYH9agJAA0-_xww-drwzslCxfkq3SD6V3-xo2ApyBtf0hmTWopzZsljV_AW7OEK_erhwEy_V
+6p__6TR2Nwd-uf_4ttb-_fxw-VdFkFZv-VdvVV_ny_Fpy_Fpy_Fpy_Fpy_ERV_3pXyJFpy_Fx_UV_K-pxF-ipcg_0JwHFwy2EpO5yhS5uoL9aYH9aim_ZF_I
+7m3pR-iVrh-iVrh_jl-1dv-Vdv-Vdz_lF_vz_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_L_9_fuLwkznSVuNloPrTwY_
+PdLtcl_57rrp9VfV_CL5H_at5rsf_bbvVdv-_YFQpy_l_S_Fx_Ul-v_xLrt1_ge5t_mdR_uvqtVc_3ji_hllTxtrBtv-Vdv-Vlz_oC_Fpy_l-u-Vt_aV_Fpy
+hqBzpdyQnbzv_bhwEub_wm2yEFxItnsZt_khNpsQ_cf_06PLf_JB0QW1zXT_LqLrt2h4dfyaIP8aIP8aIP8awGy
+}
+
+
+!procedure BANKCARD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$bankcard,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

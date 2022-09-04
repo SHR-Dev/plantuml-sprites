@@ -1,0 +1,15 @@
+' e4ca98a00e45e38bc0381749b295ff888894b5f0
+@startuml
+sprite $alignright [256x256/4z] {
+xTt96S8m38L1RFVVCqUTitv-qKm7FpiYMBzl0W000000000004Qajl6bQtsv8N_6kdu3L7xg3N13_Wfr_GQe_DGRu7h_2gP_w3zFl_uLJR_-4pp_zUlNx_lF
+oEuVD_IdtW9t3K22zHu0tZ81xZV-DVy7000000006BjfMbzUpe--_k5wV_hrBzVpiwz_-jgbWc_tXr__-Bqh9T_id-txbtxzUz6lt_DVltwV_vwbVyFlVzNV
+w_j_vR_QttN-K_E_pWF0zly0wbjVjeu700000000HgokzUMU_1dfZXl0_giPpVuhvxyx_xzhltxzzl_erw_Vwvz-_Vfz__7zr_p3_Clyq_pRxny000000020
+ym-TV-dyK-VVEl_O-TVEFtV-lVq7zb_erxyV_Vez__NRV-dpd_stzX_RVst_kVttp_0FeD3yV0000000003y0G
+}
+
+
+!procedure ALIGNRIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$alignright,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

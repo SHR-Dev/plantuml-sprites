@@ -1,0 +1,18 @@
+' d869f0b633d457d87d156ade6188288fae404b2b
+@startuml
+sprite $barchartgrouped [256x256/4z] {
+xTr9RkGm44L1P_B-TsxlP8bq9-0Hy8-t9K5Lr3ooNZwJ94cI94cIfBgNgh-Au_URiiw1It-LvU-zgehXLtUlMzsTux_uLs7-TV9Nh9z_TKVw-Vdv-JlKx_6F
+dv-V_yxdhwiyVsr5-UjGaB-g-bwz5k2_-5jLbUFlnumy_pRSqVwLu9_6AzhVqVxrT_ty_Fpk_pp-yVFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FprxqmV-q5
+-8UT19By_QXU2_1V_Aqa_tadWGhoxpCxnL_7gJb-_kwLwkVdvpzEvVVuny_Fpy_FNrTv_deMvQzJ0VvXAu4K_yM_2l2FMmb4-CyJkZl6Fup_IJz_1Vlv-sly
+Bdz-Vez__Fpy_FpyzIZBNuSY_1T_VoSnm3ziIXhbNs-AyjVmLTC8_teKvU-JlvFyQolLpy_Fpy_Fp-_v7py_Ft_T2l3NyAzDIVxXf_X_r3_z53_8trif_lDf
+wUua_tcyelqTxLzP_lLBVdv-Vdxt__pydl_ny_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FpywzV-lutFpz_d_pzg_xrSxz_Mk_v
+r_Vw-VdvtVzv_bTVkF_3nvPwsVhGYVhQ_O__e-hBFvsLjvcdyNVznwM6Gttr_jVp-BvIxxmFB3NDF8r_tF-igiO97rXg6l_wfJw-__qqFYsrpvoN6cUEX_fG
+TMWSFpVC79QQPew7-cZrQ1oVL_hwfUP3XIH9aYH9aYH9aYH9-WS
+}
+
+
+!procedure BARCHARTGROUPED(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$barchartgrouped,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

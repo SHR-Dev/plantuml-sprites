@@ -1,0 +1,16 @@
+' c34ec7e609312ad01278f4d7b5a1563613c4b463
+@startuml
+sprite $battery [256x256/4z] {
+xTs7KS0m343HoDv_PZg2mroDA3gzly5Bh_RLDqcI94cI94cI94cI94cI94cI92awDP1-LgzV7QfT0WblLjK2I7s_AXP0wdUlSW6K-7V3tXR0E7vMvjzxx0B8
+rT-o2Z__tgrtWB6xF__cvoyu_FCFFG7o_qi-Fpy_Fx_p7py_Fpy_Fpy_Fpy_Fpy_Ft_o-VdZIxFyyKqp_Ca_Fn4Tuq_zf-Rvp-_ZvlWFodJ_Nck0_-Hd_Fp1
+py_l-CVFpy_Fpy_Fpy_Fpy__9_7py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fx_fMVdz_nZz__R_v_zF-h_v_z_sxy0-DVdF4R_uYVdv-Vdv-Vdv-Vdv-V
+dxy5dv-Vdv_V-O-Vt_pN_Fpywwx_Yk1V4qz_wG_-rPLVvH_Bpw_cElAh_B6UQwXVaVw21T2gCluLBtN49_zcyL4VUV8hYfvTfJMczq-I94cI94cI94cI94cI
+94cI94bw1
+}
+
+
+!procedure BATTERY(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$battery,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

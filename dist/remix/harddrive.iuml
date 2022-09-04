@@ -1,0 +1,21 @@
+' 20f3263f821ef6156cfa94d7d672e5be072b4723
+@startuml
+sprite $harddrive [256x256/4z] {
+xTnBqgGm30HX9Ev_vrdMWcPgOHFnkvHv0VCXzxlXkYuY8Y8Y8Y8Y8YAg_NsttX-dgozNtA_lhRqVvDfYfRRn-vDU3d7BWfjEm1TuzUhVjx-Mqh7S7_Ho0gfg
+UK6TtYty-vl-ux-NMpy1ciLd_lxbtxJa3lydVFNgltU4lnVyUYYUwL_V0FZnzzd-NlNZly_rtt_OZnz_3_RZnu-_y3_M7E77Zx_n_pWy_3t4Zx_6-VtJ7txy
+zm1_w-blbD-FVuI_H_lnl_7p_Nxy-VwMtum_rr-p_MMsVvxVZt-GlyopVv3VF_dBt-b-F_vylnb_lF-5FyBlnv_hn--t_vtiz-E_X_YlaNu__aG_Vi-_n1_f
+hrI_vyj_1_l5Dzi_sT-luq_rUxxyTwvV_3T_1_izFzhl-Gd-TNwqt_1J_Pv_YH_llypkp_HxVe1_TVUd-mq_skyV_Cd-jhl_3lRt0Z_0R_ZXVdCV7l7J_EAN
+uGVx7yCtkp_AB_vb-CVwr_cvVl7D-0FyA_mql_IU7-ht_18_oYzyb-6t-4d-bhuyFylVRVJYIn_WDth3p_0BB_tlnC_n2s_ruiVu_UYL-4Vwr_LLuf_XxuKd
+FSC_m5_TnluOlk4Vv-z-aPjdFVEsvmJ_LLLxxhHUuX_cBoCNtkXB-cFyL_t8uCtmp_2h1VXJVvHVlPfzPVW7-5So-c2_v-VxpTD-kb_yQB_V-_FyLOQVx2_f
+nH_Y5rxwENxXfS_tUto-lyo-Z_QNzCBd-_tey_qblVXJ_6NqkVvImaiVvQ-NP1S_pc_a1d-ytw0NxCTz_stagNw3ZlQRtolZ_UAFzU_duyUF7pz-_FZnuyUF
+7pz-_FZnuyUF7pz-_FZnusyrpz-F9ldxLnFyul_u0yOaVptgxbI_lt7aAB_uggf6-NyS5FuUxB-gXlZnux_KS3z-7l_uyTSaF-__QlJx_oUWflch7lmU-_sF
+-7E-_npv_Py8psP__y_lN_Fy-F7ZnuyVFtxy-F7ZnuyVFtxy-F7ZnuyVFtxy-F5p_xzUzUEli_s57__K9u3USllda_srnT-7yhVv-r2-_Eitm3uDB_wglwgF
+hChxVNNe6IZnrofrabpyzUh8hhsTHYSY8Y8Y8Y8Y8g9_
+}
+
+
+!procedure HARDDRIVE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$harddrive,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

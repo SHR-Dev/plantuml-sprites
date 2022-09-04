@@ -1,0 +1,8 @@
+' f365dfa971d50797b69ff8f4ff2f816a76b0a6ec
+@startuml
+
+!procedure RES_AMAZONELASTICFILESYSTEM_STANDARD_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$res_amazonelasticfilesystem_standard_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

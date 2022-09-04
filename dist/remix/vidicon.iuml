@@ -1,0 +1,21 @@
+' 412f09b5e9860e2f27d00f2c6ed212c8fe9faa90
+@startuml
+sprite $vidicon [256x256/4z] {
+xTq9bfiy54HXtjF-r_mFwQboS4x58MfarRqhy2SyO07IiKz4H4H4H4H4H4H4H4H4H4H4H4H4L4iLmlPbwhNf-bwskICW-7MRE02V-h5cNoCmap-MJWPWZdyi
+tZo_y9SVW5c7Vxo8ltBz0tzNnNxyyOzv_h6n7p_--j4E_hhoxpxJNnNjBodEhvCRQNxLdmV0-_l6_eg_HF-yls_jkh-K_-On_XE_Rgh_wwfVzQV_pzul-fj6
+u99VyHzP_vb_t98Cm1N_brvCp_YFsxhgV_mXUifVj_ell2ZbN_8VDtR1B_n8Vma_pr_2tz7_k_eU0NvpoXFc5tsFEF_fs6VvzOCVw1Tzdb_FUFByoj_VNuQV
+vbT-fBzE_Cd-Akq6l_dPc-gl1ztdB-7Fyf_vvgx4oNwZd-fNlOx0j_drLPcp_Kd-FdMJtnpxIVu7SufzYr--zUVxzV2R3-LC__ZPR_Gp_Ft8tz_gByEVx1-d
+ljjVme_pTxtNeVuMVevV1q3uSVxHd_tA-DQk_k7vRstcrxg7flLN-_XzofUlnp2__Zmc-blyrRtP-Q_lZIzdnzlz__7yaYErmV_Vvz_ySgIscV_mjV35lyNy
+bqzUYFhtcl_qnxxAeLvv_jlpFUhbhd_uH3_1xxlPBn_yEB_o0_tA3_GhFzBVmi_pj_3p_7ho5UTNVHrf_Zxfe_mdVPRVw0Fyei_povT-il_8zX-nVk7d-V4t
+Vlpu-Vx3p_aFvx-n_hh1p_zVvZ-O_sB-a_blhdzm_Olhdrp_vlu7xd_X_YVkVmku_z4KSF-hAU3-PrF0_U-cRPz_y0Ky_s8AUFx9jE_pRxw0vnzD0S-_clPz
+_jaNyFoxAM3z0zE-wr_u0jO_CGMiVsFQT_qZNy3wLwQ0zSzCswv_vmjO_z0KiFwbAM3zKrF0-hUcXTS_PlrhrZzd_NlsFs3_2_O_OVyRzZzY_olsFsF_E_O_
+PFzBzZzb_rlsFsR_Q_O_P_zxhMzj6B-lT0HERt_l7ulmlT-_1Tugurynx_T3aEdN4H1-clyeASUl2J_IVspaF_ueuOVvVLNuEzfVh-7lS3_-4d_S5q3Zhves
+sTY9Xr_zlRX-cb-tTLeLFvMlamJhDdMtdRTMnWj_HlK27LEBnckBkec8Y8Y8Y8Y8Y8Y8Y8Y8Y8Y8Y8Y8_WK
+}
+
+
+!procedure VIDICON(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$vidicon,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

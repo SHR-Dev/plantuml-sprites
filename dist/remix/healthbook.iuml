@@ -1,0 +1,19 @@
+' 72a61e7a584b27e222ce17d049af1ac69b47b794
+@startuml
+sprite $healthbook [256x256/4z] {
+xTq9ajmm20NG5hh_cRCekuVKh4pXulq3H7dkpGODUlml8Y8Y8Y8Y8Y8Yidfc63tFP-cZLpxb2YJobbUXa1_TS_or_Dqrlwz0bV_eE-UdVvNnT_T4n6Z_BlNl
+E_YZo1_tyQyQ_xv3AlpywqR-6EpdtqN-6ERdv-Vdv-Vt-__Wv_Vvz_q_sB_d-jTe_-7FygzB9lbpVUmn_hJFlSVuCttiIVx4FiEVVzaFyn_-RF-UwkVdvz_y
+_Fo-__Zv-Jt_UFvL_r3_KlzK_zR_qF_I_npO_-Qt_-TZmiyV_sQOFvvcal-0hxUNCSP_z9VCyg-dYOWX_ZZ-vFvooFxNA_-alpy-qf__-ytzUww__lEvLb__
+uK_ov-MV6VwSFygV5y1B_QkHFzUFyQTlztf_jFBlFTWVu_sxCFpy1Olozzp_ny_lyy_Fpy_l-IVkyVnVoby5Lxsq_lCMPfeBFraqpStslxvXGlap5o2A_S-N
+V-Cj_VqypwsQht-R-lyp-cSMpLFfp_Ek_y3p-3pFNu3-_Ryu_eBr-_P_wmSmT_37xTUtVlqRqFhMVtJny_FpMz_wxd-ix_d7yw_wX_gN-gVwj_w7_fV-f_wt
+_G_y_FpsF_Bp-_ppk__ZZz7-nHznPx-_V_Rtx-OVc7zX_edvD-OVcNzb_fdvT-OVcdzf_gdvj-OVct_DR_wzym-SV-7y4-VVEF_8-LVEFtF-dVCFdN_f_5D-
+VlxDpy_l-u-Vdz_pZ-TVzG_rB_LFzM_z3_slMNxzJ_rl-n_i_ndgv-Vt-VVzp-_-fs_u-Vdz_lC7_-Zx_uXLvG_-zeao_xgF_r7aZpbl_zmVDtdx3xq0SVXb
+_jMx4He9l-02jCxX5sMTzCON-DEcS4_vqLTcTS_Z4zAOBY8Y8Y8Y8Y8Y8by1
+}
+
+
+!procedure HEALTHBOOK(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$healthbook,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,16 @@
+' 36371317675c3b8fd7e64353e7fa53239a179965
+@startuml
+sprite $onenote_pos [256x256/4z] {
+xS-reMLP54F13Vd7F7Ic-JFVfofJbbRT7W0000000000000000000000eDzDSlsXFpR_qF-UzElNhr-_VltwzUlNhr-_VltwzUlNt_DoDz3VyngNx-zvdQlt
+ppltwvy7NBz_allrwv_SVltwzSzDzUlluyureB_hwBkUTav_fVTNUd-7zrTwVuVtLtf_fVTtU7_5zdSTgVsJtZzrnFRtz-JC_gaZjd_gYEtlxz6P_LD7R7z_
+hyxidpfY-wUEsFx-rdrt_-wDzqyTT_Rltdx_r757_qRqzptzkndzSsV_Ran__zc_6zG_V_HlLl_ysh-Rrjy_zU_czS-F_etid-n-_PFI_ptddZMW_oxxNMB_
+RdB_RdJ_HlVl9lVl9lVlHlTlTFzkSlzkSlzkJd-_Cl_g_TMlg3_vr-wlVd7zplNx7pOFqw-_a_lrTtP_H_Tt1_VtSTFz_JhwzUi_zElNhr-_VltwzUll-khU
+jx--ldVixxg6VXzrMG0000000000000000000000y3S
+}
+
+
+!procedure ONENOTE_POS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$onenote_pos,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

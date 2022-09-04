@@ -1,0 +1,14 @@
+' debd2d3950412a7ba84e75aed13484085696c323
+@startuml
+sprite $cloudinterconnect [256x256/4z] {
+xTX70O0m54H1Flv58u0EwPcdOEUwor6I94cI94cI94cI94bH9Nv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdx-_Wj-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VlxUJt5-Vdv-Vdv-
+Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-_XHJM_Gd7Cs_NjQY_supFpy_Fpy_Fpy_Fpy_Fpy_Fx__Yz__pS_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy-VF7v-Vdv-Vdv-Vdv-_ahny_Fpy_Fpy_D7XVZv-Vdv-Vdv-Vdv-Vdv-Vdv-VdvXqkI94cI94cI94cI96q
+}
+
+
+!procedure CLOUDINTERCONNECT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudinterconnect,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

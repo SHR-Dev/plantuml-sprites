@@ -1,0 +1,16 @@
+' f74dbc6eb29149f30e5241925000cd050ff4594f
+@startuml
+sprite $google [256x134/4z] {
+xTe50cD120JHAUv_vrLMOqD-3BhV3Gg8Pps8cPcPcPcPcPcPcPcP6KcoFFu12CN7MI0Khpa2uYPqwnEo-GdT-eH0ljG0eant-Gdj_03L_0HJygK74FT3DZ-X
+Ulq9LFCJJBr-O2LWw2E0xImc3e1A4_CU0SMDCki0wZq4SG96hRy-CWQi7m0olpW0QDtFFqfJI_GzVr9X10pf9-kh4u0P3u3W2e43uBhn1y0jevy2sL3uZH3c
+vSFODm5mQ00q7m3Rzli3vkLJ-UG4u_9Xu2TX7h__nBZyOZ-p-kj_aPgLN-zdU7u2w7a0rrDtyXFGyG1kBNehFq6Se6z-sibFCA1__MyZl-rN0Hlv2pZm4mAT
+y-k8_udrqth_Z_yH3RJwGxhV-mV9VlVx_jtlVaxw_VvNQ02d-Oper_dyo-FoS_qo0u0Oq5-OmT3lFmc2ee2UFu1mAXw6ZltnE1r__mkPzQT2VX6hNNyehJ_f
+vYVT_AIRduJpasn-qirFe5gVWCVKiveYY8C8LcCS6G40gpiWkDEQuYNfPcPcPcPcPcPcPcPcPby1
+}
+
+
+!procedure GOOGLE(object_name, caption='', xscale='.5', xcolor='#3399f9')
+card "<$google,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

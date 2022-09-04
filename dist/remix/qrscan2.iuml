@@ -1,0 +1,17 @@
+' df8b3d6fdec0a98081e055fd2307428b16e1dded
+@startuml
+sprite $qrscan2 [256x256/4z] {
+xTrPWjj02411Gz__pDd_Pq42uLHTW7wpgvtWrty200000000W2XuW_bHidv-_9BV5Byid_zlUk44y_Fhuy-t_3l0-lddszvWVjRcv_xvfs3vVFFDDx-YFlzC
+zklNRxxvvfjl_j3ppzh-gvx_7zd_hFkVvlx21Tnjrt-D_V_YFgFd-ZT_Q-ilrD_w4MZiByJVz25exI_KtICYslepyvxywacpgp-Us1-T_Qy6aqVLhr-_Vltw
+zUltzvz-_VhrU_u_3Vt39zMlNx-VVtx_UVx9lY__XgEMNt_FmI__-b7hhx-FzjTFMd_zFGRovuvQUsMtRlweu_dp9-rexpWg0000000046jDry-x9ZzNkk83
+yD3wnlqJkTeb__pfB9M3-q_dpUy_dLVgrwzV_rbDltxzVlxfrw_Vyu_dN_SVxh_SVxh_zlh76m400000003x3-s_jF_K_blxZ-s_jl_S_dllV-3zBxp_YNxz
+-ltyy_jFltxz-Zt_wDUlNxz-_Vhrk_zq_naFo--z_yhuXDuDhDdQdq_xxzVPs7-oy16uhJuRzx_qxH_z9J-dUVzDViOL_P-DR-Wlx5-fvA_TVvG3-uTc-yqt
+ttpppP_VlwbVl-z_ymlCDpyBu_VFZzhys3__b-zENp2_SF_ITVzJCFi6I54UFp__5IMlwVbr0-C7vky600000000m4y
+}
+
+
+!procedure QRSCAN2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$qrscan2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,18 @@
+' dbfaaf03f05117ed9cdfbdcb243ef506b5738a39
+@startuml
+sprite $playmini [256x256/4z] {
+xTtNmUCm30HXK-g_vijn_NZX3_DD1xDE40q2Zm80000000000000000000000000W7DEsVuhOVslPFL_KFM_hci2gEb_Jw3eVttZV2NeFmcSclvztvD0pFyp
+oO_1J_td27h--pbe-D_3Bmb4_9TC0EUi_oQGyzy0SluRGCv_0pWH_sMgePZ_9d22_ljKaFFValZa_3U2dF-Mn1N_PH8e-My05Vzb0WZvRm0z__qCzFot8Wpw
+RqsSy5-c7gpvRm8v_tqkolbl0XN_PG88-My0GVyjXsh-Mn6VglyaqFBVOg3dlsUaFV-DeEU_2UJyzuiWvx_bGCv_4yZvRm0v_mqWwB_dOpt_JU3q_BSa3lfl
+sq3EVzi6Ulxx9kZvRqcSyz-IEEA_J00b_wq8Q_uRGCv_0pX1_oq8W_xRITlptuU2dlyMX3d_JI3Ylqm04VzDeEU_0V0_6Vybxy__ui__FyBVznz_zO_wr_EF
+vr_d7yw_d7yw__R_X_-__F-PqTV_eFz5_vF-D_sF-b_rF-j_T__1_HVtdzn_S__H_LVtdzr_D__0_0lpJqBZ0Cq_Cl_A_BD0jMV-eVcNvf-QVsl-iVdNvf-R
+Vs__WVqNzf_OVsF_aVrNzf_PVsV_eVsN9NtxR-q_jl_Q_dFxxty4y5pff_oVA_rI04dxzH_vZF-P7xna0FFQf_n_y2WozZr6FyXViGS00000000000000000
+00000000u2C
+}
+
+
+!procedure PLAYMINI(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$playmini,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

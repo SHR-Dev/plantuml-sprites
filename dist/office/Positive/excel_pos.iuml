@@ -1,0 +1,16 @@
+' 9a2873d52b0abf913aa04919fad281c7b0bddf0c
+@startuml
+sprite $excel_pos [256x256/4z] {
+xTX7Ukim38110xx_cLzDaAOFwKN0pCQsm0L_aIjVvW4000000000000000000000029V8LvZKdtr3ti3kRi_FhS_1Xo_VltwzUlNhx-XNxz-_VhrwzUlNxz-
+_IU8dDmVkRi_T_Ud_czqrdxz-lNhrt-TqwzVl_wuTVXqGV_j98usEhy_QtJmKc91VsqgckEVt1yrQ_9dzVSN8EhtrFx-0jJFgVtz1OZwjQ3_uCGhVqz_L7FM
+zrpKNnjhZdzqVrHr7V-g_gnvhHlUtsyjrlL7isnWVx-tMDWVpQeD_TaiAlh_Md3_5_GtUujz_Sso1Vrr-wFMxUg_pQylk_fhN1TXLNz5P-qnjlG_RevQkQQ_
+XWU_5lL7y_VtvFwQ7VoUtNzytb6BL_JNwCcJcDlVnjQp1VrHa-QT3EwlGVDqSd_SQ9wExk-Tkb-_VltwzUlNhr-__dXd_bdxIxmh_xpz9TwHFw2_TNsMVlsv
+kLz_xkxFnVtwCrVtv-h-pE7zsHlLhr-_VltwzUlNhrz_vAUAoq-tzVXBB3pz7W0000000000000000000000y1i
+}
+
+
+!procedure EXCEL_POS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$excel_pos,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

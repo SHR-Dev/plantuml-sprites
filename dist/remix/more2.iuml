@@ -1,0 +1,16 @@
+' 7ac5bba5b3a92f4ec0315cb898dc04f85d78a8e6
+@startuml
+sprite $more2 [256x256/4z] {
+xTo7OSGm30F0KDv_vdIaztp7tGQWEoNpwby000000000O9urXu_UzD4LVxtIL82aRor0uczFKe6cmxz5Aj1o0YJ-QpKdmCYV-8q5cA_pJsVy543-gOiVUGkg
+o5zu0YJ-5_bJ0FchJl-Gt_a_ydl-UV_n_bkQt_Ul_eV-b_wd_hVrZvBblwGVwv_Ml-r_g75EsG40000000000020vjs_Dd-_OlvXOVnrhwy07___Kna_gkS_
+fW1LyJ-QVL0Q_xa0fV6V2r0Q_xa0TV6Zu1zeys_a_tR-Kz_XZzByvj_9Bx_ywvRdd_SV-Nt_-FxL_z3_ql_K_oueW0MWkMFzq_ft3UF_pYMz_Ky000000000
+0000WCtVh_IcZwxuwvLfd_zML834tvwa0as7l-xVzqZyrsfEW94_yHiBC5_ddyxuAO3yKnA_S028-JVpa_bF8x_vR_8x_-Nt_FF-u_tNzu_lN_qF_I_zJ_rl
+wn_dRshd7rh_jFvj_qFiB3i000000000t
+}
+
+
+!procedure MORE2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$more2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

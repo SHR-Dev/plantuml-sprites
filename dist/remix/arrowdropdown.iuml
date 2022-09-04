@@ -1,0 +1,14 @@
+' 43d17b48ec54cce3f254e4fbb42c8476d19a438c
+@startuml
+sprite $arrowdropdown [256x256/4z] {
+xTJNGGKm54En96__cUbWoXUTYwKDZbFMNmG000000000000000000000000000000000x0yhJez_47_EVhypU8BadqyQkq3gFsdc0Ac_V4OM67hwb_ZS06kK
+v7_Mr7xzkxW_5-2Jylzr3f3ynW5Eyli6IFwAYGjKvd_-2gI-SO2J_Cbs5cZCpnKepSyDACtF7r2Qdm7QyYC3DEPdWDBy352Qdm5EQNv-mTBy352Qdm4wypD0
+QNu6wCnF_odDpm1j-P416lDp0qhpCq1fVWOugKz-pm2H_Ce1ajyuGFABx3kfJt-9_SRgKfeVlVanh1q0000000000000000000000000000000000Au1
+}
+
+
+!procedure ARROWDROPDOWN(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$arrowdropdown,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

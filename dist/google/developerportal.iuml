@@ -1,0 +1,19 @@
+' b8ba85312f4143cec1cc29ccafdd0b15e2ae5454
+@startuml
+sprite $developerportal [256x256/4z] {
+xC410G0G300mrxyp00-nhJm00000000000000000n5AJM3hxTP8LCGm30VHztV_Gh1bxa2ilCguDSpbV2T3w7_I2-XOeR7_R_mom9RwefqAn7RvUoauZKEgD
+A3lWKMy6nkkh5Mogtty2r9Amctx_2IYrCCesDt__Hq15OgUR3xwy-o1imKS1NnOZp1_08qBXp-Luzky03_3DLOcfVCM2RP6HV2nwvSmyFjRj3WpZO-dsn2G_
+tYyq_G5GMerbz1y04fNt3SktDcNe2m0odKC6GAPpoW2iNogOil-HAPqGYapfZ610wRHCvv-Sd9oSd9oSd00ClF1-mzVq6yViDtx9aFq80dhzsilu8lf-yLLy
+6Ns_-YA-4B_VVGrVIjzlluGlnk_Nv_d8yVlzUJv1Vl-0F5-ItpyXpXVbzuz8y2VvXVd2_FuPMRuqltz8Zj_tV-r8-2Nv-ln7tzC_9SVl-nz_b_ufERx4XIq_
+Hemlyc0kzqlnzVY90SWCm79_w8-uo01CzulmTVYP0GWCG23NdtWp_fW1sCNlJlmf0x2JNuy_tw_7d-zt2xvR7_tHtbqaCGm3GG2ioV__76QpVH5q1-vcqAx6
+yjl_dVzS_zp_kF_r_DFCyw_t7zv_UV_f_RVn3-DVnZ-DVwj_KF-Y_adzc_f7zQ_gdzM_wt_G_wB_IV-R_aVzh_gVzR-R_m000Cn_Q_vZyr-R_zpyz_8Fv5_8
+Fv5_8_z8_fNyC_btyW_bNye_bNyh_rZ-jVnp-VSFIPyR_oFfTka_r_F3gguFITBbqd_am2fef3OefpHxpZ_wH7VyQR6cGR6LozxOmlyzvinglI3mzV0tlkIt
+lsvoh-OsEm00000000000000000N
+}
+
+
+!procedure DEVELOPERPORTAL(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$developerportal,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

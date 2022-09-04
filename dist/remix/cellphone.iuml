@@ -1,0 +1,17 @@
+' 94b5495f5cf80184bd4dccc762f644fdf3249e0d
+@startuml
+sprite $cellphone [256x256/4z] {
+xTk53In134J1QK_-CNzcHgybrqkWLSUtS7w_fAhk5rLLSbR4py__Bdv-Vdx-BFVpdxr-VdxVVulzbp_9QdybsUxlRuh_rgloK1FyjzhBnmRuRprKtjJld_CO
+pF7tz_41sEV_-0ZizN_yyjtgvx_yjTf_-PCizVFpyzTQFp__vKyM7F-OxA-cXlghhGR_tEFVzQg1_hwZ_z-Vtt3-Qwu_ISzy9lhxzaVwxQTlFpFzfob-VdwV
+Vxv_xDktRz--VVls_oZxzktRjs_VldtxzktRjs_VldtxzktRT_xN-Nz-VdwVV_PT_-lwRzV_zzy0yhtrvVV_rAhxlmRv-ny1z__Ez_Fpy_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_FVSV7py__F-Fbz__7pPw8__Fpy3KtrdxFs2w1w_PddJxE_nZtz_BqFG0tIl-5t-bElcwAllF7tFW1JwkUVl6aE_es_jNpiSVaRVNiPr7cgmNH9
+aYH9aYH9Bm4
+}
+
+
+!procedure CELLPHONE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cellphone,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

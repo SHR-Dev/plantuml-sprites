@@ -1,0 +1,18 @@
+' 785d89884b5b92fbb50182f087a24c4539362b1d
+@startuml
+sprite $servicemeshinterface [256x256/4z] {
+xTpdakiW381Hj7d_PxvTjpSbOWP6v_jjavnjCQpDkZD9KdpNP7is6P_DnMTpzTbSVJQMdytbPsFrsLX-DfQVZULdO_dPM7usbf-DvMVyG_dPM7x6FvIVyG_b
+PxFz_36Spr-hSDBUGVzFrlm5A9rM7xIHNpso_gAj-gpBNp-q_fgD_FgW9LEFltBcra7hfFYffbVSm8z6_ld-fzzErVEwF_WhfsuTbB_CET8Ve_tyYt_tt__C
+vz-HrtzN-zUewzyLryp_clrPt3B_x-Pd3VokGQDWQbm0RD0N1ZrW_UlUvT_2STQ_-Vdz_vFV_G_yxd_YT_yZl_j_tV_k-OV36yht_8_dlxAnUi-_PcFvsLo-
+_G_iVs7_asomFfkCptwrIv8aIP8aIP8aIP8aIL9yxfP1-yVC1WvQkQNkdarLpjh_SyixFTSV1mnwsFvNa_nnsg3dx__7pryVCwRv-Vdt__uF__oxPr3NVwx_
+pVycplyjrSnS_tjPBqcI94cI94cI94cI94blZSMD_iUtdZ4_lkjE_rjN_FpTyVFpy_Fpyxl-v-Vdv-Vdv-Vdv-Vdv-VdZo-r-gDmPFSxtRzLHSNKve_z-vys
+-Ki7nqdxdxRuQqV74PlgP0t-A1v-zlwVTV_wfMZm7xN_MTLJzX--_sNjsxzMzFlvuqX_D9pmK_nnWJ-x-lllxzzgyv__-RUk_lmVVlstEXfx_P_jcF_53VE_
+RCVyFowP__Ul_sJV3T-t_jMjpoB7RFCdAw9t_RDVR_sNdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdpyQMrkJ9Bq7
+}
+
+
+!procedure SERVICEMESHINTERFACE(object_name, caption='', xscale='.5', xcolor='#fcfdfc')
+card "<$servicemeshinterface,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

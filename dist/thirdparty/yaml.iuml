@@ -1,0 +1,20 @@
+' 29a52ef619aa5d70ed2a384fe1a3531f1d0e8b06
+@startuml
+sprite $yaml [256x88/4z] {
+vTC9ZYC924HH8Ev_vpd0EEdy5HKjeqQxD_nId_amNMzcld6AJkl3lEBh_pCFhwkh9Bvez3JedtE7yTpqQPvUxrf7cx-0doxf7tzBo2_mZ0q_fnZrBtvOcW9-
+O2bUVslpmz8wu0Sj6_K3ly0InuyvHlsB7vJM0J_pyFgPVozD0J_jcTVF_G8FsVKZ4guV-lVI5F4Z4wsV-VVIEkF7JVFwkL_Bbh1_NuZgX_wzj8xwWGlKp_nx
+QOhwKTUyVkxNyfJ3_fq6whVyMluAyKy5Be3Np_tzi8RvPpfm0Rn-xjUoXlG_eGlOwwV-VL4R_XgitXSFg1_ujzBa-3jo0NlzrBy7q9O_T05x_To_B9Bb3rq0
+hv_x-s4FyeSkWDVF_NhOW_o92p3hbm2hJN_a0a3zbh-hPFf35m3-XE5NjUlFN02et_9BhZzp0Q3-B_1R5u1EyFlyaGi0zG_mpwj5sEzVW55_0N_D2tvXlty1
+He34_seHz0SkWDIF_2zAQ-eFN02f7_fhjCxKp_qzRW2yVkPFB0fS0AYV-tkjt_3x5y3hn_xz0gOClti1mwFa_hsqClp-1U3wkNylhIs_Vm6qVkpVIvio_Vu5
+eDNSlvTMfj-_05O_zw-bjUdt7q2p-hb_AstAyDiNm1TR_WBl0RyNm93wJNy_rU_xQ_v6_QQ_vkbv-lwUVFssly0FGd_DRzNVo-kkly4FGdzDl7xVN_EX_b_o
+zyJhz_srl6xwQ_Br-_u6FmZzfNZzlh_cG_s_vE-9r-_xQtdLzDVaw_Vz3NuG-aln-dr_ZJILyVV4w_Vz9LN8NzFn-dr_TynVYjVl-wjo_fx0kaF-cWxKVyXV
+2jH_oTyJM7R8NzE1-W_vIu7wB_bx0giE-MiwKF_t-EUF8rR_BAz_Wv_F14Axv5S7wh_aLw3-K_xnwp_jLxlr7_VBhV-wVxpwp_lLLltt_VBgl-yVg_xxVhLL
+_ts_lFhl-yUe_vv_ALb6_PVzykg_xn-h_lj-jLN_VRy-CpKpJw_ly_H5v_V0FyGprV_sr7y
+}
+
+
+!procedure YAML(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$yaml,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

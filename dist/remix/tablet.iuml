@@ -1,0 +1,17 @@
+' 1e76e72d6b919d4f9d6f8fd8cb945db87123556a
+@startuml
+sprite $tablet [256x256/4z] {
+xTW5acWX34N1bx3_DN_Dk0iJAFhie6yPv7gG94cI94cIf5YqW-bt_P0-5olkcipFXPiwm1r-zGdcyiUoJHsW-6Ffya_J_ALVkcd-AF-P0vH_RD0aFt_kuizP
+_i6_GVpy_DzSxEMF7_Bpy_DdIuluix5-VpRNwIz-j9L_QlT7Oyt-ubzDrG2D_Yv-5H7z_gknBVty_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy
+_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy
+_Fpy_Fpy_F6Wq_pnf9FynSyg_dMG_mv_VuAZ_Fcea_p57xVL06VvnxqEz8-J_PavdWnmcf-Vdv-Vdz_xxp0_V-OzVSOnVl_VfmUGdUu_xd_kl-x__Fpy_FpH
+oE_tPqHqyZlzDS1dkfuKdwZulVwCjhBTF_8JlSZvHAFFNsLZO_JwgpPyWt_z-FdvlxkT_D_Fv-VdpotuS_pyiOi_9ldvSmD--GyTeFZJ_BauVwQ_BZHhwpFA
+FsU0nIl-dE9VQ-EBFwUuQqbvyISMotVDRm-w94cI94cIfDy
+}
+
+
+!procedure TABLET(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$tablet,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,15 @@
+' 8bdfd207d10d9c15c70088853154f8be4c9d384f
+@startuml
+sprite $aligncenter [256x256/4z] {
+xTr90i8W44L1WVlVMNUzpfnlLztWETCcyFbF000000000000m8ZKDhvqhIydvCzOnn-0oazz04x8Nw6EFm2Ld_e07EzVmQP-_Vlfrx-YwTU_W_U_VltwhNz6
+TlyueJ_r4JXh01Aizm1m_3GV09l_Xm400000003S4kQ6k9lpaozrE9uVVwdByVw0Evq2yWCUW8YB0c_jds_idtVshzVHhr-_VltwzUlNx_UlzSybthh-DVy9
+U01oyyr_ot2hKs0y00000000C69rhI_dvCz8Ppm0ph-QqPn_PVzt-__hrw_V-J_wzUlt-QTVltxh7-jVym_pB_DFys__VuG300000000-n_Q_zB-f_Q_jV-n
+_Q_jVsx_U-SVwDUlNxz-_Vhrw_Vxr_h7-SVElpR_SVwz-My9g6y400000000W2y
+}
+
+
+!procedure ALIGNCENTER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$aligncenter,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

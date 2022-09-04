@@ -1,0 +1,14 @@
+' b6eede7dc606a284fe3e79a4a2a30a5addb50d46
+@startuml
+sprite $folderblank [256x256/4z] {
+xTKxjbmn24L1plmdxL2h4zllGxUuLEKIx8Zw7m000000041IzykhIiU_8_gFbby7zISjdsPEVzBnPv8n_Md9JyRqfoK_oSFxyqz3-jFLd-tzUMo__loNxVsP
+q9_6_ZoqF_zjG7yQyvC1_Md8Vsv_lkh-_gIX_XZGduxuu_x-fA7z6D3VRNj_ihR_sDwVw7-VNDYVLDxMVMV_1-nCFsv8ttZ_wXBBysjvVYtFhztv-fVdr-vy
+_RlpzI_Fh-NvjRF-M9vV0-BdzzTS-K-r0W0000000000000000000000000000000000-Htw9zAl_yFq_nVz-lCA00000000002eLmjgdmS000000000_W
+}
+
+
+!procedure FOLDERBLANK(object_name, caption='', xscale='.5', xcolor='#fdcc00')
+card "<$folderblank,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

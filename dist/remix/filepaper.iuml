@@ -1,0 +1,18 @@
+' 626565e1eac2520914581f0d76a12ce977647d77
+@startuml
+sprite $filepaper [256x256/4z] {
+xTc73Hj134N19Q__der4ftKIH04cEA-3-TBbSuuaIP8aIPAacDH2-bs_FaVKEy4jdxH22pzdrZ90yPzPPItGmty6LWCq-9-HTVYBFpB-Z7YJ7yLV-0VWvy_P
+_dpNp_yCZf-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv__C_7py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy-TgV_1dxlJN02FgzbSnQe5-_uaHrG3z_XDZ5cZm3ssvlmROwp_yiTf_NlBpy_Fpy_Fpyxl_
+u-VdZm5zpXz3Ql3FVTLR2pJuXxxgx_FV_543zFkV0MNcP_mvm_zypl-CyKUldpyc-NEj__Ug7Nv-_ipezvzP_hFEpy_Fx_wNdpz_vS_LVdx-Pu7_DwhOvez_
+yUSYVoxoNmD4Zpy7-R-7nM_zyO9_sX-WQ57yJVwC7yf5_dk0_0t_rS-_WmQuUjxqdr7-vzB_Xl-2lmOOqssVx--_IYuT8EldVz6VMt_-4pN0nf__7c0-_sL_
+3R2CVm-mZ7yFi8vVrG3B-FS0o_Zt0Cluzm3B-FS0e_aR1yYBtp308lvz7v2pzCLl6s3A1bdwuhSC43cgA7xZ0Z48N_pE1Qh_7Lxwvc9IvqFDb4kI94cI94dw
+0W
+}
+
+
+!procedure FILEPAPER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$filepaper,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

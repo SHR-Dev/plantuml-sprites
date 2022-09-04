@@ -1,0 +1,19 @@
+' cf1e49aa0a427faee328ce10f631a9b76212368b
+@startuml
+sprite $chatpoll [256x256/4z] {
+xTnNqjim0CHWSdt_CwSdBlitEZCQKm2UtJurMdMSFpCpCpCpCpCpCpCpCpCpcwU8P--UrcVpdfi0PT-wzIbmgxzitEqKMECNVT_-Je5L_-KqbP_0xmcmvB-G
+_Id_vkdFclzoiXBzQvi_w0P0l_wSqH_z-Yd3NwTVltxz-Xt_3l7hrwzVltxz-lNhrwzVltxz-lNd9fm_5SgVT21_albG4e2_-3K16FuvPrrp0F3NJwalPVZd
+M_v9yeyAxjUlNxz-_Vhr-_zFltxz-lNdCPO_wH3-AxyE50RZl-glKVnNVhqm97-_ak9_-wKm_zk_3-sVQFzu1Rz-_VhT_Zd-wTUlNxz-_RaFva_7y5_rZmSg
+W_BtaSe4u2_-DOR_gcfJCFutKHJ_sv_FyUkVSz3y-lNhRvH-np_z-lNhrwzVltxz-lNhrwzV_wYszklNFu_ppvsE_nxmKltwzRlzssByy_gFjr-QFUz_wv_w
+EUhjIuNsll-nLRDGzTBYRtF_w_AjoltAVkdMzp-_VQVwGIyztjybtN4lFTxVBVpGvryPdt-jNxz-_VhrwzUlNxz-_VhrwzUlN_zZEBz-_VhrwtVyqwz_eltw
+zG-kFt2__adsX-qFqTzyf3-_ceVuyteLVy6_gRhn2_nL_mRoul-dl_dpjMlzy_xcRozVzpT_xD-wlxQi27_pKVxce_pDH_fJV82_zNEW_Cq7-ki_DSjVynxW
+1_3BZnhrsi_Yjv_5Rp-8t_u5FiQVuYFyFUuH_Ia-mzzwah_vH7_f6VuUzPZ-uYFyAJx9FvFYm_ovzGzMl_of2oTW2q1IV8v_reKJj0amwo0lgFclmQpulCw0
+DpCpCpCpCpEpxm
+}
+
+
+!procedure CHATPOLL(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$chatpoll,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

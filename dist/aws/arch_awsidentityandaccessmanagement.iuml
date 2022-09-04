@@ -1,0 +1,19 @@
+' 93578ebf4cd5c1fa3eebcde81623fa54de7f3df6
+@startuml
+sprite $arch_awsidentityandaccessmanagement [256x256/4z] {
+xDtPkk8W401Xgdt_PvvzOO8PuZduATrLrzb-n5sJI1cNqwzVltxz2Ilkrwz_DWgHFltdwI-Drw-_HFfFqb-cqdxz-lKFew1VVw60udxz4GNzVVgxz5TDltxz
+-lNNJRz-CpCpCpCpCpCpOxyMyzjU0IlzRRlg-lNhrzzOxsUBdkYF3NgAVnk-_iBpNxz-_Vhrw-TrVlvMpS_TglW1sX102J-q-vNm0-qiWDH-3len8AyVQBE0
+nFwHIpi6EVtqLeuD0v3DVz3_Vt0I-WV-P02I-Q7JCtjkIEU72u_lT4lbzLzvQGZayS_vutB9_2DhFW29_5pV6-Z_KK8_n3p8vt-8jBTVFslz-lNhrwzVltxz
+-fbtiaeAFxHPS7UL9FusZtkhwEV9VltEVn__elZpNvH-_QCV_VhrTu_KxLVC6nVUz_4FskU3VVrjHUNzLFRhR_h_ZRDYjk1h_8l_edpzz_F71L_bN_jzEbSd
+2k_X9rxbRtNz-ft_aTCVd3LRC85_GTluIUw_EotxMch_7o2Sl6HExUSljQ8VUY7L_D3wW59-Zivg_hCthv3Ttoi13WT2Lm5_0ATAilhxdN_0pqDbyqDx9CZc
+Rm_61ez_wVqp0xNy0uAevUV2pR_6pnlw0nYEyUBh7nxjxT__hd__D-ZVqK-zz_zzqF4B-WCwNnd_k7nnVuikgESdkkYgwE-ZX9-ewWy0qlhz_bE_VltwRv_Q
+tjP-_Os8slwFvk-_zVl_1s9Jltvg-bSE06pi3nOKs_dNjf5Vltxz-c-tkdxzvQ__jaLU_rg__fLy_IJmLne089RsjVqv8000XW00zjE_ingmDTYV9cO20000
+0000000000000CXC_xFy2m
+}
+
+
+!procedure ARCH_AWSIDENTITYANDACCESSMANAGEMENT(object_name, caption='', xscale='.5', xcolor='#db282e')
+card "<$arch_awsidentityandaccessmanagement,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

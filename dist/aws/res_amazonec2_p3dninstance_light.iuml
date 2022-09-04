@@ -1,0 +1,22 @@
+' 2023e4ec0adbfcdf5884ed5a5cdb107f3ad7e0f2
+@startuml
+sprite $res_amazonec2_p3dninstance_light [256x256/4z] {
+xTjPcjmi34PXZlQ_vtyU8yjk-YaYg3hVPPJ1huCneFRuQemnnXXZZ060xdgl7g2xtkQFtm9qrplv4K1xlI4GVmLww_hr-_phrwzVltxz-lNhrwzV__8D86nN
+rwzVltxd__Ny2A2zlZwan5yXfRk-7W_4Fu7zwWluSKW0uCN-E2elzyTXWGF--qyP0FhZk2pnwsVpBFQpVPRw0SR60LZi7rjdkNzi7ltwzUlNh_zLuKm_OpOK
+ET9VPbvFdESFwjmDyu9_ch-M02M_o87--QCXYC_mXtxz-ft_VF-v_d7zw_x7_U_vVltwzUlNhr-_VltwzUlNhr-_Vll_zl_j_zl_j_zl_r-_VltEVxx_NF-u
+_dN_u_vtAxz-_G1mXFzvWkKgN_5pWFyHHv47_Y5-W8Y4Uv6V4_oH_L3wuu-yaRzQRDtT0DxB_po-WRzP4S4R-jEbKy4A_jd-7uWHC0Kxtv-dn0_rZmV_Cukp
+_C3bEt6EJyhz8xIlVnJ-9rNj1o3zjhFyp_puBOK_Bw40ZlPdVka7uce9IL__VzxFav-SjCXA8w2x_m_vGfZrC-i7283k_l_p-ozl51zVTxK_NsbB_tz-_GD0
+5FvqMQK_tytU_dzzQG4Z-ylZeQlR1JpVvAR-V_PpEpJljuR0Ed_E2d_E_UJoLlvuze-oVZjSIly0zl57gQllGQ8--iTYFz_tnnq_omAWop_V_t_sJnxjHYpm
+j_J_OOgVtu_f3ytv-_h_UVuVNyjw__h-V_RF_dshnp_GSFurusU1lst__xb-_G7pVnraQ-Q_dpyltG7YS_nS-WCurGzCyHFtXr_WVVtb3ZW0xlpiwkV9ptMc
+pZ-vzBE5d-_u9y-_WUpdMF_a-V_OrpzgVesR7YJbWT8um3-cpuQozPBQvP_FpEvxmQNwyx_wzUlt-t-___VxVx__z_j_lt_Mhr-_yv_lFzS_hd_T_xZ_FTwl
+Nxz-_VhrwzUlNxz-_VhrwzTl_z_-l_r_-__s_-r_wjUlt_dFzv_h7zU_xd_gkF_Lhr-_VltwsPo_tC_M_CN-OFl4KdySm5_YFoLB_FevZw__an-0nF-i0S3B
+_S11-1Vx1-J4Fu7zwkFLgI-0bExwJzrf1D1Txzng0TtrrgqsR5FNhr-_VkT__VhrwzUlNxz-_Vhrwr_J5E-jwzVlyzzr0u3sUalu9_trpZkmQJt766ECCSQO
+Nm4
+}
+
+
+!procedure RES_AMAZONEC2_P3DNINSTANCE_LIGHT(object_name, caption='', xscale='.5', xcolor='#ee311a')
+card "<$res_amazonec2_p3dninstance_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

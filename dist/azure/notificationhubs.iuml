@@ -1,0 +1,17 @@
+' 5be1dac3cd776c883266ce81381ecf05ba8babc3
+@startuml
+sprite $notificationhubs [256x256/4z] {
+xTn7GcH944J1yFjVUdOJBT0a3LbkjeHIxsiz_mW0000000000000aAGo-odbWs3wd4q789cLxpVlaKcERLLbtJ44JcmIx7kJomR0aOsY_4GVxC-ZzETZlxo-
+F_lFLFPd__dW-VedJ_h_F_hVuhxyTMGWtfU_Jcr5tRRvk_AykSQMdDo2TOYuI6s_VWD0l_vfxv_kVlq6mBJtJtl_rFQlpM_LtZ_j_TFUFztv-gSf7m00xF-a
+Erz_ff0Ze4w0lAi_-zQ7Cw_AOtkrlhe_tVtHhxyqNxz-_RP-YlFrFq7_JAOYVrvxpwCLBrUCwzTVd6_ywzV_j-v-_Udkrv_I_DNThp_T_VhJtQy_xVrfxqzx
+Vzhxqzg_MljNUtyA-iyCWGS-_NzT_PeN5Pn6dvSqN4NpzVrv_FvSbd_-fn_9lxW_yxHqz-S2P_gJzluSgB-oVzsOdqFvQx8Q-wDV_qNqwzUlNxz-_VhrwzUl
+Nty3_VhrwzUlNxz-_VhrwzVVdQz_z5Vch_R-AStt1BXLMx_oPRvpACyFTA3bUhNjgpL-jUQlydnttqvx_rJdUm21_cdldz9ypo3o5BBLtkz1dDFUxrdaqzvl
+07Jdwv_s_YdDNvjVQlDRlHWF000000000F0V
+}
+
+
+!procedure NOTIFICATIONHUBS(object_name, caption='', xscale='.5', xcolor='#f8cc16')
+card "<$notificationhubs,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,10 @@
+' f9ab64aee082c3caed181d43a2e104aed8708646
+@startuml
+sprite $skype_neg [256x256/4z] xS6100000CEW-rD_8DK20000000000000000000000000000000000000000000000000000000000000000000000000000000000001m
+
+
+!procedure SKYPE_NEG(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$skype_neg,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

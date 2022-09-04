@@ -1,0 +1,18 @@
+' 95120558a5de344dcdc5b1b4e53b8a710e6847f9
+@startuml
+sprite $apimonetization [256x256/4z] {
+xDhLOGC130N1M_TVTBx2pCczcGxMR4d7Lm8000000000000000000020XjDlhTRVMgs_DPvVu_ardb_Z-QL_Eh_qJ-UNVltwP_DB_xdfdypNhr-_t__w3_tF
+Clyp_pN_j_yPV03iVnVzftO0002wiVZ_j_l6xfzxP6h-rLDsvfyzRMN-tNCszXyzQsB_rGlM-pl__hiNw3___KilEtj_NzwlNtydx-zb-ht_zVl-rx_v-p__
+_yxHFt7_FJx_E1gV_nsDpt-FDkV_BvTitJ_tmDxzyySoJdNz_S6ApxO3001GTRbSgkCzhjgvZ-IwWJ06mjMu_vsTSvXYjKadDVRGZs-qvllKucyvvlNl0s1Q
+u_An-MFdbjVlorpyyxBrNSrET3axhezYVDyonnXkudFy3Lphhphc-HkOrZWVOpSUWtluPjEXfOxfYJvdo8QPDD0jFz479ZR1p2QcZvrRFin8c97mmB5VvKl9
+3h4jFz67cKqyuSTFzDavRXBcrOQSwECdIVyZZ_sa7-CV1hBTE35__lpvy-VFdpz__lpvy-VFdpz__lpvy-VFdpz__lpvy-VFdpz__lpvy-VFdpz__lpvy-VF
+dr-ru2_p---Vdl3Z9_hCJU9-Fyw_F_7z7wX94tunyHd_yzz_FketaZ_m_Q-Sw0FgRMKB0H4Jd__-7zH_XDrmJF3D9jIpWMl9YNV4_MquG4JBF830tlZxBmY8
+QFc9_W50_2JF0DUI4ttEem1HOrTRmzywrtnWlC_KRr8Fp35rwtpC1m3NmhNin59AAQMKKaeffPHIIYcl0G
+}
+
+
+!procedure APIMONETIZATION(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$apimonetization,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

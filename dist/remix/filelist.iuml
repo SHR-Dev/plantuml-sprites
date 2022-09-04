@@ -1,0 +1,17 @@
+' e7975acfce58a5810d06035c7cd589ed03e00afd
+@startuml
+sprite $filelist [256x256/4z] {
+xTrPSXj134J1Hitzp-ozGx-s1KciY7mtIEu4cfnpZYH9aYH9agHfQfdUsRu-5SrRQ_pKDRzQuQUpbHlWyf-kSc-17VvJsBq15lnFPHl-ow-CFpFlvCy2l_K1
+mC-VRd_Uw-T_YkFdv__t-Fdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-RDOdJ_hLVdp0HNvaynoIKhybxz_0_JuF-8dc3N-9ClyUnAxnJyVuPyc
+_rcFdv-Vdv-Vdv_Vvr_VVrxMFyly7l-z0VRvvZyzyx-iwsF-M-FVlmNilrxCpy_Fpy_Fpy_Fpy_Fpy_Fpv_LolpEVoQpMAhclrU_MUm_d7-r_xN_T_w3dv-V
+dv-Vdv_Vvr_VVtp_DVym_pB_DF-s_x3_ukVdv-Vdv-Vdv-Vdv-Vdv_VxP_C__tzW_-7_J_p_ZVsl_R_p7_py_Fpy_Fpy_3x_-lxZ_AlvZ-iVcV-w_fdhtrN5
+py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FdsB-U_tyq-qVVluNU04eVFhtFm2IMV6dbB_cJoN_-ZTkWAGDlyC_yxDKDhFWF_EhKlsSzpTl
+5SalVwMfxEpMHfSaIP8aIPBq7G
+}
+
+
+!procedure FILELIST(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$filelist,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

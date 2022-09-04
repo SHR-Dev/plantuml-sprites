@@ -1,0 +1,18 @@
+' 2d07a09819ab020d2ef0bb4f115aaf85d6fb4a1b
+@startuml
+sprite $nomad_primarylogo_nonatt_black_rgb [256x94/4z] {
+xTS7pYCX44HXglh-PzxWzDGM5ZB6aNwAi0pURtuSffsggggggggggggggggggggIsyuv8hop_f3QZYb8U-h9cnvzygPwqeP7FwSzzUGjZlvttm79NgydjKyk
+3Yqu-bDtW1KaPZxNFzPRSSaZVpGobtootyE_UHeE_Few__XJBysCDla9F_gx_VeTlzk4Ftx7hoc_DlV7xdxTyik7r8Wa_YsFc4XpQKjzX5zngEztPsUT1ZAV
+EMd4CZBwe7L-ovF-bgxpJKAUjOEkH-mK9AvUwcTpp_d5cknNK9eUrL_6YwxsSrnd_1m0_6aBqjZFLjsxvoVunRnc_68HVlwhbcGs6lcvVRQarjB5x2bxaNzg
+1NuEGFPZ0Pty5g-JHcuvPNywf9_WLnpg-lDYiThOqeW1NVlR1_bHwxQV9Td8w8lz783iXuBiW_sQzL_O-cf_c3kWkCFF-iL-sK5Fz_F2Zhly782LVWMzo1zX
+z7Vv5OSM-XNly4Suucu_1s2TFzxaZpc_uj1glmzzWRyvQC7tVvh_1h-UuTUN-14EVlylzSTAln_rj_wZgjCZtCpvbw_zmPwB_0gQyGCUFFy_-Fdle8L-nxoV
+afzDgJtiRslypK5DqGtDs9ytzSsVaO_-_cbUun-OnthyUQR3IPCplt_TkfzJ5lDFkmDgDzEXFCDSVeInyYfrTs44rRfSagRDLhDvGlzRUN3qVpvjgYTjUlJ9
+c-h9UnvzqgPwqgP7dun-q_mbHx-ggggggggggggggggggkel
+}
+
+
+!procedure NOMAD_PRIMARYLOGO_NONATT_BLACK_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$nomad_primarylogo_nonatt_black_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

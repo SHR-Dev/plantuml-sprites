@@ -1,0 +1,20 @@
+' 2440e5addd9dd2ff8586eef13a43333a04ecb9ff
+@startuml
+sprite $arch_awsdirectoryservice [256x256/4z] {
+xDd9OSGW50L1Mla7xRltbK7-rHdKkqZ0zI_hq_7p3zw0dt_k1Fpy_9CduEUVF04__-W9-Fa7Ry3FFtS2Vdx-oHFmyq-UW9z_xWJy_6Eh-Fad5py_loH9aYH9
+aYIfKzl5NqTMs_YJ1sXDz_FpytTEZ_1toh_7TTLH_lqDzlFpy_U2Fyf_LRNRFxJu-Vax_qvidxzg7LQror_hnCRxs-LV_Fpy7TA3_7NA8zg3_DSXtSVFpy_F
+py_VBtGl_szV8LJtzQ_Vg6xgRxQVV_7pFx5p7scAn300HlN4_UyyMpHjVuQEBfN_7PbNoIP6XC_LnMy-4KZJaXv--ScQ-uyVQEytrmDkvmSyZmvtyYDgk8-V
+-1WtyIC6GJE_qLqGasR-x3J-8MQnt_htlVxA1zC5uEbShlVvPmpznGuOBu1orN9db_hysuG_EdV-59hvJRUAtlvOZ8cz_TPJ8lhwCLMmgH-VOu_yiVQpav_C
+z9cIcT_GR-O7blxzvt-5kDu1oXaNzAV__V4fVrxKBxx7hud_-1r_8GxyRked-liLqiIVRVt9t1_D_LMvMFrj_UCX474BVngyswtmE_hdx_ybodctyKS0Y2lu
+hNlD_nnHsjTFhEBBloh4hlvOj_HR-GDj_H2heASVyKhewASQcNyAgD_nhmf7bOkxZNyK_CVlFr6lqch-K_avgUuIFVsLFry0dVoImV2-MW1z_4nN_dm9qCDV
+9SjQ-aVpW_K2Y2R-A93N5q0pF_bIsD5lMBsGkPzyiKtzKHjFRitz-NBivnSnzukbdtozZlvy8xhv7VyxqUluHrx2_tZypFWdtunEyv_ZvosyF_47y0F-y6OH
+l-j_wWVyx_Ut_iT6__zm_FdpVZ_Xpyluy_R-fxxlyS0NyUldi_LVWljocLlx6pwVup_-up_-up_-utyyxke__hFzXqsAF_B_Q---2G06WW26NU7FEGooVPSO
+686teb__BFbsl_xCUE3_zIVtKmS20000000000000000002wM_-pz7y
+}
+
+
+!procedure ARCH_AWSDIRECTORYSERVICE(object_name, caption='', xscale='.5', xcolor='#db272d')
+card "<$arch_awsdirectoryservice,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

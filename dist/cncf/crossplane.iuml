@@ -1,0 +1,17 @@
+' 51167d1d6bac0123171603e5f28c7356f778671c
+@startuml
+sprite $crossplane [256x256/4z] {
+xDctbHXG5491wBzfPLgNFfb_Xjl1a98_rrfhhRNMMckjjLP_9yf_vje_Ol4ViVYFLFr7gluZLVyHpczL_KSulrNr7-7y5kUtEB_5-ItERt5-Y_DRdD_nKV_u
+uxF-ySUN_UFB_l5b__YoVtpR7za_lksFxO_i7z_sn_R7ziVsH_QFR_jZ-sFxO_jZ-sFxO_jZ-sFxO_jZ-sFxO_jZ-sFxO_jZ-sFxO_jZ-sFxO_jZ-sFxO_jZ
+-sFxO_jZ-sFxO_jZ-sFxO_jZ-sFxO_jZ-tDQd_BVyv_ot_EVyj_pd_BVyv_ot_EVyj_pd_BVyv_ot_EVyj_pd_BVyv_ot_EVyj_pd_BVyv_ot_EVyj_pd_BV
+yv_ot_EVyj_pd_BVyv_ot_EVyj_pd_BVyv_ot_EVyj_pt_AVyr_pvxIzQRA_jh-slxQ_jh-slxQ_jh-slxQ_jh-slxQ_jh-slxQ_jh-slxQ_jh-slxQ_jh-s
+lxQ_jh-slxQ_jh-slxQ_jh-slxQ_jh-slx9_VDjVsr_PFxxjh-mVN_QFB_l7P_pZZp_--EEFFxwi7z_M9m7mEphFzeWIpazqVtH_T7zqVtH_T7zqVtH_T7zq
+VtH_T7zqVtH_T7zqVtH_T7zqVtH_TF-lzk100000042Gl_K82rGB000000000000008
+}
+
+
+!procedure CROSSPLANE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$crossplane,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

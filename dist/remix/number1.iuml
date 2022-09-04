@@ -1,0 +1,16 @@
+' fb835e6134b6a91cfdb349b44c37c0e2cbb7f5cf
+@startuml
+sprite $number1 [256x256/4z] {
+xTLL4Xj144H1pUZ-PpQNgIFCs9NlLx2RWuy_coH9aYITr4jFjVXKgq-5-9jA1c3IK_mzzg81EDC-YtyhVDAV7ye0TD2VirN-GH_oMVohy5-cpmMmIZ_aNsw3
+VzY3x_0F_LGkFW227_eE_zHN-SV2h_AVy8FlyaSVV9C__EYB_9DVwW-_qd_YVvRwmo_qy_D_E_--QwN_VeCzbVYdFDyjy4zxofUN-4EwNxMd0l-W1vVrij1_
+xvVnQQ7_t0zD_Fp1El_v0dwqqN--e5_gJx5-GR_K7yye-kN-z0NzTdyQ-2x_Z9-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vlo5-Vdv-Vdv-Vdv-Vdv-Vdv-
+Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-
+Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-_jlevq_y_FmDkV_uR-NoZtyEm8s_P07CJfF_d5f-1k1yge-_epDxTFMRz98aIP8aIP9U0W
+}
+
+
+!procedure NUMBER1(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$number1,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,21 @@
+' be47e2ff8f24e831a17a0965b488192e4b466f7a
+@startuml
+sprite $res_awsstoragegateway_cachedvolume_light [256x256/4z] {
+xDfTRWCX34LX7-z_qNr3kIBSYfO8oFYyZZpf9yWVJNHLLLLLLLLL5PVrIBosL9-t1QppvuK1J-DhY_oNyijVVlRxxzy0ZLz-RkXpVYxfGtuWpc-z7xdTyG6V
+yPU__EKlV_dBN_xobx_yvIz_-Q4LCvaf5w_jzoEzlJZ5WD3Gorrx_V3wYF3MwEPqZFVtwFuUNjhkJ_7tV0nVns1m3-4TvBUR4P19DwPQu-_v-_nu_j3VJKtw
+3tdzepKOHIODSyxVZUxn6xtngsdUZv7jyFkbUBTQ_DFFCNx16J-B_R7JFxaL0J3ytazSui_V_V1FVzpiRnd-rNwme_uj_ghNlta_qa9_tkZ7R77pvC1y_hd3
+7n5JVasy_UVVZNwiNw40AlIhf_pUdxGEzQiJW0b_2l-DFm4oD_j91z7bB__r-x-_yhiVux_wzS_xPNs0PdZ8-n-qeYsY-B_xym_IOZ-FzyVXVY3J-edunk__
+UWaWuid-Y94Vu-TR_F992PRvkSglP13IrUVVEN10uuj_nVbl7kGVIMIHUZ6t_l_77t02U0LwC0v_y-THVisUueAiOclU3m6mmT-fyYz-d3-SdvJHhVwWA_Iy
+Po3hXYP-_q5oWDzBHblJ78wF9W7Custmh_xv5-7JwyhVvTUyOjMS7rB_JxlsZIOn24HXK8_x7th3CHbDpySYrH_ZQhoHwn_v-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv
+-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vd_NVpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy
+_Fpy_Fpy_Fpy_Fpy_FpyMUneVpewrv-c3lKd6UiboP7-TVxh1dYoVnpfVns3dvy_atrDFTkVKhVnfzXD_DLFiSbj_5UXy_qlVgb7-_dv-Vdv-VclP_dv-Jt_
+-Jt-tV_yOzO_VkNF57-FF-t-mW_nUV5R_1Cx_z8_rLZs5tSUtVvNXKCi-LyLDcxpLrlt5-htvr1_ZlVdQF_h5BlyLuy_U_pNkd__3P1aqosVHd_sdA9rutfP
+Qjl6kThQTOXUlYH9agG_
+}
+
+
+!procedure RES_AWSSTORAGEGATEWAY_CACHEDVOLUME_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$res_awsstoragegateway_cachedvolume_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

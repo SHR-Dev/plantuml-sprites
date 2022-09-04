@@ -1,0 +1,15 @@
+' 72c90a125fab2beda36e10587a3a5b76d664ba40
+@startuml
+sprite $notary [256x256/4z] {
+xSz70OC0402m6_urT_wx2nma3XBFaIFzhjyZ-T_v-_lx-_lx-_lx-_lx-_lx-_lx-_lx-_lx-_lx-_lx-_lx-_lx-_lx-_lx-_lx-_jdhAIsyOz3_Ftz_Vtz
+_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtp6pluLtzXxD_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_V
+tz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtz_Vtzy___VF0V-r-Vlx-_lx-_lx-_lx-_lx-_lx-_lx-_lx
+-_lx-_lx-_lx-_lx-_lx-_lx-_lx-_lx-qTDb2_4E0C
+}
+
+
+!procedure NOTARY(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$notary,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

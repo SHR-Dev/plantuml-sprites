@@ -1,0 +1,14 @@
+' 983c436d78c072f086eca5345a6f4b3e0a1af03e
+@startuml
+sprite $boundary_primarylogo_colorwhite_rgb [256x90/4z] {
+xTQt0SD04CJ0t-k_Ptcl9NC9c90PUE_M_vCaIP8aIP8aIPAKNOJ-sKRednq9kt_m_M7tJyBk7qf_Fb0MG3Ooaxc1zhFdd_8TrJ-y_Zv-Odz2U__r_e3w-_YP
+_NCLKdzT_Sp-8VQtyPFwUOUV_Qv_pxyhxlrti_hxXwE_Vza_m0NW0k107e7k01V0fJ7lG0lW-lpfzHDA_oHJCDx0j_cN_2oEf8mVtPz0rlvquUpzjDLFwUz-
+85-I94cI94cIZW
+}
+
+
+!procedure BOUNDARY_PRIMARYLOGO_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#f13366')
+card "<$boundary_primarylogo_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

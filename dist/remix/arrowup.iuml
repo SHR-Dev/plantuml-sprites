@@ -1,0 +1,17 @@
+' e9b21b54f8bad305dbfd8decc266f43214f28384
+@startuml
+sprite $arrowup [256x256/4z] {
+xTo5ZUL000JH7Jl_d4_qLSUysAyoU6qIUPv-AqcI94cI94cI94cI94cI94ddqIg-Hlarogz1_lLeRe2JlWKs-GsmoB_lkm7M-FUZ1XZYtv_NAs2Htm2Z_0OO
+vJV06UFdRu15VWECyXjWbDy0e_m66EKtm2Y_0KRv3J3ARu1HVWECyXlWRF8RO9JV0AFy1XZbDy0elm56-Gqmoc-0KNu3ZF8RO9JV0AFy1ZYR_0OOvJV0ABy1
+HlaDCCflW55-0upo6s2Ktm2Z_0OOvJV0sUGtmDdaDy0elm56-Gqmoc-0KNu3ZF8RO9JV0AFy1XZbDy0elm7E9hy1HlaDCCflW55-0upo6s2Ktm2Z_0OOvJV0
+ABy1HlaDCCflWBF9Ru1HVWECyXjWbDy0Q_ngW9VYfr-x1RhuRt60AVxB_pv-ugyD43_zq3CGF__Q7H3_pVglTVzrNF_Hv_zwgHVWMvpWPSvHEotmz_q2yGyz
+_qc2vnaN-5Ty-kVi_4k_FF_d7qh_nYVuiV_byIzV0tp3dpa0Bd_5_-ZzsFyqux--uI_vJ_wTsx_olypjpy_Fx_td-yVFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_l_0j-Vdv-Vdv-VkTVEV_gchpytG3VTF9l3H1_f_DDyIUQvTVVuIL9aYH9aYH9aYH9aYH9aZu1
+}
+
+
+!procedure ARROWUP(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$arrowup,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

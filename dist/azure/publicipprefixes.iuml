@@ -1,0 +1,18 @@
+' 72c35fb9a5dfdcaf7857e65a7d0beb25d81e1616
+@startuml
+sprite $publicipprefixes [256x256/4z] {
+xTrb0Xmj48P1uFvt_YJfkAtE2-bw_aQWLcTwRVmrIP8aIP8aIP8aIPhV55m-xV-ngvTD-_Drzy_UVluvhcvLCrQj7_LN6Ntq0bZVbkBd_LM0NwNzLSZFl_YR
+tV_vvsx-sTdFFozle-S__Xbe8__ixEUVcNOv_vlycMhrg7ycg_L3_gxpJ_DVVlw-V7v-_ePyVdv-Ve___8x_D-lgDuxE_Rfxo-VxRo7DNnVsvylvDvaVXlph
+GstzgzfWRfxmR_72SLV_MbLF_yhxjtdV43__xE7dv-Vdd_mxFVzD_eR7lwtFV_XdYf_tLnb-5VLNvxzlUfvRyRlwAtv-_i7Fpy_Fpy_Fpy_l-9y_OCuKTkVB
+o_CTH5_pROrPxjrdbrrR5N_BBQpFvV2T_QktV-tZNs5-U0FyOJu_Vvl7Ntv-Vi__hO__-6VOpp_xdlzMwVbFrbyxC88C9utxw-olklj7Px_tZNZZ4F_evkVd
+v-Vdv-Vd7wx_q-FdT__Fy_dv-Vdv-L-pmAXEy_zfYL7T_fUEylz-aGT_3kGS_qsm-plPFsxUv_d-NouqdknOVzN1pp_U5p__vlCV_dcOV_Hz_AyQ-wiB_E_T
+vRYgNO__B-szvtzpRkoldZZ_7x_hjW79QVvRDtlh_v7tZsFcN_aBu8eXwhY-bunkRtJDy_pp1VhAJwxpy_Fpy_Fpy_Fpy_Fpy_FpytVXy_Fpy_Fpy_FpE_xb
+vm_KtJyQ-wlU_kfroqkI94cI94cI94cI_WK
+}
+
+
+!procedure PUBLICIPPREFIXES(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$publicipprefixes,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

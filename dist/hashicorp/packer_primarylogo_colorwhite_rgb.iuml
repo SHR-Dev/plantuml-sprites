@@ -1,0 +1,14 @@
+' 67726e825cb6f17f1d5c45ea831bdbe6bdf8a079
+@startuml
+sprite $packer_primarylogo_colorwhite_rgb [256x114/4z] {
+xTF5GIW03C3Gflll_BKud97aRP3Ao2H9aYH9aYH9aYH9mhWjZ1aBgFjtmTs_WBV_7q3Rhvx0FW5JzyK2Qpm1G3q1diM2xmcuMEi9SB7I2Lo_zmdUhXiG3O1z
+mjid04N_nqy0dlwd2NXUW7q5NlQlh7_XLJ_k_fNtrq_zFqZzzTTVV_trrrz__VNNNt_zzTTVV_tr3xZx1_3s_mEO-vycmFZw3mlu-aN0tJ-WxJ_WxX_0sdy0
+Q_y1T_y0rlx3SlrMmFLRWRj_04RjA_SdIP8aIP8aIPBV
+}
+
+
+!procedure PACKER_PRIMARYLOGO_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#04cccf')
+card "<$packer_primarylogo_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

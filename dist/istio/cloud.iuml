@@ -1,0 +1,15 @@
+' 67070997768df62df6005485c9bcfc8678e7038d
+@startuml
+sprite $cloud [365x256/4z] {
+xTt5OSKm5011gV-Ym_mkdxoXcGwyPfBMkG0000000000000000000010RW00001B2G00020s00000000000o00000000020s000000000000000000000000
+000000000000000073rC5FjTENQHsC-2s5gtiSL-5iOMUnqNM-iP-q_L5bliw3WYTZP3eTRTJ6vYTvDlYht2s5fNjSKkvzyKEwkjTJdTgTX5RKRh4JkeRSCE
+QjkmWzfYvxKTHQOWjjP1RNVgGMsjYzeUOvUrjUvhUnCMN07QhW-jpKWTrDOwhgrrNrlhlhPxcRwsrdrjnv1f7vRRlSoqpyxja_VhQfzTt6V1r-UUnOKUgQ_F
+FNipegmRQNu8bbhkQH-GkZsQsAgTBASWTL1RwwosrfFOMMkrkzPYxpyRM-mbzfcj-qrRx7i
+}
+
+
+!procedure CLOUD(object_name, caption='', xscale='.5', xcolor='#336699')
+card "<$cloud,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

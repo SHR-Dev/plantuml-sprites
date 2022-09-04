@@ -1,0 +1,17 @@
+' bff712b4673b1cfdaf5502ceb2d64d136a49129b
+@startuml
+sprite $sidebar [256x256/4z] {
+xTr93YCv34N19dN_EpUqo4sDOj5Am4Iy_GSoFC_-RtoI94cI94cI94cIf9ZHF7ozVzNdjnTFTNwEANP5VZwjBowVQYV0mryZUaw0Ad-DgUv_-ADEW99_ZQhe
+ptd-hFZvrx0A_fZg3_wJ-7EUdpzF_VpyQrmVyFFdGUiFvGlTy-TXFNs_E_xSnL_BtM_rSRtSNVB7KR_tnojzmf-Tmy_C8l_-2P1zVqHKdpxKz_qYueQ_jb-D
+VRSB_flxVlUFdx_x-bc9tooYxUVdv--_VbZVzmj-zt_y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy
+_Fpy_Fpy_Fpy_Fpy_Fpy_Fmtu-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vt_-VyvmVGsVVxd9-Vdz_z7_-gxTTFlUjV
+L_nHlVkjx_l5BN_6ONlUsBVBldyT04hyP_yw_-a3_YD1vk_ykpVqL_oxF6pzfdofjMxuTntzxYrztp-ekfy_n_5F_VpyCT4V_Fpy1qtrrrv06LLM_Fmnpnz5
+VuxYF_xk2J2V__XtO_HrV-JJrzDtiVtdnIwd557Yx-9fXdtpYyMejgZU4Fly94cI94cI94cI94d_0m
+}
+
+
+!procedure SIDEBAR(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$sidebar,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

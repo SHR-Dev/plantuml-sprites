@@ -1,0 +1,17 @@
+' 9fefbe7c206b370a1000ade0d53d278047cf50bd
+@startuml
+sprite $todo [256x256/4z] {
+xTg7ZI0X44N1-Kt-CP_dl8T5jBPU08WQRtWsbQHgV5zLyYpqoq7pN10_Fpy_F_zpqdy1dv-Vdv-Vdv_Vys_jdsf-uQ-amUwVKytIe3NkE03ok-PCVx41_h7r
+GS_HVptJETLQujVuxwswNr-_Q_oq-jVMHysNjl7_RQBhMs1zq4qRO06_jWdM1zso0IP_z6fkWUpXZuRD3R31Frgsmp_vBUElPCTZxIiz0FZvgxU_Lltyet7y
+_FpVny_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FNmUwrr-7kj0_zNdnwdsN-dEay_vr_laDSDwVv3bGablzpv6kzDTPVztb
+vz_EFpyhVdv-Vdv-Viy__Dv_lF_w_k7xb--Vld_x_-7_5py_Fpy_Fpy_Fpy_Fpy_FtyTwLP_7UlQzQyvaFMlL_hhq0ymwr-jVxtGR_r3Zlcj_pddv-Vdv-Vd
+v_Vyv_dV-v_tV-jVVV_p_TVwr_FRmF-lr-Bdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vd
+v-Vdvw_6_5K_Vthxmyz_mGMWuUdV_m2eoXP_DULlyrTJ_lIlRu2gRlZ9N_SdrR9a-fStG9hgywoNBpMIJ_wMqh9dRzteaYH9aYH9aju2
+}
+
+
+!procedure TODO(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$todo,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

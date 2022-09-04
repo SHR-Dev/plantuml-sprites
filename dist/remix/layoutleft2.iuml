@@ -1,0 +1,16 @@
+' fb38e8f9b83253ca86e3a0f9dd45845115945102
+@startuml
+sprite $layoutleft2 [256x256/4z] {
+xTt7WSKm2411WVglUJER4_zcDA-3iPLkhF59aYH9aYH9aYH9ac969-EhM_LvzQBgytDCtG_mGRylt8SlqF8NVK3r0RhyFQQ-l_ZdVO3oxr4r_JdFdnq__nvM
+mnzJ_S7FtpZ--8-y0FZvzxZu-Vdv-Tr_D_hv-Vdv-VdpKsVvyviEyHS_FfGF7UCl_USlS9P_lMkUlyMl3t2GVttgA7zyvu-J_EjBH_hv-Vdv-VdvlV_u-Vdv
+-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv
+-VdvpR_Wv-Vdv-Vdv_V-C__M_6Fphyq_D_--oc_QH_YhXdwa_tC3_Fpy_Fpy_7jS_FpylyNFx_xZvu-9_k3dv_z7K_shuSzX_8wVF-Rve-dFKVpo7_a1Yj_q
+PuxHz_sHrTNfnO_L-m2HKugdLgUe1jYBtoj6jMvgY7r-aYH9aYH9aYH9agHx
+}
+
+
+!procedure LAYOUTLEFT2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$layoutleft2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

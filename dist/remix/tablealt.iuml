@@ -1,0 +1,17 @@
+' 6d4555773b71a08ca0d4e971d0cfb95d5d7318b5
+@startuml
+sprite $tablealt [256x256/4z] {
+xTrdqfv8303XJ-B-PzvradEOUGUNZEhf_rtGvCpRU000000000000000COF--7vUhS-d4yL-VevXTm9yKtyzc2ps9a3bNoEe2R2RVurXlxyhlty2LFyrYit-
+dDUVE_twhs5izCVK_j2l_sppft_-3a2__ciSD_JhpmMkejc_lp-NABdNlxy_tnD_fCQWtx-_FvR8qjlyy_vyVV2b_rj-dlT7nC7fGwz_th_dNut-xVry_i7r
+isx_l5-_VlthVlJw-f-v_-7p-Nm-dy_dy_byFf_Fv_FvV3wVp-Vp-Nm-dy_dy_byFf_Fv_FvV3wVp-Vp-Nm-dy_dy_byFf_Fv_FvV3xVztzy_qg_VlssVtpV
+l_NzuyKHYD8R_VlxVV_xoiKnoB9R_VlxhroZv4x_l7_M_n_E-ukTOVVx-_t-_wDVltxz-lNhrwzVltxz-lNhpsOwht_aG_XB_VaORk-l_6YcyVftrJ-0xBl_
+rK_3_r-xwV__Qp_z_t_jf__vltxwd__hHxz-_RP_zd_wzUlNhr-__R_-N-3uLxz-_VP_-bt_Tl_3_RzVt45-O7vnHt_c4-flwP_q_CTvV_7K-lt-QUZt_9_-
+9VJ7nFxGhr__0bFxzowWZ29t-lN7lFxOxCzH-TL_FW7cvrT_vfZw_Vx8uj7fHLJ_-WI8d494vIyJnO3sojyZHl7s4aFQvmC0000000000000-1y
+}
+
+
+!procedure TABLEALT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$tablealt,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

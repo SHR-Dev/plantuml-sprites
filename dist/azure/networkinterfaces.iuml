@@ -1,0 +1,21 @@
+' 858192618df301a0bd7050fcdd2b3344c423b93e
+@startuml
+sprite $networkinterfaces [256x256/4z] {
+xTm7Sjqm38HXxlB-PqvFu2B4qgCeWCJ-YNlXVEfjt5vAAQMKKaeffPHIIYcbb5AOKuYa8NKDy-mBLHPlbTLRHVLMHZvvyFvNaHQkb8VF6rlFpxl3oLBmEQ65
+_EIw4o0Ttth2ZyH-od-cVVrSmizGl-O_zlJBBpzngjf--L7RBp-g-r7TZntylR_kHmg__7r0_pE-Rns_6GRuA_lDCC3lVGD_7-3NzFVQ_hwPlm_u-_9-G_Jk
+YtVpQ_dNzezrztyw_jFvptZooo-__9VvyaVnvKS2llnnV2JWon_71nBm4SX70Zu2-5Oy7n5wQoq_xY-QZnYyDQeSqmDHU6jy3W_m4QYtNEFyOlNnNUAJrVn7
+o-ZMVbzl5V77RQ3Y_L_iechvMTlFWmhv3TrB-_lFwlhxblvpUtxpzwh-lgE_jS9--LiMl_pjNm7yuEr_-r0yt_VpTd_xN2e_flhROG7y67zpIkZdxNxvcri1
+l_nDVldbFsmwFyull_poozyq_-MNN_xd-V8Zt2y_vDVrlz9-1F1J-H751uBzLW0_Yzzw36-D-8dLan_L_QZkHtK_gljHsoy_vldbbrz--UMNNtxvTVmdl_po
+aopivv_yBstjf-L_XGdz_HO_FINVjwVVL_9Z2Vt3Du1y9J-NnS_R_BwIu_ussTyd-ddOTKHolwCSzfjXGR_VAuJCVbxj5S4al_nCvVS10SS_DVmSz7DrFsdw
+FFustGyUX49-LFSZniy0l_Exnld0Sdv_0g22tvy2oEDla_p-dW102Ry5foh-LjLlbVLRPVrMFdzxn6zLzLjL_LR9zLz-QnK_ESClVrl3JvBR-_6qNtxvMtw_
+_ApXnt_zpEANdu_xvPUVLVrCvPUV8NxvkR2V-_WPv9UV6VpCwc-F-Cd2yrz-rlQpjf_r_3OqhJf-tXQ-pkDRS_q4wU0h-6c3qE7FzSFpMm0uoMzZS4QmI7lx
+Wfzq-8F-oHqCTDLltU_dGtx2XvptSrq_R_5pbSNVSltMbHcpfjzXbF7ZBZz6_5PMF_urW--C4v73mCNTtxWV2UO_pimNEFmnl-Nih4Ox1ZaGk7vOZd_9wp--
+7oT-IPljjoRe7RzryjGl-WO0CCOt2gxLdlGxIl-Brp4OyCSy0HJwvw_QKtv7YTZQO5YxDbnHlbLLRrNbMrNrLbczLHTl5Q0dxWfIAQMKKaeffPHIIYdr7G
+}
+
+
+!procedure NETWORKINTERFACES(object_name, caption='', xscale='.5', xcolor='#669933')
+card "<$networkinterfaces,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

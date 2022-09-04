@@ -1,0 +1,17 @@
+' 201bdc84db051459c16dc2fa3ee533a68d32fa5d
+@startuml
+sprite $npmjs [256x256/4z] {
+xTrLTWGn34N1bcR_QmuhpEtuM77Txy3KCBzZgoH9aYH9aYH9aYH9qQoTxTLWVROfgb7yxDUW8-25_jAY5qV107_HMrL7m1Z-fM5r10pmNresmb_ybl5dn4b-
+57_3Cm0_V_Rsvra__wLnv_py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fd7hUpFIItgpsajvoz-J2XlMj1V-Zd7mAh-uyzRrL_y6KV0glvZIalwSwu_r_F7
+F7-iwJycnS_Fx_hFxLzFFpy_Fpy_Fpy_VpoqfpzUjPS_tciVVtpGLlvyA9wrX_zH_rXKk_ZpJN7V1lxYVt84xE2_LFdGDlwtbhnh3t-yQtaw0hRmNzwqWVzp
+IjwqXv__qpSJBUVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdFpRsHpD_pFF7clvnVpy_ynyB-Fdv-Lt_
+kVslPjx_-o_x5_69luw0FliN6H63fapg2BYho_v93bsooRi--wt--qVvcIJl-_IN-kzV_UeF_flziz_zoNxxTwSPZza_vEVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vd
+v-SF_XFnysTZ_ba_V_Js1p__DbS0upU98wApFuRuiob_c3-Ryij__WZ8TlhYd_T7LdtenO_ZR75NjYkY-2UBgfcz-EUBfXq3QsVVAacI94cI94cI94dIDG
+}
+
+
+!procedure NPMJS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$npmjs,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

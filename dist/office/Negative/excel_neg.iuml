@@ -1,0 +1,10 @@
+' 777a3a424ca491e7dcacd0eb9277c9cd4ee3c41d
+@startuml
+sprite $excel_neg [256x256/4z] xS6100000CEW-rD_8DK20000000000000000000000000000000000000000000000000000000000000000000000000000000000001m
+
+
+!procedure EXCEL_NEG(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$excel_neg,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

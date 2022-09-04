@@ -1,0 +1,16 @@
+@startuml
+!include ./index.iuml
+package "Positive" as Positive_package {
+    SHAREPOINT_POS(sharepoint_pos, "\nsharepoint_pos")
+    MICROSOFT_TEAMS_POS(microsoft_teams_pos, "\nmicrosoft_teams_po\ns")
+    EXCEL_POS(excel_pos, "\nexcel_pos")
+    ONEDRIVE_POS(onedrive_pos, "\nonedrive_pos")
+    ONENOTE_POS(onenote_pos, "\nonenote_pos")
+    WORD_POS(word_pos, "\nword_pos")
+    YAMMER_POS(yammer_pos, "\nyammer_pos")
+    SKYPE_POS(skype_pos, "\nskype_pos")
+    POWERPOINT_POS(powerpoint_pos, "\npowerpoint_pos")
+    OUTLOOK_POS(outlook_pos, "\noutlook_pos")
+}
+
+@enduml

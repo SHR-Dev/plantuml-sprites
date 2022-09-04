@@ -1,0 +1,19 @@
+' 1b7f146ffca5c7984d78a3eff2a252afe622c5b5
+@startuml
+sprite $barchart2 [256x256/4z] {
+xTr9ZkGm34HHH-Z-P-vXHNHA1RZ5562Q_--BvgkSv-jMH4H4H4H4H4H4H4H4H4H4IjISBxs2xyqagJxVYIIzWJ-sYdz0RV_OxWL-v_okxn-9ollnuyUF7pz-
+_FZnuyUF7x__gPdVYthuWoz5_biRV-WZssxarrGhlpvPajhulL99jhlujVAha_-QQkh7Zny_VlpuyNF_3pz-_FZnuyUF7pz-_FZnuyUltLxXLwh2_k1xB_sj
+k3_qk_-1wdvdUeL_x6QxjZ__KIf9rVqZutTh_wZfLsk_s_hnS_x7Zz_2Zv_xV_Znu_yH5_NpUwgJtwiw-8E_-2HL9x-cR3VnUvxLp2zfdjJAlpWeVhVsgxN_
+meyVFzT_RVt6Zny_VlpuyUF7Zny__ZlXnuyVlxPwYL-9Nk1Nhkf-ITwkj3_F3rr9VmpOp7O1_-aVhQhjT_AjTlNzupj-_6hknszEV_pukVt3N_F-7txy-F7Z
+zsUj_5xKmX_y-PD6hVpwp7ONlwUrun_GmpzltSk_NBgBV_ttdVngxxzQ-l7Zny_rd_7ZnuyVFtxy-F7ZnuyVFtxy-5DBNm_turSTlqxuyLyr_1T-_FYv_NkS
+d_T_n2edtqfZZoD-JVmxIzyUDJRyYr6d_DRKrjBhKTuSfHkZJht_pzxr7nurJlW_Z-MRx_zymAYCFyg-_pVoqL4ZIlddfWFjBJsF6ebHowMU-lx_ywEIVlpu
+yO-t-GT-_FX_3Zz-_FZnS_zFUNzow_oaUTH_-PqvqX5_QfGd_u5_G1nf7fNVEIRb-QU___6Xe-ucIOdZwA6ZxgTK1KQT_0zyRzI1fTuP4H4H4H4H4H4H4H4H
+4H7z1W
+}
+
+
+!procedure BARCHART2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$barchart2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

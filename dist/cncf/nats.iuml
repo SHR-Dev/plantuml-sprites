@@ -1,0 +1,18 @@
+' 86877c9160c78ca84ec226fe55dd1c85f282f8ee
+@startuml
+sprite $nats [256x256/4z] {
+xTRNWM815CDGt-s_wArWWYS1blnDEkAbiEUSSmVRi_Z_FMJwzUlNhr-_VltwzV_HzElNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwxztzjZ_D
+ViUVT_PS_j3zeVj3zuVkJ-Z-qFsX-qFtX-uFtH-wFtH_wFxG_Q7xG_U7xW_Tdz3zeVj3zsVK__awe_uYmAI_233fRm8i-gi0W_ukm9w_333dRmEi-Ui0O_u-
+m9Y_3v0nVrzWpDy76FFt0MxCtmSOy_S1nlnzW35_7s3CtmSOy_S1nlnzW35_7s3CtmSOy_S1nlnzW35_Ns3CtmSOy_S1xddz7trv-TwVFuxkqtl0pRS8yEl-
+npny506M_7s0CNyVOCpV1nZpzm76_7s0ZFdx06F-_a5WpDy76FFt0SRyVO0nVnzWpDy76FFt0SRy_OF0cByFCERl0upv-m1Z_Zx0gl_osOtwYm2J_YB0fBy9
+iEYl0Wpwkm1x_ZB0dByDCEg_e_kFxZ-w_-Z-e_kFxZ-w_-Z-e_kFxZ-w_-Z-e_kFxZ-w_uxkFxh_wFwZ-u_kFxh_wFwZ---l_8_P_UWM_VhrwzUlNxz-_Vhr
+wzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_Vhrwt_Gxil-REpW_XpSduFx4xe_T7_e_j3zeVj3zuVkpy7zkSeF3v357ToVW_iJkZzqV-Z-qFsX
+-qFt9tH_wFxG_Q7xG_U7xW_T7xe_T7_e_j3zeViJkZzqV-Z-qFsX-qFtX-uFtH-wFtH_wFxG_Q7x4xe_T7_e_j3zeVlputxddFiF
+}
+
+
+!procedure NATS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$nats,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

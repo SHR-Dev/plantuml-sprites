@@ -1,0 +1,16 @@
+' 2e917da0589b4677af7cb7d7d24f1ac668c931b9
+@startuml
+sprite $res_awsiotanalytics_pipeline_light [256x256/4z] {
+xTq5SWCn44N1VEN-Pmw3sR9AbTbekmk3rZEZvcbR00000000000000000000W0nPPhtvrDxadiFVAccVlzuaRK3H4J1_lKaRKjVVXkYVyE-AZu3vwzMl_ul-
+TDXIVpeyq9yks-bFb-x-z0GbgUoVlzv7UohxnzSxlr-__kJlwxVJtrAYbVSVA8YlxozKtwzVltxz-lMdG7M_-t-bhu34ux__rgzVltxz-lNhrv-RBlxcIlsv
+u-p9xhnPfpzfjrnCtNj_sqN_UUh1iRBR_kSb-ft-Bl-k_m__GKwTFwTsyCsL-dTw_-zGkh-TnEEV1VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUlNxz-_VhrwzUl
+Nxz-_VhrwzUlNxz-_VhrwzUlNxz-_Vhrs__8_bVsFxF_dNxz-lNhrs__S_V_p3_m-4-_VlEFpByo_ypyE_twzPj_gz_yQ_FFpRyl0W000000000000000000
+0Bm2
+}
+
+
+!procedure RES_AWSIOTANALYTICS_PIPELINE_LIGHT(object_name, caption='', xscale='.5', xcolor='#336629')
+card "<$res_awsiotanalytics_pipeline_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

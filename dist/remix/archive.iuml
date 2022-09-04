@@ -1,0 +1,16 @@
+' 88ee200fb49ae76947d647bc3cf4e6767c3ca4a7
+@startuml
+sprite $archive [256x256/4z] {
+xTr7bkqm24118-z_pJys7OOode3gRe1JBphh6fyaIP8aIP8aIP8aAMPqCZvxgb_jIya-VurfzmNueRyRz-CLsF8dVK3v0kpoxp7j-vD_tWkG_djKc_urpxzs
+_Fpti3RyCTKV_Fordp_--Ny0_FptkFZv-Vdv_V-TvEVdv-Vdv-Vdv-Vdv-VdT_o3dv-Vdv-Vdz_sd-kVNFyPiMQrVm7ycVmi1dRjT30_EmWlIP8aIP8KBJiO
+dta6s0lytizzAlkd7lMV_oIW-WkG_BulGDr_DuwVdtyhVdv-Vdv-Vdx-Glpygz00_ohLsf_yUDZwKtD_wf-_0ftzoIyTUs_llnutm1yrVxJrcs---UPVfVZv
+VV_CDzzyy-t_jDp_B_6Nup-z_Ql0R--_Lp77_nlxipBU-Iz-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-
+Vdv-wv_mHsz_yFCNwh_-rSL_u09eoN_7lrhoqt_a2x2I_-82a8teoOzt5W1T3Ola5ukFkjcJNo-QTl8AoDTHIP8aIP8aIP8aIP9-0m
+}
+
+
+!procedure ARCHIVE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$archive,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

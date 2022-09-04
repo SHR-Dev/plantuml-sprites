@@ -1,0 +1,15 @@
+' 0877a10bc730bc777155a1fce85ec7b4ed094fb4
+@startuml
+sprite $checkboxblank [256x256/4z] {
+xTHBTaKX24N1Yyv_pFcJvBMnSvQrPr0AF3SbIP8aIP8aIP8aIQguBhPtP_ahg8ClqFQupZp0V_tEwEK53l5tLFq8St_p0-i7EE3VaPtmDp_t0URVl_b36oy0
+_qhsyw-vV_F7ThUVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-V
+dv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VVmNpftx-
+olONF__q05ox_lpL3n3AF-DVeVpspnzWnUcRF_VNwdBepM__x05g1LRD7rO_fTcRFwz2UywLPxygIP8aIP8aIP8aIT8x
+}
+
+
+!procedure CHECKBOXBLANK(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$checkboxblank,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

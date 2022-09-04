@@ -1,0 +1,17 @@
+' e03e9ea4c570fcb333f39562eec06b47b54a6814
+@startuml
+sprite $dashboard [256x256/4z] {
+xTpBaUCm34311PX_p3ipF5idmIYms2y1gFst9FBV9KcI94cI94cI94cIehh6KVFukxv99VmiBNxhc_IUdzL5HEEe2lugxEce8g9yqXxrshzgoypF_YmVLU2l
+FwZrxA-VbE_zQtKyA_6LKKFz-ScVj_ZNatyTuUVdv_Vvv_kFdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdvy_h_Ul2_py_Fm-_tp_MV_M
+iVvnghzb_UjWVz_wvvd-jlNlG_sz-n_Cz-yQ-7Fz_VNx-Vdv-Vdv-Vdv-Vdv-Vdv-QEsm_mtdVzxq5UV_esZ_5bSd7F-V_FhEycVrRE6NVzo_TVrVtxt__0d
+l_rVxV_CF_lxZz_l7_viEAYv_le780_nxxQ_kZZ97z70d-9lEIivrzzyKdg-VzUWR_2FQPgVdv-Vdv-Vdv-Vdv-Vdv-VFwexonzVQAo_ULU2-VvY_QxPNy1l
+k2bpiB_XzX_NVrt_lyVl_fz3_Fpy_3x_VF_ny_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Ed_IyR9l7py_lyc-Ut_sdFGvrZrp_sFDIP
+SSZwrpsgVbB6pFNFdQCchd_ld3Hm_uFEIVCUWCvHboH9aYH9aYH9aYH9-W4
+}
+
+
+!procedure DASHBOARD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$dashboard,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

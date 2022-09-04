@@ -1,0 +1,14 @@
+' 5d33b2bf3ffba30b88b3a4925e770fd0f7009c85
+@startuml
+sprite $separator [256x256/4z] {
+xTb70e9044L11-v_PdDs25yMfAgjeVkPXSC_0000000000000000000000000000000000000A1y677D6KpQFqsQlNxYKcb-ywPSz5nr5kKYs3_AhmthkkeC
+ugMI1w3Qr3MgcLKfoVurNL7jXuvHvN7LMNHKTUwVFFtjb_geEVCVLVd--TFVFMg-_4TLid-7CL5Bxy_tdzwlNtyxgw1VltxzFl_qw_Vxr_yV_tyT_t3yo_5F
+nx-T_wW3000000000000000000000000000000000000W1C
+}
+
+
+!procedure SEPARATOR(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$separator,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

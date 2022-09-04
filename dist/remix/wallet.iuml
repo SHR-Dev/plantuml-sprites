@@ -1,0 +1,16 @@
+' 987d392bdb261d9d192a038988cd7c11ddd15a92
+@startuml
+sprite $wallet [256x256/4z] {
+xTs5hIH13431iJl_c8zz_4TQw0MxNWOr32tvQ9yaIP8aIP8aIP8aALw-iVXgjpvVkNqReEoltgODy8T-lMhxDa3nrujN_ZtyzV9bvZx_UeCs-jTaVmxtyw-v
+_XZjv-VFmNv-VlxLri_Fpy_Fx_x7py_Fx_hFpy_Fpy_Fp-__ppkKi_z_vyRrFszInERbRmqMG7PT_XWRrtzMSnT0jzPBaYH9aYGf-ZHPNrtEpnv5THa_MnLV
+kzI_6lJ75fZ6h_9hb_fNfoxrP_d7RO3ohsRnvs0__yhaZw5-Vdx-lCIV_FojukVdv-Tt_-Fdv-Vdv-Vdv-Vdv-Vdv-VdvtzM_Fpy_Fpy_Fpy-M4J_7bQRt_n
+ux_brvhxI__n5kZkZzEQ-_DqsUetVtRs5_za0xJt7oUrzlFpyn-dyVD_ZT_rZv-Vt_kFzr_VFtp_yltJzs__F_p_ukVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vd
+v-VdN-tYv-S_YP_V_O-VV-m0C7v-_gEdtm18_h4NWCi7mERO-QUr0QRoov_PHd-vFxAQDF-wYgzbbwuOWH_LkFdtLRJgkAeczlv9aYH9aYH9aYH9aZu3
+}
+
+
+!procedure WALLET(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$wallet,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

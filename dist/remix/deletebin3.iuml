@@ -1,0 +1,18 @@
+' 75700fa1948499bde0ae7829c1ca15c4bbdb921c
+@startuml
+sprite $deletebin3 [256x256/4z] {
+xTfdTjmm38110Nl_CwSmJM-vQRQf1mhp_K_iePi8wFZ794cI94cI9CK5jTQF2kjpUMLFOD8lF86g_CO7CFYF2yhCglx79PNqnxN-uA_uxT_b1u2Vdv-Vdv_V
+ym-_-zz51s00KdV-5HVne_7uT_2BraqlIP9L_eq-jxXXYrVvSMahNneO_2pR-blJuD_m09QDSket3g3SA6zKRcWOaNVqv__u7xUBdv-Vdv-Vdv_Vyw_xZ_ll
+Fyq_TYJFyuztpR-snWz-l6_-kJF_lmV0Kvcv5V_3Lm2PkJ6_-EjzzLyG7Dy06_-jQ_0DiFRzqBty1py_Fpy_Fp-_vxyQVdv-VlvygfS_NzJ7F_Zp-wnj_6Vz
+-GHw-OzJ3VmpVpw0HlxZgLR-UEMFJlvZYf-Vdv-Vdv-Vt_El-yzDx_ynt_-ZnVtV_CVyp_ntFWBxdnP-Vdv-Vdx-FDNEdrET_3awF_rts__dVFrhT_yz_UVs
+__R_zlyb_URV_Fpy_Fpy_Fpydd_TV-p_xV_j_-t_xV_jV_Zv-Vdv-Ut_xV_j_-t_xV_j_ys_p3_Dl_dv-Vdv-Vdv-Ut_xVzV_VTj_FR_Y_Zs_-RVzX_sN_py
+_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FpyvtRoVpoVdvy_j-2lyVF7BlvOvEVF7VZ3t-e0PluoVnRdB_L7VgssFcFuLnr0-GP_JJ6gZH_yLSMl
+IigNyaTHlcDzUz0bIP8aIP8aVGO
+}
+
+
+!procedure DELETEBIN3(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$deletebin3,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

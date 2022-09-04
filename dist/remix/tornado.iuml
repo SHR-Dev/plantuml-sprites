@@ -1,0 +1,16 @@
+' c629967c534c9494e4a2bfc942a7d32c94beb438
+@startuml
+sprite $tornado [256x256/4z] {
+xTn94jim34N1aBx_cJEia3bXANG5-DqtUBGM8g3oXz4000000000MCEarfV3_3tAqG5K_QmJEEj_3LBzWVbr00Vzhs6E-lV4_dtI_nf7ltxz-lNhrwzVl_TV
+zv-Vcdh_DVyvE82yVFFV4fjVCkC10000aYSTgudG_78jVzAdhkVv8sVzqpwAlTLV-GqEu5B_c4t_kTMhVztv-TCU0FtwzUlNhr__RlIjc_S_x__kV-x_QGEW
+WtppF_FVC_tg0G000CYO5SN6btVdx__8-kAj-MscuYcRadVsVydlinICM9NN0n3myvyy02bV2klNh_yf_VhrwzUlt_kl-u_xh_c7-PVvf_ct_GS00000sMET
+TK6p_0ipxKxzVPOQ7Vu_vS81D5iATkjliDNijHJlrB_Z-r_wzVzRmVtwzM_z-ht_TQ3_mlsl-hFk_vNVgZzr_bFpl-G1OFo7ZRdrPKuy0000GFHGOpqHcby6
+v0SCjK_pdsyr4bPzrT_wvx-nr0pPz4xe3_Yg-Q0_wm7Ghr__EVtwzUlV0_ftzFlVUjpV__h_yF6FFO0Hyu-LElwfyMVW_C_yjxop7W000000000-0G
+}
+
+
+!procedure TORNADO(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$tornado,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

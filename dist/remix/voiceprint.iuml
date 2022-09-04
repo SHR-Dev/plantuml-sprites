@@ -1,0 +1,17 @@
+' 2460d2030c0dd08bbeb618d5122bd6440cc0a474
+@startuml
+sprite $voiceprint [256x256/4z] {
+xTq7ajim44L13NZ_Cpl0aOBADGuKZVhzBe1jPOcOnUDlaYH9aYH9abJdelMpEFxugQnROEgVIl9FVUuDKDD_d1fZ1Fad_roO_tZbhnm_V-mJW9-VV-NpU__x
+ANv-Vdv-_lfHdB-MelprgXZ_vAy_55QAV-gVY_ElNnGgnB_ovmqGvJ-Uo_5Nl7_4-uzKFpy_l_S_Vdv-Vdv-Vdv-Vdv-Vdv-_lzsiESE_wrNYMlflVvQkfC_
+UwV_vfq2ZQ6cI_qt35LrBzLVxxz_gq1ZgEaIVt_zw-_-1ke2VsFzsuQwnhN-_lht3pLSxp-M-Fdv-Vdv-Vbz_kFdv-Vdv-Vdv-Vdv-VdxrpPtT_VHyrgQJD_
+KzNap_Rozr7j-VkT_6rKzwh-Rlu-gZz_lvE_Z-hEt-_bxwDwV-hE_ZwAdxzY_DQtllMz_kNu-Vdv-Vdv-Vdv-Vdv-Vdv-VdvAyPlVUjRt-iVFx_zB_O_sVzc
+_wFzh_O_s_zk_Y70py_Fpy_Fpy_Fpy_Fp-__t_7py_Fpy_Fp-_pd_0lddpZ_nlb7phzo_fdpxtev_v6Vdv-Vdv-Vdv-Vdv-Vdvz_HFiFVdv-ht-nVk__ZnZ_
+eXe1_iRyVOH_iiu5-1lpzm7-nlnzW7_A5dwEVxRO0_oj-Fdv-VdvHxIVV-7py_Dx_-DFVGACCFzO-K7-6ci1_5yEDMNvgqxwoG-grXvP_Kkz94cI94cIf8y
+}
+
+
+!procedure VOICEPRINT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$voiceprint,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

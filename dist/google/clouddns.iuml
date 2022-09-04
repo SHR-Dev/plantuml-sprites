@@ -1,0 +1,14 @@
+' 04220429c477b42ff100e8b7b29d0a8a19228221
+@startuml
+sprite $clouddns [256x256/4z] {
+xTp16K0m48N1NVqNxGu0a9s_WVVD4PAu9KcI94cI94bIFbPrV_Bpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_FpRq57cR8RLygV_Fpy_Fpy_Fpy_FpjnS_Fpy_Fx_sNzv_UV_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fpy_CNGD_AT_y5Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_l_jF9KcI99VotxPltxvz-_RjsxTltxvz-_RjsxTltxvz-sqcIP8aIP8aIP8aIP9w
+}
+
+
+!procedure CLOUDDNS(object_name, caption='', xscale='.5', xcolor='#f7f7fe')
+card "<$clouddns,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

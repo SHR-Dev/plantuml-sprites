@@ -1,0 +1,14 @@
+' d9ad59590d5ffa08e27129579293cd54658ec7e8
+@startuml
+sprite $encrypted [256x292/4z] {
+xDAb0G102010zf-QIYOXT_4L2m000000003mEz87002WdJm00000001GHmy00000000005Rd3m000000W1ra3m3memBPthrLCGo0G1IazU-vpJlP4maxu-02
+_tphH7odR0S0000000000000000000000000000000000000002gNu3xVtzhh4-DzQcmFXNcfyByr9O_gyx-UIePGCI7hlvv-npwydC0XVbv09tz-gUbVwRp
+07Bz-lNh_mC
+}
+
+
+!procedure ENCRYPTED(object_name, caption='', xscale='.5', xcolor='#336699')
+card "<$encrypted,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,16 @@
+' bf2997f9f4420dd0ba62b848549dd1ce7d1ccf0f
+@startuml
+sprite $powerpoint_pos [256x256/4z] {
+xTg7iLin4CNG1Tr_pSvvdQFuWLC1SNUaIMzSaYH9aYH9aYH9aYH9aYH9aYH9aYH9aYH9aYG9dnY4wPklVTF5RxRwpLQ_sUetM_rcozzizPiy7sJrcor_a-U3
+F1_a-I2ht-pzoFD1dW_oV93dWpk_VkR1S7uPl-JQ-kt-_dFK0_0_-hds_5lzDmzGltk0-l_N0ER--kldCVlhP_ax_Jng_yo6h7z3tZ_8-uS_tCzb_UFgty_4
+qRzYvnrf_x7tCs_mP_kvfV-8--kld_fVEzB-KVSpRs7gd_t8O-hVpX_7JVsu-pdcViuHztF-ZYl-_y-YwEVyLVNNZxY__lh7t5y_ulxwwt_mxryKvv_pdzG_
+xdxC_VKpvlxwnzsFkvyHzzVFZ7g0UI38ph_vyh-FPz_rfFl7TVuDL_w6At_3bRyXxnzS-Hkk_0rN_iPVo7SE07CbNCVVm9M_uShVSFtqDt0TVmFNyJTazHko
+-Wr-eLwv031F4_0ByPeD0CQ0rpuhPtnqsKcI94cI94cI94cI94cI94cI94cI94cI94cIl
+}
+
+
+!procedure POWERPOINT_POS(object_name, caption='', xscale='.5', xcolor='#fffefe')
+card "<$powerpoint_pos,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

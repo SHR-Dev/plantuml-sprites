@@ -1,0 +1,18 @@
+' 34b2547a1144bf947faa07ecd888a66a2b95c5c8
+@startuml
+sprite $outlook_pos [256x256/4z] {
+xC610000082W_QaNgG800000000000000000000006RlFd0OXQ4W33E_xt_cxGLPEq8aZfRdUQDAvtD9eMuQiJIgnuyk09Odd0_L_ErlV_lRt_xsjx_zxMz_
+-zkl5zF-zhU__UrlV_lB7jskxnT4-ydsq_xslvDSV_lRttwI_UrlFplus-zfeVxpBYhDhsEAelmoSuRu5nqfgUe_J9JXFsmY_9hh-xIl2VxpfBb8jB5_jfgH
+k_l_FI76BzFIpUZj_5VZG_nYYXRxKIq_I_qm1a_qw-fhKGly0EDRYFJ3R_yWpmyd_qZp0-JMFoJxOVA3wlbvqG-p7qanlt_CnCVwZqL-ht-6tpjN_F_n-iVx
+3rCij_tW-Nhm_t-j-Vzlz8_q-sDThnt_Clfd-pbcBFhOrI9FF_uzxUC2VG6_RipB63Vq5Vo-07ZFhn9-Nm2yvPSA-U6O8vn_tE2NyOECtlZhzt-_mm1u_-16
+2lXTlFzcTlCFCmMVRVmO_rMx49NzCzNeBoBA-cUkwH8NsSIl7sQZJ_1BZ7E8yqiOVOfVOFGXVWc0OB_4pUnt0q0vl_vd0Mnv2z0QVw6YqPnqlzBzKhfVYl7B
+9DqlfVkb0Fy5VtU_5Dt_FPqD_0PrgT_8Vpza-Z49yHFjXrm_GAmV2FP3i1y8zMEIuKzw3TOdzN0KymU-1UrZUAIZIhGynzVsu80000040T3_rzr81P810000
+00000000000000000C01
+}
+
+
+!procedure OUTLOOK_POS(object_name, caption='', xscale='.5', xcolor='#fefeff')
+card "<$outlook_pos,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

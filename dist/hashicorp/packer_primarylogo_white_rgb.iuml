@@ -1,0 +1,10 @@
+' cf1174c4dffe9e2e8b28af8010ebff85b7912853
+@startuml
+sprite $packer_primarylogo_white_rgb [256x114/4z] xS6100000CEW-rFVO0JL4W00000000000000000000000000000000000007
+
+
+!procedure PACKER_PRIMARYLOGO_WHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$packer_primarylogo_white_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

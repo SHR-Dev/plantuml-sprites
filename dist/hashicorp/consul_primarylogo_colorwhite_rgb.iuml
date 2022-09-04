@@ -1,0 +1,14 @@
+' 5169a75690b20d07a0cecb566dec268723b89070
+@startuml
+sprite $consul_primarylogo_colorwhite_rgb [256x112/4z] {
+xTe5aW8n64JXVl_zxxo6GoYcV2lzFjpfZCNIH98aIP8aIP8aIP8aIG0p0v0sC8z84MQ5ulGdzAO_eI9-SGdCH_J6Foc9RtmWlw0nFilTOikUd_NBTCJdpHle
+MFl96XrhFmVUoxwBdqFltNRnS-pDsox-703icfyqOYxIdPzKUhVu0V88JjVidv_5Ei4CfrVOVFLVFpi_ElAlgqJCS7ejc-TdcJ-GawByamNpDw__93txlzUs
+ttZym_hFVlavNl-r_MFxr_wFqlwlZRk_ZnMM_T-EVpZ-jPFQyK_7lq-OjoK0ZREVW2I0qxywke8i0EOJdF_g_6Vdl_UL0AG8pU5FkCh_94cI94cI94cIz0q
+}
+
+
+!procedure CONSUL_PRIMARYLOGO_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#e03399')
+card "<$consul_primarylogo_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

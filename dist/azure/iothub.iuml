@@ -1,0 +1,21 @@
+' 40b1b378a0df07ced47cb2d4e09e34dd38c9f612
+@startuml
+sprite $iothub [256x256/4z] {
+xTs7aTvA30JXxlo3VaPUug-gCoIuovaEW8KFvnsEVMgjjTPQQyst5wS_5ixNSBvcwzLql-5y3UThE5_J_QRxJVRNNx_rrt_Jn87l0FopAFyb4-pYlsg6FVWN
+Jh63_z8nblTVFSR-Vf_yFP21GTBzuC-GbVnpWyYlxUMNqqltGxeViltra-udtS_DVk_sa-olltvkyzTVFyd--kidsry_2_jbf7G_0_ob_P3k9zqFwNv8zvFk
+XxNyp9Vk1wO7MOmFqvEiveVXILRZ0_VxkRl9OHRa0zptZLWMIcHu0wpLo5JBwc7q_G2iwrVIghyBg3zw0VLJV_rTGAo_VjBzrDy51FkxW2wW6_3tYCj3lUMP
+xjSUSytp7uDUyqttgu7-O-b-q_tQ1KJxwpURNx_rH_Crd6yutsozPkljFxAuRym1-bh--Skbwv_m7N0lViDsWBtudx0Fk9Vswm1zxHiEwNwTjS_xLrt1oj-F
+KnBznoJ2BnyeqdziOJvJmwJxWPtzd5Bzg_6PdMLJFwUrfPziFzb-eltmR3_3Cspb9y3Fx00RVVS_nGyU8yX_70jo_CV98CK_N_slcQ5-VXJcFnhp_93iZ_tx
+KD_ujf5Nkfy7-z-6Ugh_pQXd-j-E8jqFVYtv_8szVrM_6Fr1NTHa_xSUnAy_RW5-tc_zYNpyKUZDh-tz9liz5dGsKuFzlYxa2oTDzllt25Y0sNwlyhi7_pg_
+s_jvlDyh_UPTDzJVI_DpuH-YNC0VyEkol-ZcZ5_rj34tzQjd3Rdudv9S_xX1ldU_I_LLM_izuM5R-ptXMLlxJVVx-KVjxA_Vpp-f_ea5S97V8VwytzFyt7_U
+W3lzzzytW8U__85x-3hW_-J8XFZnLH3ZnsEixOTB5y3bV5bg0HoU7UR77n7fXyDZD_VFLpzJVkklVyLqqM-0rB_TVJwtNC2Ktttz3__VcmF-hHV06_EP2nXu
+LvhXFpvEd_GxrNwmfHV0zNvznbzK-Bm5CE1VTm6CyNN_yq1-hjMkw4pxPU_gprv0_R4BgB_--adta-wd_cW-fFi9vqCu7mZdGpWVmlaGpWTufhwrrbfhhRL_
+0G
+}
+
+
+!procedure IOTHUB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$iothub,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,15 @@
+' 2d14107788b8bafb4c9118e8e6fdfc930d294bc4
+@startuml
+sprite $spiffe [256x256/4z] {
+xTqtWa8n38R1f_jVUkibyvDaUQOZyxMEnma0eEwylB07IqRcdvSb-VexqwzVltxz-lNhrwzVltxz-lNhrwzVltxZtxaX-Ra1-VC000000010TH3znomjoV-y
+g3_wL3NCF-__v1ADtVjhQBz-_VhrwzUlNxz-_VhrwzUlNxz-_Vhr6_zlE_-Jp-Jadm800000000sFyXnXLdp5qlwvwVpttFE_yt-uWxz-lNhrwzVltxz-lNh
+rwzVltxz-lNhrs_yUyZy1m000000041zzClwpvg6awjZLWsyCrz_wTUlNxz-_VhrwzUlNxz-_VfRqAzVltxzUScWNNFrjSkrx1fhaJyN00000000rBfsoGzd
+so-t7JKYFrzjCAO_F_ztVhz-_VhrwzUlNxz-_VhrwzUlNxz-_Vhr7zFoxwTjC_zJTvxT5C0V
+}
+
+
+!procedure SPIFFE(object_name, caption='', xscale='.5', xcolor='#0399d8')
+card "<$spiffe,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

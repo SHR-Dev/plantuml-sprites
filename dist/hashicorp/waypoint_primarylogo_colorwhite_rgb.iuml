@@ -1,0 +1,13 @@
+' e341222769a37cf361bce6287fa8bf2e3c082e87
+@startuml
+sprite $waypoint_primarylogo_colorwhite_rgb [256x90/4z] {
+xTOtbWKn4090vlw7Nk_KwxF_cggC4CP8MGO000000000hc_amKY7xGFaqKpl2bw0dmR88lh_Uu2axWMuHl_cBw3q37oBUoy1VqfPvyT7FbFMcHsB-_yym5vr
+rvx92_3gk-G5y0AaxmKOOpGECEhtz9_IFK2MEvlMrPylG67_dmP8WH_xTmyG_Pi7I7V_r3WRr_O_OufKzfy3ZDJMVwGoP-F2_YFTFW000000u1u
+}
+
+
+!procedure WAYPOINT_PRIMARYLOGO_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#33cccc')
+card "<$waypoint_primarylogo_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

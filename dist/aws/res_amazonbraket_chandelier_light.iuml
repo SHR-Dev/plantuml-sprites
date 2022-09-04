@@ -1,0 +1,17 @@
+' 0ccf4f34201bb1161ba93b54ce3335dd653eaae2
+@startuml
+sprite $res_amazonbraket_chandelier_light [256x256/4z] {
+xTq5bjqm343HB-z_psKLVQgK5DMvxx0_taBGutdzF4cI92dUzzWl5TaeVTRnIUjz3Pyryaj5h8_Dyg-FJV3pyqUs7QrULR_LV7zM3DOl6k_VIpPF-cPmK_6Y
+cEgldvI3cz7zuvlH_zlFpr_yLzuyFilFpy_Fpy_FpnzJ_76JFxlB7rcll_W3QF1l-At-RxlFlx9R_IkYsv-FzFlvOwu_-3lkDOtnz_DphpDl-zzsKpQoGVl_
+hF5syu3ZlnBVL9U_CNv-Vdv-Vdv-Vdv-Vdv-Vdv-Vlx--P_pu-Vt_p_YH-atWvkA5utpT__yZoHfzcQ_6CpHR_kLjnfQj3NMlzQAVrX-m5X-In4nqx-QukVd
+j_sp_tFyCwfJzP8aIPBxV_th_yslV_q_yp_u-St_uUVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-St_ucVt_nNyv_DVvSaIPAiVsBz6-iVMV_A
+-cVy_FosV_P_MHGv0hoqddM3lZz9KcJ5u4bLlyyeleoUx--OvD0VFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpz_V996CUZ-nw5jeUVf9KcIfBYG7uyxcR-A3lu3I7tH
+mVvrANx-0ulh_ZZQpn_R7kEFsFSWV_NmULrV__9y_siRFpy_l-s_l_z3ukVdvxVzvtV-pv_59jS_Z_Mx_i_Fx_vln2L-cFznPe_cP_VH9KcIfBS
+}
+
+
+!procedure RES_AMAZONBRAKET_CHANDELIER_LIGHT(object_name, caption='', xscale='.5', xcolor='#dc6633')
+card "<$res_amazonbraket_chandelier_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

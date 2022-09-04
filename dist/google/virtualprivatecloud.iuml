@@ -1,0 +1,15 @@
+' da30fda13781326d62e3f1205b994cac6c227be4
+@startuml
+sprite $virtualprivatecloud [256x256/4z] {
+xTp50SGW5411eF-YzxOMDtHU0_cJ8nO-IP8aIP8aIPBYHbLErRi_vfYAdv-Vdv-Vdv-Vdv-Vdv-Vdv-VFmxWprz3_ZHJTZy_Fpy_Fpy_Fpy_Fpy_Fpy_Fx_r
+F-lV_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FpPgDVLptmgJSlWpp0KFpy_Fpy_Fpy_Fpy_Fpy_Fpy_VpFhdntu-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv
+-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VczV-hzMtv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdx-d3NaJpFruUVdv-Vdv-Vdv-Vdv-Vdv-VdvxV-P_sRdv-V
+dv-Vdv-Vdv-Vdv-Vdv-Vdp_V3mX39KcI94cI94al
+}
+
+
+!procedure VIRTUALPRIVATECLOUD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$virtualprivatecloud,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

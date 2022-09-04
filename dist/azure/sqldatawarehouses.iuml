@@ -1,0 +1,20 @@
+' 120f1f960549f75433197ff2957721eaab53e216
+@startuml
+sprite $sqldatawarehouses [256x256/4z] {
+xTk7cIGh40JXYl7VvoVpE-vMimlTDMI61Voj1TIQKaeffPHIIYcbb02CwIDV-yWOhuprofYlZFdAd8ynNvdpmPmFvdmmvuCpNZdhbRDT6UkLCLuPwvMnNfdp
+mPmFvdmmvuCv7ypvOCu7OxqonYjV-yXPhvprofYlpFbWp5U-UcNE1tC-6EkLEHzyzSfPhupfoXglZFdAcA_C-U3BZp_--7Fzo_tlIdyUWEgQUZu1rwLH5_DL
+2xowMAzkyFSQpFNwPeFfvAy6Vhjbj8tyyLVy8ykbwpVxgu-_uey__lt57t_yFVW5gZpzvUYFF_xuuuy__WA8lqpzyLTdV_pxDG1rY1z6NJS0enu_5rhlV_wl
+sFS_4wgf7nXjyrTNFqhj_Q7Vtu-PdrTP-VcPlwgS_QKi_FtvyyDaDB_1ojaVV_dwuu-_Jl3NEtmRVxdxQuvVg3h3F_z8Tvf_lWRuERzVzFJpCXy_xtU-dyyw
+sC_NEjJFrplG3zP-vZhDpsnd-Pdl93_UVhxLCNw-snb-Vj2p-O55UlL4VhPMzFPpQTtyN5ydFxVKnizDDV6Z7ehBQk4V-X7hU_ogb_-LNktGAq3Tx-Sjlrgl
+L-tyZtTQpbUN--VvQhLUeHhxrHP-V_ze0R-5Vvwl5kYVrQzMyjK-FnImoA-MwVVxGQtogtdz7NwOyVDrl_gnNR77pnzD-UURnC_xvqqeDU7Vq1R_5D_IFx__
+UGP__F77N_5F72lU_lBpbx5VeUehdULNK537-8jHBIp--AktNms-ep_-siMFlxhx5L3bvTzV_F4Nn8-fF_xuA_xuiVN7NyGV_yKHV_pnns-v0UAFF_xuup-I
+7t_yySSVV_pnnnz__F777t_yySSVV_pnnnz_TV5p0p_-wj4T_lZZhqP-ue_VZgyWVkA_BF5TDm0z_RZxCUGhbDcpxmZKDNggMuosuw7wXL9xuAfQnfizM81k
+prTSKFNE6Q-SxShOFlArZtpf8sUxSiOhO_l86A-CyIDV-sYuNLlZJty3
+}
+
+
+!procedure SQLDATAWAREHOUSES(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$sqldatawarehouses,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

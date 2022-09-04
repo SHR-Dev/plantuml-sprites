@@ -1,0 +1,19 @@
+' 038351bc573f839dc5a7220e0b32c12e2958b36b
+@startuml
+sprite $fileshred [256x256/4z] {
+xC610000082W_QaNgG8000009hS-g1Y8OI0AFaVyCQUN3G6DopAOVyN-t-ZQeVJSfFXBmsOh4FAsJLGWyDq5vk9NssOAyEPNxoA0zmV_l031Pm7yuvS1lB-A
+1l2llmtW_JW0zbVf0DZl0mpizmMmtmV0nvyF0Fq-WFVx0EVw8u3m-yKl0Ffz0Ept0R3V1z1-Vm_0VXy0-tq0xFS1eDy7y7uV0FlzCOZzFW3s-m3OxmDelpy6
+iTy7m7uV0Fjz0EZt0RpV1pZN7m6Wtzy3iDy7m7uV0Fjz0Ept0GRm7t0HWduVmFjzW5jxzv4hIGW40NI0-vzvtFTqRb281SMBTKZ9QzzbD_WtFG3d-_DlWOlz
+_Nn__Wgurp_uamVWVF_WxrVx1pz_u-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VddtBPyI_y_Fpy_Fpy_7x_zi1__07mxJH_syA_vm5eKqxppydr
+VHoJ7Zu2_yLpna79RgAqe3_g4JZxqox_H0ZuZty0PlzuM9Ry_Od-lk8VZmi_Fpy_Fpy_Fx_Vl_x_b7dg_zzW-y_v2JQ0NS2VqXwONokva3_d8ho8Y8Y8Y8Y8
+IFjAMAsRRUVy73ydQ-RLi9bl1TjItJG_vnU7akRL_bhTCp_sbzlIWsPG3UOd_E98ogZwqPoh--RdPxtCImsgvVxLUgdv_Dm_ggK6rMgbzLBp-TlyxQMvvXz1
+DPsV-tirl-V-R7xk3vPQD7D_Ff-Vdz_dd--__Nx-_FSVFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_l-D_-1t_n-_uLtv-_Y2-__p-wmlddsqu
+_o-Q7_iNJjMicolLJVF35q1o_csFp__DvsV-XLErgsQDMgZcyxEqUGNjNx9cNasQ-GKGyceBgjdy_17OKjqq_-w8Y8Y8Y8Y8Y8Zy0G
+}
+
+
+!procedure FILESHRED(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$fileshred,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

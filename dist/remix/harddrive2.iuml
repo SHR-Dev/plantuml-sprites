@@ -1,0 +1,17 @@
+' e792a7920d238c9196f0f3b7c77836ef27d3bc3b
+@startuml
+sprite $harddrive2 [256x256/4z] {
+xTlNmQD038119Fgl-R8kuYTqQ_JlV0tOGmxYE0v9aYH9aYH9CQcDwR_gr-U8UXT1oQVLj00AFx2M1L3ySrO_bq0F_nnOBO06_pco3d_nHyQV4JVvKVmDDm1-
+_fpjpxj-_dDm_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp_8tv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-
+Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VlvyKClz-RWM-DVpurNvRslynO-7bPaB_ElvnrKl5i0wVqGSZoeY
+blapyrdy-gUvoXzFzCTA__6uFgAVdvy__celVroqXx_u5_S40_pz_6eRV_4lRZxUxO_tNTNc9Ie6-3j_VrC_VwdsyFEVz_ty_FoEV_okV_ZT_xZ_zVp3yo_F
+Fpt_zlw3dv_V_8Fv5_DFvj_CFvf_DVzi_jtt3_py_FpyEPX_ryyVi_t1px_D0Q3_GLL4JFP7Yp-7yjlyEP9V_fxthzFmnR_lZyYHnTUQthuErKVlw-T1ykAt
+52CxUfj6boH9aYH9alGP
+}
+
+
+!procedure HARDDRIVE2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$harddrive2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

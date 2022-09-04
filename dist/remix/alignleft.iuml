@@ -1,0 +1,15 @@
+' 22e6099db276c15bbed74bb3cc1bdaa20549d34c
+@startuml
+sprite $alignleft [256x256/4z] {
+xTt9OSCm34N1GEo_v_XatWrw-S9C1o_U6GdukoS000000000002W8esDtwRMRmVohrZzFy3EJ_q37CXVeVf_W9sV-WVezwzW-al_w_JhNz7qwt-1rxz-_Vhz
+_gdi_khtFwJMxtxdFmCF0EjX-06my_yd00000000WFerxdtxS7xoLGtz_FYBMlhvoJSrzVl3B-gxtVMF7-uFkAfnMlyrkdzzi5__qg_Vwr-_Vls-_utx_Z_x
+zz_l_G4-Vm0o_02eWkzgwdDRJxchwIxj00000000GCMQMh-ToRyYdVW3s7zrHRF_olnty__rwzTl_uz-_Vgz_-dNhz_l7xz_dNyu_tB-wVpR_pzo00000000
+WFc7vb-QVsh-hVd7vb-RVsx-lVq7zb_ers__aNxzNl_wxR_q_S_-M_kFxR-s_zp--yt-gv-l1m000000081_
+}
+
+
+!procedure ALIGNLEFT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$alignleft,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

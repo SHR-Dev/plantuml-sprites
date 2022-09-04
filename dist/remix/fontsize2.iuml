@@ -1,0 +1,17 @@
+' 272eaa1562711267560cffe2306a977ce61e25f3
+@startuml
+sprite $fontsize2 [256x256/4z] {
+xTn7TYCn3411WNt_Cq_WMfXWKdo0MNzlITKvFEFrZP8aIP8aIP8aIP8aIP8aIL6eQ_1vD_DdP_cZM15HW7_70fZyfrHp0PnS_K-n3cu04QEYVvpqF-NYv-V_
+IFpy_Fpy_Av_tVyKlVyzUmCyhkLF_q8veyq3iFKbi5yVJPx_PWjWCXPgym8WzzVHdpzuhkx2lHP0TWA_eTp_kiO_iklNMtQ0IpV_MUBloUVdvtVyS_xZv-Vd
+v-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdZzsryiS7AkdF-MDhyQjM_jf3KzVzPuUk90kWg3_XBzNDNtjerBh_-D2fJlvn
+lV_XvzyRFx_zdv_VzL_rwt_-KVF-f_xzVyvlvS_x8pCfuNTz_fVgywAJ_nLvKvFp8w_Jy_ylJ9LTq9Vppo8hyo_WA_hpnR8mLBQvFxyyME2tyqVYl-Jzxmu_
+Fpy_Fpy_Fx_hFtv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdx-hQC8-Fdvn_N-fxQVdv_VyS_rNxppn_x__njr_UFDBrtsZsIX
+Lbu0EN_zG-lwar5KEp-r83yVPHM_El2XLOet7VZGGdtaXoPyIP8aIP8aIP8aIP9-0W
+}
+
+
+!procedure FONTSIZE2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$fontsize2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

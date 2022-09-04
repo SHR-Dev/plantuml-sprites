@@ -1,0 +1,16 @@
+' ceff07caff1d376bd367e77eec7e09f6ca8bacf5
+@startuml
+sprite $cloudendpoints [256x256/4z] {
+xTk9OLqX3011xU-_w7GGdcyRpJGGaDZudWC0000000000000000000203kPszVgF3GDuxHv0Xm6iVW06e82N1x1t00fGW0TW00fGW08Ke005A4012b200XIW
+00KeG04AK8025A001NW0jmv00GfGW08yW9hL0sWMw73zjG-WPlK0cYKwN7_b0wXPFO1caGxNN_S0QbOFe5ccm_LtFO1czG2QXJfSVyy3Q5OFe5dgSFqb3w1P
+FO1ciUNNdsfMwnVzIts1-JLg3dfzkkQtw5N72Rq-MSqlKGzEqyNhVtASkdRzpyxJfUklPmkfYzV_g80xr_zu9NNX-klvJhfw_UTJrNthVzEnkctzzQPprTNh
+Fm-WozR_ritKJUklDw-cgzT_FbnTjFxtdAvhrb_lELxTlVxp0Bhv-kSJLX-xVdxJz1V8RvhxMukT3y005E016C1B0V-rl80Ke80xAS1dGGhm00p0fy4AK802
+5A001NW0AmQW00KeG04AK8025A001IX00GfGW08EvWG00000000000000000003W7m
+}
+
+
+!procedure CLOUDENDPOINTS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudendpoints,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

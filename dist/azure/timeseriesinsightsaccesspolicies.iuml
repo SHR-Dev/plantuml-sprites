@@ -1,0 +1,16 @@
+' f107f5c44c1e43d5f945ad29cc734bddbafddb86
+@startuml
+sprite $timeseriesinsightsaccesspolicies [256x256/4z] {
+xTh5WLXH54Enw_wB3dWHvWnRfmDzV7JFKxxhPkBdFtv-_ar-uz_bjsL-ItAV_BibjvqaINh3uw7y6RyD3FJ6Ba3c_NyrBnpbyr_M9yNBV1UWXP_VDs3RtzRz
+Bi2wF-D-suFyBi2kdz_ppp_O9_lo4CWHaVfTWRCcR3fiDcWzm9BWQFpD1R0pkbkIYwt1zTbGbltfDV0VNFUx0cQ3stuNW7-o7NzosVFdczxk8EWJ8x_iDIy6
+v47wsOLxy_1VFm8J-FQwZadd2VnB_1zQr_t7py_Fly3FlPRuxwdu6VA_XlZv-VcFVvdFVylyjkw_PNvRzzyulutpsoZ_xtj2lIH9aYH9aYH9aYH9aYH9aYH9
+aYH9aYH9IJBEppA_BVCR_ow_BVlv-SFFlyfl_Fpy_8lynhyKFpy_F_-d-Fdv-HVvRTlFdsly_FpycVPdZD_kKqaki_wqDN_5_6cR_fgN_OsVdvy_w_viy_d3
+lypdpxQVFyj-Vlwu__py1W3uRoV-PJx_Dj_wdmNmSVujyzkw_vRrRPn_q_osh6_ZVCVWRzlVblbjcj-czIttL7f9aYH9xm4
+}
+
+
+!procedure TIMESERIESINSIGHTSACCESSPOLICIES(object_name, caption='', xscale='.5', xcolor='#ffff00')
+card "<$timeseriesinsightsaccesspolicies,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

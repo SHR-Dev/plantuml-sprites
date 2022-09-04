@@ -1,0 +1,21 @@
+' 3d6721981d5a3029ec8363536bab8a9b5edb55b4
+@startuml
+sprite $arch_awscertificatemanager [256x256/4z] {
+xDk9gkCm30LG7___HmzhUBqqWoafr9OkMnTro37IlAppo5XE-zlV_lQt_y0KzxU__NFEOlvC--_J_jBuzhU_HAhvsz_-J6b_-zlV_bo5zhU_Kb3St_uvw_gp
+2zhV_gffV_lRt_xsrqtxsxzzEXqoyzdOBm_pnrx1a_wnNIhxsz_-yRY__RR85_tpjyESytj-SuDyqw-sVvJojx_zxMz_-zlV_lRt_c_tlpah7_yEVzBdV-hu
+sz_-zhVVh-P2yqM_BIuHz_vVx__t-M-_tF_jRt_xsmzr_G1r_R6XDVpvhrRrYoqjua_-G46_opzGqJ-kbFIFFwdcRxzNls9-nalA-vNoCoAKybzg2ljnBK0b
+ltT-F-_dwVQFDqNyhasCTsVxap_aC9Jmky1Y6gZX3wvOW8Fz-AFDXXZ0MNwHsEMFlK4oM_i3VRV3UrC0sDSFLcvFkIq2c_gn-dZk_ojjwSU2QQruH_-2Q7q1
+Jl63jnx0U_-cyv_kq4Uy9FXx-o_pQZRs9-A1d_wAVqRM5VYKlwi_7HyOWh6PFplWyrzjCFyFZe3WR-1_SWH4ys_WVxIPWx-1_yaHGF0t-F_lgOxEqXFygNgW
+-JVphuy0Wd-4FsLhpR-vFxFWZoavp2znztu7-YUhVkQ1_icQdtckl_sA-bdz-yUn_lOZJ_YMyBlyyGboYJZHVtVP7r5phF_2abT7olZpQj_hiXpfpyt2o12x
+IAVwINrySxG_zF6cXFy57E_7oVuCSXgEzPD6tDxwmV5-uil3_Gdqtxj_JlCJUlbzLfphnqt9sVxaPoZWX_iYplPZeUuOVyAmjb2Sj_y7bkiEy6V-jNSNnXN3
+G1W6_Ulwhpay58RBdFsqMu4_CwlFVBz-_VhrwzUlNxz-_Vg_6eKvFSxQdoy-tSlHuahznmxz-lNh_th_tpDsKiRxVoyTdF_SQBz-_VhrwzVl-d-qV_xwVwn_
+_lf7ltxzM-t_t-QVihz7aYyFXiv_nllrwzUllwxPlphxzUlNhxzsxw_pz-V_-clZVjl_aIa_7M6ZltzMVdBRQRF-7E_ItqT_zkvVoRNsVqbMhqpwnPIjPjIB
+DGi000000000002eAltRqdyF
+}
+
+
+!procedure ARCH_AWSCERTIFICATEMANAGER(object_name, caption='', xscale='.5', xcolor='#db282d')
+card "<$arch_awscertificatemanager,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

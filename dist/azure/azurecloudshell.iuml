@@ -1,0 +1,18 @@
+' 8f42f767cce8be8b83ec9e11ee974afe904a4ae4
+@startuml
+sprite $azurecloudshell [256x256/4z] {
+xTe74kGW30NHQTt_q5jv0vl1_gBKVOCdPXmmdvipCpCpCpCpCpCpCpCpCpCpCpCpCuFxYvFpJVV3T3zCzyDqFzFzpFRhPwvVltxzwDUlt-kVw-_wwzUlNxz-
+_VhT_zAlt_r__PFv-cVp_Vuzc-_vZm5w_OC6eLy_i_twqQz_Bj_rH_yfldxz-gk0elhreB-gDiZP2UpvwwfE--kwfllheB-kRBg_JlchHWxWVdy5r__-0TpF
+rr-p_Vfhqw-_has_VkRwzUjdjf-7_Sq7nAD-lgcx_RoVxmj3rrxsawNd_GJqa_tGp4-0FzOFpm-0lWEWWRzoVlJ_NoVy-G4msyz6H_qLyTFNJtS-7FNN-tvs
+kzjFRp_j-N2ndz5-3dMfdyb-_Pphb5__bNmkVFwbfVzEFjps_ajF_wryxjh_8kpFydcY_Vr_rWBwc9-rW3tZlvyFUtvUyDFOd-Nd_VNFVA0J7uxw_nBJoS-P
+xz__Q6daPyE_TDhFApr-_d-rjFB3T3-qzFDcJ_khr_AljVFpTe_uLr1LKpyR_lCHAE3FuOkYMlfp9ubQ-9CdoHhuioS9M_cJ0yZxA-A7iBywd2JFN__JJni1
+VoZz-ckoNx_-cktNNzFzDTrVi_twgwRxwnT-_JMawVwQwjVlxr-_pp-J_Vp2hz_t7sQ__-jdzluNCD7Fzytplrsl_MyIJVVJuz5tr2zWqG_pB_gedx0_Fu4m
+Fp-1C3y_X83_4oey08ZvyoE0XP-9NnGuyncAlwgA_wnOMlZXIFNfKrwVBu_FDzA-DjA-5g1Vc9cPcPcPcPcPcPcPcPcPcPcPcNq1
+}
+
+
+!procedure AZURECLOUDSHELL(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$azurecloudshell,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,14 @@
+' e45c3e7fa06f4c423c5ac6c6e5652c5e44e021a8
+@startuml
+sprite $persistentdisk [256x256/4z] {
+xTQt5O000491SF-XxMtC-Vu2lEl81v8aIP8aIP8aIP8aIP8aIP8aIP8aIP8aIP8aIP8aIPBKo-A_ANv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-
+Vdv-VlvyZfzN4lZv-Vdv-VcxlNYm2-Fdv-Vdv-Vdv-Vdv-TlXoMr_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_C-Fdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-V_yRv
+--FddyRFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F_vfoJk_XIv8aIP8aIP96
+}
+
+
+!procedure PERSISTENTDISK(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$persistentdisk,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

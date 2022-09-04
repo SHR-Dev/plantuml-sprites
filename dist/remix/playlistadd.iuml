@@ -1,0 +1,17 @@
+' bb8fa4e9fbf5f3f3df1a32522b8ad2d29ecf3cfd
+@startuml
+sprite $playlistadd [256x256/4z] {
+xTq7ZYGX343HDTp_pejQSKC5P0rgsUzTWFgTWQ7cLo4000000000001059A8hw9t_hANFug9Y4H-hmVWapzB-Jm0Eq__B6RZ1R3oA_QFdVvPZdxz-lzBltxz
+-lNhz_lN_AVg_3UsrZzwvbl_MM8fLn_MVpUKgwy6000000000000002Wy_4FztzQHY4HhO-_BU7ye_jVEV_j_B_xF-ZNhr-_VltwzUlt-zVyn_pN-eVrB-kV
+rh_jVtmH00000E9l_awvMNvYfRj0VcAdeqh-nRywQT9_iTLNtFLERRF-n5PtrVxHkd_grw-_E9z_ll_qwzUlt_n7ltxz-lNhrwy_UkGtd_-l_Al-QBFrEN_a
+0OWZCbTobV_fJmuQfwGkPIppVqRY4JXu02xobpB_BtSKRAC-ANifyr9-qFdJhg_bUdy_x-sWyu1tbr9WqBldulX9xDIWvo_b2mQjrgy_6lVFx-cVp_rd7dNz
+-kk___Nx_DVlzs-T-Kz-qFoevwVY-K5hhF_C6ub1Zpq0iUHM8kV_fLSTZqak_uxh_DIgyy7wv2EGNFw-TYG-UodR-n_rJd_D5Xl0zd_j__lx3_twzUlNhr-_
+Vh__zElNhz_yt_b__VhrM__q_U_-RutwH-BmKydxFxRgNzhcB_xRqKuz002_0G
+}
+
+
+!procedure PLAYLISTADD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$playlistadd,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

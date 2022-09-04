@@ -1,0 +1,15 @@
+' e1d7d39dae0f9ccab2829c6f601a906922c4d835
+@startuml
+sprite $barcharthorizontal [256x256/4z] {
+xTq5RWKn38R19hd_cOiMhgXWnQvdRl1Py61_QL-600000000060bcfiVMkJl90qE4FM95-YGVrB40ShtdpGD-dTk_wxVVnBfrwy_cNxz-lNhrwzVltxz-lNh
+rwzVltxz-lNhrwzVltxz-lNhj_z8FK2B0TXEjLQ7-UFe0UIxlFfb_rlUVwe700000000LdUJuyFS-f2v_wZlXmU8_A47YFnJLFxIhdF-Sscv4lUVzVltwFwZ
+Nx_-9_twzUlNx_kVVltwzUlNhr-_VltwzUllJxz-_VhrwzUlt_S_-nVx9_it-qVxrndxP_jt00000000O1KmkJvSpD-tPH-W_lxZqW6Yle24_kpzL_ytHKP-
+uVrUVd-P0T_e_gDVl_uVqgzVltxzll_frwzVltxz-lNhrwzVlzz_-lNhrwzVltxzll_PVwmQ_VjU_xkX-N606cOF8DSx-zyhwjS300000000m1i
+}
+
+
+!procedure BARCHARTHORIZONTAL(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$barcharthorizontal,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

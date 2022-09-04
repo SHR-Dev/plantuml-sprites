@@ -1,0 +1,20 @@
+' 13cb7bf989a0dea16a3d3302209d12e4c2a0e6d3
+@startuml
+sprite $arch_awsdatapipeline [256x256/4z] {
+xDs75gCW44PXBhx_Csz9dHGyEIaWplst5pTywC9WETR9muVHhrz_rZxGhrz_tZxGhrz_tZxGhrz_tZxGhrz_tZxGhrz_tZxGhrz_tZxGhrz_tZxGhrz_tZxG
+hrz_tZxGhrz_qZxGhrz_ikWFqQy_OORxzUk7c7H-3Yd_CgOT6_2NIm1o-2C_98q_ycE07Fx8Znar1Wpbn-Jnq_AJnb-U994_ekFFQu94FuUazNFANlsDfVOT
+-D7FVMRMnprzxw-7tFl3Tc7B6VdFntVASt-XkI5Cp8-Ek-6lFlowjI5pyPibpWtlwIyfpxUScFzv05BoOmUauyTaznTWGZuSyWxta2dzZrCUx_0hn2tdynDA
+slSETe2P_R4Suft1Fcuscn--y5moC9d_omVinFu1_zxOwDUldxpZNzkVQFxZISa-eFwPk_vzxBP9rp_lhOXvF1de-ZVv-H_g9FcHF_dvJyz_x-dwH_lNS_FR
+zSxPyDRrhppNFokmNJxFil9Nuv5TN_M7lcj-0Cty65zUlZhRQ5VRtw0r-CqXvfVyZmVdTV_xJOcDwJsh3V7thnJQdpd0Nvg1_bKjTFNhBojvmz_XCrl-Tqvm
+i3t_wsdNlw-dZFGJKaQ7I_hvu-yDJYYhIEclb_JqB_LVbZH-_Hx_Zd_EV-tGDsLxzM_FG6v_tQ9_sRbVlyU_uv_pd-j_r_-7kFxHhr-_VlrqpkRyjMUo-wj-
+_VhrwzUlNxz-_VhrwzUlN__ter-_VltwzUlNhr-_VltwzUlNht_PhT_zhz_xtxp_KRz-dt-7kYnBFNm7xl-XyVz_xkV_2UdZFuJBT-Fg7v__7U_t-Uyu9-xS
+hz_Zt_7F-Q_H3hBKFwv_5zU_XsHS_-hFT_mx_Zd_MV-GkVvTzzDX_JDyNx2-_DkAV-Zx3yPtm6RVVp5_Mu3n_FKNe7H_0GuCu8Ucz6uC3wc3qlljHt_RWsC1
+0000W47-rhFOLUq0000000000000000W
+}
+
+
+!procedure ARCH_AWSDATAPIPELINE(object_name, caption='', xscale='.5', xcolor='#6632cf')
+card "<$arch_awsdatapipeline,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

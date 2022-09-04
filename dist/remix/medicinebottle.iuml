@@ -1,0 +1,21 @@
+' c4e3f231204541ee644987d62432d5184129b2d8
+@startuml
+sprite $medicinebottle [256x256/4z] {
+xTq7ckCm243XWEv_vkrBAjf2J8dVEu0-_qnJtERo714H4H4H4H4H4KchpektildQgDm1cBxP11BzsgvKlwgkLlqOGEQNVpKhyHj0H3lwDTE_seKVFtxy-F7Z
+nu-V_I-VV_ZyctB-O-tJlokqg8YKdlzw1pwmg7ohzlpdU_J_jshw2U2dd4ErW_klr5-rrIK0Vm01_dRH03xpRsBizv8tWC2YYNyJxKY3KwtyMnS_L97Oge6X
+vfRfJ-3ZnuyVFtxy-F6p_yEFdvz__FZnuyUF7pz-zd-S_-Vwp-PIdOHo5cqqWEkHQjRrNrkpUWZ-aLhw_nFGxQ9IFeBjaLeQQB-eM8Lw_qYje7w_PjK4dlGf
+-HEeu9kzgji95F5NRKK3i2_-Aiy6aCiNqvTd0yZd3nv0Fhz-0FNy-GEuxlNFE83hPh_f02I5lnfc0yZWZnz0_ZV__1-103zr00Fu4mTW_Du3EDY_McV-x2-_
+9fVy3M3-W3rb1kd-grxIiW5u_co-vAS_IXk0-UjFnSllyls1JMVQLZpL7zrmnBTZUNvr_PUINByc-oz5jV1BfLzo_NLltQW_9cVMvNwjzEENMhya-F4dZphj
+YvBlnuyVFtxySjV9_FAYa_YD7tX_rN2_wHycS2A_FZNP7__OfgfJ_V6bxA3FujTNVZsJVpqrpeyVFtxy-F77Zvhz7_k_p_VZv_UV-7xvKBzO-_ksxliGluZ3
+zmTW3VRxUjVlJ62otyIt1Vwfmq3_Nh-Vm6Y_yMCtyq_s6pymWEd-5MYm7pz-_FXNg85-_FZv-SUF7p-VVoJcb_d-R_slVhBVlzLj8nvv_YTu0j3NJp__wPy0
+zlZo6EV_P_hz0i_jS_sFwxzS_-V-5_pS_yNlF_puyUF7Zv_zB_i_dl_a-Tyvpxy7-6FzlF_0SlX3_U4HyFwNFdxy-F7ZnuyVFtxy-F7ZnuyVFtxy-F7ZnuyV
+Ftufv9Vxo___LPtV1b2LyMlzMiWlzoyjRbNvhLfzfTygmsVxHuGVF_vtDyd_VZv-_FXr1FyOFtwPufV3_3g0x_Z3JV8dd6rgp3_IhytvvZzi0AfzySO_o2-Y
+pHFn_F6a_GJ4-8SarrhAZNzSqhnBHYFeH4H4H4H4H4H4z1K
+}
+
+
+!procedure MEDICINEBOTTLE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$medicinebottle,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

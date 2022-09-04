@@ -1,0 +1,16 @@
+' ca1a5d280267440abdf008ee36ce219c52a70e7e
+@startuml
+sprite $layoutcolumn [256x256/4z] {
+xTt7TSKm34L14Uo_PcSuh0dR_ntDhO2Zd7NTAKcI94cI94cI94dIYkl6zcwMNq4DJe6snpKp0RxhTqO_fi0GVwTLhmtucvzNJu01_uvimj_yt0bmFlitVsZ7
+Am1_9Vlvwzo_-MDxO3y_Fpy_VmsKww-f0ltDNwVLQud-rezCWKZ_6YhINrLZL-aJ_JFy7ca5-WVlKjtQVuNu-Vdv-Vdv-VaT__7py_Fpy_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fx_p4_Fpy_Fpy_l-E_DUIlH7zFW9dP7-Nl0GvLeVwg6NwcVzTh8_hQYVvTK-qqVpUBd_Vdni_FVn0_VmNpJ_tyAzk_-FdlkW6egaC-Vq-0
+KFwCloBvxP-O01MdR_wvVrKNGk_MWFzQhrLWg_c7hO_2xCqVQ8LspPLdlrMI94cI94cI94cIf6S
+}
+
+
+!procedure LAYOUTCOLUMN(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$layoutcolumn,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

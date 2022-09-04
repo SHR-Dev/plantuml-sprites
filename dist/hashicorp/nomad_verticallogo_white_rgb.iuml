@@ -1,0 +1,10 @@
+' e3cae4b33110d5a0f55f26d9c19071cf18d921ec
+@startuml
+sprite $nomad_verticallogo_white_rgb [196x256/4z] xS410G00100W_rTx0LJH2000000000000000000000000000000000000000000000000000000000000000018
+
+
+!procedure NOMAD_VERTICALLOGO_WHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$nomad_verticallogo_white_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

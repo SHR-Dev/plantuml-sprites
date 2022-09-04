@@ -1,0 +1,18 @@
+' f7ecb41ceff44d6d8c58f5979da21313744351a6
+@startuml
+sprite $home [256x256/4z] {
+xC4n0G000C8W-wSsnJvW1G000000pewP94SGX40iikl_R_PkYE728Rrbo_n06gPHb0H6xy7Iry3n9Hx-LKCJKFGF1gZu9G28VmvEGE6V6f003VmXG01wDNrF
+2H20Vk2F5T3jLx_nGN-2XVx10E2pJnFmWN-MAG40V900IIfyd00LFaR07Zsx0EdcqLEpjr0-VUFlSvTdaPr-Dt3dv3DQA3hv48TWVFLn0WhVc5m16lYe3PZ9
+vmjG-2kVBu27FsCGHpzJA39wE2kmHuzl8EpimLP01hvv2FAFVduB5JvJG2q_G83puVS5GF5RWDARpmy107t6sx1iVDz0FdtgwxX5xwy03dyQo4uUNm0Klrk0
+Yb-Fuv7u-JKi0p-_XcNWXwVGZ1wU03bllFanQD0dn-2UV813CAuUK8217zv24n-u0IfyeW3j-8anw4SFuGuQz7ank2SVQmK6VO21WEGB4B1VFS0bR7oaWCP7
+2cXyf836fmZOl_oWAz3ucGA-1ly4JWdm-K_aV0L_uSSAy7_-4pls0lppNzdybyz_JlO2FBTt7rG00Z4K12_nxvcE0zf_p3eO1SlFpy_Fpy_Fpy_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fpy_Fptzn_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy
+_Fpy_dVy_e_y_Fwt_FxF_j_-xxk_-Yo7llCly8zQwy3g0lvQ7ONPT_ubLMZZklBilqgI94cI94cI94cID0C
+}
+
+
+!procedure HOME(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$home,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

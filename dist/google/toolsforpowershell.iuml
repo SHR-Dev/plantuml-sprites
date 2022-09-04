@@ -1,0 +1,17 @@
+' a0aeb904c2e01ceee00310edf82dc3bbf20b1f8c
+@startuml
+sprite $toolsforpowershell [256x256/4z] {
+xTU7ZIin40JHBkQVy_TseG7E4k9slGogENUIyeWaIP8aIP8aIP8aIP8aIP8aIP8aIP8aIP8aYLG3sllfphUVxdpxASy7-wlpmVxgV6ZlfplVVdB1uARvf6e0
+g3u0A1x0VdZN0Etzv6WlxwhhhnY0MKT_zm3Otpm0WvRFGAW-02WUm7ue7i1-w1w0bx7_N_u5q3Q0du7_SO2gBy4lFu3K3F2Y_AwV0Okavm26_De15YIf_GjO
+YwJh08RynWDO5VtNn26_xG1-v9Eq7i0Qdh_WPy2Gt_GpO5NrNqE7_9v-Xlwc0KX1_pZ0VVBjVzC0-JISq9-o_cp3ehcVf-pFDgorwErdVGDFrf_T_TNFlu3E
+vuSV-Llxd-_wVwZed_DfVNv-wtn-dgu_E_lvHsD-SJyi_jVs_5nr_VE3gwhdVwGydwAlFe-LvzFoipyCIlB3f25__m7m0hdj0Bn4xjhFo-Ji0O3tr9Fp-u4t
+naDozW0CJkod8pzfxm-3Zdpxms1pVdT_SlO0tB2VZloalJyCjkLtzoTd3u3zxyi_Um1kt4_7yyyH1VdlW_tcsz-MRxxzvjjllls5-URRtvq_aoH9aYH9aYH9
+aYH9aYH9aYH9aYH9aYH9alGL
+}
+
+
+!procedure TOOLSFORPOWERSHELL(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$toolsforpowershell,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

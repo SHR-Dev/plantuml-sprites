@@ -1,0 +1,9 @@
+@startuml
+left to right direction
+skinparam card {
+    BackgroundColor transparent
+    BorderThickness 0 
+    Shadowing False
+}
+skinparam defaultTextAlignment center
+@enduml

@@ -1,0 +1,10 @@
+' 1e4fc72f937befff592fcfbbcc9cafcfaa049727
+@startuml
+sprite $onedrive_neg [256x256/4z] xS6100000CEW-rD_8DK20000000000000000000000000000000000000000000000000000000000000000000000000000000000001m
+
+
+!procedure ONEDRIVE_NEG(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$onedrive_neg,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

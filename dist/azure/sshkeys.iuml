@@ -1,0 +1,21 @@
+' e70e353153603b220ef980c5a5ebeb70745a191c
+@startuml
+sprite $sshkeys [256x256/4z] {
+xC610000082W_QaNgG800000Pjy-S1p6OXY0-l7-XrxqxJy5eu4IcWSGzMIZfGp4lt8faP_JR0Tqww5R3zrwwDQ3RZtereDgFAZ6WseywDP3EPzoFihvbFCf
+vrFEfvnFELyvdt8-vNowzIZdA-VJxbVEfzsld4-xNpcVThzoFhU_cayvdzjVpQUShrkFsz-ifvold4-tddA-RZtTUfhje1gFQZogyUZMKus7ShvolcxzxLVE
+fvold4yvdt8-olderaEt7ihvAEUZd8zoFjhzolcq-vNpQVThz_CkFtK7-2i-ISHd9F835_1FVpu3_yokB_hpS6YoIf_4EMyy_iYvT1C_7kLrVxxAxtL-3fsV
+v_UwFyVABE8dIJZkz0B_aBN-nokzoD_lFqMUzdlJdttyyugF_V9b_YJEVhxSVpw0x_VdV_seylkNliAVf_qfy1Vw0w3ThzEV4Nzsyi-Rjlkr-_NupmVmhwJ3
+hztFp_Ypct_UjCkVWPctFtlvy_xRV_lpAVnaPcfsy-VzoMxzl3yVmS_Ou2IxzVF-xESdaxEpcp_lpsx-l3-x-VF-ZFDN-sz_TlEJyO9P_dv_Pldx_VbWlkmz
+G3x6dypoz_kJbVharugIMVr-V_Rf4u--0ygw0sJQVrrJRNluP_yrLRU1V_OV3j3alvQ-0Faj_pNKUFlNyC_-QwXo5J__ie_xiuX__X_0Ddy6Sk0lUm4oaWD_
+p9z5_9F_6clUmi-1F-dF4dwE_CkM0sJS_zilG5Oz_hDVWN_t0VvexpuE48QX88ZwzzyqD-P21h6sTwQ3vnob31__bFfP01DT034-_WduQQa_iG3oVlYX1J3P
+1V31C3X1Vu1FkMUX5EIp02RdJ_0fvr-xwBVZB80edmLm9l_sJgVnVpiKPiW_6JxDjGX_GdmAVnUOqbFus_YlzRyV3FqmZy3NZOQ__rSWG-YJIo3yXz-A-K3s
+-GBupnF2xEhxXzY4GEdlt-P-rHDYEHtWxslLKwcUQlNKYwTcF1N0aqjfEr6jT2h5KocUIldKoQTAldxINyRNhry_wTUltmEWVltwzUlNNy0d_PLyqb_9fr8-
+bVAfb4-bVAh5qmAxcPcPcPcPcPcPcPcPNG
+}
+
+
+!procedure SSHKEYS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$sshkeys,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

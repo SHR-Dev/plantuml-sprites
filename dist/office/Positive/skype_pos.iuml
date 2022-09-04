@@ -1,0 +1,18 @@
+' 7bfd5f9131f986d2525250a05022cf178d5d0e2f
+@startuml
+sprite $skype_pos [256x256/4z] {
+xCK14G0010D0zEyCDTm_s-8Z00000000000000000000000WJvtTOT-k4kI8eHYAwdh_UmvpKcfuJZAoMh-5HuR1RhIpVWmKupy7QlMVmn_IeiT4fyJYVSxL
+0r3GWD4tL63q3GriqGFdy7aovNpW03wZbFD1KJ7yXWROpmTY-K1L0ORVK026tr20uO_JFVn0z_03MNveAm33RoXWNQJAxsD1uGMm7ia51NpEy3j7WH_PX1Om
+q5yqcLN0aEzlTOoVwQs8zZFVIfBzQEuds3-wLRwVou66-szrZ9-BRufODiJwRrt0LxvFwlT_cFCV2KVuLxUVPHAv02R-_0dmyhDp_Vka-iit0DDNnGAmv-Vx
+zV1hK-wNADu0FeS6ltzlQlp8D93kPx9pqU5VQ4S3XFhzgrFWzvEN0h-V0k7-UGC5VYyey7j3-FS_ymOA_BO22losWGA_RO1CFsjN0sN-nOD-ulr-HAdpSy86
+i0On_hu9yF87Be2NN_lyPou0SvRfyHG_vZmTuTToCKsP6fE_1RP8BWOpsQyjKtRb-jdWvqp_sibVoYjWCFjp_9ekW1NkPrG0AzslPRADJ-Wd0HdeG_nYz4yW
+-Nuz_15OIFyF83-I-wFk0j3RJhkVWEaVN03gBa2gBW0bX7A_2E0d5Y1L5u22GW0_gm2fkW0K5xhv4WJm4nf0iO42lWqKy7rWgc-j07HC00e6tuVVuiQ-8XXz
+IG1ZhmcWz-t1WGm0003087_hUtpL6000000000000000000000001
+}
+
+
+!procedure SKYPE_POS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$skype_pos,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

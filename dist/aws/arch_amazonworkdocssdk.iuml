@@ -1,0 +1,19 @@
+' d9eb6f2fe11d3757250695bf880ea005c01b5295
+@startuml
+sprite $arch_amazonworkdocssdk [256x256/4z] {
+xDZ9RSL034H1DVCFsbVfv7LGaDdCe6W_OJxdNqw-FFNNltW7zTU_TmNrrr__vXNKN__c5THV_-eLr5__uXtKN__U5THVV_sRLr1__PjNK7_zUrTGV_rhvzV-
+-lCNymP_Ziwe-OR_EZQly5y79zdjlv8izDydGyVxyn9_O0BUdqp-SbxpBv0ZcRxDdqDLyGJytzylmFklXNx_7-3zIUm2l3ym0U-V2Kt0-sa2tl-yC6pqFnFO
+vzS9UF_49U3zE07lzmbu_pE1xFFFhFUxbw3t-s-0zz__1HRvRGBUZnFmVf-0z_i4lDyduFtg7k3z-YNe_Ju1xuVt0E_t2NY_Jy3x_Jt0-sUM-UbBqFlzDy3x
+nOyXxxS9U3zEmFjz0jxl4_1-du3tgtk0z-kNeFVx1BoVtmEytoVW_Ju1x_Vt0E-_pmA_V0bwl_y6UB__CUJzFW7lzmbulq_0-tq2kIqR-442qg_k0TwlNuBU
+xnFmVdCFy7wVWFVx1BnVt0EytoVW_VGbwFt-6-3z-iUGz_i4lDyduFq-0U_t2Tpz0_mW0UrNzm3lHoz1xxS9U3z8GDv_Z_lpqSwT93KKms0OVBBkVsRc6LQW
+luZB_QsOSKFYo1jdLlhK-mFkZ--_hNQgs4rIzVsMhXfuFrZE__9uhO7tarNny_CViFz5_FdNlrH1_zgWZF-5tsVxn-Bdvw-dJlM_hVGWFpy_Fpy_Ft-DBDJy
+P_xdv-Vdj_-RV_Zv-Vdv-VcT_yr_vdz-Vdv--x_vXv-Vdv-Vdz_vt_nd_kVdv-Ut_vj_-Fdv-Vdv-Pt_Uy_vRsNz-VRty_Fpyzl_yolD-_dv-sm_Vn_jxyV6
+VkpRIlkMBwlr-0-jzCjDTJNIgg3_gickjtx-zAzw-RQ0Vv_u-Va3M_L63H-hQxSc_LB_rFh_94cI94cI94cI94cIkfl_sFZl0G
+}
+
+
+!procedure ARCH_AMAZONWORKDOCSSDK(object_name, caption='', xscale='.5', xcolor='#db282e')
+card "<$arch_amazonworkdocssdk,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

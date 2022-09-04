@@ -1,0 +1,18 @@
+' 79386c8cf05e00163bba0cb55cb1c5816bf732a8
+@startuml
+sprite $cloudapis [256x256/4z] {
+xDjB0KKX3CN0nhzfLB0w4mdplXVQ-v0aIP8aIP8aITrsZGCq3j0uGEC0ZGCq3j0uGEC0ZGCq3j0uGEC0ZGCq3j0uGEC0ZGCq3j0uGEC0ZGCq3j0uGEC0ZGCq
+3b050000003y2leRv7-m1o5Fmev2d8Kv37KQxZfe6y25i8a08o5cWWo5cGeq5ceks62upG2h8NQ3B8VP3hGU-jYvawE0OG08WjBa7pH_xhkBMZO2zzZMKtz-
+TPPNDSwlSNwDyskSN-Fy6kVNEB_6-JNEht5-ZVDhd5_Z_1hdrnZ_tga0J_JdF2cmnQS1F9y6y7mQmFDf0C-d0JoV1l1y6i3pQG3Ffm4ydmRmV1h0ysa0pwS1
+F9y6y7mQmFDf0C-d0JoV1l1y6i3pQG3Ffm4ydmRmV1h0ysa0pwS1F9y6y7mMmFExvzExWG2UxmFSLqRzNtXk7C3pGO2ldd-03m80FWXW-JY0vlC0cEy3OBuF
+WFa-0ERx09Zl0s2-3u3vFW3c-m2OxmDWlW-0-Ju0vli0cEy3OBuFWFa-0ERx09Zl0s2-3u3vFW3c-m2OxmDWlW-0-Ju0vVi0tPla-m20_t__0Tq0V-B-auVs
+xeC8W006WU3WttHCPEhjEU3xfm3_6_v7_A_ud_6_ut_8_vB_AVzR_iVyhr_zpo7_e8py4_atMUHVoJ-JVoV_C8ZyK_ctye_bNyi_bt_Vbh-u_CNbBov_SVcB
+orzS_kBo5vU_kFp5vQygdtpooVVez-RtuUUxts-Vltv57pK_9LyLVmqV_JxjNjr-mnvcVOnwcVGpw6dErvYtANzB7dPyh7ZPyBFW2G00000000300G
+}
+
+
+!procedure CLOUDAPIS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudapis,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

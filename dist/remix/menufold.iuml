@@ -1,0 +1,18 @@
+' 24434be2b6dd7bb9547d1aeceff97b7dde9c6cd3
+@startuml
+sprite $menufold [256x256/4z] {
+xTpdsjCm383HAhx_QsOZXfbfz3rLTCvlrYiwL5FyE0C000000000000WIhpfdxuWliS88hrIVQhFZtJofnzbwWUGV_wJ0yZyiW6KvvyUTkQl8lK3oFoJ0yZy
+mW7KvwyFSW3_tRyAlKd_Mji0PlHdVZxOFfhI7vc_3M10Vtnq_DYV0xXx_vwV0_Zl_bKg-miU-vc_3Q11Vq5-3k3k_TjZVnl0hP__cJ-tF-itj-xFVFs_py_-
+1fz_IlB_gpzg-oEY_hKl_VUPG_vg5V8FKxlrFRa0nr6aGNxn0M1yKBxrfPE7W57cjVDJi_prn_p7RMtvyhV-M-V7mFoK-VqU_VLRNuDy-KLRto4_xfwVMvzy
+B_osFlcsFld7i4U_fLU-dJ_pO_RVVjRFNViUO_UUpBVtM7iTzdhyUm8uzJ40fxvtClNKFyK_77yOmCC0Xkv11f3zFWau1Xpzxxy35i6fcw1LEC8gR1Ms2Luz
+05y0jGhxAfHLECfq-2fab7hj0UHoLI8-UgLDiF_zLt7r9fZrHI9UQnNkV_zLTFx_t_MBaFiVfjp_CR8_7m3zxd-f7q3cHuFxVoeEHOyHzn_bqjxi_gloJJ1t
+xhltk_zl7q0--6VUVvdv0-y_7Nl_QnwB3xp_Tp--67R_SmvWFstgVVvn_lXoqFtlQQzlUVvvtbP_h_FlUeNr4m0000000000000004HZK_FJ9Vb7KnSC8ElR
+Jk2A_DLI3k39_jNM1Vr7x_xZ-VxLs5Fz-lNhNwtfr-_vhr-_Vlq-_vpw_DywFvp_51p_pJa0RCxv_mK6nFS1000000000000l0S
+}
+
+
+!procedure MENUFOLD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$menufold,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,17 @@
+' 24396c893b9dab79bcb06f544510f4849ea6ae38
+@startuml
+sprite $storageazurefiles [256x256/4z] {
+xTo5aHWn54J1-PT_q2uso20VwLRJBm3LzZBdtYH9aYH9aYH9aYHfhgqElrR6NslJhvNnryhuQ__olrpPF_oB_k8vqCbVPq3uLtxV3E2VDlziBFwU5M3w_CE_
+yAlymz_6NsS0F_-q-gVBpy_F_xBuk_Zy_FpyZd_y2R_hF_xE-r_yVJDWfli6-C9VPq0PVvq1ZVpCZzsgt_2tbEuPaBLollSVqypdvqytdpyLV7v-Vdv-Vdxd
+F_py_Fpy_Fpy_2Sdw_yCb_ZpXYxmvsqztP-tzcn_tbwxFm_sfzkVM_sR8-Pz-ch-tJ5pftztq5pftnusxzVNyMyFdDpdtnywkSsVWvttvt17_KcQ_Qds9zN-
+TFlJxK-tFyr-_hJw-Vdvq-Ndv-Vdv-VdvyyTVdv-VlxfyCyx-Fdv-OUVdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv__A9-Vdv-Vdv-Vdz_vBpy_Fx_zFp__
+Vir-Vlvfzy_p-5FszxUr-_x-D-VyC-t-ESy_wvyvp3_kdpcfF-9VEwj_kxyZVdv-_hLMFZy_Ft-Q-VpyQURpywUSdvJpat9-qiPVAz1Vb2H9aYH9aYH9aYH9
+-WO
+}
+
+
+!procedure STORAGEAZUREFILES(object_name, caption='', xscale='.5', xcolor='#31cdeb')
+card "<$storageazurefiles,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

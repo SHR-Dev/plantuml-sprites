@@ -1,0 +1,15 @@
+' 54e000b805657c39926f5e29ed9562e202d7ec45
+@startuml
+sprite $speechtotext [256x256/4z] {
+xS_70GCW34MnmFv3Pm0-QO3JzAuKMvTzIP8aIP8aIP9QZ9-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdxzorHf__Qhy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy
+_Fpy_Fpy_Fpy_FpyBVMCVtq-Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpz_7vhDxqCpLBnwOlwwluVorHvQy1-Opy_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FFwf2o_xK1_hvSul-73y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F__pyVFpy_FpywS-qzz2_6Mj-xyjVdv-Vdv-
+Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VluK_xuaIP8aIP8aILS
+}
+
+
+!procedure SPEECHTOTEXT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$speechtotext,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

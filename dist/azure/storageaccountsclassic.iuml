@@ -1,0 +1,17 @@
+' 32313ead987809efbd71ba1a83aa18a382ce3843
+@startuml
+sprite $storageaccountsclassic [256x256/4z] {
+xTot0Mqf44H1PlCFUit-MirpeEjaK5SBu3oT94cI94cI94cI94sgWyp3jU9JAp-LwbCfFxNo4_yl-VyzsKmgugUPLCHF_Ac8dsOI_o_u_4KRO1hz_CFFty5F
+ysMj_XHzWv-Vdv-Vdv-Vdv_V-my_VohXny_Fpvzw-Fo_s00rVFupNzV6v_-c0lul_Ta2StsH_C9VsKcb_5JAJzry_jFDvp_TVFxJpUS_pNn-_bFEv_z5_Fpd
+WZQAo-rfuRzNlxSye5zfdj2dp_ZFnNt0VwvkxJ_yhss09dvCavxqxr7y_Fpy_Fpy_FoUVuV_slZvP-kVRZ__FC1V-US1_ie_3_1N_dc0l_BFK_mv1Hl0__yF
+-TEb_Bq_NO9V-0lYJ_py_Fpy_Fpyrpu1xmd6lq_v-zy3_9Na0VtAyW0_yVl-k_Fpy_Fpk_xpJwNVyszwWB_oJxj_Ijz_qmFybNyUu1Vuv-F-z01_vPyxzNj_
+EkccTNoj_yNFpy_Fpy_Fpy_Fpy_Fpy_Ftn0_Fpy_Fpy_Fpy_Fp__rCJFpy_Fpy_Fpy_Vj07iV-z__Fpy_Fofcyz_kldyfvIVMlcfLPyAz4ybIP8aIP8aIP8a
+ITB_
+}
+
+
+!procedure STORAGEACCOUNTSCLASSIC(object_name, caption='', xscale='.5', xcolor='#33cfee')
+card "<$storageaccountsclassic,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

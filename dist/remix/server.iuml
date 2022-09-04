@@ -1,0 +1,17 @@
+' 1dee7da3fa2d75216ee405c4253fe490288471b2
+@startuml
+sprite $server [256x256/4z] {
+xTs7RGGn34N1bRR_cXtfd4tPm3_Dws0kdmIGnqv9aYH9aYH9aYH9aaPSEzkhjVmPrAXMyMTWQnw0v_epenUFm2B-cTQyhUzFv5Vr0Apmdv6jy1S_-07eF_qd
+VsZjDm3_JFRppxx_v8zjiP-Vdv-Vdv-Vdv-Vdv-Vdvz_Vjm6_lbv5-ql_lYeUTFb-ySdpJbJ_VtRnWtynMyy0Fd-u-CktJ-_z8zaV_-gRGF_iPcVdv-Vdv-V
+VpP-_spm-ty7_zZt_q_z_-yy_Vd-VSz_wlolmNV-c-u_6_nyV_NdUFTV_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FpyZSn_YP__rH-05Tgg-NSZcTyVW1ZUqMvd
+VPMFboH9aYH9SlxX_Clvf_Dlzn_klzn_kl_cv-Vdv-TFZP-Vdv-Vdv-Vdv-Vdv-Vdv_V_4FpByq_DV_M_6Fphyq_D__U_WFxB_Zv-Vdv-VdjlxJ_rFvR-u_j
+lxR_tFvxvx-Vz_zwzr_y_Fpy_Fpy_Fpy_Fpy_FpyvfyquX_P_i7FtoX__jN1l-C0jEAlySz8VldN303CqnT_vG3887hnnve1e3EmLJDWHnLbh_QUW7kiAy--
+LP8aIP8aIP8aIPAaQm
+}
+
+
+!procedure SERVER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$server,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,16 @@
+' 4a641f07559ee6b8d609f0db5ed54dd46443751a
+@startuml
+sprite $layoutright2 [256x256/4z] {
+xTt7WOLW2811mVvhtipcnBi9ytKm-gSRn_WaIP8aIP8aIP8aIJ6ZpVZgLdrUlQZw_1nJzmDyq9yNxiCNQFcBFg3w05t-EQQ-l_ZxFa3vpr4r_JdFdnq__pci
+XZ-c-eEVlt7yyQ-y0FZvpt7ny_Fpyxl_Bkhdv-Vdv-VFJ-tovpSjyHS_FfGFhV6N_lCNsEJ_Y1dbx_Fh0mpoToch_F6TFxRulvUizFFpy_Fpy_Dx__7py_Fp
+y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp
+y_ERVy7Fpy_Fpy_Fx_rd_gtvn-PVctzk_dsLttIky5SD_K1_Ftv-_d_4pyz_ZekVd_-t-FdTV_pyCT4V_Fpy_sYcl_WhBu3i-FbZdZ-Q_Xp5B__A3r3yfZzp
+ZBxlZwokJYz-7BqF43cbUEhe5DK0U_5xnQYEcnfYdvyaIP8aIP8aIP8awHu
+}
+
+
+!procedure LAYOUTRIGHT2(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$layoutright2,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

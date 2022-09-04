@@ -1,0 +1,18 @@
+' 5701a9b359748718ce63155d8f4e1f8dfa79583b
+@startuml
+sprite $automl [256x256/4z] {
+xPb7Obj108N4l_-Xitpfjde1rebjXZUgfw4d8Y8Y8Y8Y8Y8Y8Y8Y8Y8YE8VB_ljB-nzdC9NnvlxWFW2Ei_YS6p1zyG3WK1y0nzbyXl_ocmSmVTi1BB_n1apV
+F83fwmvW-RqtOFhA0S1nEV3sBuEdRxi1q_VU0EO_H6y4fs-x0SillW7Jjzs0vNVUWEbxRy3qPGDOVlC0fgyy03Xknplw7qCsWEbh7m4flreVzVhBdtxhBt_v
+ZVhSQ_tbxy4FxLD_w-_13r5-TFbRV-jl_NtaMtvmvpVfjtv-nvN_MoQV-tKdfq_0hi-b-WZrMt_vorz-UkvxUrf_-SjV_bxuj_xMN_xobxyN_gs_zPU__ENl
+XN_hR_tbBt_vU-7lrM_zvI__Hu1IVu1o_SEPVu0o_t3c7w3CFr3g3r2kVw3CFq2PVw3CFq2PVw3CFq2fFr2kVw3CFq2PVw3CFq2fFr2kVu0o_q2PVu0o_q2P
+Vu0o_q2fFq2v_e4o_m1b_e4o_m2b_a2v_W7A_0Db_W7A_0Db_W7A_CEfFq2v_k7CFq2PVw3CFq2fFr2kVy3oA-6R-VcIjnu0NAlFMm_0fZz0cN-Wr1-WNFy0
+jxz2_t9_Fjt_mbS-wQUVV_gjl_pfvvz--lcddtx-wQUVV_eTGFuTG0UGVmVGPtyDe0Fe1ZI03g0Rq00wWFmxW0uW_mwW0yY_0-XbS0Fe0Be14H4H4H4H4H4H
+4H4H4H4H4Jy
+}
+
+
+!procedure AUTOML(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$automl,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

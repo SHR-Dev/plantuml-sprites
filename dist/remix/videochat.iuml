@@ -1,0 +1,21 @@
+' 72ba0dfa7918c8964b887165a19e68d123e35822
+@startuml
+sprite $videochat [256x256/4z] {
+xC610000082W_QaNgG800000003WzkuakQqOYC7m0tZ_CsUq9MouOD9KiGdyomoslrRLqyIMhmztv8hN_bNFxk6xTJwlQNK0gkTe77K2ItwXT-zx0AlySKth
+Vk4R3K3zuweM_RpFpnL__EEo5lourO_uuxUy_CLFClxulUx-jG9__6pGFZ-RLEnNFOwFlzlaHuig_EpBd_pu_-y7qEHTgrt-fqLR_EpbPwq__WPy0LJxuuy_
+VZJXnv_xlpt--EEFF_xuuuy__lZZZp_--EEFFtuKrDUFefhvLL-pgzFLpvBc0y2V3lChV-y0yDMXVf9RJwhYrQd-FIVLb2-xV6VvyGa_VsVXnvHF7kedzntL
+L3vfvbU-hF8P-I4RgNv-25z-alFytE1NlgLVzFBNTz__4PYiuhlvzSPNFsxqAt32j_53_CFF_qS8uNlvYQzewgVmhVowQaJXM_a7NmrB_n2-dL-xrHz__F77
+7t_yySSVV_pnnnz__F777pz9clhp-X_VkVdr3H0_l_A_9c3f1sG0Ldu5Jlrv_z_g_8klN-u5pCu_pGVWUVwFv_j7W_EVEV_R_Fpt8E7crmdmN3-B-0lx7zd_
+STf_EztF4lxS3vB7xZyM3O1jzp_1cgP0uH-w_rx2xxJ_hQ6iVFv3Ax-stPxFVua__lZZZp_--EEFF_xuuuy__lZZZnz-VYt--EFFzS_Md_l_uUk7fr_v7_JZ
+j3xcnw5DrgPg_QhdSOtjVf4tu9VxpyMFMQM___x57msgzyjLnikl_D4gLlXXxVyQ08HlvmU4tykFHVzy07JrKvQn7FppfNn7_-ZArxllTRyc-5wnmDyv4iv-
+6llZf_3z_FpYVy3F0nF-Yh-_Ml7x_0taeY_qAn_dflfwl-BxqzM_o7_wj-wNAwkTN_c6VkKR-fLlwQVmpVognsFeLxwTN_Lu3FrwszlvbM_ertiz0xyRN_sE
+VFNRyTNlov_xANmxlzxlEVefV3-_wltyodVqYzxFh_TwddxX6_bfnrS_I4U--gd-nwlN2K_wyNMxmPIlsormy-idxWF2jmgl7i-4xzeD-9HIIYcbb59AAQNq
+4m
+}
+
+
+!procedure VIDEOCHAT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$videochat,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

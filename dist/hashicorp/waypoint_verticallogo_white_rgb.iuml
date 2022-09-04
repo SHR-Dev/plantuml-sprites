@@ -1,0 +1,10 @@
+' d6da7e707b61fc0e9be4801bfa4ae58b3e33d186
+@startuml
+sprite $waypoint_verticallogo_white_rgb [249x256/4z] xS6100000CEW-rCVO0hL0W000000000000000000000000000000000000000000000000000000000000000000000000000000000u
+
+
+!procedure WAYPOINT_VERTICALLOGO_WHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$waypoint_verticallogo_white_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

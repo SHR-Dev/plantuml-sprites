@@ -1,0 +1,16 @@
+' 6f4d3c911cd2377ece1d28a37cc4cba98b8ba33b
+@startuml
+sprite $cloudfunctions [256x256/4z] {
+xC610000082W_QaNgG8000000000000000000000083PjOCZY48OXg6Zz5_q7jC0_cDOKG2ZvtFA7_-TnMV-oYxc8tzd6FEDlxICAVRdqvXYVxwDAVRduvYy
+lxYEYVkRyvYqlxgFkSK_P7zlzRE9INwjFpW0gs_sivqXVhC_DW2hR_Vl0WJutVxG0Ap-1lykG83Vx8yCmEflyUy21FYz_i00hFuc_ov0WD_gFpu0gx_Dlmjm
+YD_lFpm0gx_N3pCSuVVxZmx0m1j-60vyLkJF9zFippVJxCz7ywAV1_twzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzUlNhr-_VltwzNl_
+xFtxhxqxA00GXe4WwDyrptC0j3lZ809k4zW_sBy4zayxt_wjjd_S-VQllVtpphT_x_KFThx-HQz_ilFrRthzevslVzNhd-ry_RjU_t3dwr_gd-hVwX_hN-kV
+wz_xV-3_XVyd_j_uV_Gb000000000000000000000000U
+}
+
+
+!procedure CLOUDFUNCTIONS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudfunctions,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

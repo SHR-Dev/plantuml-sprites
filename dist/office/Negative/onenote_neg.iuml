@@ -1,0 +1,10 @@
+' 1aaa223171989dad188ddae76609e3e511a788f1
+@startuml
+sprite $onenote_neg [256x256/4z] xS6100000CEW-rD_8DK20000000000000000000000000000000000000000000000000000000000000000000000000000000000001m
+
+
+!procedure ONENOTE_NEG(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$onenote_neg,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

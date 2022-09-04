@@ -1,0 +1,21 @@
+' dd30e87a491f3774cbf88d2eb57b226e4351a8ff
+@startuml
+sprite $cactus [256x256/4z] {
+xTrLOknA40HHL_N-r_p071gPHzGPyNlnfCO2uyFTCpCpCpCpCpCpiogMAcUPU1QWxzMcNm3urQOU0FgnY1FCogTz6GQObaypmm0XV3Rd08yYw9DU0WN-zmUe
+cVJVvFCqM3FfR_dpNmX-e-S2b_V_6C_Jm0pyyQimm9NzuvV1Fm4_PG3wnn-2F-ZmymKGTVWP_1CS_g0NGDtFNnFmCmOW_nv-3301Fs00y2C70FzE0-IT--Yl
+lCFF0PBkV1ZyINmEe3_ckMVPnVnzRx_-lf9V_xXp5_BNLlxIhr-__gpB7o-0-lNhrwzVltxz-lNhhteiqbyip5-t1VZ9Ntu5LPY_KLLLZ9-VNTwF1Vhn-rBy
+_BSuG81V__gxMlNtTlvwLvw_bXtiN_-dDl2Jtuq1KloFzEMjvl7-iQsVV9RbvvVoOO3J-MiBVzELvQ_LMwqm_mZrKyL_ASQlVopIty5-_IF5hx-Y_VhrwzUl
+Nxz-_VhrwzUlt-V_MfagpS-I_1tirp-Y_1_zMz7-rbyPrx_wq5-17__d0BNyZLFwFnkWyFk2_8_LktfAFmUuNO3y9F_ePMDIFsmC-Xdztp-ppUtlN3y6YF9p
+W5W_1iZnSu1CFmS8z7E03lJp91Zevm21VWuGwES0WNuE4EZd01tihtuiqCy1Ej1_-xEi0_oikC36IwoZwaF_lZ_BVhi5Y3gLdnDmYztyVQX_VO8aFyC0E_d7
+EVpRV_plswU_0_neHt-VrTyxNFygnKyLdq4-MchADu2YlZh9_-Y2Vfq_hxzvbn7Yvm3KdvD_HpzfR8m0Fm9-jJc__-Nt0p_Ftv5-yYFzv4VvoG_sWn_b9p_I
+t-17-NdgI_EJ7-SdFyvFVfoV_4X_Wv_cxySgrD_WH_dxjG9_Rd_VLE3FxR-bGp-vdsRWK_oh-00_-30d-K6Fy_lp3uFz-g_3rwzVVzJbNx_NF_twzUlNhx_I
+hl-iAlB-Lxz-_Px_lFw1d_O6KDlvwoByJVod7Q3GjdvsLdsF3UepBK3-Njy2WfrX0EZ1ttg0ytoj1-qRrwpgCYVx6Iy91_0d-5O7azmKwjUlVnoQVltwFV_f
+rw_Vvn-VV_UjgWyD_4FyHovmadS0ra5wy8-g3ktX19rKRsPcPcPcPcPcPly2
+}
+
+
+!procedure CACTUS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cactus,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

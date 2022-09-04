@@ -1,0 +1,16 @@
+@startuml
+!include ./index.iuml
+package "istio" as istio_package {
+    SERVICE(service, "\nservice")
+    ENCRYPTED(encrypted, "\nencrypted")
+    ISTIO(istio, "\nistio")
+    CONTAINER(container, "\ncontainer")
+    DISCOVERY(discovery, "\ndiscovery")
+    CLOUD(cloud, "\ncloud")
+    KUBERNETES(kubernetes, "\nkubernetes")
+    ENVOY(envoy, "\nenvoy")
+    CERTIFICATE(certificate, "\ncertificate")
+    CERTIFICATE_AUTHORITY(certificate_authority, "\ncertificate_author\nity")
+}
+
+@enduml

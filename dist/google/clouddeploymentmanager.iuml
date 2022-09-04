@@ -1,0 +1,18 @@
+' 1b321e27662776679fc5b0799dd70508c8b1481f
+@startuml
+sprite $clouddeploymentmanager [256x256/4z] {
+xTc7RInR34H1zkIVyxUFiF8Q0dUMTG8WK2sjhnTFaYH9aYH9aYH9aYJb1Tghx_RgkxNyRYs_ur_AxzRoEtx-bVpkEtv-Vdv-Vdv-Vdx-Uan7-_dv-Vdv-Vdv
+-Vdv-Vdv-Vdv-Vdv-Vdv-VdvazN-95diJwua6_tDlv9adx_v__kppT_yzcURl_djppP_yzkVPVxcN-dM-9lV_cwDl_djx_Ruwqr_zlWhR_cpnrzvovyz_ifR
+_kpnLzxoPu-_yfO_U_oLj_pPuw-yvSyUV-KjVnxcJmQ_q3pVdmmESBu_kKO6ED_V_2iJ0vplR_wLYG7EzpV_oiW0n_kRVsLcWDFzpRyoDC3X_kPVcHhWN7_p
+szyD372Ul_bTPWSu_-y_Ey3vZ__P0Sv__fyTuFpN_za1pd__Dpl0-U__XmSu_lFVy037V_uV6E1K__pDf_dhxfjFyzVT9v_Zxsw--3X_tNpmSVuQsFDH_Xeu
+zoX_tNkjdkRlutLNZ_FNhVogn_ahgJixt3_VTdzjzzTsVsttrtP_RVTt_FpXv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdvt_5-Fdv-Vdv-Vdv-VdV
+RZUVltRp-MijlrlBx_RokxtwRf5-lbnVBFMINL-E_w3u-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv_VwTcrgCxzRokxNyZdyfl-Fdvty-tm3pV4cI94cI
+94dItm
+}
+
+
+!procedure CLOUDDEPLOYMENTMANAGER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$clouddeploymentmanager,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

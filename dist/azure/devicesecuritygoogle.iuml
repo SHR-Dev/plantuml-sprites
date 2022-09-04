@@ -1,0 +1,16 @@
+' 042fb4792cf3af432e1e8fbddf7b444ec80a65a0
+@startuml
+sprite $devicesecuritygoogle [256x256/4z] {
+xTI5ZM0n50J1-Va7VInynxpRrP83gB7i_OQUxs-l9dv-Vdx-Xzy0OV_pG_6d-BUw_wdxdvh-rjFVQlfRZdxBqMyv-osdlzNujnh_LkFVOlnRpN_ByMyv_MrF
+qtyBucyr_ktFyJwTtPw3VtqBF2-ekl-f-v-sd_yf-_dv7tv-VlyVFpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FtzW07v-Vdv-Vdv-Vdv-
+Vdv-Vdv-Vdx-29-Vdv-Vlypdvs_p-UFynVcBynVdhyt_y_xzR_pRtx-oFw3__pROIogdlxNv_8lp5-TlRJx_sdp-E7yh-_dvL_Rpyo_gv-St0By1-0t0dns0
+tmCmGDs_kjy0TV_g_jNzQ_lvns-0i9z_RJ__wlxL_QlxL_TlTV_g_gtkNzs_jfz_TV_QVFxL_QlxL_SReExVwlwjxb_Tlxf_TV_g_jNzg_jNzw_kNzs_kd-h
+-xSuVwlxjxf_TVzs-EK1bkpmcmliT_WbIP8aIP8aIP8aIP8aIP8aIP8awIq
+}
+
+
+!procedure DEVICESECURITYGOOGLE(object_name, caption='', xscale='.5', xcolor='#99d432')
+card "<$devicesecuritygoogle,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

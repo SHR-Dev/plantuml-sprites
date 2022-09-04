@@ -1,0 +1,16 @@
+' 64a5a340ba9ab525293a33e94246410ce428c1de
+@startuml
+sprite $layoutrow [256x256/4z] {
+xTpNSG0n2431W-k_PcSSliLeX6zV1LwSbQud9KcI94cI94cI94cASJtONlNoSr2D4oZxk7e6y5j_p-ZF19huzxJolGP_yUTL0sZmtoFhy1T_xW3MF_qt_z2M
+lm7uSxAVFzVzD__Oslty_Fpy_7bKc_rvOBlynO-3olUs-Kj_sWGs-kEujleZuhZzgMt-p3oBNnzfxlB7YVxOwR-EYv-Vdv-Vdv_VttzFylFpy_Fpy_Fpy_Fp
+y_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpypl_my_Fpy_Fpy_lxp_t_zp_TFztn02st7_t_a4rWD_eFtu4td_Xv-Vdv-Vdv-Vdv-Vdv-Ut_c7zo_gdzM_x7_Q_x7_Q
+_tR-uP_v-Vdv-Vdv-Vtzny_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp-_y3py_Fpy_Fp-_l__S_tF_q_tV0mUGczz_pJnCx_tNFVxgVBptN_Zv
+-HVYvy_1_5K_Vyps1p__Ktu0z2zKyTS0Xl9x_3cIN_wE0UGuVV7N_P7L77hnu-eOGEJ0elYBnLV3xCLlA8PszJNF_gWaIP8aIP8aIP8aIQy
+}
+
+
+!procedure LAYOUTROW(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$layoutrow,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,18 @@
+' 0996d801991798cd77d7ef0a93dd4d0a0db33829
+@startuml
+sprite $terraform_primarylogo_nonatt_color_rgb [256x80/4z] {
+xTY7SiCW44NHTn___ytfoOBNOJIu3tjJZ0eQ7NTRErTLLLLLLLLLLONspjxTRpRtsspkjzdSR-_kDvlxRJRtUti_w9_m5dwRythluhV9EtaVVwRY-_bft_5G
+lqbwPpzsJXVbzfCVwxT9ndCdcxlqrh_txK_ozzU0FV5pTN-xhp_Vn8nWFyAFxjq_VXxZr_rZmH-b9woNyKTSwkSr_H7NyeCD-VXf37ZObUJ7jkV74jYayKBN
+y7Fw2lwppPykVw-cDKIBd9zDOaqSFSstH3V1CLwBY_m9yRVHjFRhRrzZ4ZUlSEkof3pVBUh7McpcvuY_zNbSquiijQ7iTnj2utpQ9BHSzWT_xeyJzCybWv_a
+j-taZ-rZT_ABv0_zr9-l2VT-qhlxDBr__YTMa-Sh_8PsElOw7edm9_tKJtV-V_vExAJ_M-lU7sl7iTFJfUd6QTxYYw34u5TgvhS6IZjrD3H6ygSNbS6FmfoE
+82xs6qdXHoj-1hywFrhpjvYVpDVq_vYnKUWF-gD3VZxpy_bjfE_Vs_dTegVpsqfTrz_QS_lDnNvF_7vwlrdoMz74_wq6yBx-XTU_f_UtutvF_EuSVWL_-YO8
+Zjt-Fkldz6qZB-1t6pu0JVsnO_B7k4ilu5SRqkBpVq0YNi9FwsFrzJyV2vtpjslxjU0VMUxFUURNtrvE_dx_yDpXzfVe_MlnsS7z3krptmZ_fktk5-7VDCA_
+QHXjtGlngwggggggggggggggggfw1m
+}
+
+
+!procedure TERRAFORM_PRIMARYLOGO_NONATT_COLOR_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$terraform_primarylogo_nonatt_color_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

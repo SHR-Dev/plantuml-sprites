@@ -1,0 +1,18 @@
+' 34b7e218e59d5415979156b4e8a6c241e131a8df
+@startuml
+sprite $refund [256x256/4z] {
+xTq7hk9G343HRxF_DK_Fjr0tcg27VUu6qA6a-f6lyKcI94cI94cI94cIOaPxyTMh-lpqughFpp5rtu0d_UE3Ute7MlwYVtpN6z3bFyRKznT_rnjG_iUeclwS
+vy-Ed_ynh8O_flg3dt_Lvg_YJtx-RRl_Yf-Vdv_V_e-Vdv_Vzf-Vdv-Vdv-Vt_6V-p_kVqVakABbZu7yw8u_BXw079ZvvqgI94cI94anhAtwgibVUFdR_G_h
+dui_ghJ-p_etyn_y_Fpy_Fpy_8x_-Fdv-Vdv-Vdv-Vdv-Mye_xJMd_zQwi_lblcBVmqMhFCNFsAjFwBUW6t-xncKjVw8gF62RVvSxw_nYuN-NEtFuY_qP_4N
+-ek_qr_3fnlznL_gB_v2V_5N-ek_sz-OBvxbB_vp6_orwM-ym1n_yV_x-fAFyEV5lsDzqHd-Fh-ArylV7Uw_z77B0hk3_7r-TSCRS8x_qjzGH9piB_vT7Usl
+gpst-lDSV_4t-hFujnLneh_uM_sPnL_epz9lzDTHpqf_VVWR_SLVwY_-MlyR-Slz_8-zsxyuqFyyttNtFodbeVxCQ3Jj-bV-wtRzOVugEmsz_lqklVKF_Fpy
+_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_l-Qdv-Vdz_-Zv_Vyz_u-VchgVxM0ei5ct_-DHi0p__jFm1w9x_ycMFqVN_arKVJhrvu07pabAA_B3sk1jYBtob6
+zVLI2-mpaYH9aYH9aYH9aYJz1
+}
+
+
+!procedure REFUND(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$refund,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

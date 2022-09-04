@@ -1,0 +1,16 @@
+' ab7d1d0609d334b675350bcc4fd0984999045980
+@startuml
+sprite $keyboard [256x256/4z] {
+xTj7Rkn030HGKxh_cPtMfWdKeA5kp7lxmh1-KER7sG000000000000000A1QG-hfK2rj_oiAFVHJUVthJ_LZ23MfE9JFbzU_MlMj2_Mw_bEeulboLTU_kg66
+KAMXVBvPs-Hkz5L-Gtqg38Np9VgXvgb-XxfxJPKvLDbygNcek-b_pLMQFxIXIZ3VC_tli7_loFvzAWdfhx_-vn__clw77__qT_xJt_MV_lex_kdl_E_wLt_z
+zNVyS_q_3hNdzL_-_3zw_x7Jy__y_KeMcbFXVB7vhLmzyFulc2-Jlr_DGbCgdEyrDMXIkuHgxGSWKQYYK3xVgZ-2AFJ0Jm400000003s_-t_s_-t_s__t_w_
+_N_xFxx_zVsx_lhhR_z3V-S__NUw_jDVV___zNV-T_shl_xwE_uv_zd_j_zl_z_-l_r_-__s_-t_0m00000007Mijsc_Vlz_V-lt__UtVlz_V-lt__UtVlz_
+V-lt__VtKd_zzTV_Ffh--kll-AU__lgx_t7_w_c7vr-UVth-xVt7zW000000000000000E0B
+}
+
+
+!procedure KEYBOARD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$keyboard,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

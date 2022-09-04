@@ -1,0 +1,10 @@
+' d425c15de418f75d185946a980ae35243d5fb4c3
+@startuml
+sprite $sharepoint_neg [256x256/4z] xS6100000CEW-rD_8DK20000000000000000000000000000000000000000000000000000000000000000000000000000000000001m
+
+
+!procedure SHAREPOINT_NEG(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$sharepoint_neg,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,34 @@
+@startuml
+!include ./index.iuml
+package "oscal" as oscal_package {
+    COMPONENT_DEFINITION_XML(component_definition_xml, "\ncomponent_definiti\non_xml")
+    ASSESSMENT_RESULTS_YAML(assessment_results_yaml, "\nassessment_results\n_yaml")
+    ASSESSMENT_RESULTS_XML(assessment_results_xml, "\nassessment_results\n_xml")
+    COMPONENT_DEFINITION_JSON(component_definition_json, "\ncomponent_definiti\non_json")
+    SSP(ssp, "\nssp")
+    POAM(poam, "\npoam")
+    SSP_YAML(ssp_yaml, "\nssp_yaml")
+    ASSESSMENT_RESULTS(assessment_results, "\nassessment_results")
+    PROFILE(profile, "\nprofile")
+    PROFILE_JSON(profile_json, "\nprofile_json")
+    POAM_XML(poam_xml, "\npoam_xml")
+    COMPONENT_DEFINITION(component_definition, "\ncomponent_definiti\non")
+    SSP_XML(ssp_xml, "\nssp_xml")
+    PROFILE_XML(profile_xml, "\nprofile_xml")
+    ASSESSMENT_PLAN_JSON(assessment_plan_json, "\nassessment_plan_js\non")
+    SSP_JSON(ssp_json, "\nssp_json")
+    ASSESSMENT_PLAN_YAML(assessment_plan_yaml, "\nassessment_plan_ya\nml")
+    CATALOG_XML(catalog_xml, "\ncatalog_xml")
+    ASSESSMENT_PLAN_XML(assessment_plan_xml, "\nassessment_plan_xm\nl")
+    CATALOG_YAML(catalog_yaml, "\ncatalog_yaml")
+    POAM_JSON(poam_json, "\npoam_json")
+    COMPONENT_DEFINITION_YAML(component_definition_yaml, "\ncomponent_definiti\non_yaml")
+    PROFILE_YAML(profile_yaml, "\nprofile_yaml")
+    CATALOG_JSON(catalog_json, "\ncatalog_json")
+    CATALOG(catalog, "\ncatalog")
+    ASSESSMENT_PLAN(assessment_plan, "\nassessment_plan")
+    ASSESSMENT_RESULTS_JSON(assessment_results_json, "\nassessment_results\n_json")
+    POAM_YAML(poam_yaml, "\npoam_yaml")
+}
+
+@enduml

@@ -1,0 +1,22 @@
+' b6130c3dfa673065e46a82c097626eee00b9171d
+@startuml
+sprite $linechart [256x256/4z] {
+xC410G00004W_fysH9KJ0000000007Jit6UEyp0CX65Jll-PlrucbTYy22O2X_y5w1aRMLfbhsicNsiOVrtKg014hm4CuvzI4i08l-WbW37-TUC_H_c5h_uQ
+xL-Z_MVyySUVtx-n_ee__lZZZp_--EEFF_xuuuy__lZZZp_--EEFF_xuRQUMnlhhJmtrrx-Qw2-jGNxbor6zKVuIlGGmmgzy3M2AN_M_PYq1JF3_rryTrgmH
+Vdts882T_QAd0N2__wYo_WOCyPytDS0l_6b-vPlzN81_-yyj_NLP1hxLZwzNrI_-hlxIhbK205sViV_Xzyj-UV33Lx-__-tvMb_rBy3t-o-dBm40ljlFxzU1
+7tx0D_bVdtJ3D_W9N_t5-9gamG_UNfasU_i_Vlslm2SRvVlzzNZwqWRqun_e0P_vUT-Y0VJZ0H_wkRv_VFtu9h_FzJ_MDm6qusMimG-wjWwXum7VxMyUViVW
+NP_V_upVGdg-sS_vAW5DhydFttuD0BxzVdy__GO3kZw7d_FLVya1NP_3tpUjVG1IfElp-vlfFo5fWQxFuU-RrZw09Nh0D_jR_GEMLi_dQExdV2q3l_UJF_ie
+0V9dt-y_QJLyZz_FT_hvsx-a2FzJ_NtNflKQt-1dVDMJ09RmdVw-xm7z3U2R_QA2_Ite-an-vOFl6yJt-rVF1z_7gz4R_61_dgwF-FqD1gnl0RxFt_CBh8_w
+_Vnu0buVT_hv1dK_hXdlz7D-qVqnlv_lp_FzKR-Vxy_p_N6_d-_Fy_CHVd_H_Vd-V4olz_cBxS_pyr5-_shR7du-pkgdJM-Xyv5-F-twyFbOiny-Vdm--dFz
+O7-Udu_t-_d-FByVuVS3FhWVu_Jt_6xs_7wKtr_Y1tnmFyxghvxlk1_fz_EUlHdhzIl_eTyYyFkLFzM_1lWb02_Vxrzt-0Fy4W3e-dRozm58pph1hm7ymblu
+_kz_gJBmxUjVThr__LVr0_pDVw0SvJ-KFz5_Y7wa_n3-0F-M5N_yySSVV_pnnnz__F777t_yySSVV_pnnnz__F777t_yySSVV_p787_yySSVV_pnnnz_-hyr
+rAylm6Z_gWtgdVvLMzHx_EUQae3wjTOU9G4W_xOHlC6_KKa0e_mQm6Z_ETKVV_pnntyEziSV_qB--EEFVut-_gcz_SNzFsfNlVX109kMy5a0jR6-3bgrTHsy
+XlE_jmS7100080Y0_h_kHYeG0G0000000803
+}
+
+
+!procedure LINECHART(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$linechart,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

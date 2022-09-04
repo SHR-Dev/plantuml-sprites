@@ -1,0 +1,20 @@
+' 889e47f88ff76814beb930c3b584c89501fdd035
+@startuml
+sprite $arch_awssnowball [256x256/4z] {
+xDr7ikCm30PXDkv_w5dYrUW5KHPeoEnUEtr_bNEA_b6PVlqxJw1V_xORwDUlV-S9zElVUGBz-dUUGB_-hIVGht_R3VJhrx_p1Fhrxpo1VlqxJw1V_zOJwDU_
+xGRwzUlVUGBz-dUUGB_-dIVGht_V2VJh_zZw-FMphce_bVNt0uok_G-wtv_wjWDGvoVvhHSeyYU-Sq1aj_h78m8ey0FZEGFSxl-gfsLJLu5v_-7K6tKOu7O_
+jEMdClrGvASZFva_F19wqP_yGJGEgF43USNABZx9FdSufZfSIs_sZ__zJ1NPzC76xtq_m97saZ_vLnuCmBb7aOU3JT_ZamCK-A_mZx0J1ql-v000rVvv_e0Y
+VvO35FgJtysV0wJ_q6t-CTki7yO5FqlyCARZ30rUUgu5VDstpZ_pD2WFEdDd3CoVnpZwZxtkXoJzsko1i_J3wSEkzyyySfhmps-Sv9N-QEAFK_xiHN-22lrZ
+nXzlySzUawTA_iFz0UD29Vxi3Zyh_F5uV-Y_776xFrlcvpB_8_onlVzoqTdVvBi9y_wit5_Vl5-__koPVltwzUlNhr-_VZxAhv_Vw-fdMItzCDRKrJzM1Gtz
+-lNhrqzbJ_17NKU_VltwzUlNhr-_VltwzVCHVltwzUlNhr-_VltwzUkFBdxz-lNhrwzVltxz-YdxFYnlzNFEFwXhzFQNzsw_VltyuDVFtlu0M827PlwCDKK7
+Vv_Ghr-_VltwzUlNhr__VILPVpJqZxN-PWFm7Z_T_lM8nNxQy9Vwy_oQD5Rx6Hs3MEAFddxg_Jb0JtwnF-_oe2D_dJ-0XlnwVyy1I7wrFwDFNwrK-edkKUEd
+qqE-zNzKUXYrFv-e6w2_doB_e3i__MN3TktmLEZEo9FUaD__3y19VbvBYmResKW-KJP0_u0ewJ7-A0gsv6T0TtpoDrmWzMK1zDKJzVrh3mve000W082D_g75
+0FzZiDmE00000000000000000A
+}
+
+
+!procedure ARCH_AWSSNOWBALL(object_name, caption='', xscale='.5', xcolor='#329927')
+card "<$arch_awssnowball,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

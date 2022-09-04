@@ -1,0 +1,18 @@
+' 21e98dc33a5a82875f7825e2c31721d904c2934d
+@startuml
+sprite $tbox [256x256/4z] {
+xTq74g0s341H9Ev_vdGbsLxCQgJX_HiyEjWUhZSbIP8aIP8aIP8aIOfrlTXUFSlFHJsu1Sg-hcSsmF_rzuu-s08FyUzjvP-T-uk_iDe03_ZlbJtXB_xU3N2-
+-s_-fHsV0FovsS-Vv_wRVssF-_dv-VdvSrJD_XnObx_uCQZyipP_wQTjWKP_ZAlL7n7ZngVQ_9avZ5zlgbt-cEYFJlyrhb_av-Vdv-Vdv-Vt_CVFpy_Fpy_F
+py_Fpy_F7mtDzKTJ0_sbRrhMCzIVBKtq5xzh0qpqPsRJfDwf_hkbaVxezSSiFtyRlrJy_Fpy_Fpydd_ulVzu_nt__UDRklxl7_tVlmxinT_z_VE47t-s-Vlt
+bpP0uRxTzl6FF5fKjNpyw-l-5up_nT6Yilt-wyl-wpN-l3ygt-IFp_dZBVxhI_whrS_Fp-_wv_x7py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fps_z7py_Fpy_Fp-_zV_M_-V1xj_lZ_oasEe_tm35Vut_YizqlSX_7V2t-wi3V8VV_r_u-Vdz_vYVdv-Vdv-Vt_DVJlHdZxyEW8cxlysV
+CQvizUSuVgF_pZ-Rfi-xpN_dmEuUVpKEt-3V5Zy__q7y_BcOV-hdZzt-uET_wmNW_4CLVss0fVnd_BcKN_xp3P3hzCK_zqTMU-Z5ZsUcgUN2elY7nJzjinV_
+l5ZQzLpxxAzAaYH9aYH9aYH9alGx
+}
+
+
+!procedure TBOX(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$tbox,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

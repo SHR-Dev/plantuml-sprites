@@ -1,0 +1,16 @@
+' 3ba156505c29eb2b8889e801eabdfd6e2d0be179
+@startuml
+sprite $nexus [256x256/4z] {
+xTs7eI8m30L1I-w_vei_4JhOcGuU6RF0QG80O6OpPhhhFypZ_EsPX_Nb2s2Z9dlrVuZFtudlt_Zy7VljhxBVVljFVR_NVrdZ_SzVtVaVDYb-_jK-09ppR4fE
+2W00003C7zlmVFxd_7U3fZr_zQ_f_Dd7t_e7_QlzzfUv_ktlqhzw_QD_rRyMEG2OTFywu_l_FqtAQG400020yl6Vtt_DcUxy3ztv7_IlFl-tN_zbl_ts9xd-
+xO_Il-fVzQ_wL_z_SsQAytt_t_-VbG00001CnjlnUpDUZlzcRynZ_tY39Zl_mpxCxzu2RjQah_wFUy3Uz0rWRdl_th2rVszPVR_R_zZVDLx_n5__fcy0vx_u
+-zypvVdPky2a3q3R_u0r9mS0003GFwx-iKF_g7_KF-eVzO_wH_rRbltwF_l3rdxzO_prd_wnE_y__MEE_d7rZydVlxpLtxy40000q7zsw3_rd_fF_UV7_F05
+uFF_swN_r3_PNsQ_st-M_bF_gV_KV-e_K_IV-i_jzPz-_n8007u3
+}
+
+
+!procedure NEXUS(object_name, caption='', xscale='.5', xcolor='#040607')
+card "<$nexus,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

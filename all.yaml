@@ -1,0 +1,101 @@
+- name: kubernetes
+  path_filters:
+    - "^((?!128).)*$" # only do the 256bit 
+  paths:
+    - input_images/kubernetes/icons/png
+  name_filters:
+    - "-256" #remove 256 from name
+
+- name: thirdparty
+  paths:
+    - input_images/third_party
+
+- name: organizations
+  paths:
+    - input_images/orgs
+
+- name: azure
+  paths:
+    - input_images/Azure
+  name_filters:
+    - "[0-9]+.icon.service." # remove number and excess words from name
+
+- name: aws
+  path_filters:
+    - "^.*_(48|64).*$" # only 64bit
+    - "^((?!5x).)*$" # not 5x ones
+    - "^((?!_Dark).)*$" # Hide the Dark background icons
+  name_filters:
+    - "_64" #remove 64 from name
+    - "_48"
+    - "_[0-9]*_(Dark|Light)"
+    - "_Light"
+  paths:
+    - input_images/aws
+
+- name: google
+  path_filters:
+    - "^.*-512-color.png$" # only 64bit
+  name_filters:
+    - "-512-color" #remove 64 from name
+  paths:
+    - input_images/Google
+
+- name: hashicorp
+  path_filters:
+    - "^.*.png$" # only 64bit
+  name_filters:
+    - "_RGB"
+  paths:
+    - input_images/Hashicorp
+
+- name: cncf
+  path_filters:
+    - "^.*-icon-color.png$" 
+  name_filters:
+    - "-color"
+    - "-icon"
+  paths:
+    - input_images/cncf
+
+- name: platform1
+  paths:
+    - input_images/platform1
+
+- name: oscal
+  paths:
+    - input_images/oscal/v1.0.0/
+
+- name: remix
+  name_filters:
+    - "-line"
+    - "-fill"
+  paths:
+    - input_images/RemixIcon/icons
+
+- name: office/Positive
+  name_append: "_pos"
+  name_filters:
+    - "_256x256"
+  path_filters:
+    - "^.*Positive.*_256.*.png"
+  paths:
+    - 'input_images/office365/Core 10 New Icons'
+
+- name: office/Negative
+  name_append: "_neg"
+  name_filters:
+    - "_256x256"
+  path_filters:
+    - "^.*Negative.*_256.*.png"
+  paths:
+    - 'input_images/office365/Core 10 New Icons'
+
+- name: roles
+  paths:
+    - input_images/roles
+
+- name: istio
+  scale: '1.0'
+  paths:
+    - input_images/istio

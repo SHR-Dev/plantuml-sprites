@@ -1,0 +1,16 @@
+' 61073d76ea9360313b3ce9fb01599034b1da1994
+@startuml
+sprite $onedrive_pos [256x256/4z] {
+xTe7bYCe38P1_zp_phkJD3cvmU-DKDKDFa0TR3tk0W000000000000000000000000000EIJYUNhEycS-FKBcHjVChQ-P6nzoTZyChQ-P43-g0DOJnkRNyRc
+bx7vPMn-6PjVnkQNHtTPMpBr-ikZgoJhX6cllfHCZIzJwqkcrfTk-NCVm7gDgPTVCZI_P6f-QP8_-G6isVthvP9vhx-KZCql6VVwIydKwoyPU_rbxFMNiTTV
+RkpFUi9jppyVj3o0jI-bus-1C_MbtGF8Vdph0yYn-j9h0d8mldHw04Vho_Nz-PCs0t0ylZHv0EVhovNzUKQ70NX9VBcgF-NO2JJgpvlzu_tPg1_IdnshUNys
+wtltPqltFm2oPxNep_7ugk_SdqsDFW4u7v_Mdu1asshSdmtjFmBDXiOVWP-ixzYVgj_LzKl07B6UailwMwz1P5VtDP2n-IKRxjY2UgjRrk3oDlViWcxKzyul
+6_NDyqkUSUCo-DpBBuFhozpwShe-xpswoIcFJW000000000000000000000000000E1_
+}
+
+
+!procedure ONEDRIVE_POS(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$onedrive_pos,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

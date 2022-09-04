@@ -1,0 +1,16 @@
+' 4884af7a075f6f49c51ceec817ecc0325bc5424d
+@startuml
+sprite $resourceexplorer [256x256/4z] {
+xTs5eTrG34H1g_-Ymnl-V0FopbIWyy0Crwq100000000p2VNcypIz0SzMJGFMrT_Nd5zrEP7RNxKvaTx_zJcHtl_rEP7U__qzaTnVwpjF_UXBUm_z1d6iluh
+RlS979XrzITmQj1vZJlqnxnASN-KzVzzVsVvzpzxyznRy-FjWo-jZoEZ7wZzxpw1gT7UF-tzKzmVzH_0TFT7U_zKv-lNhr-__cdkrp_T_TFTFyt-KZq0003E
+FqLjVDJMkmmbQlEZDJzgywCsFshpexS-QlEZE3vwwwCuFehZexS-UlEZDZzgywCsFqhpzOT-_PNvKTglFqhpzKTfl_wexO_M_AZDZz9-_Q6_ELz_Nxv-_VBr
+wzS_-lNhrz-Nhr-__Ytqws-jrw__TLsL_VETmlwPxzNrpq_qwzV_W7ltwzT_FQ6gNxz-_VhrwxV-rp-BdE-VgUwVxlxPvcI__jcdlNyEze_-XOxrZ_wTplJF
+NYVwPxEt7_-UvTxKFtVmwlwvZUiXFQzaUw2_YJUFz_P7UxyFeBr_slkdlNzgywCtFyx50m000000043x6VWeJe_Y-cYEZyRs_G000000003U0m
+}
+
+
+!procedure RESOURCEEXPLORER(object_name, caption='', xscale='.5', xcolor='#ef9911')
+card "<$resourceexplorer,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

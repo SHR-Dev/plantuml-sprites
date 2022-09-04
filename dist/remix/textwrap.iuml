@@ -1,0 +1,20 @@
+' 893abc3df8db9cf31ee38820d24229a9adb81307
+@startuml
+sprite $textwrap [256x256/4z] {
+xDYv5SCm34H1m-o_PpjJpdlrPZhuq4bytWa000000000002eIF7nuzBhnqt8_yOQ7y2Jdpg02VajrFW0dlpK0Optjs3wIty__VfRDFtwEtZ-zUlNx_nJsVqr
+tl-NMZ_GR_-Jlm2SiW6kQFR_Wm0000000000000007xit5jotJ0CWs6J-zzpx_sVMaGpjCwGWl3S9ldWksnfGA9ZVFGw7-5dgtoo0g5lLCHEV_PEeO7Pwr_H
+mCu21BzH1xg0S-R_wmQy_8G2minFAC30hmk8z_tmtHh0Fwo0SF3h1Wpyya8G1kS_qO2Vdr20fvyrRyFHJm7l-jFPVml8PYaKSDJuLy4_QFnJvoC5T0mD27yS
+_WQWKC3mqC3_2iZ32w03mmB8IW7FqJ7T0SZT0NG1OLD0YXt0jG0B_oqWViROJm72RtWLe837em1NFmLu7W1wdDB6_xZxhpyiJu3a-g-V0iZrN__r6-Jwh__w
+h__U_ntYZr-nVVw9FwdwOwO_YE7pFmEQ-9t6l-1JG67t7-jdNbUKDd-EvUCt6_-7__SDzZh_YCC_uBFzIg-_Ol8tJVXN_iTaFnOm-0jy_3Frsg_vRFxHNt9y
+AL3y4NvD-KKeyMCad-0_yVi_VGt7N-77tAsFFuxdXxw5KHUB-HC0D0K72IBuR_gZa6Mzs975z8y6_5e1aeBbNtJrVzxcLzOcAkZ1gDbV-_bPYFmpj9u8k_9l
+c66Xecz1DB_l_DUeJG3Nbs_AxUpFcZ-5lpSVV-sFYH2RVmT_a3-5lyWVuT_4j_Kd_3Rh_tpGZpuUDpzw-0P-jV4DZd-Xj_3hyvx1zLziV2D_2duJ_yO2Kl27
+FFza2Oy-6gx_BEx5gmKK5i1kEFwZhGihe3TT_vq_JHQWAz1szBiInImF_wRW5uQOcu__hwnaLANNynfUDx3u_kFG5Gpk4WQ-4tZr-t-Z0cpzt6bv-VL9C0ty
+wdPOy0sMDCHlsG1-guJu_jiZ583Vim363omBiFBh-L_61S2tyvF7Cgvy0jyttlhlxS6n00000C0WV-j1xAqk000008
+}
+
+
+!procedure TEXTWRAP(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$textwrap,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

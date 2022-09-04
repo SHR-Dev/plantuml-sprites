@@ -1,0 +1,10 @@
+' 089bbcbe78be65bc33637fa5912b14fdd2abe1f0
+@startuml
+sprite $powerpoint_neg [256x256/4z] xS6100000CEW-rD_8DK20000000000000000000000000000000000000000000000000000000000000000000000000000000000001m
+
+
+!procedure POWERPOINT_NEG(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$powerpoint_neg,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

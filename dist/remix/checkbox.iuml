@@ -1,0 +1,21 @@
+' d4b87c4b8ee94cf3bf065600e9c69eb044a70458
+@startuml
+sprite $checkbox [256x256/4z] {
+xC410G00004W_fysH9Kd0000000007JitOUksp0OG-7ep_i_SxVBRi6WWLD297Rd_KwMxZ0IDzpExrd-1Et10ewTR_00N_ftndugy03VeCCHVB_uSLC0s_-E
+t1D-yLC3-3V_k_xGsG-0-YVPN__u_dVziQk__lhhhx_--kkll_xwww-__lhhhx_--kkll_xwww-__lhhhx_--kkll_x_37IoVxxkKFzeZ9_dQu2Vv_zq9HBZ
+v_ag0FXn_kkd0YVvr_fkKG703_6bLm30p_8r1G3yx9LS2W3uGJxdv_d7-aVyNmRuoTTzrC_pQJ__q3_myI_-CVuzN_uX_Jn_0UTVuDWJu8Vu0NwNlmn-i7zc
+pmVy4Vny_wNVyY4_pvSUyAFFVE8JVlxO8pxav_aRVRR_aPTztZzVnXnwUVzS0_YSNmODEFIYVidl1nYBp_kb__7RjC2n1_B_X5U0v_Wtz81V-Fi1n7yPVDOl
+_VQ3lizNITw_5zmDu1zxUF-_laa9y06_13Vkk3wVzukmUUHQfxvGlmAufxw0-__cutVueNu9l4DlW7yNO8nJNwPV2Z6UvlD-MMv3dZtqylvT08lF-_rlrnkl
+-md-VG2Bp_lz07E3d-KNQVzE6dFZTJ_BlpTf1X_t-m6MmGVyVe1rJLydC_Y0txy7Q2QVz_i1NWOVyDi1DFscyReF-Cq0-otnK_qw2IDlDyNx5G3Zytu5kEz_
+f_iL0E03VZk0-67-VG24p_iL0E7pVWL07lkyNm4GFkzNW8NmURyA87pUhm08d_Shm8OVuFS267pMJr_9bUzN08CVwzUdmmO_sQy01Z_Phm06Fzcl00O_tAy0
+1Z_Mhm1hNNZn3_0hW2P-cDyF8FvP_XdfnJ_2hyjZBlm9Vl_gg7o_PkYp_PgXX_nXgx_--kkll_xwww-__lhhhx_--kkll_xwww-__lhhhx_--kkll_xwww-_
+_lhhhx_--kkVOBxhhtzb-rVzzKDF0FaF__gN0aJod_5F95z-Fy34wSLt_MkkvT0lllnEW3M1M-9RMzyMPXVVtigSzFvEjdzi3mu80010403zVzsDL2000000
+000000S
+}
+
+
+!procedure CHECKBOX(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$checkbox,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

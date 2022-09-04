@@ -1,0 +1,17 @@
+' f74a582cef8dc4254631655ddad3144a39b3e85d
+@startuml
+sprite $blobpage [256x256/4z] {
+xTt9SUKm38R17yu_wBco1bvLfln4z1S0XTP-OyvDaYH9aYH9aYH9akhOnk5xq_IzOVpUC7vl6B_t9VzjgHxRnuxF-M-7rlmVyGUUWCQVTGAAdx_nnvo0ckUl
+nX_bvoz-_iOVv2_-OVn-0lYh9ldv-TUc-Vdv-VdvVV_uA_x_-VdNHl3v-VcJT7-DuVEFEW6TFzl_yGcOnkV_hn7yxkzde9vVqtT-Qc9P6ivFXlEJsNx-pERp
+PpW_m_d9R3z_9lFv-JESp_zf_FnfzROCj_Pd_dot7VIrF_7dHst0hztlpxuHSw5j_ljdpAKUuCz6VdAhVz-CkTmH_Xpjpo7-lA8_1_Xpk3_x_FovnyyVVdv-
+_b-Ta9-_-4_-_wcnVdxt__uFmEFzES_Vs-VFQ_fxJ_3N1l_QddNhnztbxsrOTktb_ScELTTUpz_RWL_RuNzMu_ozwVvCzoVJ_PdkptH_PllvCzFFpy_Fpnz-
+Viz_q_3py_Fpp_d-yVDx_ldvM_pynS_Fpy_Fpy-_ni_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fp_-A_El-uZ-0FynVr_szC_ZN_NK6_xg_pj1VzzVU8U_IN_VN
+zlcsup_tRpy5suzW_yirVdv-Vdv-Vdv-VljVXv-VlpURpv_PVFuCvoVJ-Brn-ju0_4b9aYH9aYH9aYH9alGF
+}
+
+
+!procedure BLOBPAGE(object_name, caption='', xscale='.5', xcolor='#33cce9')
+card "<$blobpage,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

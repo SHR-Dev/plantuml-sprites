@@ -1,0 +1,22 @@
+' 229fb4e99d46c1cdba0debb1924461afecd7a63e
+@startuml
+sprite $inputmethod [256x256/4z] {
+xC410G00004W_fysH9Kd0000000007JitUckupeC0-2GVVzdlglkafc6nzFo06PA_WwCVfAwEt1SZFRKUFaCYh42mXvG0mkVaqT6JXKmyC_qf28O_CCFp1J0
+uNz4nk4VVd01tc__e_xGlFq4g9_9_lhvllzHVspghxz-cVhhhx_--kkll_xwww-__lhhhx_--esfl_xwww-_Vluld-RdatoEdyyJuFVnyKCC5GZouqa2_4x-
+qtsc0NuRtr20NF_nKmByJhueGBY_Viqd83RRyVP-NFjnTp-_zZF0x-UF7n_YbmEGxzTy66usIlOVbqdo-zkl1o3VV-AB0gJxwzTyGm5o_SSNkRCVQtwa-Ftj
+rmEGxpyMSbi_Llq8yDVl7N_z1CZtruzrFsxdvw_wUKF_iPW0V_s6yTTFW01__HQ-Ba2-d_NZ1J_Z_Rhzm4GL8Dy_V5pnnMu8tiL_GHG5oFVhzkE7Y078zak-
+VWO4-1tJhvy1-NvS-JcH0v3l5tnLW6Y_vXzd_eo8eG11VfvoPx_cwm78zqFvfqGax-cdz3ycqizml-Rh0iJxLL_NvkIUVf9YKEBzkgsuy8jAfVhNktf3lqQj
+bugHVZt-ebQfVaNIVdrnh9zo_7rFWFlx6UFNV3t_lBWwqy_nhuharOpqGudMfmM9VbBVw7OoyUkhe_p3lnQ1fwnS7UbN9qg9mug2_Rhz4t5SboX0a5_m9m9_
+8xyb013W5yz-po5KKNvu_GZq7xO4-0NVLe0CV_t3ToR9p_7x1o36N_zX3e0SFpxPJ-4tl09c-8zFzkDx_8Zmyplz3F4Vtv00lsY_Qm2I_LXCi9-NVlnAhltS
+tA_vN0Y0ooLszrF-ZRCQ_SVH3dxDnpL_RGszoDv-zSZVhEA-Vlt0X-zQXxlwPTzC2s43l-zH-olfzvisFD1ro-GsViCE1iCiRUCVlg7zQfYszLEttxnzPa-_
+Rh_fYyIsVjEdzedmOq-_uB_cPv2Vqlzu8Ve9aEFdwtw6-M5hlruovVLl-8Ojb0b-0e1jwzuiUR7cbdxY5C4thBdbznyZNw-veV_12U0xrOgJyxex__v5ElHw
+pJtz4uFTjcJFFwo__dFghx_--kkll_xwww-__lhhhx_--kkll_xwww-__lePp7_NNp-o_QY__ezv0V3VYbm_IERoFNv6yiTlAG3Zz1x--SRT8FhmSJWA00O6
+ahyUJCBimtS4eJby-MJxx-t10G4000W2eF-lkv4A10000000003W
+}
+
+
+!procedure INPUTMETHOD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$inputmethod,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

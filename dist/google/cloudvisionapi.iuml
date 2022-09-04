@@ -1,0 +1,17 @@
+' 07ed8580c08b7a67e51d934d5c1afd02ba919fc3
+@startuml
+sprite $cloudvisionapi [256x256/4z] {
+xC610000082W_QaNgG8000000000000000000000000000000000WDcrZ-J8WHY8eahS_yxotZKMOBm8WdyzfbvsaMEaHhuazLoIZVZKUrasGJxZzrs2J_fF
+RHaWbVgrL1Pz-EmAU3uTmFCt3r0tE_cxxsPPSFktFW6fHbdmyU-y0AbMbt_1zL_u0AIQNVvJLkqkF-tofv_rfnyVeDfP_i2lFE2N_EVIJltvbtO7lmICF-t0
+Mt3Wxx_JX_C3L2lD_rpQ3VgdpmK66FZ_3y-V7w0Q0VxKapRw_v_p1_9NeEC_y3H-WBePu4yECF3rBy070nY-No1fy85-S821xty0VF0CgBll1yWF_InVBp3_
+_MzE_xcqc_t-nm0-FuZd-wDuldyIaTwVn_FzVGpY-qDvlh-KGCzFvld-R9xl7yr8llzyW1wSaV3X09uF1_1ykG3M-m4mtm-0-Nu0pVSBOBqV0FFz09Zl1y1y
+ly3Cpp_R5GZWym4ytm_W-VubWFH-0C_tpq0Gtm_W-VuPW7e_0ERx0GxY-pJVX_K-pFTXla_pVLZlmtmVvliqtuVrFiptORvFytrOxyDy7-RxDD-7zJxCzs6-
+J_DzME_3V1_c-pJVX_K-pFTXla_pVLZlI-uUseC30G000011_jOh351T00000000000004
+}
+
+
+!procedure CLOUDVISIONAPI(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudvisionapi,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

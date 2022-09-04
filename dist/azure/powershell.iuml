@@ -1,0 +1,18 @@
+' e323e1bc77d98ed699dffa55b42e00194be7d2db
+@startuml
+sprite $powershell [256x256/4z] {
+xTrLOjm000DHAVU_Svbh5HSSpyndS9-PdKjdPcPcPcPcPcPcPcPcPhrc7FoEejzHz3iuluNpsz_mNovQlyJXxm6m-OW1iFcq0Q2_WmyO05n_l_AP_i7d302w
+lr_rM7_9_fRkhtxz-Z5y_Iy4ltxz-lNhrwzVltxzxl_frwzVl_uTcQzVVpby_VhJdoBnzQS_XUAJ1i2H_d08iFZPaq0lqA0CFwTy6rkVXEuFd9-m-Vh3vkiF
+cQzVVxXy_VhrXyZNhz_vNxz-_VhrwzUlN__-PQu_dsBwyqr0VxwBxW_Ddn-Z-uFovo2wFso__j3zeVj3zuVkJn3-PaVtXxB_imFuI_UtsL6EVsQ5EVwR4SI_
+_mB6tnm7yUjlHWo__cP4zoSCVpEZ-uFmDpk4lzaX_6rc37-R5SJVbkvl3kFug_yeZhz4ltxz-bt-wtVxb-nt_m_iPn__yFZNSMNxYpt-gz_pF-NwFVyBl_u1
+y_YlQru0TmC-mJz-6U9VlylmPrI6FwCo_1cLuS-eR7_P_YByj-VdSx_-zXNz-QlExB-bV7VQ-V-s-jr9_RVMxyxex-tvkxFvRyy_lx_FuoSds_yfqjz__J2v
+YB_Zvm3-_oh_tolrwtVwrz_B-VLJjlztbFs_tPMEV_IHFGVl--_qwzUlNxz-_VhrVutjT_o3-VhrwoUaFpEsNt_W_C3v2TqVYdw7uUy0-2jbPcPcPcPcPcPc
+PcPcPcRs5W
+}
+
+
+!procedure POWERSHELL(object_name, caption='', xscale='.5', xcolor='#33cef1')
+card "<$powershell,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

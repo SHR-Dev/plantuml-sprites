@@ -1,0 +1,16 @@
+' 36c44f82aa8eceacea5845159de786eab1108aaa
+@startuml
+sprite $layoutbottom [256x256/4z] {
+xTstOKCn44H1tg7_dXNHPLfvBUTrCDzRu5AV94cI94cI94cI96awwiFdVLI__xsvblEtfdG1FEdFF-vf2KJ-AxsWwm98-QUct7_bLos0o7-g2ltRvz_4pt_A
+2lpJwXz-_k3mn_-I9m1-_bCNFpy_Fx_p7py_Fpy_Fpy_Fpy_Fpy_Fpy__q_6py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fpyzl_4D-Vdv-Vdv-VjT_vZyn_zFCTfLFWFUQ_6jJs2Mfa9zMZ9SaIP8aIVBym-E_zWNW-RVt7zv_UV_f_RVl7_Zv-Vdv-VdvNV_nTyJF
+py_Fpy_Fpy_Fpy_l-GS_Fpy_l_CVFx_lV_Zv-I-bVjz_lZF-wVDFwDyc_eS-WA_ZX_xT6dtkdxtst-bNVZp-qRRqcH-W2knNVjQC0P1AxFr9aYH9aYH9aYH9
+aju
+}
+
+
+!procedure LAYOUTBOTTOM(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$layoutbottom,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

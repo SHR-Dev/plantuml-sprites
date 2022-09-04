@@ -1,0 +1,17 @@
+' dc94231e82f8d90720f08a07689ceb3895da2b6c
+@startuml
+sprite $menuadd [256x256/4z] {
+xTr9Wfmm343HMBx_dRFBgfJ1Y0f2xrs0_ZKZskR7Em4000000000002hfJ7nkIdrkOByQElw0v3aDte02l9tKzSVW2I_qGDmlNyt5lhrdzElVxUcN_y1xt_z
+-lKx_rcz-rT1VzT7e6e0qjZi0M3917YrPlx_VW000000000000000AkjAVMvclnegU81iFzLj6R_A-k_hV_Nhr-__N_qwzVlyq-_VltEVvp_cd-OVvb_cd-x
+_l7_0G00031xmBC-69QVZBUdz2VtjnYKdzpVvDNoIx7J-fFhkmCaTsAQr1_Z-_Sl-lNhz_dd-q-_VltwNq-_VltwzUlNhz_lF-V_Sou0hAm_rfgRlxzn4NHL
+EpXKrhyZek7jtu_g8rlZ5tVlVrM_BElaIFkpsvU_HRMyFt8xzOT3LUJNBqejNsgRlpKkztzdKNAUV-wP-r_b_GFslygUbNNBeHxQ7v_wOqh_plhty_hrxyxz
+Mx_-0zx_-lNx_VV5F-gf_VtE_-htl-fv_h-B1Y3LylxSRpDpgsJ_gqRpl_e1u2Fcl_a344K3uDmT-MK3yEBw-n-2uqDb_Ilr_ik_UyWACDT__V-dVltwzUlN
+hr-____Khr-_Vkk_hV_Nhr-_pp_VVyv_xFysP0bKZEfFztyS-m0Csm7LBOukrmC0y1C
+}
+
+
+!procedure MENUADD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$menuadd,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

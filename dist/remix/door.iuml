@@ -1,0 +1,17 @@
+' 33d36b8bdcfa7936817c3abd89b661f069606c6b
+@startuml
+sprite $door [256x256/4z] {
+xTs7ZU0m30LHa-g_vilQlCX7VK1l2l1WdBCU000000000000000gWflRDyVg-p1dPi1kps1-3hojNmVfVmptx_eLmPu3q_qhXjr_QVwU0QFzw-R-3kjV-dks
+VuKnrg-_KljB_mJwEx6_f_hrwrzn1FJhxm5o-tk8mFvTN_-TFvhG_XeXeR_FvN-ZFzzVLJFwIkoVyqVry_FFttyAwzUlN_-OFw1V_vL-Vdv-Vdv-Vdv-Vdv-
+Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdx-Uizb_VMPM_ft_QVVUbxL_zMFJU_et_aVkQc_kx-OPbtJ_-L4R-clh_hNDVtwTxv-_Qy4zUlN
+hz_-Jx_p7_skVrp_kl_X_fVxd-v_U_wHx-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdvpV-kVvdY9n-_Vhry_ElMV-A
+xAyHVMf_rn1zldzzfhldyrz9wE-Ug8_ht_GGQwNrRsRga_hd2UZNtt7vK_twzLTYV-dNFq9g_wF_rWD0p_PNNdyDztVSujT_wGpedJ_RtnsLNyySRtzLUJfz
+CdzJV-WGwW_FAFMFWFPTFqj5yHmXf1q0000000000000W9y
+}
+
+
+!procedure DOOR(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$door,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

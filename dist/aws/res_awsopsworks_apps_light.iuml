@@ -1,0 +1,17 @@
+' fad71b207196a1ccf1a2df774c0463897f2f41d2
+@startuml
+sprite $res_awsopsworks_apps_light [256x256/4z] {
+xTn7bYiX44N1ocJ_Q_u6zP568ARzY3ikGyZRV6vEaYH95TzNV0StWHj-vxU-07xu8xZj1L0VVVW5iBxwHtfx_xZ1t_VwUrQrkFk_jqcr7_cJ6-Dg_pZqLs2d
+_Z4tIAkgpltrv5NJTw__EVVNrNx-vi-h-Fdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vb_RVpy_Fpy_Fpy_Fpy_Fpy_Fo3dvz_lK7d-hj7zyx_gWByMzzYWsJ-zEzz
+DRUe2lK_zMwpGI3_t9VCdsrqaYHLP4Vm_FRwpcx_yhTlQEb_yKTotUO_cVzqityx_sZwEna_p7yo_-d0NscT-qUQtlmht__oc__a-kVt-CVFpy_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FpzzdVlwwtJ-tgAZwqDzpYxZws1_RkPz_HDMVrlwQwcaFxQl_Fxv7lF_P-3lUNxLvXP1VhVrrBNzMLNKhVrOtzEmB
+nz-T94cI_W8
+}
+
+
+!procedure RES_AWSOPSWORKS_APPS_LIGHT(object_name, caption='', xscale='.5', xcolor='#cc0e66')
+card "<$res_awsopsworks_apps_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

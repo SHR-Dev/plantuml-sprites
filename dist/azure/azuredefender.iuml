@@ -1,0 +1,17 @@
+' 75cc3e3e2aa00df1c40f1c3e1909a5a88df9a171
+@startuml
+sprite $azuredefender [256x256/4z] {
+xC4n0G000C8W-wVsMmfW0G0000000000000000000000000000000000000000000020js_N20u4CHH4g-v_wOsim4mzRgr-6JB36qRfblAzLEcKg7mh-_bL
+NV1j8_sqyo_WwrW_tVZnAoxukYw9BlYwFcd3JK2PdEfqlyxsnozJC_xuupV--EEFF_vXlU_NqNvLv_eznI4figJt_LNlpTItljcV-3N-1JNoouA4qNwszxEp
+dyd--3ccNVrRdwlnejRJe-_ZhSOSD_L6GovESB4VOVBut_woq0RyfNvOnKVPtb-ToRlxaGNruSVlR3-A_2pLaITjhBQO00LS3LNmF7P9SId-CZRB0_dnirjg
+_D-i5Jz-NBm0G2ic-44hH3Rtovh4iytDQVvgRx-iRby-gCFlaT2HOx-otjMlia51b0Pz_VoE8dtIYlVoV41AI_-9ehoG0YfuYbQfLN6U3oXyH_-5Nk0rFYZQ
+V_GBWW1Fwr74gla0qDVzvz4hhR004_bMp_grlH-_MVoqQpWVfliPpA_yEAHvlXd_flZZ7yo7-EEFVomVfliPpcSu7uRpOJ2_cckl56-434ayYsdDvLT9PNqf
+fPHIIYcbbD8V
+}
+
+
+!procedure AZUREDEFENDER(object_name, caption='', xscale='.5', xcolor='#66ffff')
+card "<$azuredefender,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,17 @@
+' 508af07969c4a1357ec819dcc1935371013524cd
+@startuml
+sprite $yammer_pos [256x256/4z] {
+xC610000082W_QaNgG8000000000000000000000cFswIem31e8WEZLx_pE7auwMmI2hL3y6cLxBj0b0pWSv7-HyaFD1paVE1paVv7oGyv7pGSu7EHyv7-Hy
+aFEHyq7EHyu7EH_aVEHyaFEHyq7EHyv7pWSvdvaf_NJStqhwzFNz_LfVtT-j7c3xNsxx7nq0kfjL_FsOd_uJFZ_zVwlucxlgfFDtqldxKWZydNJ-ljMa_lEF
+YgwCzOXzVl_vXuNNlbiUiC_lv-m1MUMwln-8cVsZfAxxOr_6NxT6IR4luEywOyrRNsa5_taixyBldj4VBMT--Wt-pjdHzIlyyN9q_HP_vt2uVea_OeRhz_Wx
+fyFp6ZyvxlVZDtFwWwvyzwly6O2ydSfF3M7pzz6RwVmCR-NpjztFy4O-Vxu1SFh9soZz_SxNl_qby0lyNl_s7-p-ms7xdunf_Tk__TjFtkHT_3MnFmEqqf_U
+pO_Ol_tRNp8_8FN7IpR0wCy6bCi_Wgco-Mj8vjz-QiK13dVxQzBu63yrRQ_e7_0lrY_y8z_-wmrWlluCOBl-rCxhJ-tywKzzNvHxW2hr09HxW2hr09HxW2hr
+09HxW18alVvqZQyUe2n9hpz9-UaiNpr0oP9UVvBoavIVvFmCKDR2bqOtvUrxUt0W00000238ttgGgmi0000000000000000000008
+}
+
+
+!procedure YAMMER_POS(object_name, caption='', xscale='.5', xcolor='#fefeff')
+card "<$yammer_pos,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

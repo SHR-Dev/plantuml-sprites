@@ -1,0 +1,17 @@
+' 9a5382108cff94ab50edaf8e2a5372031585ee6f
+@startuml
+sprite $waypoint_verticallogo_colorwhite_rgb [249x256/4z] {
+xC410G00004W_fysH9KB00000000003GiLilHmw6C023l-s_wIqWrzyC7i4rJo57pbS70FZYgR_dId80m0TFdULcIFdtv1Q0ZmmxJUL4bGEzla5ns24vx3IL
+4rLEKtdsBpj0RQL1STY1ODzeAYUg7EZr3I2tqcWg1tfz0u9zewdS5U00u8noLv0302VwvaPm1rOQJULSGdxuad2ZylbBSYNvl7AYoe5Utu1Utr1G_lksD9K3
+lRu12Aoq1U2FVF9tWPLzUyfhvAzlm5Dk0_ZhsrjfJ_dhsrC-0RvV-G3tlfKsmBr0-GBXKxKUu5xGjm7X2uPzW7k1yW7mBSe7kFVqRO1xWV81uKkKR-FsTuBS
+Sl8Fk5lAQIe7Udr3KxaeEH3i6qtbH9NJL0vGMscG77Oe3ZjHvJIL0xs-eQcSfd8Ws3SaXvseSfhAWLxVq5HEKxaxpd_xSsp3C004CMp_hJF4NsmB86irsemV
+slRv8KsF7zhs-I5DdnzIuyNpGveU7xJDyq6Q71-qpVD1cZmVfCdnGTiy7wJ9yK7RF1-aoVD1QhnqFaYJuuEsUJv8a-E3jda-I5y700000000000000000000
+0000000000000C0F
+}
+
+
+!procedure WAYPOINT_VERTICALLOGO_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#33cccc')
+card "<$waypoint_verticallogo_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

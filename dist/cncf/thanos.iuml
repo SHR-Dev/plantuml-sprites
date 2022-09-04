@@ -1,0 +1,17 @@
+' 5663959d0bee00e5fa41d67c8d8889442b492b36
+@startuml
+sprite $thanos [256x256/4z] {
+xTm5akD044JHBDt_pikawAKnzIZo_M1ZFRD5QKwID7Nbr57NDFhv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdvvuezpZ-vOFpy_Fpy_Fpy_Fpy_Fpy_Fpy
+_Fpy_Fpy_Fpy_Fpy_Fpy_FpVA_2_f1lcVbRy_Fpy_Fpyjyy_M_rPs-tddtEt--VSPVmvDJVx5zdp_Vpy_Fpy_Fpy_Fpy_Fp-__FFsh7LFskMVrx6py_Fpy_F
+py_Fpy_Fpy_FdwLfya_Mzlldt7x_d7kwFwTckp_dNkm_-F_nDYdrdpGNzVFpy_Fpy_Fx_UFtB_zHyV_Nye_z_cFMte7Vyaz-Vdv-Vdv-Vdv-Vdv-Vdv-_eST
+_sSvumB-5-p_kjFFFz_Rx5y7Uer_cNIt_mO5Fpy_Fpy__otNtEzVxy_lN_vB_V-r_8EVdv-Vdv-Vdv__1V6dqS_Fpy_FFzL-_lJw-Vdd7lzywxylSxj_lPtz
+_cNI9np_O9tpiVuq-_cdt9zcF_-K-tE7dtzUw3-UuPyapRz_q-sVSd-Q_VnJxa-tVyhzwVQdsp_b_dJxfzi_sUoV_sZBmtyqDDt-IRS_tVvq--S6Vmq_vVoK
+yrFEJpa_vVoKyrFEJpa_1Vn6VzBid_ntvVnqwvDoVhhrIRS-wTOdtVgaMvzqwvDc_FNzCxcpgziR_NCRNP8aVGG
+}
+
+
+!procedure THANOS(object_name, caption='', xscale='.5', xcolor='#6633ff')
+card "<$thanos,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

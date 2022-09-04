@@ -1,0 +1,15 @@
+' dbb03303503328e7e1c74b97f9094fc8ca03b4ac
+@startuml
+sprite $more [256x256/4z] {
+xTg7ZSCm40J0fzX_pPyFy3c7DK33CmKiRnqbKX_F000000000000000000000000000000000000C7wzLbuolSJIIdo-lD74uigJvrjjtd4WFr--_VQhLbW_
+Bzy-iqAbzSJuVF7sWHLw_Hwuo7nTJv-phv2fNtdv-JBrAxlih71__RcZubQOh-lfXoi4whSN83rVgFuyK0i4whSN83rVelyygl83zTiBa9_lVWVn1mi4whSN
+83xV8qQw_-NtQmJco_QVP_D7kdzyldp_Sa__xLp_BTf_hjP_NFwywZ_Uex_--kk__k-__xzjWUkVm7okVzt_kF-DxY-CXVS_Aj3-Lsh_SslX2-n_1kQp_-ty
+Ou7phx7e-PVpJ-VV9Pi-ziJdoml7lzBpBvv_0W0000000000000000000000000000000000-08
+}
+
+
+!procedure MORE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$more,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

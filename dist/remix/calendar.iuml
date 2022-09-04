@@ -1,0 +1,17 @@
+' eb5b814145b1a248a7ed47928af02c36454c74a8
+@startuml
+sprite $calendar [256x256/4z] {
+x9W73W9130D9ylytqw-7igl8Celd0TPCw9pw4K888OGGjWSmoeDb04Q9ydr3WQlbg-pv4nNzFi5yWCaqrZnS0QCCF4otLFGdeyxQ7v4S031AW67xZQ_VSVtE
+sH-0Vk8N0AnVxt_gPq7zwbU_-atV_-fLZVJxNsvQh_fcrEZp9zLkLtk_2gXgO39DL1EWeu1uyokHuPaiVhItthydSZm1E6eJxVa5egahVhNr09lw-64w_pEU
+ycC8fWEqviSmTFL7_EK1fluOYiR-ItltLS0m30HHCAVmnvn-0FOpwtaCnhrAfyz_-AExph82_xJwXvy_EFpnN_84mCz_hukVdv-Vt_clri_Fpy_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fp-_z5py_Fpy_Fp-_wp_VlxV-_pF-_mlyJUK_W4wNFlq1lB1RLBbUaYH9aYH9KrMABopbTpt-ZHz_bpNUVnZ_p_jVx_zz_y7Fpy_Fpy_F
+x_gFdv-Vdv-Vdv-Vloj-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdx-hlZv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdBukVdv-St_Wi_Fpy_l_CVFx_nZ_dv-RTE
+l_7l-OC3GEFkR_xpP07qyTC9K6hqkN_EzjVqxT8J84q-1TPi1VPlvZ_BAx7t9qcI94cI94cI94bw0W
+}
+
+
+!procedure CALENDAR(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$calendar,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,19 @@
+' 4c608a44a04905304ba1cfb5dd2580718dee4437
+@startuml
+sprite $cloudmonitoring [256x256/4z] {
+xC610000082W_QaNgG800000000000000000Pkyka2G9eX209dd_EwyxPSGEPK3eIF_yZ_QmUb3megJfEU5y89mFr5z_C1-el_xwww-__lhhhx_--kkll_xw
+ww-__lhhhx_--YzTDCxFQuRvUSimFoyPvkSTm_oyOfYVDypo3qwIVsJx3Qlu_VxjGlocPVn-_su1Vkywv_l5ATvzplUBS_XyGm4d-ccGokVVFSalJcBhd8O2
+JlFJA9tlAS3lN_Qe_puD1Ppd7nIPRoZWDFzOYCWt563mAsT8V4C1P_iv0byemEKt7A7plsQn0B_VSOB0zpm2_7vbw3BVLy3vVexC_ngUulUxvWjyGm5cFyqO
+d4s-im2_dq6B1UZyXJctz3DewSXbFfaD1NZzYwB5CuLxNoZ0xzVvNC1oo6iemEldErGe0DDQmFb-W5ONxdr30Mx_vXqA_FUzlppbDluT4Q3pES0z_Smd4Y3m
+3GMO_SpdGE0R2h3vUUpsxjILkG2__-0z2WXyGm4k_s4I8F0D1PZy2WaANoZ0vTTd2iiJtr20tI--d0F4DnRWzyjFQ43bwmMSxvTCm004lb20tQy_-ZaWlQ40
+Wr_Zw_4NCAm1vdanO0pyf0A87r00yMCB06PM0SnFBW3paY2Cpmbxz7F2-HDPV0xo-Fu6S3JpUlx4D7p_dwzB_VNNNt_zzTTVV_trrrz__VNNNt_zzV_A2_qA
+ltv4FVmvG1IVWuaNwIU6700lqGCFkR3io4Wgl_xwww-__lhhhx_--kkll_xwwwy_d0zaKETgtbOAM_K0B-0d5b3_-13__Vd-wrRaLZ0-jmS70W000022_Aq7
+kHe20000000000000000W
+}
+
+
+!procedure CLOUDMONITORING(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudmonitoring,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

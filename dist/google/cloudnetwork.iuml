@@ -1,0 +1,17 @@
+' 41ad6880cc0e4f6ba2d82f3f62b2ca121f448770
+@startuml
+sprite $cloudnetwork [256x256/4z] {
+xC610000082W_QaNgG800000000000000000cBsxEB0aYc8OMdxvvppGp5eroNO6HwkFjt0fvoVj_fJpat9-KivFolb9EJyfvoTr-k80UNDwyGjwKu2SStAp
+SqvXWEGyBBaWWDuF0VH-2A3tGm2z7mBe_H10xuS0UZy4qFifWDsF0UH-3Y3tSm2vdmF8_Hn0xkS0SZy7aFivWDpF0UH-3Y3tSm2vdmF8_Hn0xkS0SZy7aFiv
+WDpF0UH-3Y3tSm2vdmF8_Hp0x-S0VZy7yFilkryVWFt-0Ept1s2_Fm3x_G6080p0uu7UFz3x1tp_WEyVwFq3lt_0zm_u_W7VFm7VistBbsx--UV_KHFpvvz_
+_ldddt_--UUVV_xvz_vl_lctBRjQMyxVrTfThUtcxshjhjRkQcqTlpb0zcji3h00_Fy7UG3skmEmtns0_Uu0x7S7OByx0FlT0TYl312_dmFu_Ho0_Uu0x7S7
+OByx0FlT0TZl3i1-Tm3somEWtnw0_Fe0uFS70By_0FZz0S3l3m1-Vm3m-mE0tny0_Fu0uFS70By_0FZz0S3l3q1-Vu2Npx-zoWAyVFxnrHTWJ_R-sxuT2000
+0008sfzwaUBuaiX992Mo4cc9l4N28kEHyiYP904000000000000000200G
+}
+
+
+!procedure CLOUDNETWORK(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudnetwork,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

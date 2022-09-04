@@ -1,0 +1,17 @@
+' 34dd7e1fb0c6352338b083133deee7442387647a
+@startuml
+sprite $table [256x256/4z] {
+xTrPhgKm301HRFQ_vfxTmz_DRIA_-9twBubYXg1mZGS000000000000043FeZ-_dtVeydIZMytCCgolWd_hxOB9OMm6LVu-WLi1g_Zs6zVwk_FuLKFttA1Rx
+Srv_hlJhluUnq1zJ-qE__eRJd_wZBW3wzT_ZUA1VVnx0lluyX0tzLHyVdlpEfluuWYVwSo7_Y1MG_zyV4OUCMktgluvWIt-UrP_Fzki_8xy2dkxNhrz_79Al
+t_LFltxz-lNhT_rt_wjVltxdFzU_Ttpllur_7B82Den_6V-hyUz3wdFBzqzv39k-_pecVqF_AUl0zt_wzUlNhr-_VltwzUlNhr-__jtlF-wYq-zy_rLkgz_v
+_hFaLh_n_NUMtUatZd-KtkXtZdz5wOr-u_XdZJ-s-Zlwr_oxqT_Ipu_N_UZq-x__Y-ZrzUlNx_ntmFM7p-Vp-Nm-dy_dy_byFf_Fv_FvV3wVp-Vp-Nm-dy_d
+y_byFf_Fv_FvV3wVp-Vp-Nm-dy_dy_byFf_Fv_FvVFF_w3V_bNxz-Z-hppV_hVcFpVzzlx00IulVxZ_G_z8Iv7VkJdz3_sd_VtYwltX_wNlzzVvfwFV_7_ql
+eJyczeT-_VfVO6h_jT2Vm_9N-lN7lFvOxCzH-TNVi0AEow_-p37rw_sHnUdfbH_NsWg8d4Byu5eXYW7jbRz6ZE9wYo7jym40000000000000V0K
+}
+
+
+!procedure TABLE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$table,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

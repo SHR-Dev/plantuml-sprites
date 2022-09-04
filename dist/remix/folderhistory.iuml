@@ -1,0 +1,18 @@
+' b28680bb0119a940de90cc4c925dbd3777990667
+@startuml
+sprite $folderhistory [256x256/4z] {
+xTo7aUD034L13YR_cCzZlSELk4K1_I9GVtc9vD4_IP8aIP8aIP8aITAwUOFjsNtfuuRTpm85Ux7x6E2fVj-cPmjSdr-WLye1xi6_J-dl06Fv-GYul7-VrVMV
+0Ndtdpl0NF_L1yY7_za3h0R-XWEiq_qxSe5c_le20_o50Hgy_9VV1qVwSu39_XoWsTjV_NrmgZyV0ByQwSz7mAbTsfzlWsTtNV-E4rkFNT2VnSdb0ENtl-_l
+p0cA_ZPL1qX_hmKc-tE0iVuztR_vOx2VVqVmhx5-VluOw-VdtwVx-Vdv-Vcz__7py_Fpy_Fpy_Fpy_Fpy_Fpnujc-UEDXlYJlvuLlnhZJ_tB1MRvZoUryjVv
+ES0W__6YKVxrbdzDyX-lQkZdv-Vdv-Vdv_VvZv-Vdv-Vdv-Vdv-Vdvy_XllvzpW_Fp-_zp_-WpyYHljNl5jtVmxmGGFy7o_Grv-j3ug8nlwiC403Vw6rrc1_
+tgZH_ZNQV_Jo7uFy_Fpy_Fpy_Fm-_yRmxp_r1y1gvCy1wln6_bgz_3j-LTP7g-iVrDij_DdDzQv_mi_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_F
+py_Fpy-_syNFp_zH_FpU__ZvLqV_ukV_Kbtz1__KDu2e-LS__ohweztTppzqW4X-pH_HYh-EqW0h_dNlz2e__Mj5a_vgZbBhNmtigQ-rMdNyLmFiFP8aIP8a
+IP8aIP8a_GG
+}
+
+
+!procedure FOLDERHISTORY(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$folderhistory,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

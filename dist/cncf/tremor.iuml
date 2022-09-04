@@ -1,0 +1,17 @@
+' c0173b39a8b91882f052a225680225c6621ab9c3
+@startuml
+sprite $tremor [256x256/4z] {
+x9i74jmm4CC4_F_FwScc5tjZIKVX0Ho3vjwqyvZCuN0u70w7m-5mE1mEVCBF011WxH_XDSqjilJnNuXqBm8Mdx1zl0B9yagol98ihoJBAz7saYolHDjhjBnc
+sqkqlMRRIxIzPjjBjBsEtT1aV-o5tUoJ_JNP7ul0yzTaVupsjmYyVupsrsH__A-4wvkv_OBCbr-4wqlczejmVSdSVX6khvdRByZMLpAtNv2jhsJhAw7wnLW1
+9nAkhuJg5xdwyoU0In2khuJg5sJhAw7w1Q7wHRY-4gfV4AfVXEih4_IZ2d1vmlML2VeP1MXq0HfT0Eu3sVfAjhxIhXzTW9S0e0AUXLdw9LtiNG1_BRxK1Jse
+3yqdn485t38l_lNHOOq2xhaNN3bUcFqJm0NrZW4KCBE0njGRqsNM1RGsUklDWHVeN3_qf5r_S9w-W9QWWgl-1KyEW9BleUN5yLW1NV95ptF38nT0W_pb0jfE
+QTC_IzELnAO5D4HjNG1jOMFB0cXBOyzF1lhw7Cj1yzs-OW7q1J9sRA0nSCkFvkYhbB5Z0usZslApsSx0iIhOlDhP_lDNsvCrlmCwmyO6KBJNoSW2lsEa4Jg0
+Wj0158Jw5nQCH0WTG47vXr87a3s1aKkw_q1b9AEEQ72yRGyE10000004-LilC49r00000000000000000000000000000000000000000008
+}
+
+
+!procedure TREMOR(object_name, caption='', xscale='.5', xcolor='#feffff')
+card "<$tremor,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,16 @@
+' 4a286fbee7ee27bb33e2f550df4811dddc99bbfc
+@startuml
+sprite $appengine [256x256/4z] {
+xTo5kSDe3011h_hl-JZlyp47VirKe4tCTFrh000000000FIZtVNLzlwMvvT-_OlpIx_-nVcbN__Y_DhThx_D-VhrjpbVl_usv-lNd_xD-VhJlpg_z9_kToi_
+hny000000000000005gUNxlpfrRdpzJg_9bQdJ_Jrlo7TkTFwt-0Qo4_m7nf_GzmxVu1QkEHUSr3xpHQFtZk0l0sq_Nmr7r0lSM0tJnv2_3o6Qi-fV_kep_L
+s5T_hnkrt_BqNU2BngrEwAy-yYj5pSCBXkwD-dl-rBrLVyyUknFx-w1-_VhrwzUlN_-rktzMzZSFxUvF_zFdVdr_y-K5O_U7Jbtzx_grLrt_t_XbvTm1_vx-
+ylSVmVCVjJn_-flvSrR-J7yplxFoP_ex-NDI_b_wIslkJif_gB-QNzS1_dfNpPoxyj_rwxPgpig_g_c5ghxIQ-Qu_BkQNwjkxUVbtpL_Hrt7gONrTxKm_wxw
+A_LTnsgQFzHq7QrQ-D_VrJI_eQbhXtxqLVwZQvLkZci7000000000000000000000000003WMm
+}
+
+
+!procedure APPENGINE(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$appengine,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

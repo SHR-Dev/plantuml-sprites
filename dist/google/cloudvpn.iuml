@@ -1,0 +1,17 @@
+' 52ec0ffb10f9dc2c0e6d0e98ec2744309a631d85
+@startuml
+sprite $cloudvpn [256x256/4z] {
+xTrLWjqm44L1NUr_ps7gKDl1SQlEtv0qzTYyNaII94cI94cIfDpgG7rjcd_VAvdbt_py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FmFYP-Vdv-Vdv-Vdv-Vdv-V
+dv-Vdpyvsx-Ia_XzgQtZkkHt__Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FpPsTVBia0_x_SuwGodkcl_IOXP_cJr1coCzhVlxWaESEV7msUdT7-VkXa
+jByVEHdjxmTEHlkJOjr9ikja6UklmsOdttipJERwY_v7xmd9L7zIZ3-QSOQ_vzU-y6Uelm7kZytq9uL_ynTgJ_FNkx-VzNdtVxeAlxs9cgRwCz-VNFc0CCz_
+wSKzf_iptT_yjwVxzwb-Vdx-PARV-z-rPPliyVxazz_-BVyzUFa_QMVDaUj_LlPOVrsuRM-WwUj_kn-FzAyl1itF-6FzsSNuWvic9sp_oqxnVE6VlFttkvyO
+TldsPF_ABhtdxygVx5z7x__G3vqJzlzgxloH_du7k0APvgybQVJp_BMosrD1FDEVTRia-QX_UVl_tstQyHylGE_u5tv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-
+Vdv-Vdx-uPtZT_-x_cNY-hVy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FnFY9-Vdv-Vdv-Vdv-Vdv-Vdv-Vdvy_f_lljgPrDlzwaYH9aYH9alGQ
+}
+
+
+!procedure CLOUDVPN(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudvpn,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

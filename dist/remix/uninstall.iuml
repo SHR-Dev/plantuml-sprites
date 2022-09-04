@@ -1,0 +1,21 @@
+' 1334844213a3922a0d0374bae7e0aba7b1f9fae6
+@startuml
+sprite $uninstall [256x256/4z] {
+xC610000082W_QaNgIe00000O7Bj8prY40g2iBgv_vszUuvyK39eMYFM4_XBEMXs94pYHVJD1SJ6-d_rnDXM0CoWnZA-mPZzNpXDE8j50G2U1G3hAk2JDH5L
+RzF3jWJvKryWiwW2Q_YDZFAF-ROz6K22qnW48Fw6_PhWepLLsDzM-04V-4l_hS1gVrldv_yxnh00WC_sHA0wzO_vjQkoWP-l0DVxqI6b0ho_l_Y3dNMAtwlz
+Klqe273MxmZ_c5y15ETl2_qgFWbmVYPf_kA30A5-ljSflXiF8Cc-aP_pAy3z_Pm_FW-uZRy40puC8CbEyW_lVt1-NRG9tl-ut6zluVC0DRRv8L-0ZmC81DZe
+jwtE87mUe3ziR_9J_W7uz3m01DZg5_fP5Hy6G7zncT_sIVxM0BQlyaiwmzyPGD9r_dFylNUlq_oSpmFa-u4URmBvVW4-293dvtno9fJkf_Uw-2eGxUTy7Y3Q
+pzTz7Y3QpvS-3v3brzx5pqy4zEv-FTJlM_kzWP_a7mVml_LMif-_DZZWWXVvSlrLGFC5ElZYH_hv-xgstUE3DtbJ_3n1tm_iuNx-Hg7Xp-Rx-QrQ7G_m7tt_
+yHY_V_tea_pwow-d-8-U_wEzUykD0uJ1CCfFzx_dYjU4F8qbZyNvDb2TpDsuOdsfdv-Vt_kVppz-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vlil_Fpy_Fpy
+_FpsN-s_xjl3_um_-rTvnx-ItFZF-5SkhOVywy9_oN-wuEVww-lty_Fpy_Fpy_Fpy_Fpy_ElhukVdv-Vdv-Vt_U_XlilUX_-tNh_IV_3ttZ_JNzxxzRxZ_hv
+hVTVzTT-_ra_l__-ktvylNz0_Fpy_Fpy_Fpy_Fpy_FpyvX_cNpFdd_chXlcd-NS7_uDRjPn_EVzq_ct_OQwVdvy_FthBdqiF-PDSVXEq-xlufm7-MlxbnqUt
+FttVQlSLbG7-od__6J__NVM6d__Vvtv-VdxlV_o-__3x_UFth_c7-PVvf_ctymz-Vdxx3_PVx3_PVxF_QF_L_hFzT___WP-Vdvz_3-P_wkVFR7_u-Pzv0wWV
+L2MPx4-9Vm_bb_dtKFxnLvs_JiFNy5TEUsGv5Ps-3jMdzlXvaBoCVyh8LctJw98aIP8aIPB-0m
+}
+
+
+!procedure UNINSTALL(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$uninstall,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

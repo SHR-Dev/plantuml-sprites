@@ -1,0 +1,16 @@
+' 8d05a2064461825dc79c479dbf30ab316a03e5b3
+@startuml
+sprite $barchart [256x256/4z] {
+xTm5ZYD034N1kFl-PzwTiI1aZI2SN-y0LbSOVRX_aYH9aYH9akgiDFnG6d-Tb7K1jFwYf0kW-PS5-Pk_p-eB8EdgtnS5tG2grkHVIVvz5Jy__vV6py_Fp-_r
+7py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Ft-T5-QlwuByyrA18F-yL230F_Ex9F-yLA1Y_EFG57zD_ftYvsz-h9-Vdt_n
+U_xZv-Vdv-Vdv-V_8tv-Vdv-Vdv-Vdv-Vdv-Vdv-_heiorz3EVxc3p-gJF5VwBi4_pd_wg2Lv1zE6kAVZvhbduTMj7z5-_V7-Vdv-Jt-UVxZv-Vdv-Vdv-Vd
+v-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdvzzNVOgVdt-zetyzTVzLm51-VdwFV_T-_hF_jiQXzx-g
+rdlkFnukrSTibUwXxxR_kgS-QUYgDzn_taF7gUzsr7d_VSpGhePIXdPtdzazPMWTGf8aIP8aIP8aIP8a_GS
+}
+
+
+!procedure BARCHART(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$barchart,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

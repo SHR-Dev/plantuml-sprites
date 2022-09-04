@@ -1,0 +1,16 @@
+' d3c834002070a967430658ae43bf76c7807171db
+@startuml
+sprite $res_awsopsworks_stack2_light [256x256/4z] {
+xT97UWGX38L19Ev_PaUyfCVPdaVzouwKFes3aoH9KkLtKz_1NOvWsTFR3c3nPt1h07l-JA-VsljdVci1ZlNFhR-FzxyjIATk_hlygRtRpr-1lTE_7eYhwlt-
+FFxolSVFN_o_bFtdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vd
+v-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vd
+v-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdvwz0_eVy5ST_jx-VghpwkNVvKtk_dt_6TTjVw_wCxHt--FhAt_dyhNzKlvIjN_pD0iHtxQyZz3l_
+g4CQ-ux6voT9agH7
+}
+
+
+!procedure RES_AWSOPSWORKS_STACK2_LIGHT(object_name, caption='', xscale='.5', xcolor='#990333')
+card "<$res_awsopsworks_stack2_light,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

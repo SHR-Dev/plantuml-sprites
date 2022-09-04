@@ -1,0 +1,19 @@
+' 77f99249073f5548aba553f62b124d02a8b2cbe3
+@startuml
+sprite $mongodbicon [256x256/4z] {
+xTn5Wkm030DHbUz_vu_3cCwmIzMGzTC-pXVKMciDkn-vVzny1hb_r7ncaFi7BT_j1s2q0-3sS-iVhFmh_sZvLtwiVCOu06u_Z_s3KWzZ6u1d_8FSFmZvZ6i0
+Nl8FEZvZ6e3N_8ECptW6u8X_KF4Pom0SzO-9ppoHtO-7poW6u3B_OE4pJuVSFn8-ity0JlbHy9bdG-uVTl3TVixx1xb_MCa_xX-xd-ryPlC0lD5V_x2RpsmT
+e7xUnJ_8_REJVzoFt3_ivTU_T03SVjxLFzI_ayyS2xb_x7vsyfcZsVsiv3E7i_kfVn-VMJP0_NoKV-n-wj_6Pou9jR_-sS4_xqVjht_iVfRncGkp-wb_4x_-
+LGFmuGFKx-RFsFsiybF_fTM_WN_UZzfV_zZzrB-6N_-9tFxwgR_--ZVmcJEP_VNNZyfVV_trrrz__VNNN_-O_VNNZzfVVup--kkll_xwgV_xvVFNNt_zzTTV
+V_tvF7_C_lhH-kklltxn-r_rru_QNt_gxmlmLd_zIG_0r5-_ym3MnEsdVlC1n8dRJ_tc0y0Jjv-O3w3Ndv_Gn_cH--Fsav_HH_dZzfEVqiVuu_QJVGFKlvAV
+sFrvRpzn-_FJUby_RZ_vUTdzuKXh-VNdlVmaQmTOpAy_x-4dKGyGjv_i7k00V_K0o_d9c_nPq1lykFqawmVOpqzE-hEcCtwoABi_F5tW05_e9p4CaE3W9vVu
+oSAE-ydAdlPZuITF-OE6dppYG_3mawVyUFZ9OtyGyPCyy1DK_EIXFwZuoIq_0E61NZD0k7gu-Cb3Fov-Rk6tpvYw4dDLX44m-sFd9_MR-VM7-kkltvkSNt_z
+zPkhl_xwww-__lhhhx_--kkltzBd-LjhhRNMMliD
+}
+
+
+!procedure MONGODBICON(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$mongodbicon,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

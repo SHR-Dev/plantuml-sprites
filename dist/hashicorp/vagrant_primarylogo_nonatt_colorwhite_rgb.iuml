@@ -1,0 +1,14 @@
+' 09ed54542eb14a124e89db01eb83e81e266311cd
+@startuml
+sprite $vagrant_primarylogo_nonatt_colorwhite_rgb [256x91/4z] {
+xT8vWaD12CHGgkz_vzcPZFPFZVH2xt9HF98aIP8aIPAad3nuoTxwRtdoaerEk-N_oShnMoulQJlNRndgz_Ut3CzJ-a-kJzk_Yls1zzyBipP_JcJCFpVczXoW
+_p3EVuuCO_xv03ZptpCFeN_kpFxp7q99yyz34-OVbXwkWdC0u_b33c3uJp07CCoFEO10vc_dfLejyFuwBwJO1r3RKUTlyFahyFw2vrVW_NL6WVSNGgZpD-hy
+BV3-ciwVVG35GPs_mUUlmFihsFmMR7qx_r98wNgilCtfIv8aIP8aIT8d
+}
+
+
+!procedure VAGRANT_PRIMARYLOGO_NONATT_COLORWHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$vagrant_primarylogo_nonatt_colorwhite_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

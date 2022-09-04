@@ -1,0 +1,10 @@
+' 764cfa670363c78917b0b37cad73b912a09fc5f1
+@startuml
+sprite $microsoft_teams_neg [256x256/4z] xS6100000CEW-rD_8DK20000000000000000000000000000000000000000000000000000000000000000000000000000000000001m
+
+
+!procedure MICROSOFT_TEAMS_NEG(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$microsoft_teams_neg,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

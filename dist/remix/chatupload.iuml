@@ -1,0 +1,21 @@
+' 968956fb1535db87aedf5bdd2df9b9e085d0b250
+@startuml
+sprite $chatupload [256x256/4z] {
+xTn9UjjG30HX0Rp_dRDoAl5C2_8diAlMcVwsPhtmTldCpCpCpCpCpCpCpCpCpAokKIwUVghlxVri0UoqVOHpVFJ7ulvRu9GV-lfU1ZZBFoxJUJ_yh07m7vVg
+fB-lv-ypVlt7nJhXhwlwIx_-g8S_qj_wzQSz_TE0Ntylw77-NjAu7tqzVImmxwyLJVXx9Py19f__sQ-MV6lrAFzjHG_nzov_p_hrR-03cFRhrw-_bl3r-_pt
+Z7xz-lNhrwzVl_vwASiFdgByy2dA3vzY_F1VdSzEygDdWHW_VChmm-UhMWR8yCC_Vq9_ln_-Uz-k1lZX4mEiyC_p6M25VvxF0BN0FyYdPe05_b4-0wpnp_CP
+O8L_diy0A_ppV0POuP_dCy0A_poV0LRuv_aCiC8_psU05VvvFWEiyC_p6Q0M-8Vv3B36FyzdW1N-UJu3hF3FynbWWN-KJmomr0__eFCtWRr-VlXt3L0h_FDy
+1jZeh_lvF0ZKCZ_yWmPk0cly_FId1jZbXtzt-XbWarz_ylr_Q02Ensny_gj-fq-vhuE_mqzrVe4FyF0t-Ad-raKVBW2NtuH-av-Aw6D_4Ut__8yOu5lygvx_
+UTz_xVC_zB7_5k0V-FEt-lNp5mpS_FVvzUlNNn_vQwDVlyz_-lNhrwzVltxz-lNhrwzVlv__wzUlNxz-_Vhr-_hFxxzU_mKTusS0WX_ZVrMCdzFXUTU_eted
+h_yPuvzFltxz-lNhrr-9VehrwzUll-BzFlyVkVvAzSF_HNyzMx_chsViuykE3FkB-kaw7kulv0luWtxu2-o3_kErdxzkGLD--E2p_F2FLVM4lvBzBmCK_3n_
+5Vnb_hhFpm3LgVxc0aunVcewWlm4VwCV_ba_WLzM3_Xfex-I_Htirz_me_pektx5tqyO_07_BZNun_aNoD7F-k7NiuP-sWz_3NtU3_-se44_VF1fVlYHVlYH
+VlYH_eOVvaSFFypVyCFywE77-E63Z_F33_F3Hn_Wp-BZp-JZ3-JZd-VlzpVyH3_FUud-Xf_XpzJZ3-NZfp0zVlZey_pma_oToUTuQoOVV-E77zBV4vwToET_
+Dy2FynTy_54351_oPWw0FZ3uiLq1RsPcPcPcPcPcVm
+}
+
+
+!procedure CHATUPLOAD(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$chatupload,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

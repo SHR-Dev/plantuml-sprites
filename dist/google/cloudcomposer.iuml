@@ -1,0 +1,14 @@
+' f810bcc3e45355ce791391f147cebd2cba3a3d51
+@startuml
+sprite $cloudcomposer [256x256/4z] {
+xTrN0KCn34MnNlC7NGXlP-fyPrW8_1irIP8aIP8aIP8aIP8aIP8aIP8aIP8aIP8aIP8aIL9EDlIFzwkShJK_rSAVEba6_96Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-V
+dv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VdxzojmNy_FVZv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-T_Ftv-Vdv-Vdx-oiqMyMSDV_l2
+py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FppzW_Fpy_7Lx_y7PQcX_JlVueYH9aYH9aYJf3m
+}
+
+
+!procedure CLOUDCOMPOSER(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudcomposer,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

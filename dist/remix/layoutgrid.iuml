@@ -1,0 +1,17 @@
+' 4edf25f025fd0a6b8e605dd63b213770a05a290c
+@startuml
+sprite $layoutgrid [256x256/4z] {
+xTo7iPmn28310_LVivESCsUm_PZz2c2qbuFqFzOdIP8aIP8aIP8aIOeTxSFNUrQVBxtuK9sVQwhU05_epmlkYrkWvB_q5Nsu0QhyiwQw__ANtG0b_rbLqP_x
+_5dnyvzb5VonrH_y_0qlV_ohtm3u-S-w6lpysT2vZS_lzsTJS_hRZ3_V5d_SNU7m_25_jFHZVxJKuS_2yXeME3y_Y_xw1yZYhqlpy_lzZvRk-aRdz_kpTNtp
+ytlz_3tBkqLCp-_sy_FpHzVouk_Fv_V-jz_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_FR_-V_Q_y_FnU_xp_EV_c_6FJ0kEE7vtVxtV-
+zsJJ2lDE7vxVxp_PrhdDpM_mBxZ-Gw__Dc9ldE_wF_py_Fpy_Fpy_Fpy_Fpy_7x_yFkNtp_z_kt_3_z_-V_J_z_sFzZ_OlyJFp-_rp_lVo_4py_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fps__7x_zh_py_Dx_-9r_S_xH-TzJM60BVtn-WxzbXVcsCpc_nR_W-W-j_jkSldD-XtzR_Ax_m_zRyST6V_3p
+y_z6M_sr7r1MbHK_V-ppHz6Vg_ZNtt43xETV_zlMwEl-o0-zSFejIlv7l2st577vXU936-oNNonMzNYg9VRzIP8aIP8aIP8aIP9U0m
+}
+
+
+!procedure LAYOUTGRID(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$layoutgrid,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

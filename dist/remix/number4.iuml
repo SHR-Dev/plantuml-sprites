@@ -1,0 +1,22 @@
+' f294fe2075829b059e699b6a5bfeb57487ff7879
+@startuml
+sprite $number4 [256x256/4z] {
+xTrNjjms40PXDhZ_DJktRL4NfswYXgVwhtU5Zy0m01EErvTIIYcbb59ALTrSV3UNtutahrfhdh_n_pRh05prVGGcyTSry4lvvv-1tphtp_yrvG3yfE_0x-Rt
+11Z1R_t02N3XWz_D7_W2Q3xuX_6x8VuJ_7O--EDtysVxJ_2x-UFz9_ad3p_u1Von_eBX1x-2FzTVCFnsF_3j_h_rTZ-_-8VwWGz-ET_l1xxT3wV-6VvJx6U-
+sny_yyN--9a_rL-p_CndluslzpDVxMV-K3_mmIy-zwq5VlNmhxy2lvd_TpFyRnWxyDlvVl-EtzT5y5k7l_xAxz-_mxKF0FYDmp_UNty3mI_aN_tbzSFvpUul
+6Fw_ylhfyYxtmySxsE_bjwxzI-W7ljRF_CRv_Nl-__q5VX6_QV-tpVAl2Nxcp_Gtt-_V3t_psQzzwZ-CVkQt_v3xw-87lixVVBEVdtk0Bxp_RNwB0ENq0r_W
+P_vSF_Fr_ZtVxsU-tx_dM_tCFvi_qDySlv_vUZ-y-Cr-VkmPw6-Bti_3h_RpNhVUl-Vx_RpNxVNpeeVVZto1d_X3_SpN-_cft-r7ljhFYnv-F_3L_gAzRhyV
+-68_F_NEzXzgF_C5VkGFzXSClyBF_A7-ejcly3D_g1z_liBgPxx1p_m2ljo_v_lzlERZzmDVxMV-K3_mBNxYk_sysUdt0r_W1_vSVy7m2_p87-jdli1F_Bb-
+vhlzmBVxUQjVxmU-ri_y-0-ld_bJ_C3N-ddHOuGV-58_p_v3xUUjVhMVFz-WzJFVx-VFDrZzFFn-Fs_s7c8_BthO_SnN-tdHu-j_EvnKZNpsAvxwk9rVyDJd
+yGDVxOTJly3_nU7NNl_QVpx0RrZovEdVFTtV4-2Eot_xwydydW3TSTHdWjFBsptZT_lMNzMNWkcrxvNVQj2j__g2VkU7l_Qb_6vnt6V-ygfwpgzMtg3_kvSU
+WClaV4vzSdZ1w3-c-oS0y1KJWFtdKxlT3toddnzxPlZZ1xxP7t_y5N_yyJ-Nxp__yVFFtDlVTRyV3e23pu__zxT3yWAOv02iJ-dhkBdwDMtNVta1t744zluR
+z8BlJpF5-t_-Tduzd_V__V7xt_nj_79-_F77d_DVhd_nnnz__F777t_yySSVV_pn-ue_w__nnnz__F777t_ysV_F_l-2uTTFW6irob_m1a__0QYB7lYky1sU
+_hwCJocbb59AAQMKKaef_Gu
+}
+
+
+!procedure NUMBER4(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$number4,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

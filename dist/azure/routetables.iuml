@@ -1,0 +1,21 @@
+' 257d7ab4a05f0889490ec6d47cb09b746cbd224e
+@startuml
+sprite $routetables [256x256/4z] {
+xTq7SiGu44DHVjx_pXjPwpYcLMhK4chy0q1-dfp7vL9AAQMKKagiUki1Ukk1tdgWjnvepgSXV_uR0D2DF_-hfN--2u1k_9x_W3T-_F777t_yySSVV_pntvbS
+TVBpkiVxsVRant_yheVw-NMFz7Ebv_cvriFyNC_0h-I3XL_7XsVukT43_DpAti_DlFqKPEod9bS_LLdwgSpFJsrkVigpyjFRZo8VFvfS_AZoy1E_AeVdVuXV
+r-d--D5shZ_--ED7NVnAPMC_05pnp__3ZvGFtFBZwkUjXdw8_wrBVkH-_J-0tlut7G3GqBzi3duXVv7evFya-ya_Z_0ZyCyV_JpO_qK6G1l_6soFsljnyty7
+0w27_riN06pv_luNBW3W2scUugU6_nB6jys7-L_3sFFz_J_1jdf__mQsqTlxTxAvqPlxDx8Lp5Kx_yhMh-Vx-sTNFmR--2qk_l4FF_-eyCSFn3yCdlxJ_0Fe
+xSV0h_m70C1ujl_Lqm0l_nQpPxyszkj_YWb__m-05lvY_h1xzh-0R-rdmo_mUxpuTTq_dk6dWE_v_bTOlV1lVlh0qx__1zmxa9ml_mS0m33mIwu4xnx8XR-g
+_rvxp_V-Ll1Ndczzh_CFpuy-LF1NBlpLcx_gI5Ry8JYI2Nzbu1_IoWybu5lvXvT_yDRew1zd-mr-rj3Nloe-aC1lLMT-_F6FrlpuwUkFF-T_QEoFdzP-gclE
+1thhWUPym1w_USPnFs6jBvbnnKFPbAMUoZKxF52ywCQldpJWI_qOyAL-3FXIFmPyeJz-RFYWsJNWI_suy54D6_2bVZpu89ksq8Dksu0lzOC17vJh1doaw-Vp
+GJf_FX_j_Fb-ubVE7yy7mRoL7-dy-Nm4yrP-xFtSJ3dlu4Uuxi07uNhyv_D1kEx0HxdkuCVLZzHFIRP-YZgV3z9r6T_4p_5yjFF7yq6yVpeVwNxydCsF7_K1
+pFoSxSVC7p-7-r7ldysFNxtFuNxYbyvpE1-w-tcRx-b7l5uLddNcnny_ySVVbny_ySSVVrT-_CGVV_nj-T3N7t_yyNFR7t_yySSV_rmrzS-tAAfwR2No-wJm
+JwVw-kEFF_xPt5_-15Zyn6-JwldljNvgd_MGrp_Zx_iFoFi_gsgiNxNMhspmhKiffPHIIYcbFm4
+}
+
+
+!procedure ROUTETABLES(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$routetables,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

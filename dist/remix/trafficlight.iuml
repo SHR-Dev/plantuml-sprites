@@ -1,0 +1,21 @@
+' 195839732d673efefe751e0904e0925b37a4f4e5
+@startuml
+sprite $trafficlight [256x256/4z] {
+xC610000082W_QaNgG800000Pj--bgC5OnWCOt7_r_pN53BUAdYzoWGVfprYOymtvgagg7uWlTStqUlW0XA0-08hEW03RqQGpL-nYWwWgWozaK2il-c1YlKN
+u0S2OFthG4NwJ__frvHVgVxrz0_KwJ_zfp-DF-klpDjVzWqW__BdVm3gMcdIhxfMetQVhrPs0Btc-Hk1fNU-tmW0FTvxLb-RCdx4-07XJVww--8PF-Pw0C7d
+EnlzybQR17BFXuxcjtGF383n7yc_tbwI_G0V283p4_pUO7Fz2B_VO6FzGEi3cg2KsV_RrRyQG6R_AmdXR-k00AGAzkDZ5ZW0IkB_hjh_UyZvFzqlgKY_y7_B
+vdUQ31W0xoyfQZt27r1zly_7_RBz2-17-VvyvlkNvZVcIpu0tk_psG12_GxVxu6yts_zT09fVf_lVmBY_3wV3u2__qtknVh-WlsZYywet-9NygQp9EVvnsz-
+V03AUFxL5B_FWHBZVmRVvhxfDrrUT_xrkhTYgYLWz2X_lEpwMeQhlaJW3kZ-uyKRtj0Z7mBl0Sq_O30kFHU14y1-le6d4dZoeXt73thnRUy9LUC3yrvW0Fby
+OsQ3zr_iUOyFmDz_4ipd_TJ-Mxv_iQTMUvAEtV_czr_noy-ln-pS8FtTlfrQGGm3C1JqqN_F2uqtYVK4HXryavp3F-XFZ__Hpx_frwzVltxz-lNhT__h-O__
+v_-3xx_uV_wV_-V_-N_-d__d__b__f__v__vV_wV_-V_-N_-d__d__b__f__v__vV_wV_-V_-N_-d__d__b__f__v__vV_wV_-V_-N_-d__d__b__a4__wEV
+VulqwzUlNxz-_Vhry__yF__F__F__3__p__p__m__y__y__yF__F__F__3__p__p__m__y__y__yF__F__F__3__p_y7nl_p__m__y__y__yF__F__F__3__
+p__lbF_V_3__p__p_stzeV7_-lcdcl5l-lNhrxyY-Ptz-cUgVvRswryf_3kA3w0_l-htuFoN_gxVOv_GsL5x03VNd7_UOz-DF_c5csTNoaz-w-RrZVvrf9kP
+cPcPcPcPcTaF
+}
+
+
+!procedure TRAFFICLIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$trafficlight,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

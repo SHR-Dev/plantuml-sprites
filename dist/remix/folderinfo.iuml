@@ -1,0 +1,17 @@
+' ec71a41ff61e4f8829565c412db6430cd5664b51
+@startuml
+sprite $folderinfo [256x256/4z] {
+xTi5ikD044H1zVZ-Prwk3vON3BCXJUUxGPP15DgMJv8aIP8aIP8aIP9KhwynFfrAFrxPUHQ8_VMTOe1F-ijh-hJ0yVsXlxWCS7H-z5CME84__6dVWCFxBxCw
+_YyW7__S0VhwZpv0llwp1wXcF__z0DtyQMI1Plxz0it-_lO3DFFlZuCj_HcWipy3D3lyxu-3_Vmfvm7LqfzlmDGExSzXS7O7zASniNhlgFuiC7-6USU_uqzn
+1l_yQwsE_YpGsP_pZ7P-_iG_UleJVrKrzVFpyuz-Vdx-DDtFpy_Fp-_uny_Fpy_Fpy_Fpy_Fpy_Fpyy_hkhb7pTguW-_FfK1MlYZlrwWbt_xK2j_-Fi16lct
+grhvwvQ_ElctNVpy_Fpy_Fpy_Cv_NVyiUlrV--l_Qd7zx_wF-t_k_-udyFodXP-Vdv-Vdtzyg9r_xEhZZxugPO4c_i_uJD3k-dVRKdd-x_d_8VtkVxh_pS_F
+py_Fpy_l_8-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vt_CFVdv-Vdv-Vdxl_tl__zR7tyRl_V__pFV-l_VVlF_e_TV4py_Fpy_Fpy_Fpy_Fpy_FVrakVdx-FyNF
+x_Z7pryh-ekVdx_b2K0E_sqF0ECUFt-jvwyx_MCfVlmj1mZ_JlyOo-ZlzzT8PwU7Nzjz0zHOfVhHTa-L5h27Vr-rKD7tt61RFqcI94cI94cI94dILm
+}
+
+
+!procedure FOLDERINFO(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$folderinfo,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

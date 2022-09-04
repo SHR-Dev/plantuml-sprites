@@ -1,0 +1,16 @@
+' b99d46ba6f2fbea46c403b62306d902a5913a4c8
+@startuml
+sprite $chat4 [256x256/4z] {
+xTM7aLmn34J19Nx-CSjBKrSUyiVfbq7J0A_haoH9aYH9aYH9aYITE-h5fv_LptllV6_FdslQ7i0R_VEEUtC2At_exxxl1x3bFzUqzuVVTG3nFrUrzCzz_jdu
+-P_BMlZFhVx3pryr_XB_yFEthV_4py_Fps__DVhv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv
+-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-VbJdP-Vdv-Vt_xZvp_5Vdv-_bUlV-hzfza_nNx-
+2R_GFr_vVyC__s7Xh_mtg8F_S_vt88z-uL_npt_PGh_tXtyJFVub_tL12t_umRVvmw_qXr_f3x_IF-6N-QCFlym_uPVvem-_nXz-y7N-yClyuKTVuE_Ynz_9
+Zx-G7_-2N-EVy1lzsNkD_Wc_mz-fZx-K7tygqySVVlHz_l2R_5F8Z__CTFBZd_Z3R_e0yrKVVji3c0c_pd_2Zx_g0CvNVFXj1n1zOU7NTWDUaYH9aYH97m4
+}
+
+
+!procedure CHAT4(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$chat4,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

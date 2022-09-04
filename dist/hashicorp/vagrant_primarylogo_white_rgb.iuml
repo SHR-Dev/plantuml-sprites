@@ -1,0 +1,10 @@
+' 5e7455f7b2e8ffc38242f1fef8e8af35004ff525
+@startuml
+sprite $vagrant_primarylogo_white_rgb [256x103/4z] xS4n0G000C8W-wUsmsvW0G000000000000000000000000000000000S
+
+
+!procedure VAGRANT_PRIMARYLOGO_WHITE_RGB(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$vagrant_primarylogo_white_rgb,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

@@ -1,0 +1,15 @@
+' 53e4c6c64453ebb5326cee7d91060c5c5dd84d92
+@startuml
+sprite $cloudnaturallanguageapi [256x256/4z] {
+xTsvUGKX48H1BVa7hVPbYU4TpLT_15Dx01u_xKcI94cI94cI94cI94cI94dFLWtpyVFpy_Fpy_Fpy_Fpy_Fpy_Fpy_ElFqrzyzut_vFkykzy__VuT___E_oJ
+zQ_VFrt_k_qdzhzU_wdzlzD_ylpJvpzz_klo9tv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdx-jyJFpy_Fpy_Fpy_Fpy_Fpy_Fpy_F
+py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy-_rbN-UFxfJzVuezdmfolyiMpwKxq_ae4_LVlZ6FfJht-biJzL-cCuv4zr
+_WW6VlVVR_H6tqRy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_5-S94cI94cI94cI94cI94cIz0i
+}
+
+
+!procedure CLOUDNATURALLANGUAGEAPI(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$cloudnaturallanguageapi,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml

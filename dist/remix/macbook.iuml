@@ -1,0 +1,17 @@
+' a019531018a352a169f0247e97a5d5b86237bf32
+@startuml
+sprite $macbook [256x256/4z] {
+xTs7aOKm3411PFgl-R8k9_riULy7ImRFeAr_aYH9aYH9aYH9agHeqShsx63zcBp3ja3QUrJV0E_r-yIbeUXF_TwYt09L_zwcz1Vvgsw0u4z-buh-qSy_Qlwz
+MV_syqTNV_3p5ox_Yzu0-FdtTft0ppycw7p-CKbdyAS-RhxS0kVmnnITmZyA_2asm3ZU7n6JB5gToxzDqLdyOox_EAsVVmv-0axjv-VdZqdu_Ev__Fpy_Fpy
+_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_DU9dv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdv-Vdz__p_dD
+F-3dvtV_upV_pFmxymzxpR-i-tlDFwtxUys_hVkxpJys_voV_qlyvj_py_Fpy_Fpytl-Yux-YAXyG5vmzsSlNv4wwNFt5pP0fweVx-EnJlZgsaMqQwks3bwI
+f5YO5ukqB3_xaJyMwASDaFmLDi2F_BrzFss0vA-n0KfVVVj_2UQFjVp1NpZycvy0_FpyiOu_NFyz__3phtO1I7vu__Vzfx3ctqiVuVllmbjWwvSaIP8aIP8a
+IP8awHu
+}
+
+
+!procedure MACBOOK(object_name, caption='', xscale='.5', xcolor='#000000')
+card "<$macbook,scale=xscale,color=xcolor>caption" as object_name
+!endprocedure
+
+@enduml
