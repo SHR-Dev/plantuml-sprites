@@ -2,6 +2,7 @@
 	"name": "Plantuml + Python",
 	"context": ".",
 	"dockerFile": "Dockerfile",
+	"containerUser": "vscode",
 	"extensions": [
 		"njpwerner.autodocstring",
 		"ms-python.python",
