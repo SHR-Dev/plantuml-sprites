@@ -1,0 +1,12 @@
+{
+	"name": "Plantuml + Python",
+	"context": ".",
+	"dockerFile": "Dockerfile",
+	"extensions": [
+		"njpwerner.autodocstring",
+		"ms-python.python",
+		"jebbs.plantuml"
+	]
+
+}
+

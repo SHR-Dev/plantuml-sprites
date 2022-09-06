@@ -1,0 +1,4 @@
+Pillow
+jinja2
+pyyaml
+cairosvg
