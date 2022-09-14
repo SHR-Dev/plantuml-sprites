@@ -25,7 +25,7 @@ Qchth2lj1RlNfWawztm_HIYulNv2QE7txmAAuUalXFr5tyyIFxy5X4fsSnaGPA-v8HHahxiGHi1lsmBf
 }
 
 
-!procedure RES_SDK_LIGHT(object_name, caption='', xscale='.5', xcolor='#090d0d')
+!procedure RES_SDK_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$res_sdk_light,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

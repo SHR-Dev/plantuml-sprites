@@ -21,7 +21,7 @@ py_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpy_Fpp_LVdv-__yYBaluvwwDK5FtRxlsPl_j0zZB_NSsbVwixT_k
 }
 
 
-!procedure MIGRATIONTRANSFER(object_name, caption='', xscale='.5', xcolor='#050606')
+!procedure MIGRATIONTRANSFER(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$migrationtransfer,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

@@ -26,7 +26,7 @@ EIqnXXvQ2EfMYr667v1u0Oms3ZyxO3u-rsnCnW-rlQRtDtwFRk00Ktpsm7nwTa0CejyUEwSOPWBy-etS
 }
 
 
-!procedure RES_CAMERA_LIGHT(object_name, caption='', xscale='.5', xcolor='#0a0d0d')
+!procedure RES_CAMERA_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$res_camera_light,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

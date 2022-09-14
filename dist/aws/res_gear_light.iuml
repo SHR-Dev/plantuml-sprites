@@ -27,7 +27,7 @@ VsC1FWgVhVtWNet-0fJu7R__3E17Vty17By_lsBRPFnzJTiAoF1xcxOCeXyR6niR6niR6nlx0m
 }
 
 
-!procedure RES_GEAR_LIGHT(object_name, caption='', xscale='.5', xcolor='#090c0c')
+!procedure RES_GEAR_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$res_gear_light,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

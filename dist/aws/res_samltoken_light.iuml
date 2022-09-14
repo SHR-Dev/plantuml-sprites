@@ -27,7 +27,7 @@ ON_kzvy5VFNrIp05YzwwfR1f_du95lJxHKjXt_pz4YnGNu441VKTNe8Hr7T42HRq-mKI5DHtN0acWlgE
 }
 
 
-!procedure RES_SAMLTOKEN_LIGHT(object_name, caption='', xscale='.5', xcolor='#090c0c')
+!procedure RES_SAMLTOKEN_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$res_samltoken_light,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

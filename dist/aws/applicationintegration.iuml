@@ -19,7 +19,7 @@ _bjJV_trrrz__VNNNt_zzTTVV_trrrz__VNNNt_zzTTVloRxjORVrpzVoEyRmgJZppihBnHp_A3S_op0
 }
 
 
-!procedure APPLICATIONINTEGRATION(object_name, caption='', xscale='.5', xcolor='#060909')
+!procedure APPLICATIONINTEGRATION(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$applicationintegration,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

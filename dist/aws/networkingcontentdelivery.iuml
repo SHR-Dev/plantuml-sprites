@@ -24,7 +24,7 @@ l8auYmVmHpjt8W0030G0QFxKexY_G7h7v1os000001y
 }
 
 
-!procedure NETWORKINGCONTENTDELIVERY(object_name, caption='', xscale='.5', xcolor='#050707')
+!procedure NETWORKINGCONTENTDELIVERY(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$networkingcontentdelivery,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 
