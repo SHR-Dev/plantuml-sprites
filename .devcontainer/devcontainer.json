@@ -3,6 +3,7 @@
 	"context": ".",
 	"dockerFile": "Dockerfile",
 	"containerUser": "vscode",
+	"remoteUser": "vscode",
 	"extensions": [
 		"njpwerner.autodocstring",
 		"ms-python.python",
