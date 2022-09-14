@@ -18,7 +18,7 @@ Dmab7uaDSbUsSPCaIP8aIP8aIP8a-Hq
 }
 
 
-!procedure DATABASE(object_name, caption='', xscale='.5', xcolor='#050707')
+!procedure DATABASE(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$database,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

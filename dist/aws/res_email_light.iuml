@@ -17,7 +17,7 @@ vpyhe5r6PUlpx_m5x35y_fs7o__orwjJzW290_udZfV_vN_v9njeJyU_vN_--FA0sTDBCFkvgNws1mS4
 }
 
 
-!procedure RES_EMAIL_LIGHT(object_name, caption='', xscale='.5', xcolor='#080a0a')
+!procedure RES_EMAIL_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$res_email_light,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

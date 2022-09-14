@@ -30,7 +30,7 @@ Nh0I6DkxVmW4jdTLIEpt-FUl1DVtlO-73FtrHkWx_tu1hE_TRmC4jdU70WVnl-LRlkLRlkLRlkLRlkLR
 }
 
 
-!procedure RES_TOOLKIT_LIGHT(object_name, caption='', xscale='.5', xcolor='#0a0e0e')
+!procedure RES_TOOLKIT_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$res_toolkit_light,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

@@ -10,7 +10,7 @@ fyzVrpxyymwuzU6VGsXT-kutxu3EMldp8DghpzDREljJlYH9alGP
 }
 
 
-!procedure RES_TRADITIONALSERVER_LIGHT(object_name, caption='', xscale='.5', xcolor='#070909')
+!procedure RES_TRADITIONALSERVER_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$res_traditionalserver_light,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

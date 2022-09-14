@@ -24,7 +24,7 @@ zcu7B1extnz7il76im_6zpg0gFNt2zgVR_jR06zShDqYjHo_Ty3sO_RY7QA7-2ezVk-0_XgpH_zs-7w1
 }
 
 
-!procedure SATELLITE(object_name, caption='', xscale='.5', xcolor='#050707')
+!procedure SATELLITE(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$satellite,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

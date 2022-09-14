@@ -27,7 +27,7 @@ s8fqQ5xnlrOND8Nty7TFqJaO9272IGZnEUh0zstkjkF523PUBCEhzBwzTTrrEnfq_VePDjaYRxRGzQqL
 }
 
 
-!procedure RES_DISK_LIGHT(object_name, caption='', xscale='.5', xcolor='#090c0c')
+!procedure RES_DISK_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$res_disk_light,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

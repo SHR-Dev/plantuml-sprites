@@ -30,7 +30,7 @@ oYFUjNqF88CSzlg_4dYcYOHyMJFQBaM-VGfFFu5yUqEX1_1I4F7U2aWNXoJyUjiiytRs8QL8zJwSnR5S
 }
 
 
-!procedure DEVTOOLS(object_name, caption='', xscale='.5', xcolor='#080b0b')
+!procedure DEVTOOLS(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$devtools,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 

@@ -22,7 +22,7 @@ YC8xdgrp6ocGBrELASIkaTT-lWMsnd-dVhaVUrZyjfjf7_3ZnQGL77k5bzDLs8jzKMBD1ilkioBi4fzr
 }
 
 
-!procedure RES_INTERNETALT1_LIGHT(object_name, caption='', xscale='.5', xcolor='#070909')
+!procedure RES_INTERNETALT1_LIGHT(object_name, caption='', xscale='.5', xcolor='#000000')
 card "<$res_internetalt1_light,scale=xscale,color=xcolor>caption" as object_name
 !endprocedure
 
