@@ -7,7 +7,8 @@ RUN apt-get update ; \
         pip \
         unzip \
         git \
-        sudo
+        sudo \ 
+        ssh
 
 ADD requirements.txt /
 RUN pip install -r /requirements.txt
@@ -15,6 +16,7 @@ RUN pip install -r /requirements.txt
 RUN unzip /var/lib/jetty/webapps/ROOT.war -d /plantuml/ ; \
     find /plantuml/ -name 'plantuml*.jar' -exec mv {} /plantuml/plantuml.jar \;
 
+RUN chmod 777 /tmp/jetty/
 
 ARG USERNAME=vscode
 ARG USER_UID=1000
